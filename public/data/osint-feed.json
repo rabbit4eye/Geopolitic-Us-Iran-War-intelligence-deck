@@ -1,5 +1,25 @@
 {
-  "lastUpdated": "2026-03-15T00:00:00Z",
+  "lastUpdated": "2026-03-15T09:37:52.456Z",
+  "feedCount": 3,
+  "totalItems": 0,
+  "alertCount": 0,
   "headlines": [],
-  "alerts": []
+  "alerts": [],
+  "sources": [
+    {
+      "id": "criticalthreats",
+      "name": "Critical Threats (AEI-ISW)",
+      "category": "strategic"
+    },
+    {
+      "id": "reuters_iran",
+      "name": "Reuters — Iran",
+      "category": "news"
+    },
+    {
+      "id": "csis",
+      "name": "CSIS Analysis",
+      "category": "policy"
+    }
+  ]
 }
