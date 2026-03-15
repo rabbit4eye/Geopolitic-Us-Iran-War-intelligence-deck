@@ -9,22 +9,34 @@ import { writeFileSync, mkdirSync } from 'fs';
 // ──── RSS Feed Sources ────
 const FEEDS = [
   {
-    id: 'criticalthreats',
-    name: 'Critical Threats (AEI-ISW)',
-    url: 'https://www.criticalthreats.org/feed',
-    category: 'strategic',
-  },
-  {
-    id: 'reuters_iran',
-    name: 'Reuters — Iran',
-    url: 'https://www.reutersagency.com/feed/?taxonomy=best-regions&post_tag=middle-east',
+    id: 'aljazeera_mideast',
+    name: 'Al Jazeera — Middle East',
+    url: 'https://www.aljazeera.com/xml/rss/all.xml',
     category: 'news',
   },
   {
-    id: 'csis',
-    name: 'CSIS Analysis',
-    url: 'https://www.csis.org/analysis/feed',
+    id: 'defense_one',
+    name: 'Defense One',
+    url: 'https://www.defenseone.com/rss/',
+    category: 'defense',
+  },
+  {
+    id: 'war_on_rocks',
+    name: 'War on the Rocks',
+    url: 'https://warontherocks.com/feed/',
+    category: 'strategic',
+  },
+  {
+    id: 'arms_control',
+    name: 'Arms Control Association',
+    url: 'https://www.armscontrol.org/rss.xml',
     category: 'policy',
+  },
+  {
+    id: 'breaking_defense',
+    name: 'Breaking Defense',
+    url: 'https://breakingdefense.com/feed/',
+    category: 'defense',
   },
 ];
 
