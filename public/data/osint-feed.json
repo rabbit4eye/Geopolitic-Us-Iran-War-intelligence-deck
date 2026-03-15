@@ -1,25 +1,387 @@
 {
-  "lastUpdated": "2026-03-15T09:37:52.456Z",
-  "feedCount": 3,
-  "totalItems": 0,
-  "alertCount": 0,
-  "headlines": [],
-  "alerts": [],
-  "sources": [
+  "lastUpdated": "2026-03-15T12:25:36.133Z",
+  "feedCount": 5,
+  "totalItems": 40,
+  "alertCount": 10,
+  "headlines": [
     {
-      "id": "criticalthreats",
-      "name": "Critical Threats (AEI-ISW)",
-      "category": "strategic"
+      "title": "‘We killed dogs’: Israeli troops kill two children, parents in West Bank",
+      "link": "https://www.aljazeera.com/news/2026/3/15/we-killed-dogs-israeli-troops-kill-two-children-parents-in-west-bank?traffic_source=rss",
+      "date": "2026-03-15T12:11:04.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Each person shot in the head in the village of Tammun, while two other children of the deceased couple sustain injuries."
     },
     {
-      "id": "reuters_iran",
-      "name": "Reuters — Iran",
+      "title": "Oscars 2026: Nominees, predictions, start time and how to watch",
+      "link": "https://www.aljazeera.com/news/2026/3/15/oscars-2026-nominees-predictions-start-time-and-how-to-watch?traffic_source=rss",
+      "date": "2026-03-15T11:36:48.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "The 98th Academy Awards will take place at the Dolby Theatre, with the ceremony set to start at 23:00 GMT."
+    },
+    {
+      "title": "Iranian govt reveals scale of civilian casualties from US-Israeli strikes",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/15/iranian-govt-reveals-scale-of-civilian-casualties-from-us-israeli-strikes?traffic_source=rss",
+      "date": "2026-03-15T11:32:54.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Govt spokesperson Fatemeh Mohajerani says US-Israeli strikes have damaged more than 42,000 civilian sites across Iran."
+    },
+    {
+      "title": "Iran claims US and Israel using copycat ‘Lucas’ drones to frame it",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/15/iran-claims-us-and-israel-using-copycat-lucas-drones-to-frame-it?traffic_source=rss",
+      "date": "2026-03-15T11:21:58.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Iran claims US and Israel using copycat &#039;Lucas&#039; drones to frame it for regional attacks."
+    },
+    {
+      "title": "Overnight Israeli attacks kill four people in Lebanon",
+      "link": "https://www.aljazeera.com/news/2026/3/15/overnight-israeli-attacks-kill-four-people-in-lebanon?traffic_source=rss",
+      "date": "2026-03-15T11:05:21.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Lebanese media and authorities report deadly attacks as efforts continue to find a diplomatic solution to the conflict."
+    },
+    {
+      "title": "LIVE: Manchester United vs Aston Villa – Premier League",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/3/15/live-manchester-united-vs-aston-villa-premier-league?traffic_source=rss",
+      "date": "2026-03-15T11:00:00.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Follow the build-up, analysis and live text commentary of the game as high flyers United and Villa face off."
+    },
+    {
+      "title": "Thousands in Paris protest military actions in Iran, Lebanon and Palestine",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/15/thousands-in-paris-protest-military-actions-in-iran-lebanon-and-palestine?traffic_source=rss",
+      "date": "2026-03-15T10:21:04.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Thousands in Paris protest military operations in the Middle East. One of more than 85 protests across France."
+    },
+    {
+      "title": "US, China hold trade talks in Paris to clear path to Trump-Xi summit",
+      "link": "https://www.aljazeera.com/news/2026/3/15/us-china-hold-trade-talks-in-paris-to-clear-path-to-trump-xi-summit?traffic_source=rss",
+      "date": "2026-03-15T10:10:04.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "The world&#039;s two largest economies trying to hash out trade issues before US President Trump is expected to visit China."
+    },
+    {
+      "title": "Mercedes teenager Kimi Antonelli wins first F1 in China; Russell second",
+      "link": "https://www.aljazeera.com/sports/2026/3/15/mercedes-teenager-kimi-antonelli-wins-first-f1-in-china-russell-second?traffic_source=rss",
+      "date": "2026-03-15T09:59:29.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "The 19-year-old converts his pole position into a historic win to consolidate Mercedes&#039;s hold early in the F1 season."
+    },
+    {
+      "title": "Trump says US may hit Iran’s Kharg Island again ‘just for fun’",
+      "link": "https://www.aljazeera.com/news/2026/3/15/trump-says-us-may-hit-irans-kharg-island-again-just-for-fun?traffic_source=rss",
+      "date": "2026-03-15T09:47:07.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "US president says his country may carry out more strikes on oil hub as he urges allies to help open Strait of Hormuz."
+    },
+    {
+      "title": "Aircraft carrier Nimitz gets service life extension, won’t be decommissioned until 2027",
+      "link": "https://breakingdefense.com/2026/03/aircraft-carrier-nimitz-gets-service-life-extension-wont-be-decommissioned-until-2027/",
+      "date": "2026-03-14T16:09:51.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "How US military space operators are likely aiding the fight in Iran",
+      "link": "https://breakingdefense.com/2026/03/how-us-military-space-operators-are-likely-aiding-the-fight-in-iran/",
+      "date": "2026-03-13T19:41:20.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "UK Navy buys 20 USVs to act as unmanned &#8216;proving ground&#8217;",
+      "link": "https://breakingdefense.com/2026/03/uk-navy-buys-20-usvs-to-act-as-unmanned-proving-ground/",
+      "date": "2026-03-13T19:01:58.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "UAE fights off outsized share of Iranian attacks, pulls back on sharing interception rates",
+      "link": "https://breakingdefense.com/2026/03/uae-fights-off-outsized-share-of-iranian-attacks-pulls-back-on-sharing-interception-rates/",
+      "date": "2026-03-13T16:10:00.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "Following congressional rebuke, Air Force awards E-7 contracts",
+      "link": "https://breakingdefense.com/2026/03/following-congressional-rebuke-air-force-awards-e-7-contracts/",
+      "date": "2026-03-13T15:14:23.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "CENTCOM confirms six dead in tanker crash in Iraq, as Iran conflict approaches third week",
+      "link": "https://breakingdefense.com/2026/03/centcom-confirms-six-dead-in-tanker-crash-in-iraq-as-iran-conflict-approaches-third-week/",
+      "date": "2026-03-13T14:59:43.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "After Epic Fury, a munitions supplemental becomes imperative",
+      "link": "https://breakingdefense.com/2026/03/after-epic-fury-a-munitions-supplemental-becomes-imperative/",
+      "date": "2026-03-13T14:01:00.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "Inside the IDF&#8217;s newest military division securing the Jordan Valley",
+      "link": "https://breakingdefense.com/2026/03/inside-the-idfs-newest-military-division-securing-the-jordan-valley/",
+      "date": "2026-03-13T13:10:39.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "Southeast Asia’s Nuclear Blind Spot: Latent Pathways and Explicit Pressures",
+      "link": "https://warontherocks.com/2026/03/southeast-asias-nuclear-blind-spot-latent-pathways-and-explicit-pressures/",
+      "date": "2026-03-13T07:30:18.000Z",
+      "source": "War on the Rocks",
+      "sourceId": "war_on_rocks",
+      "category": "strategic",
+      "snippet": ""
+    },
+    {
+      "title": "Military Senior Service Colleges Require Reform, But There Sure Are Some Bad Ideas Out There",
+      "link": "https://warontherocks.com/2026/03/military-senior-service-colleges-require-reform-but-there-sure-are-some-bad-ideas-out-there/",
+      "date": "2026-03-13T07:15:20.000Z",
+      "source": "War on the Rocks",
+      "sourceId": "war_on_rocks",
+      "category": "strategic",
+      "snippet": ""
+    },
+    {
+      "title": "KC-135 tanker involved in Epic Fury goes down in Iraq: CENTCOM",
+      "link": "https://breakingdefense.com/2026/03/kc-135-tanker-involved-in-epic-fury-goes-down-in-iraq-centcom/",
+      "date": "2026-03-12T22:01:49.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "EXCLUSIVE: Freeman out as head of Amazon Leo Government",
+      "link": "https://breakingdefense.com/2026/03/ricky-freeman-out-as-head-of-amazon-leo-government/",
+      "date": "2026-03-12T21:56:22.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "2026 Board of Directors Election",
+      "link": "https://www.armscontrol.org/2026BoardBallot",
+      "date": "2026-03-12T17:42:24.000Z",
+      "source": "Arms Control Association",
+      "sourceId": "arms_control",
+      "category": "policy",
+      "snippet": ""
+    },
+    {
+      "title": "Magazine Breadth — Not Just Depth — Is Key to Munitions Industrial Base Resilience",
+      "link": "https://warontherocks.com/2026/03/magazine-breadth-not-just-depth-is-key-to-munitions-industrial-base-resilience/",
+      "date": "2026-03-12T08:00:59.000Z",
+      "source": "War on the Rocks",
+      "sourceId": "war_on_rocks",
+      "category": "strategic",
+      "snippet": ""
+    },
+    {
+      "title": "Testing Denial: The Philippine Alliance in America’s First Island Chain Strategy",
+      "link": "https://warontherocks.com/2026/03/testing-denial-the-philippine-alliance-in-americas-first-island-chain-strategy/",
+      "date": "2026-03-12T07:30:18.000Z",
+      "source": "War on the Rocks",
+      "sourceId": "war_on_rocks",
+      "category": "strategic",
+      "snippet": ""
+    },
+    {
+      "title": "A Blank Check for Israel and the War with Iran",
+      "link": "https://warontherocks.com/2026/03/the-blank-check-for-israel-and-the-war-with-iran/",
+      "date": "2026-03-12T07:15:39.000Z",
+      "source": "War on the Rocks",
+      "sourceId": "war_on_rocks",
+      "category": "strategic",
+      "snippet": ""
+    },
+    {
+      "title": "How China Views the Cognitive Element of a War for Taiwan",
+      "link": "https://warontherocks.com/2026/03/how-china-views-the-cognitive-element-of-a-war-for-taiwan/",
+      "date": "2026-03-11T17:30:05.000Z",
+      "source": "War on the Rocks",
+      "sourceId": "war_on_rocks",
+      "category": "strategic",
+      "snippet": ""
+    },
+    {
+      "title": "U.S. Negotiators Were Ill-Prepared for Serious Nuclear Negotiations with Iran",
+      "link": "https://www.armscontrol.org/blog/2026-03-11/us-negotiators-were-ill-prepared-serious-nuclear-negotiations-iran",
+      "date": "2026-03-11T15:21:16.000Z",
+      "source": "Arms Control Association",
+      "sourceId": "arms_control",
+      "category": "policy",
+      "snippet": ""
+    },
+    {
+      "title": "Lessons from Ukraine for Defending Gulf Airspace from Shaheds",
+      "link": "https://warontherocks.com/2026/03/lessons-from-ukraine-for-defending-gulf-airspace-from-shaheds/",
+      "date": "2026-03-11T08:00:24.000Z",
+      "source": "War on the Rocks",
+      "sourceId": "war_on_rocks",
+      "category": "strategic",
+      "snippet": ""
+    },
+    {
+      "title": "Indonesia’s Blue-Water Ambition Requires Sustained Overseas Deployments",
+      "link": "https://warontherocks.com/2026/03/indonesias-blue-water-ambition-requires-sustained-overseas-deployments/",
+      "date": "2026-03-11T07:30:48.000Z",
+      "source": "War on the Rocks",
+      "sourceId": "war_on_rocks",
+      "category": "strategic",
+      "snippet": ""
+    }
+  ],
+  "alerts": [
+    {
+      "level": "CRITICAL",
+      "keyword": "strait of hormuz",
+      "title": "Trump says US may hit Iran’s Kharg Island again ‘just for fun’",
+      "source": "Al Jazeera — Middle East",
+      "date": "2026-03-15T09:47:07.000Z",
+      "link": "https://www.aljazeera.com/news/2026/3/15/trump-says-us-may-hit-irans-kharg-island-again-just-for-fun?traffic_source=rss"
+    },
+    {
+      "level": "CRITICAL",
+      "keyword": "nuclear",
+      "title": "Southeast Asia’s Nuclear Blind Spot: Latent Pathways and Explicit Pressures",
+      "source": "War on the Rocks",
+      "date": "2026-03-13T07:30:18.000Z",
+      "link": "https://warontherocks.com/2026/03/southeast-asias-nuclear-blind-spot-latent-pathways-and-explicit-pressures/"
+    },
+    {
+      "level": "CRITICAL",
+      "keyword": "nuclear",
+      "title": "U.S. Negotiators Were Ill-Prepared for Serious Nuclear Negotiations with Iran",
+      "source": "Arms Control Association",
+      "date": "2026-03-11T15:21:16.000Z",
+      "link": "https://www.armscontrol.org/blog/2026-03-11/us-negotiators-were-ill-prepared-serious-nuclear-negotiations-iran"
+    },
+    {
+      "level": "ELEVATED",
+      "keyword": "negotiation",
+      "title": "U.S. Negotiators Were Ill-Prepared for Serious Nuclear Negotiations with Iran",
+      "source": "Arms Control Association",
+      "date": "2026-03-11T15:21:16.000Z",
+      "link": "https://www.armscontrol.org/blog/2026-03-11/us-negotiators-were-ill-prepared-serious-nuclear-negotiations-iran"
+    },
+    {
+      "level": "CRITICAL",
+      "keyword": "nuclear",
+      "title": "Was Iran really building a nuclear weapons? Podcast",
+      "source": "Arms Control Association",
+      "date": "2026-03-10T17:56:25.000Z",
+      "link": "https://www.armscontrol.org/media-citations/guardian/2026-03-10"
+    },
+    {
+      "level": "CRITICAL",
+      "keyword": "nuclear",
+      "title": "The U.S. War on Iran: New and Lingering Nuclear Risks",
+      "source": "Arms Control Association",
+      "date": "2026-03-10T14:09:18.000Z",
+      "link": "https://www.armscontrol.org/issue-briefs/2026-03/us-war-iran-new-and-lingering-nuclear-risks"
+    },
+    {
+      "level": "CRITICAL",
+      "keyword": "nuclear",
+      "title": "The U.S. Can’t Bomb Away Iran’s Nuclear Risks",
+      "source": "Arms Control Association",
+      "date": "2026-03-09T13:03:21.000Z",
+      "link": "https://www.armscontrol.org/media-citations/jezebel/2026-03-09"
+    },
+    {
+      "level": "CRITICAL",
+      "keyword": "nuclear",
+      "title": "Iran could &#039;go nuclear&#039; in wake of US-Israeli attacks, experts warn",
+      "source": "Arms Control Association",
+      "date": "2026-03-09T12:57:58.000Z",
+      "link": "https://www.armscontrol.org/media-citations/msn/2026-03-09"
+    },
+    {
+      "level": "CRITICAL",
+      "keyword": "nuclear",
+      "title": "How the Iran war increases the global nuclear threat",
+      "source": "Arms Control Association",
+      "date": "2026-03-09T12:55:12.000Z",
+      "link": "https://www.armscontrol.org/media-citations/abc-news-australia/2026-03-09"
+    },
+    {
+      "level": "CRITICAL",
+      "keyword": "nuclear",
+      "title": "Attacking Iran’s nuclear programme could drive it towards a bomb, experts warn",
+      "source": "Arms Control Association",
+      "date": "2026-03-09T12:53:35.000Z",
+      "link": "https://www.armscontrol.org/media-citations/guardian/2026-03-09"
+    }
+  ],
+  "sources": [
+    {
+      "id": "aljazeera_mideast",
+      "name": "Al Jazeera — Middle East",
       "category": "news"
     },
     {
-      "id": "csis",
-      "name": "CSIS Analysis",
+      "id": "defense_one",
+      "name": "Defense One",
+      "category": "defense"
+    },
+    {
+      "id": "war_on_rocks",
+      "name": "War on the Rocks",
+      "category": "strategic"
+    },
+    {
+      "id": "arms_control",
+      "name": "Arms Control Association",
       "category": "policy"
+    },
+    {
+      "id": "breaking_defense",
+      "name": "Breaking Defense",
+      "category": "defense"
     }
   ]
 }
