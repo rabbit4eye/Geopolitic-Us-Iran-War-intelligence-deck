@@ -1,28 +1,30 @@
 name: Fetch OSINT Data
 
-# ════════════════════════════════════════
-# รันทุก 6 ชั่วโมง + กดรันมือได้
-# ════════════════════════════════════════
 on:
   schedule:
-    - cron: '0 */6 * * *'    # ทุก 6 ชม. (00:00, 06:00, 12:00, 18:00 UTC)
-  workflow_dispatch:           # กดรันมือได้จาก GitHub UI
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 jobs:
   fetch:
     runs-on: ubuntu-latest
     permissions:
-      contents: write          # ให้เขียน commit กลับ repo ได้
+      contents: write
 
     steps:
       - uses: actions/checkout@v4
 
       - uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
 
       - name: Fetch OSINT feeds
         run: node scripts/fetch-osint.mjs
+
+      - name: Generate AI brief
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: node scripts/ai-brief.mjs
 
       - name: Commit updated data
         run: |
