@@ -7,6 +7,7 @@ import { useState, useEffect, useCallback, useMemo } from "react";
 
 const TABS = [
   { id: "livefeed", label: "LIVE FEED", icon: "🔴" },
+  { id: "warmap", label: "WAR MAP", icon: "🗺" },
   { id: "overview", label: "OVERVIEW", icon: "◉" },
   { id: "timeline", label: "TIMELINE", icon: "⏱" },
   { id: "perspectives", label: "4-SIDED VIEW", icon: "◈" },
@@ -235,7 +236,125 @@ function ExtLink({ href, children, color = "#4a9eff", style = {} }) {
 // ══════════════════════════════════════════════
 // TAB: OVERVIEW
 // ══════════════════════════════════════════════
+// ══════════════════════════════════════════════
+// TAB: WAR MAP + AI BRIEF
+// ══════════════════════════════════════════════
 
+function WarMapTab() {
+  const [mapSource, setMapSource] = useState("liveuamap");
+  const maps = {
+    liveuamap: { label: "Liveuamap — Iran", url: "https://iran.liveuamap.com/", desc: "Real-time conflict events with news pins on map" },
+    strikemap: { label: "Iran Strike Map", url: "https://iranstrikemap.com/", desc: "115+ strikes, 22 leaders tracked, updated every 30 min" },
+    iranwarlive: { label: "IranWarLive", url: "https://iranwarlive.com/", desc: "Automated OSINT — Reuters/AP/CENTCOM verified" },
+    geofront: { label: "GEO-FRONT", url: "https://geo-front.com/", desc: "Intelligence map — military movements & geopolitical developments" },
+    arcgis: { label: "ISW-CTP Strike Map", url: "https://storymaps.arcgis.com/stories/089bc1a2fe684405a67d67f13bd31324", desc: "Institute for Study of War — daily analysis + interactive map" },
+  };
+  const active = maps[mapSource];
+
+  return (
+    <div style={{ display: "flex", flexDirection: "column", gap: 14 }}>
+      <Section icon="🗺" title="LIVE CONFLICT MAP" sub="Select map source — all open-source OSINT verified">
+        <div style={{ display: "flex", gap: 6, flexWrap: "wrap", marginBottom: 12 }}>
+          {Object.entries(maps).map(([key, m]) => (
+            <button key={key} onClick={() => setMapSource(key)}
+              style={{ padding: "6px 14px", border: `1px solid ${mapSource === key ? "#ff2d2d" : "#1a2535"}`, borderRadius: 4, background: mapSource === key ? "rgba(255,45,45,0.1)" : "transparent", color: mapSource === key ? "#ff2d2d" : "#667788", cursor: "pointer", fontSize: 10, fontWeight: 700, letterSpacing: 0.5, transition: "all .2s" }}>
+              {m.label}
+            </button>
+          ))}
+        </div>
+        <div style={{ fontSize: 10, color: "#556677", marginBottom: 8 }}>{active.desc}</div>
+        <div style={{ position: "relative", width: "100%", height: 0, paddingBottom: "65%", borderRadius: 6, overflow: "hidden", border: "1px solid #1a2535" }}>
+          <iframe src={active.url} style={{ position: "absolute", top: 0, left: 0, width: "100%", height: "100%", border: "none" }} title={active.label} loading="lazy" sandbox="allow-scripts allow-same-origin allow-popups" />
+        </div>
+        <div style={{ marginTop: 8, display: "flex", justifyContent: "space-between", alignItems: "center" }}>
+          <span style={{ fontSize: 9, color: "#445566" }}>Source: {active.label} — Open in new tab for full experience</span>
+          <a href={active.url} target="_blank" rel="noopener noreferrer" style={{ fontSize: 10, color: "#4a9eff", textDecoration: "none", fontWeight: 600 }}>Open full map ↗</a>
+        </div>
+      </Section>
+
+      <AIBriefSection />
+    </div>
+  );
+}
+
+function AIBriefSection() {
+  const [brief, setBrief] = useState(null);
+  useEffect(() => {
+    fetch('/data/ai-brief.json').then(r => r.json()).then(setBrief).catch(() => {});
+  }, []);
+
+  if (!brief || !brief.brief) return (
+    <Section icon="🤖" title="AI INTELLIGENCE BRIEF" sub="Waiting for first AI analysis cycle...">
+      <p style={{ color: "#556677", fontSize: 11 }}>AI brief จะปรากฏหลัง bot รันรอบแรกที่มี headlines ใหม่ ระบบจะสรุปอัตโนมัติทุก 6 ชม.</p>
+    </Section>
+  );
+
+  const threatColors = { CRITICAL: "#ff2d2d", HIGH: "#ff8c00", ELEVATED: "#ffd700", GUARDED: "#00bfff", LOW: "#00e68a" };
+  const tc = threatColors[brief.threatLevel] || "#99aabb";
+
+  return (
+    <div style={{ display: "flex", flexDirection: "column", gap: 14 }}>
+      <Section icon="🤖" title="AI INTELLIGENCE BRIEF" sub={`${brief.analysisDepth || "STANDARD"} analysis • ${brief.timestamp ? new Date(brief.timestamp).toLocaleString() : "—"} • ${brief._newHeadlines || "?"} new headlines • ${brief._tokensUsed || "?"} tokens used`}>
+        <div style={{ display: "flex", gap: 10, marginBottom: 12, flexWrap: "wrap" }}>
+          <span style={{ display: "inline-flex", alignItems: "center", padding: "4px 12px", borderRadius: 4, fontSize: 11, fontWeight: 800, color: tc, background: `${tc}14`, border: `1px solid ${tc}25`, letterSpacing: 1 }}>THREAT: {brief.threatLevel}</span>
+          {brief.escalationRisk && <span style={{ fontSize: 10, color: "#ff8c00", padding: "4px 10px", background: "rgba(255,140,0,0.08)", borderRadius: 4 }}>Escalation Risk: {brief.escalationRisk}</span>}
+        </div>
+
+        <div style={{ padding: 14, background: `${tc}06`, borderLeft: `3px solid ${tc}`, borderRadius: "0 6px 6px 0", marginBottom: 12 }}>
+          <div style={{ fontSize: 9, letterSpacing: 1.5, color: "#556677", marginBottom: 4 }}>EXECUTIVE SUMMARY</div>
+          <p style={{ margin: 0, fontSize: 12, color: "#dce3eb", lineHeight: 1.7 }}>{brief.brief}</p>
+        </div>
+
+        {brief.threatReason && (
+          <div style={{ padding: "8px 12px", background: "rgba(255,45,45,0.04)", borderRadius: 4, marginBottom: 10 }}>
+            <div style={{ fontSize: 9, letterSpacing: 1, color: "#ff2d2d", marginBottom: 2 }}>⚠ THREAT REASON</div>
+            <div style={{ fontSize: 11, color: "#c0ccdd" }}>{brief.threatReason}</div>
+          </div>
+        )}
+
+        {brief.keyDevelopments?.length > 0 && (
+          <div style={{ marginBottom: 12 }}>
+            <div style={{ fontSize: 9, letterSpacing: 1.5, color: "#556677", marginBottom: 6 }}>KEY DEVELOPMENTS</div>
+            {brief.keyDevelopments.map((d, i) => (
+              <div key={i} style={{ padding: "6px 0 6px 12px", borderLeft: "2px solid #1a2535", fontSize: 11, color: "#99aabb", lineHeight: 1.5, marginBottom: 2 }}>• {d}</div>
+            ))}
+          </div>
+        )}
+
+        {brief.marketSignal && (
+          <div style={{ padding: "8px 12px", background: "rgba(255,215,0,0.04)", borderRadius: 4, marginBottom: 10 }}>
+            <div style={{ fontSize: 9, letterSpacing: 1, color: "#ffd700", marginBottom: 2 }}>📊 MARKET SIGNAL</div>
+            <div style={{ fontSize: 11, color: "#c0ccdd" }}>{brief.marketSignal}</div>
+          </div>
+        )}
+
+        {(brief.perspectiveUS || brief.perspectiveIran || brief.perspectiveChina) && (
+          <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr 1fr", gap: 8, marginBottom: 12 }}>
+            {brief.perspectiveUS && <div style={{ padding: 10, background: "rgba(74,158,255,0.05)", borderRadius: 4, border: "1px solid rgba(74,158,255,0.1)" }}><div style={{ fontSize: 9, color: "#4a9eff", marginBottom: 3 }}>🦅 US</div><div style={{ fontSize: 10, color: "#99aabb", lineHeight: 1.5 }}>{brief.perspectiveUS}</div></div>}
+            {brief.perspectiveIran && <div style={{ padding: 10, background: "rgba(255,107,53,0.05)", borderRadius: 4, border: "1px solid rgba(255,107,53,0.1)" }}><div style={{ fontSize: 9, color: "#ff6b35", marginBottom: 3 }}>🕊 IRAN</div><div style={{ fontSize: 10, color: "#99aabb", lineHeight: 1.5 }}>{brief.perspectiveIran}</div></div>}
+            {brief.perspectiveChina && <div style={{ padding: 10, background: "rgba(255,215,0,0.05)", borderRadius: 4, border: "1px solid rgba(255,215,0,0.1)" }}><div style={{ fontSize: 9, color: "#ffd700", marginBottom: 3 }}>🐉 CHINA</div><div style={{ fontSize: 10, color: "#99aabb", lineHeight: 1.5 }}>{brief.perspectiveChina}</div></div>}
+          </div>
+        )}
+
+        {brief.scenarioNext48h && (
+          <div style={{ padding: "8px 12px", background: "rgba(0,230,138,0.04)", borderRadius: 4, border: "1px solid rgba(0,230,138,0.1)" }}>
+            <div style={{ fontSize: 9, letterSpacing: 1, color: "#00e68a", marginBottom: 2 }}>🔮 NEXT 48H SCENARIO</div>
+            <div style={{ fontSize: 11, color: "#c0ccdd" }}>{brief.scenarioNext48h}</div>
+          </div>
+        )}
+
+        {brief.watchItems?.length > 0 && (
+          <div style={{ marginTop: 10 }}>
+            <div style={{ fontSize: 9, letterSpacing: 1.5, color: "#556677", marginBottom: 6 }}>👁 WATCH ITEMS</div>
+            {brief.watchItems.map((w, i) => (
+              <div key={i} style={{ padding: "4px 0 4px 12px", borderLeft: "2px solid #ff8c0030", fontSize: 10, color: "#889999", marginBottom: 2 }}>→ {w}</div>
+            ))}
+          </div>
+        )}
+      </Section>
+    </div>
+  );
+}
 function LiveFeedTab() {
   const [data, setData] = useState(null);
   const [loading, setLoading] = useState(true);
@@ -633,6 +752,7 @@ export default function GFIDeckV2() {
   const content = useMemo(() => {
     switch (tab) {
       case "livefeed": return <LiveFeedTab />;
+      case "warmap": return <WarMapTab />;
       case "overview": return <OverviewTab />;
       case "timeline": return <TimelineTab />;
       case "perspectives": return <PerspectivesTab />;
