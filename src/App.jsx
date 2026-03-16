@@ -6,6 +6,7 @@ import { useState, useEffect, useCallback, useMemo } from "react";
 // ══════════════════════════════════════════════
 
 const TABS = [
+  { id: "livefeed", label: "LIVE FEED", icon: "🔴" },
   { id: "overview", label: "OVERVIEW", icon: "◉" },
   { id: "timeline", label: "TIMELINE", icon: "⏱" },
   { id: "perspectives", label: "4-SIDED VIEW", icon: "◈" },
@@ -235,6 +236,69 @@ function ExtLink({ href, children, color = "#4a9eff", style = {} }) {
 // TAB: OVERVIEW
 // ══════════════════════════════════════════════
 
+function LiveFeedTab() {
+  const [data, setData] = useState(null);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    fetch('/data/osint-feed.json')
+      .then(r => r.json())
+      .then(d => { setData(d); setLoading(false); })
+      .catch(() => setLoading(false));
+  }, []);
+
+  if (loading) return <Section icon="🔴" title="LOADING LIVE FEED..."><p style={{color:"#556677"}}>Fetching latest OSINT data...</p></Section>;
+  if (!data || !data.headlines?.length) return <Section icon="🔴" title="LIVE FEED" sub="No data yet — next update in ~6 hours"><p style={{color:"#556677"}}>Bot is running on schedule. Data will appear after next fetch cycle.</p></Section>;
+
+  const catColors = { news: "#ff2d2d", defense: "#ff8c00", strategic: "#4a9eff", policy: "#ffd700" };
+  const alertColors = { CRITICAL: "#ff2d2d", HIGH: "#ff8c00", ELEVATED: "#ffd700" };
+
+  return (
+    <div style={{ display: "flex", flexDirection: "column", gap: 14 }}>
+      <Section icon="🔴" title={`LIVE OSINT FEED — ${data.totalItems} items`} sub={`Last updated: ${new Date(data.lastUpdated).toLocaleString()} • ${data.feedCount} sources • Auto-refresh every 6 hours`}>
+        <div style={{ display: "flex", gap: 8, marginBottom: 10, flexWrap: "wrap" }}>
+          <span style={{ fontSize: 10, padding: "3px 10px", borderRadius: 3, background: "rgba(0,230,138,0.1)", color: "#00e68a", border: "1px solid rgba(0,230,138,0.2)", fontWeight: 700 }}>⚡ AUTO-UPDATING</span>
+          <span style={{ fontSize: 10, padding: "3px 10px", borderRadius: 3, background: "rgba(255,45,45,0.1)", color: "#ff2d2d", border: "1px solid rgba(255,45,45,0.2)", fontWeight: 700 }}>🚨 {data.alertCount} ALERTS</span>
+        </div>
+      </Section>
+
+      {data.alerts?.length > 0 && (
+        <Section icon="🚨" title="KEYWORD ALERTS" sub="Auto-detected from headlines — verify before acting">
+          {data.alerts.map((a, i) => (
+            <div key={i} style={{ padding: "8px 12px", marginBottom: 4, borderLeft: `3px solid ${alertColors[a.level] || "#ffd700"}`, background: `${alertColors[a.level] || "#ffd700"}06`, borderRadius: "0 4px 4px 0" }}>
+              <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center" }}>
+                <span style={{ fontSize: 11, fontWeight: 700, color: "#dce3eb" }}>{a.title}</span>
+                <span style={{ fontSize: 9, padding: "1px 6px", borderRadius: 3, color: alertColors[a.level], background: `${alertColors[a.level]}15`, fontWeight: 700 }}>{a.level}</span>
+              </div>
+              <div style={{ fontSize: 9, color: "#556677", marginTop: 3 }}>Keyword: "{a.keyword}" • {a.source} • {new Date(a.date).toLocaleDateString()}</div>
+            </div>
+          ))}
+        </Section>
+      )}
+
+      <Section icon="📰" title="HEADLINES" sub="Sorted by date — newest first">
+        {data.headlines.map((h, i) => {
+          const cc = catColors[h.category] || "#99aabb";
+          return (
+            <div key={i} style={{ padding: "10px 0", borderBottom: "1px solid #1a2535" }}>
+              <div style={{ display: "flex", gap: 8, alignItems: "start" }}>
+                <span style={{ fontSize: 9, padding: "2px 6px", borderRadius: 3, color: cc, background: `${cc}12`, border: `1px solid ${cc}20`, fontWeight: 700, whiteSpace: "nowrap", marginTop: 2 }}>{h.category?.toUpperCase()}</span>
+                <div style={{ flex: 1 }}>
+                  <a href={h.link} target="_blank" rel="noopener noreferrer" style={{ fontSize: 12, fontWeight: 700, color: "#dce3eb", textDecoration: "none", lineHeight: 1.4 }}
+                    onMouseEnter={e => e.target.style.color = cc} onMouseLeave={e => e.target.style.color = "#dce3eb"}>
+                    {h.title}
+                  </a>
+                  {h.snippet && <p style={{ margin: "4px 0 0", fontSize: 10, color: "#667788", lineHeight: 1.5 }}>{h.snippet.slice(0, 150)}...</p>}
+                  <div style={{ fontSize: 9, color: "#445566", marginTop: 3 }}>{h.source} • {new Date(h.date).toLocaleString()}</div>
+                </div>
+              </div>
+            </div>
+          );
+        })}
+      </Section>
+    </div>
+  );
+}
 function OverviewTab() {
   const [now, setNow] = useState(new Date());
   useEffect(() => { const i = setInterval(() => setNow(new Date()), 1000); return () => clearInterval(i); }, []);
@@ -568,6 +632,7 @@ export default function GFIDeckV2() {
 
   const content = useMemo(() => {
     switch (tab) {
+      case "livefeed": return <LiveFeedTab />;
       case "overview": return <OverviewTab />;
       case "timeline": return <TimelineTab />;
       case "perspectives": return <PerspectivesTab />;
