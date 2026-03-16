@@ -1,98 +1,134 @@
 {
-  "lastUpdated": "2026-03-16T12:41:53.810Z",
+  "lastUpdated": "2026-03-16T18:44:45.120Z",
   "feedCount": 5,
   "totalItems": 40,
-  "alertCount": 11,
+  "alertCount": 9,
   "headlines": [
     {
-      "title": "South Korean protesters criticise Trump over Hormuz security demand",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/south-korean-protesters-criticise-trump-over-hormuz-security-demand?traffic_source=rss",
-      "date": "2026-03-16T12:20:26.000Z",
+      "title": "Outrage as Afghan asylum seeker who fought alongside US dies in ICE custody",
+      "link": "https://www.aljazeera.com/news/2026/3/16/outrage-as-afghan-asylum-seeker-who-fought-alongside-us-dies-in-ice-custody?traffic_source=rss",
+      "date": "2026-03-16T18:33:08.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Activists in South Korea have staged a protest against Donald Trump’s request for help securing the Strait of Hormuz."
+      "snippet": "Family, advocates call for full probe after Mohommad Nazeer Paktyawal dies less than 24 hours after being detained."
     },
     {
-      "title": "In Lebanon, Israel is using occupation as negotiating tool, say analysts",
-      "link": "https://www.aljazeera.com/features/2026/3/16/in-lebanon-israel-is-using-occupation-as-negotiating-tool-say-analysts?traffic_source=rss",
-      "date": "2026-03-16T12:05:03.000Z",
+      "title": "Indian farmers dress up as bears to protect crops from monkeys",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/indian-farmers-dress-up-as-bears-to-protect-crops-from-monkeys?traffic_source=rss",
+      "date": "2026-03-16T17:37:08.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Israel is using military occupation of southern Lebanon and displacement crisis to dictate ceasefire terms, say experts."
+      "snippet": "Farmers in northern India are dressing up in bear costumes to protect their crops from monkeys."
     },
     {
-      "title": "Destruction in Beirut as bombing and mass displacement continue",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/destruction-in-beirut-as-bombing-and-mass-displacement-continue?traffic_source=rss",
-      "date": "2026-03-16T11:38:39.000Z",
+      "title": "Civilians pulled from rubble after US-Israeli strikes on Tehran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/civilians-pulled-from-rubble-after-us-israeli-strikes-on-tehran?traffic_source=rss",
+      "date": "2026-03-16T17:27:54.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Neighbourhoods in Beirut’s southern suburbs have been left in ruins by Israeli bombing attacks."
+      "snippet": "Rescuers have pulled civilians from the rubble after a new wave of US-Israeli strikes targeted Tehran."
     },
     {
-      "title": "Iran still playing in World Cup 2026 despite withdrawal rumours, AFC says",
-      "link": "https://www.aljazeera.com/sports/2026/3/16/iran-still-playing-in-world-cup-2026-despite-withdrawal-rumours-afc-says?traffic_source=rss",
-      "date": "2026-03-16T11:21:07.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Asian Football Confederation says it hasn&#039;t received any notification of Iran pulling out of upcoming World Cup."
+      "title": "Lockheed completes first flight test for PrSM Inc 2 aimed at hitting moving maritime targets",
+      "link": "https://breakingdefense.com/2026/03/lockheed-completes-first-flight-test-for-prsm-inc-2-aimed-at-hitting-moving-maritime-targets/",
+      "date": "2026-03-16T17:22:01.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
     },
     {
-      "title": "No, MAGA is not divided on the Iran war",
-      "link": "https://www.aljazeera.com/opinions/2026/3/16/no-maga-is-not-divided-on-the-iran-war?traffic_source=rss",
-      "date": "2026-03-16T11:13:50.000Z",
+      "title": "US responsible for deadly attack on Iranian school: Amnesty International",
+      "link": "https://www.aljazeera.com/news/2026/3/16/us-responsible-for-deadly-attack-on-iranian-school-amnesty-international?traffic_source=rss",
+      "date": "2026-03-16T17:01:52.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Trump’s supporters remain loyal, even if there are a few loud dissenting voices."
+      "snippet": "Rights group says Tomahawk missile likely used in Minab school strike that killed at least 170 people, mostly children."
     },
     {
-      "title": "War on Iran: Can fuel rationing, remote work, short sleeves ease oil woes?",
-      "link": "https://www.aljazeera.com/news/2026/3/16/war-on-iran-can-fuel-rationing-remote-work-short-sleeves-ease-oil-woes?traffic_source=rss",
-      "date": "2026-03-16T11:10:59.000Z",
+      "title": "Afghanistan says children among four killed in latest attacks by Pakistan",
+      "link": "https://www.aljazeera.com/news/2026/3/16/afghanistan-says-children-among-those-killed-in-latest-attacks-by-pakistan?traffic_source=rss",
+      "date": "2026-03-16T17:01:01.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Rising oil prices amid the US-Israel war on Iran are pushing nations to readjust their energy policies."
+      "snippet": "The civilians - three children and a woman - are killed in an attack on Khost province, local official says."
     },
     {
-      "title": "Myanmar parliament dominated by pro-military party convenes after 5 years",
-      "link": "https://www.aljazeera.com/news/2026/3/16/myanmar-parliament-dominated-by-pro-military-party-convenes-after-5-years?traffic_source=rss",
-      "date": "2026-03-16T10:55:27.000Z",
+      "title": "US, Israel now know ‘what kind of nation they are dealing with’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/us-israel-now-know-what-kind-of-nation-they-are-dealing?traffic_source=rss",
+      "date": "2026-03-16T16:00:08.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "New parliament opens for the first time since the 2021 coup after elections that excluded major opposition parties."
+      "snippet": "Iran’s Foreign Minister Abbas Araghchi says his country has shown it is ready to take the war “as far as necessary&quot;."
     },
     {
-      "title": "Monastery shelters families fleeing Israeli strikes in Lebanon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/monastery-shelters-families-fleeing-israeli-strikes-in-lebanon?traffic_source=rss",
-      "date": "2026-03-16T10:45:17.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Families displaced by Israeli airstrikes in Lebanon have found shelter at the Saints Peter and Paul Monastery in Qattine"
+      "title": "Baykar unveils K2 Kamikaze drone with AI, swarming capabilities",
+      "link": "https://breakingdefense.com/2026/03/baykar-unveils-k2-kamikaze-drone-with-swarming-capabilities/",
+      "date": "2026-03-16T15:56:12.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
     },
     {
-      "title": "Mexico sets world record for biggest football lesson",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/mexico-sets-world-record-for-biggest-football-lesson?traffic_source=rss",
-      "date": "2026-03-16T10:29:33.000Z",
+      "title": "How badly has the Iran war hit the global economy? The tell-tale signs",
+      "link": "https://www.aljazeera.com/news/2026/3/16/the-tell-tale-signs-how-bad-has-the-iran-war-hit-the-global-economy?traffic_source=rss",
+      "date": "2026-03-16T15:54:02.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Thousands turned Mexico City&#039;s central square into a football pitch in an attempt to set a new Guiness World record."
+      "snippet": "Oil and gas price hikes due to the war have rattled the global economy."
     },
     {
-      "title": "In Ukraine’s Kharkiv, 20,000 children go underground to study",
-      "link": "https://www.aljazeera.com/news/2026/3/16/in-ukraines-kharkiv-20000-children-go-underground-to-study?traffic_source=rss",
-      "date": "2026-03-16T10:26:54.000Z",
+      "title": "Is Russia benefitting from the Iran war?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/is-russia-benefitting-from-the-iran-war?traffic_source=rss",
+      "date": "2026-03-16T15:49:27.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Subway schools provide safety as Russian assaults have killed dozens of children in Ukraine&#039;s second-largest city."
+      "snippet": "The US is allowing the purchase of Russian oil that’s stranded at sea after the war on Iran led to higher energy prices."
+    },
+    {
+      "title": "Investing in Women is Investing in the Future",
+      "link": "https://warontherocks.com/2026/03/investing-in-women-is-investing-in-the-future/",
+      "date": "2026-03-16T15:45:57.000Z",
+      "source": "War on the Rocks",
+      "sourceId": "war_on_rocks",
+      "category": "strategic",
+      "snippet": ""
+    },
+    {
+      "title": "Virtual Briefing: Multilateral Arms Control after New START: Involving China and Other Nuclear-Armed States",
+      "link": "https://www.armscontrol.org/events-and-remarks/2026-03/virtual-briefing-multilateral-arms-control-after-new-start-involving",
+      "date": "2026-03-16T15:16:03.000Z",
+      "source": "Arms Control Association",
+      "sourceId": "arms_control",
+      "category": "policy",
+      "snippet": ""
+    },
+    {
+      "title": "Qatar Airways announces ‘limited’ flights to and from Doha",
+      "link": "https://www.aljazeera.com/news/2026/3/16/qatar-airways-announces-limited-flights-to-and-from-doha?traffic_source=rss",
+      "date": "2026-03-16T15:04:56.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Airline says limited number of flights will operate as of March 18 between Qatari capital and dozens of destinations."
+    },
+    {
+      "title": "Iran officials tout ‘Trump-burning’ celebration amid battle of narratives",
+      "link": "https://www.aljazeera.com/news/2026/3/16/iran-officials-tout-trump-burning-celebration-amid-battle-of-narratives?traffic_source=rss",
+      "date": "2026-03-16T14:55:53.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Iranian state media calls for turning fire festival into a symbolic protest by burning figures of Trump and Netanyahu."
     },
     {
       "title": "The Danger of Vibe Patriotism in Defense Tech",
@@ -212,24 +248,6 @@
       "snippet": ""
     },
     {
-      "title": "KC-135 tanker involved in Epic Fury goes down in Iraq: CENTCOM",
-      "link": "https://breakingdefense.com/2026/03/kc-135-tanker-involved-in-epic-fury-goes-down-in-iraq-centcom/",
-      "date": "2026-03-12T22:01:49.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "EXCLUSIVE: Freeman out as head of Amazon Leo Government",
-      "link": "https://breakingdefense.com/2026/03/ricky-freeman-out-as-head-of-amazon-leo-government/",
-      "date": "2026-03-12T21:56:22.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
       "title": "2026 Board of Directors Election",
       "link": "https://www.armscontrol.org/2026BoardBallot",
       "date": "2026-03-12T17:42:24.000Z",
@@ -255,42 +273,16 @@
       "sourceId": "war_on_rocks",
       "category": "strategic",
       "snippet": ""
-    },
-    {
-      "title": "A Blank Check for Israel and the War with Iran",
-      "link": "https://warontherocks.com/2026/03/the-blank-check-for-israel-and-the-war-with-iran/",
-      "date": "2026-03-12T07:15:39.000Z",
-      "source": "War on the Rocks",
-      "sourceId": "war_on_rocks",
-      "category": "strategic",
-      "snippet": ""
-    },
-    {
-      "title": "How China Views the Cognitive Element of a War for Taiwan",
-      "link": "https://warontherocks.com/2026/03/how-china-views-the-cognitive-element-of-a-war-for-taiwan/",
-      "date": "2026-03-11T17:30:05.000Z",
-      "source": "War on the Rocks",
-      "sourceId": "war_on_rocks",
-      "category": "strategic",
-      "snippet": ""
     }
   ],
   "alerts": [
     {
       "level": "CRITICAL",
-      "keyword": "strait of hormuz",
-      "title": "South Korean protesters criticise Trump over Hormuz security demand",
-      "source": "Al Jazeera — Middle East",
-      "date": "2026-03-16T12:20:26.000Z",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/south-korean-protesters-criticise-trump-over-hormuz-security-demand?traffic_source=rss"
-    },
-    {
-      "level": "CRITICAL",
-      "keyword": "ceasefire",
-      "title": "In Lebanon, Israel is using occupation as negotiating tool, say analysts",
-      "source": "Al Jazeera — Middle East",
-      "date": "2026-03-16T12:05:03.000Z",
-      "link": "https://www.aljazeera.com/features/2026/3/16/in-lebanon-israel-is-using-occupation-as-negotiating-tool-say-analysts?traffic_source=rss"
+      "keyword": "nuclear",
+      "title": "Virtual Briefing: Multilateral Arms Control after New START: Involving China and Other Nuclear-Armed States",
+      "source": "Arms Control Association",
+      "date": "2026-03-16T15:16:03.000Z",
+      "link": "https://www.armscontrol.org/events-and-remarks/2026-03/virtual-briefing-multilateral-arms-control-after-new-start-involving"
     },
     {
       "level": "CRITICAL",
@@ -355,14 +347,6 @@
       "source": "Arms Control Association",
       "date": "2026-03-09T12:55:12.000Z",
       "link": "https://www.armscontrol.org/media-citations/abc-news-australia/2026-03-09"
-    },
-    {
-      "level": "CRITICAL",
-      "keyword": "nuclear",
-      "title": "Attacking Iran’s nuclear programme could drive it towards a bomb, experts warn",
-      "source": "Arms Control Association",
-      "date": "2026-03-09T12:53:35.000Z",
-      "link": "https://www.armscontrol.org/media-citations/guardian/2026-03-09"
     }
   ],
   "sources": [
