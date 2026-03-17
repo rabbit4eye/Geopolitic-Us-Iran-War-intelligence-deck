@@ -1,35 +1,134 @@
 {
-  "lastUpdated": "2026-03-16T18:44:45.120Z",
+  "lastUpdated": "2026-03-17T01:03:02.795Z",
   "feedCount": 5,
   "totalItems": 40,
-  "alertCount": 9,
+  "alertCount": 12,
   "headlines": [
     {
-      "title": "Outrage as Afghan asylum seeker who fought alongside US dies in ICE custody",
-      "link": "https://www.aljazeera.com/news/2026/3/16/outrage-as-afghan-asylum-seeker-who-fought-alongside-us-dies-in-ice-custody?traffic_source=rss",
-      "date": "2026-03-16T18:33:08.000Z",
+      "title": "Experts say global response may evolve over Hormuz security",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/experts-say-global-response-may-evolve-over-hormuz-security?traffic_source=rss",
+      "date": "2026-03-17T00:54:58.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Family, advocates call for full probe after Mohommad Nazeer Paktyawal dies less than 24 hours after being detained."
+      "snippet": "Experts say pressure could grow if disruption to the vital energy route continues."
     },
     {
-      "title": "Indian farmers dress up as bears to protect crops from monkeys",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/indian-farmers-dress-up-as-bears-to-protect-crops-from-monkeys?traffic_source=rss",
-      "date": "2026-03-16T17:37:08.000Z",
+      "title": "Scores of people killed in series of bomb blasts in northern Nigeria",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/scores-of-people-killed-in-series-of-bomb-blasts-in-northern-nigeria?traffic_source=rss",
+      "date": "2026-03-17T00:35:27.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Farmers in northern India are dressing up in bear costumes to protect their crops from monkeys."
+      "snippet": "Footage shows the aftermath of deadly blasts in Maiduguri in northeastern Nigeria."
     },
     {
-      "title": "Civilians pulled from rubble after US-Israeli strikes on Tehran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/civilians-pulled-from-rubble-after-us-israeli-strikes-on-tehran?traffic_source=rss",
-      "date": "2026-03-16T17:27:54.000Z",
+      "title": "Iran war live: Trump scolds allies for not joining Strait of Hormuz mission",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/3/17/iran-war-live-trump-scolds-allies-for-not-joining-strait-of-hormuz-mission?traffic_source=rss",
+      "date": "2026-03-17T00:00:00.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Rescuers have pulled civilians from the rubble after a new wave of US-Israeli strikes targeted Tehran."
+      "snippet": "US President Donald Trump criticises allies&#039; reluctance to commit forces to open the key waterway for Gulf oil exports."
+    },
+    {
+      "title": "Pro-Palestine protester Leqaa Kordia freed from US immigration detention",
+      "link": "https://www.aljazeera.com/news/2026/3/16/pro-palestine-protester-leqaa-kordia-freed-from-us-immigration-detention?traffic_source=rss",
+      "date": "2026-03-16T23:39:13.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "The 33-year-old Columbia University protester had been held in immigration detention centre for a year."
+    },
+    {
+      "title": "Hotel in Iraqi capital Baghdad struck as attacks on US embassy intercepted",
+      "link": "https://www.aljazeera.com/news/2026/3/16/hotel-in-iraqi-capital-baghdad-struck-as-attacks-on-us-embassy-intercepted?traffic_source=rss",
+      "date": "2026-03-16T23:00:11.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "No group has claimed responsibility for the attacks, which took place amid the escalating Israel-US war on Iran."
+    },
+    {
+      "title": "Trump claims strikes on Iran prevented nuclear war",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/trump-claims-strikes-on-iran-prevented-nuclear-war?traffic_source=rss",
+      "date": "2026-03-16T22:34:59.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Donald Trump claimed he ordered strikes on Iran to prevent a nuclear conflict that would have turned into World War III."
+    },
+    {
+      "title": "Trump seeks to delay meeting with China’s Xi by ‘month or so’ amid Iran war",
+      "link": "https://www.aljazeera.com/news/2026/3/16/trump-seeks-to-delay-meeting-with-chinas-xi-by-month-or-so-amid-iran-war?traffic_source=rss",
+      "date": "2026-03-16T22:25:55.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "The US president delays March 31-April 2 trip to China to focus on the escalating war against Iran."
+    },
+    {
+      "title": "‘Fourth world nation’: Trump slams Somalia, Ilhan Omar",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/fourth-world-nation-trump-slams-somalia-ilhan-omar?traffic_source=rss",
+      "date": "2026-03-16T21:16:51.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Speaking at the Oval office, US President Donald Trump stated that Somalia is a “fourth world nation.”"
+    },
+    {
+      "title": "Ten ICU patients killed in hospital fire in eastern India",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/ten-icu-patients-killed-in-hospital-fire-in-eastern-india?traffic_source=rss",
+      "date": "2026-03-16T21:01:22.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Emergency responders carried patients out of a government hospital in Odisha, India."
+    },
+    {
+      "title": "Who is answering Trump’s call for help with Strait of Hormuz?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/who-is-answering-trumps-call-for-help-with-strait-of-hormuz?traffic_source=rss",
+      "date": "2026-03-16T21:00:54.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Trump has criticised the response to his call to help protect shipping in the Strait of Hormuz during the war on Iran."
+    },
+    {
+      "title": "Army awards Anduril counter-drone task order as first in new $20B &#8216;contract vehicle&#8217;",
+      "link": "https://breakingdefense.com/2026/03/army-awards-anduril-counter-drone-task-order-as-first-in-new-20b-contract-vehicle/",
+      "date": "2026-03-16T20:38:36.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "AeroVironment to acquire California drone maker ESAero in $200M deal",
+      "link": "https://breakingdefense.com/2026/03/aerovironment-to-acquire-california-drone-maker-esaero-in-200m-deal/",
+      "date": "2026-03-16T20:10:00.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "Israel’s defense industry accelerates production amid multi-front war",
+      "link": "https://breakingdefense.com/2026/03/israels-defense-industry-accelerates-production-as-israel-fights-multi-front-war/",
+      "date": "2026-03-16T19:58:32.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "Navy unveils acquisition reform, establishes five more PAE organizations",
+      "link": "https://breakingdefense.com/2026/03/navy-unveils-acquisition-reform-establishes-five-more-pae-organizations/",
+      "date": "2026-03-16T19:30:00.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
     },
     {
       "title": "Lockheed completes first flight test for PrSM Inc 2 aimed at hitting moving maritime targets",
@@ -41,33 +140,6 @@
       "snippet": ""
     },
     {
-      "title": "US responsible for deadly attack on Iranian school: Amnesty International",
-      "link": "https://www.aljazeera.com/news/2026/3/16/us-responsible-for-deadly-attack-on-iranian-school-amnesty-international?traffic_source=rss",
-      "date": "2026-03-16T17:01:52.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Rights group says Tomahawk missile likely used in Minab school strike that killed at least 170 people, mostly children."
-    },
-    {
-      "title": "Afghanistan says children among four killed in latest attacks by Pakistan",
-      "link": "https://www.aljazeera.com/news/2026/3/16/afghanistan-says-children-among-those-killed-in-latest-attacks-by-pakistan?traffic_source=rss",
-      "date": "2026-03-16T17:01:01.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "The civilians - three children and a woman - are killed in an attack on Khost province, local official says."
-    },
-    {
-      "title": "US, Israel now know ‘what kind of nation they are dealing with’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/us-israel-now-know-what-kind-of-nation-they-are-dealing?traffic_source=rss",
-      "date": "2026-03-16T16:00:08.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Iran’s Foreign Minister Abbas Araghchi says his country has shown it is ready to take the war “as far as necessary&quot;."
-    },
-    {
       "title": "Baykar unveils K2 Kamikaze drone with AI, swarming capabilities",
       "link": "https://breakingdefense.com/2026/03/baykar-unveils-k2-kamikaze-drone-with-swarming-capabilities/",
       "date": "2026-03-16T15:56:12.000Z",
@@ -75,24 +147,6 @@
       "sourceId": "breaking_defense",
       "category": "defense",
       "snippet": ""
-    },
-    {
-      "title": "How badly has the Iran war hit the global economy? The tell-tale signs",
-      "link": "https://www.aljazeera.com/news/2026/3/16/the-tell-tale-signs-how-bad-has-the-iran-war-hit-the-global-economy?traffic_source=rss",
-      "date": "2026-03-16T15:54:02.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Oil and gas price hikes due to the war have rattled the global economy."
-    },
-    {
-      "title": "Is Russia benefitting from the Iran war?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/is-russia-benefitting-from-the-iran-war?traffic_source=rss",
-      "date": "2026-03-16T15:49:27.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "The US is allowing the purchase of Russian oil that’s stranded at sea after the war on Iran led to higher energy prices."
     },
     {
       "title": "Investing in Women is Investing in the Future",
@@ -111,24 +165,6 @@
       "sourceId": "arms_control",
       "category": "policy",
       "snippet": ""
-    },
-    {
-      "title": "Qatar Airways announces ‘limited’ flights to and from Doha",
-      "link": "https://www.aljazeera.com/news/2026/3/16/qatar-airways-announces-limited-flights-to-and-from-doha?traffic_source=rss",
-      "date": "2026-03-16T15:04:56.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Airline says limited number of flights will operate as of March 18 between Qatari capital and dozens of destinations."
-    },
-    {
-      "title": "Iran officials tout ‘Trump-burning’ celebration amid battle of narratives",
-      "link": "https://www.aljazeera.com/news/2026/3/16/iran-officials-tout-trump-burning-celebration-amid-battle-of-narratives?traffic_source=rss",
-      "date": "2026-03-16T14:55:53.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Iranian state media calls for turning fire festival into a symbolic protest by burning figures of Trump and Netanyahu."
     },
     {
       "title": "The Danger of Vibe Patriotism in Defense Tech",
@@ -194,42 +230,6 @@
       "snippet": ""
     },
     {
-      "title": "Following congressional rebuke, Air Force awards E-7 contracts",
-      "link": "https://breakingdefense.com/2026/03/following-congressional-rebuke-air-force-awards-e-7-contracts/",
-      "date": "2026-03-13T15:14:23.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "CENTCOM confirms six dead in tanker crash in Iraq, as Iran conflict approaches third week",
-      "link": "https://breakingdefense.com/2026/03/centcom-confirms-six-dead-in-tanker-crash-in-iraq-as-iran-conflict-approaches-third-week/",
-      "date": "2026-03-13T14:59:43.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "After Epic Fury, a munitions supplemental becomes imperative",
-      "link": "https://breakingdefense.com/2026/03/after-epic-fury-a-munitions-supplemental-becomes-imperative/",
-      "date": "2026-03-13T14:01:00.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "Inside the IDF&#8217;s newest military division securing the Jordan Valley",
-      "link": "https://breakingdefense.com/2026/03/inside-the-idfs-newest-military-division-securing-the-jordan-valley/",
-      "date": "2026-03-13T13:10:39.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
       "title": "Southeast Asia’s Nuclear Blind Spot: Latent Pathways and Explicit Pressures",
       "link": "https://warontherocks.com/2026/03/southeast-asias-nuclear-blind-spot-latent-pathways-and-explicit-pressures/",
       "date": "2026-03-13T07:30:18.000Z",
@@ -276,6 +276,30 @@
     }
   ],
   "alerts": [
+    {
+      "level": "CRITICAL",
+      "keyword": "strait of hormuz",
+      "title": "Iran war live: Trump scolds allies for not joining Strait of Hormuz mission",
+      "source": "Al Jazeera — Middle East",
+      "date": "2026-03-17T00:00:00.000Z",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/3/17/iran-war-live-trump-scolds-allies-for-not-joining-strait-of-hormuz-mission?traffic_source=rss"
+    },
+    {
+      "level": "CRITICAL",
+      "keyword": "nuclear",
+      "title": "Trump claims strikes on Iran prevented nuclear war",
+      "source": "Al Jazeera — Middle East",
+      "date": "2026-03-16T22:34:59.000Z",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/trump-claims-strikes-on-iran-prevented-nuclear-war?traffic_source=rss"
+    },
+    {
+      "level": "CRITICAL",
+      "keyword": "strait of hormuz",
+      "title": "Who is answering Trump’s call for help with Strait of Hormuz?",
+      "source": "Al Jazeera — Middle East",
+      "date": "2026-03-16T21:00:54.000Z",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/who-is-answering-trumps-call-for-help-with-strait-of-hormuz?traffic_source=rss"
+    },
     {
       "level": "CRITICAL",
       "keyword": "nuclear",
