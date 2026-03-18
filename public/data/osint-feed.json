@@ -1,9 +1,153 @@
 {
-  "lastUpdated": "2026-03-18T12:40:37.344Z",
+  "lastUpdated": "2026-03-18T18:42:07.643Z",
   "feedCount": 5,
   "totalItems": 40,
-  "alertCount": 10,
+  "alertCount": 9,
   "headlines": [
+    {
+      "title": "Could the Iran war trigger a global recession?",
+      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/3/18/could-the-iran-war-trigger-a-global-recession?traffic_source=rss",
+      "date": "2026-03-18T18:20:00.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Energy prices are surging as the Iran war disrupts supply, raising risks for the US, China and Europe."
+    },
+    {
+      "title": "Trump temporarily waives century-old shipping law amid rising fuel costs",
+      "link": "https://www.aljazeera.com/economy/2026/3/18/trump-temporarily-waives-century-old-shipping-law-amid-rising-fuel-costs?traffic_source=rss",
+      "date": "2026-03-18T17:56:26.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Lifting the Jones Act temporarily allows foreign ships to transport cargo across the US, but critics question efficacy."
+    },
+    {
+      "title": "Who will answer for the Iranian schoolchildren killed in Minab?",
+      "link": "https://www.aljazeera.com/video/the-take-2/2026/3/18/aje-onl-usa_iranaccountability_av_v2-180326?traffic_source=rss",
+      "date": "2026-03-18T17:53:40.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "An investigation finds the Minab school strike may have been deliberate. Who can hold the US accountable?"
+    },
+    {
+      "title": "Iranian women’s football team return to Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/18/iranian-womens-football-team-return-to-iran?traffic_source=rss",
+      "date": "2026-03-18T17:51:55.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "The Iranian national women&#039;s football team has returned to Iran, including several players who withdrew asylum requests."
+    },
+    {
+      "title": "Syria and the Islamic State: Analyzing America’s Departure",
+      "link": "https://warontherocks.com/2026/03/syria-and-the-islamic-state-analyzing-americas-departure/",
+      "date": "2026-03-18T17:30:15.000Z",
+      "source": "War on the Rocks",
+      "sourceId": "war_on_rocks",
+      "category": "strategic",
+      "snippet": ""
+    },
+    {
+      "title": "In new timeline, Army set to take full control of THAAD missile program by 2027",
+      "link": "https://breakingdefense.com/2026/03/in-new-timeline-army-set-to-take-full-control-of-thaad-missile-program-by-2027/",
+      "date": "2026-03-18T17:11:17.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "LIVE: Liverpool vs Galatasaray – Champions League last 16",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/3/18/live-liverpool-vs-galatasaray-champions-league-last-16?traffic_source=rss",
+      "date": "2026-03-18T17:10:14.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Follow the build-up, analysis and live text commentary of the game as Liverpool host the Turkish champions at Anfield."
+    },
+    {
+      "title": "Gunshots disperse crowd during Persian New Year festivities in Tehran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/18/gunshots-disperse-crowd-during-persian-new-year-festivities-in-tehran?traffic_source=rss",
+      "date": "2026-03-18T16:51:05.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "A crowd celebrating Chaharshanbe Suri in Tehran were forced to flee after gunshots disrupted their event."
+    },
+    {
+      "title": "President or Congress? Who in the US has the power to declare war?",
+      "link": "https://www.aljazeera.com/news/2026/3/18/president-or-congress-who-in-the-us-has-the-power-to-declare-war?traffic_source=rss",
+      "date": "2026-03-18T16:48:57.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "US presidents have long bypassed Congress&#039;s authority and dissenting lawmakers have often tried to fight back."
+    },
+    {
+      "title": "Pakistan and Afghanistan agree to temporary Eid al-Fitr ‘pause’ in conflict",
+      "link": "https://www.aljazeera.com/news/2026/3/18/pakistan-and-afghanistan-agree-to-temporary-eid-al-fitr-pause-in-conflict?traffic_source=rss",
+      "date": "2026-03-18T16:47:12.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Pakistani minister says five-day pause, to begin at midnight Thursday, requested by Saudi Arabia, Qatar and Turkiye."
+    },
+    {
+      "title": "Pentagon CTO ‘pretty confident’ about life after Anthropic",
+      "link": "https://breakingdefense.com/2026/03/pentagon-cto-pretty-confident-about-life-after-anthropic/",
+      "date": "2026-03-18T16:30:00.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "How Los Angeles’s Iranian diaspora is confronting the US war on Iran",
+      "link": "https://www.aljazeera.com/news/longform/2026/3/18/how-los-angeless-iranian-diaspora-is-confronting-the-us-war-on-iran?traffic_source=rss",
+      "date": "2026-03-18T15:42:59.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Residents are divided between supporting and opposing the US and Israeli war against Iran, amid fears for loved ones."
+    },
+    {
+      "title": "With the Pentagon’s FY27 budget request forthcoming, it&#8217;s unclear if it will hit $1.5 trillion",
+      "link": "https://breakingdefense.com/2026/03/with-the-pentagons-fy27-budget-request-forthcoming-its-unclear-if-it-will-hit-1-5-trillion/",
+      "date": "2026-03-18T15:22:54.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "Army&#8217;s new, flexible approach to EW could lead to programmatic changes: Official",
+      "link": "https://breakingdefense.com/2026/03/armys-new-flexible-approach-to-ew-could-lead-to-programmatic-changes-official/",
+      "date": "2026-03-18T14:59:37.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "Trump wants to overthrow the Cuban president",
+      "link": "https://www.aljazeera.com/video/2026/3/18/trump-wants-to-overthrow-the-cuban-president?traffic_source=rss",
+      "date": "2026-03-18T14:59:16.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "The Trump administration says it wants to remove Cuba’s President Miguel Diaz-Canel by the end of the year."
+    },
+    {
+      "title": "Will Congress back an Iran war supplemental? Rep. Rob Wittman thinks so.",
+      "link": "https://breakingdefense.com/2026/03/will-congress-back-an-iran-war-supplemental-rep-rob-wittman-thinks-so/",
+      "date": "2026-03-18T13:42:06.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
     {
       "title": "It’s a flight-proven hypersonic missile powered for the first time by a storable liquid engine",
       "link": "https://breakingdefense.com/2026/03/its-a-flight-proven-hypersonic-missile-powered-for-the-first-time-by-a-storable-liquid-engine/",
@@ -12,96 +156,6 @@
       "sourceId": "breaking_defense",
       "category": "defense",
       "snippet": ""
-    },
-    {
-      "title": "Japan beat South Korea 4-1 to meet Australia in Women’s Asian Cup final",
-      "link": "https://www.aljazeera.com/sports/2026/3/18/japan-beats-south-korea-4-1-to-meet-australia-in-womens-asian-cup-final?traffic_source=rss",
-      "date": "2026-03-18T11:58:51.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Japan will face Australia in the final of the 2026 AFC Women&#039;s Asian Cup after beating South Korea 2-1 in the semifinal."
-    },
-    {
-      "title": "Olympics urged to drop reported gender test plans for female athletes",
-      "link": "https://www.aljazeera.com/sports/2026/3/18/olympics-urged-to-drop-reported-gender-test-plans-for-female-athletes?traffic_source=rss",
-      "date": "2026-03-18T11:41:09.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Global sports leaders ‌reached consensus on a new set of eligibility criteria for transgender athletes in February."
-    },
-    {
-      "title": "Turkiye says NATO bringing in more defences after missile interceptions",
-      "link": "https://www.aljazeera.com/news/2026/3/18/turkiye-says-nato-bringing-in-more-defences-after-missile-interceptions?traffic_source=rss",
-      "date": "2026-03-18T11:24:40.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "NATO to deploy a new Patriot missile defence unit to southern Turkiye&#039;s Incirlik Air Base."
-    },
-    {
-      "title": "Iranian women footballers arrive in eastern Turkiye, on home border",
-      "link": "https://www.aljazeera.com/sports/2026/3/18/iran-womens-football-team-arrive-in-eastern-turkiye-on-home-border?traffic_source=rss",
-      "date": "2026-03-18T11:23:56.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "The team is on last leg of its journey home from Australia after Asian Cup, which began before conflict in Middle East."
-    },
-    {
-      "title": "How Iran defied Trump threats to emerge as Strait of Hormuz gatekeeper",
-      "link": "https://www.aljazeera.com/news/2026/3/18/how-iran-defied-trump-threats-to-emerge-as-strait-of-hormuz-gatekeeper?traffic_source=rss",
-      "date": "2026-03-18T11:17:38.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Trump has called on other navies to help open the strait, but countries are instead striking deals with Iran."
-    },
-    {
-      "title": "Israel says it kills Iran intel minister in third assassination in two days",
-      "link": "https://www.aljazeera.com/news/2026/3/18/israel-says-it-killed-iran-intel-minister-in-third-assassination-in-2-days?traffic_source=rss",
-      "date": "2026-03-18T10:33:12.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Israel gives military permission to strike Iranian leaders at will as Iran has yet to confirm death of Esmaeil Khatib."
-    },
-    {
-      "title": "Senegal to appeal decision to award AFCON title to Morocco",
-      "link": "https://www.aljazeera.com/sports/2026/3/18/senegal-to-appeal-decision-to-award-afcon-title-to-morocco?traffic_source=rss",
-      "date": "2026-03-18T10:25:44.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Morocco were awarded the 2025 AFCON title following an appeal to CAF regarding Senegal&#039;s walk-off protest in final."
-    },
-    {
-      "title": "Iranian diaspora celebrates Persian festival wrapped in US, Israeli flags",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/18/iranian-diaspora-celebrates-persian-festival-wrapped-in-us-israeli-flags?traffic_source=rss",
-      "date": "2026-03-18T10:22:55.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Dancing on a beach in Barcelona, members of the Iranian diaspora celebrated the Persian festival of Chaharshanbe Suri."
-    },
-    {
-      "title": "Colombian president says Gaza was an ‘experiment’ for wider destruction",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/18/colombian-president-says-gaza-was-an-experiment-for-wider-destruction?traffic_source=rss",
-      "date": "2026-03-18T10:20:51.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Colombian President Gustavo Petro says the war in Gaza was an “experiment” designed to intimidate the Global South."
-    },
-    {
-      "title": "Rama in Lebanon",
-      "link": "https://www.aljazeera.com/video/on-the-ground/2026/3/18/rama-in-lebanon?traffic_source=rss",
-      "date": "2026-03-18T10:17:20.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "A video diary for Al Jazeera"
     },
     {
       "title": "In tiny Estonia, drones lead booming defense expansion",
@@ -176,48 +230,12 @@
       "snippet": ""
     },
     {
-      "title": "Iran conflict shines a light on UK’s ‘stretched’ naval capabilities: Analysts",
-      "link": "https://breakingdefense.com/2026/03/iran-conflict-shines-a-light-on-uks-stretched-naval-capabilities-analysts/",
-      "date": "2026-03-17T16:37:27.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
       "title": "Takeaways from China’s National People’s Congress Meeting",
       "link": "https://warontherocks.com/2026/03/takeaways-from-chinas-national-peoples-congress-meeting/",
       "date": "2026-03-17T16:03:31.000Z",
       "source": "War on the Rocks",
       "sourceId": "war_on_rocks",
       "category": "strategic",
-      "snippet": ""
-    },
-    {
-      "title": "To accelerate space capabilities, Pentagon ups Golden Dome spending plan by $10 billion",
-      "link": "https://breakingdefense.com/2026/03/to-accelerate-space-capabilities-pentagon-ups-golden-dome-spending-plan-by-10-billion/",
-      "date": "2026-03-17T14:51:16.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "On the flightline with Swedish fighter jets on a NATO mission",
-      "link": "https://breakingdefense.com/2026/03/on-the-flightline-with-swedish-fighter-jets-on-a-nato-mission/",
-      "date": "2026-03-17T13:26:46.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "Navy taps Gecko Robotics for ship-scaling robots to identify repairs in Pacific Fleet",
-      "link": "https://breakingdefense.com/2026/03/navy-taps-gecko-robotics-for-ship-scaling-robots-to-identify-repairs-in-pacific-fleet/",
-      "date": "2026-03-17T10:00:00.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
       "snippet": ""
     },
     {
@@ -239,15 +257,6 @@
       "snippet": ""
     },
     {
-      "title": "Army awards Anduril counter-drone task order as first in new $20B &#8216;contract vehicle&#8217;",
-      "link": "https://breakingdefense.com/2026/03/army-awards-anduril-counter-drone-task-order-as-first-in-new-20b-contract-vehicle/",
-      "date": "2026-03-16T20:38:36.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
       "title": "Investing in Women is Investing in the Future",
       "link": "https://warontherocks.com/2026/03/investing-in-women-is-investing-in-the-future/",
       "date": "2026-03-16T15:45:57.000Z",
@@ -264,26 +273,9 @@
       "sourceId": "arms_control",
       "category": "policy",
       "snippet": ""
-    },
-    {
-      "title": "The Danger of Vibe Patriotism in Defense Tech",
-      "link": "https://warontherocks.com/2026/03/the-danger-of-vibe-patriotism-in-defense-tech/",
-      "date": "2026-03-16T08:00:58.000Z",
-      "source": "War on the Rocks",
-      "sourceId": "war_on_rocks",
-      "category": "strategic",
-      "snippet": ""
     }
   ],
   "alerts": [
-    {
-      "level": "CRITICAL",
-      "keyword": "strait of hormuz",
-      "title": "How Iran defied Trump threats to emerge as Strait of Hormuz gatekeeper",
-      "source": "Al Jazeera — Middle East",
-      "date": "2026-03-18T11:17:38.000Z",
-      "link": "https://www.aljazeera.com/news/2026/3/18/how-iran-defied-trump-threats-to-emerge-as-strait-of-hormuz-gatekeeper?traffic_source=rss"
-    },
     {
       "level": "CRITICAL",
       "keyword": "escalation",
