@@ -1,9 +1,99 @@
 {
-  "lastUpdated": "2026-03-17T18:43:54.884Z",
+  "lastUpdated": "2026-03-18T01:07:01.298Z",
   "feedCount": 5,
   "totalItems": 40,
   "alertCount": 10,
   "headlines": [
+    {
+      "title": "Iran war live: Tehran mourns Larijani, Soleimani; 2 killed in Israel",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/3/18/iran-war-live-tehran-mourns-larijani-soleimani-two-killed-in-israel?traffic_source=rss",
+      "date": "2026-03-18T00:00:00.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Iran launches attacks on Israel, killing two, as Bahrain, Qatar, UAE, and Saudi Arabia intercept more missiles, drones."
+    },
+    {
+      "title": "Israel killed Larijani hoping to ‘torpedo’ chance of US-Iran talks",
+      "link": "https://www.aljazeera.com/video/quotable/2026/3/17/israel-killed-larijani-hoping-to-torpedo-chance-of-us-iran-talks?traffic_source=rss",
+      "date": "2026-03-17T23:57:26.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Marwan Bishara says Israel’s assassination of Larijani is calculated to prolong the war and bring about regime change."
+    },
+    {
+      "title": "Pakistan ‘strongly’ rejects claim it struck Kabul hospital",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/pakistan-strongly-rejects-claim-it-struck-kabul-hospital?traffic_source=rss",
+      "date": "2026-03-17T23:57:13.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Pakistan’s Minister for Information “strongly” rejects the claim Pakistan was behind an air strike on a Kabul hospital."
+    },
+    {
+      "title": "Families search for loved ones after deadly attack on Kabul hospital",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/families-search-for-loved-ones-after-deadly-attack-on-kabul-hospital?traffic_source=rss",
+      "date": "2026-03-17T23:56:25.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Family members have gathered by the rubble of a hospital in Kabul searching for their loved ones after an air attack."
+    },
+    {
+      "title": "Chile’s President Kast tosses out dozens of environmental protections",
+      "link": "https://www.aljazeera.com/news/2026/3/17/chiles-president-kast-tosses-out-dozens-of-environmental-protections?traffic_source=rss",
+      "date": "2026-03-17T23:28:03.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Chilean Environment Ministry suspends 43 measures touching on issues such as pollution, emissions and national parks."
+    },
+    {
+      "title": "CAF strips Senegal of AFCON title, Morocco declared African champions",
+      "link": "https://www.aljazeera.com/sports/2026/3/17/caf-strips-senegal-of-afcon-title-morocco-declared-african-champions?traffic_source=rss",
+      "date": "2026-03-17T22:57:33.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Governing body&#039;s appeal board rules Senegal forfeited final after players walked off pitch over referring decision."
+    },
+    {
+      "title": "Ireland’s Micheal Martin and Trump in awkward St Patrick’s Day exchange",
+      "link": "https://www.aljazeera.com/news/2026/3/17/irelands-micheal-martin-and-trump-in-awkward-st-patricks-day-exchange?traffic_source=rss",
+      "date": "2026-03-17T22:53:11.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Ireland, which took strong stance on Gaza genocide, is similarly robust on Iran, but Martin is criticised for passivity."
+    },
+    {
+      "title": "Vinicius Jr scores twice as Real Madrid knock Man City out of UCL last 16",
+      "link": "https://www.aljazeera.com/sports/2026/3/17/vinicius-jr-scores-twice-as-real-madrid-knock-man-city-out-of-ucl-last-16?traffic_source=rss",
+      "date": "2026-03-17T22:30:35.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Madrid ease into quarterfinals by beating 10-man City 2-1 at the Etihad to complete a 5-1 aggregate victory."
+    },
+    {
+      "title": "Argentina officially withdraws from World Health Organization, following US",
+      "link": "https://www.aljazeera.com/news/2026/3/17/argentina-officially-withdraws-from-world-health-organization-following-us?traffic_source=rss",
+      "date": "2026-03-17T22:22:20.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Argentinian President Javier Milei has criticised the global health body for its response to the COVID-19 pandemic."
+    },
+    {
+      "title": "Pakistan denies hospital strike in Afghanistan as death toll hits 400",
+      "link": "https://www.aljazeera.com/news/2026/3/17/pakistan-denies-hospital-strike-in-afghanistan-as-death-toll-hits-400?traffic_source=rss",
+      "date": "2026-03-17T22:06:38.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Pakistani minister &#039;strongly rejects&#039; Afghan government&#039;s accusation, saying his country only targets military sites."
+    },
     {
       "title": "UK defense official: Boeing has been &#8216;troubled partner&#8217; in much delayed E-7 program",
       "link": "https://breakingdefense.com/2026/03/uk-defense-official-boeing-has-been-troubled-partner-in-much-delayed-e-7-program/",
@@ -23,24 +113,6 @@
       "snippet": ""
     },
     {
-      "title": "US confirms 157 killed in maritime strikes experts call ‘extrajudicial’",
-      "link": "https://www.aljazeera.com/news/2026/3/17/us-confirms-157-killed-in-maritime-strikes-experts-call-extrajudicial?traffic_source=rss",
-      "date": "2026-03-17T18:10:11.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Defence official tells Congress that 47 alleged drug-trafficking vessels have been struck since campaign began."
-    },
-    {
-      "title": "Starmer, Zelenskyy urge ‘focus’ on Ukraine as Iran war diverts attention",
-      "link": "https://www.aljazeera.com/news/2026/3/17/starmer-tells-zelenskyy-focus-on-ukraine-as-iran-war-diverts-attention?traffic_source=rss",
-      "date": "2026-03-17T17:59:21.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "As leaders of Ukraine and UK meet, Turkiye&#039;s top diplomat reiterates his country&#039;s offer to host Russia-Ukraine talks."
-    },
-    {
       "title": "Army is not satisfied with readiness rates, says service&#8217;s undersecretary",
       "link": "https://breakingdefense.com/2026/03/army-is-not-satisfied-with-readiness-rates-says-services-undersecretary/",
       "date": "2026-03-17T17:23:09.000Z",
@@ -48,42 +120,6 @@
       "sourceId": "breaking_defense",
       "category": "defense",
       "snippet": ""
-    },
-    {
-      "title": "Video: Man rescued from under rubble after attack in Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/video-man-rescued-from-under-rubble-after-attack-in-iran?traffic_source=rss",
-      "date": "2026-03-17T17:05:28.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "A man was rescued from under the rubble of a destroyed building in Iran following an Israeli strike."
-    },
-    {
-      "title": "Ex-Belgian diplomat ordered to stand trial over murder of Congo’s Lumumba",
-      "link": "https://www.aljazeera.com/news/2026/3/17/belgium-diplomat-ordered-to-stand-trial-over-killing-of-patrice-lumumba?traffic_source=rss",
-      "date": "2026-03-17T17:04:55.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Etienne Davignon, 93, is the only one alive among 10 Belgians accused by the Congolese leader&#039;s family of complicity."
-    },
-    {
-      "title": "Israel carrying out ‘mass expulsion of Palestinians’ in West Bank, UN warns",
-      "link": "https://www.aljazeera.com/news/2026/3/17/israel-carrying-out-mass-expulsion-of-palestinians-in-west-bank-un-warns?traffic_source=rss",
-      "date": "2026-03-17T17:04:44.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "UN rights office says more than 36,000 Palestinians forcibly displaced in a year due to Israeli settler, army violence."
-    },
-    {
-      "title": "LIVE: Manchester City vs Real Madrid – Champions League last 16",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/3/17/live-manchester-city-vs-real-madrid-champions-league-last-16?traffic_source=rss",
-      "date": "2026-03-17T17:00:33.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Follow the build-up, analysis and live text commentary of the game as City try to overturn a 3-0 first-leg defeat."
     },
     {
       "title": "Iran conflict shines a light on UK’s ‘stretched’ naval capabilities: Analysts",
@@ -95,15 +131,6 @@
       "snippet": ""
     },
     {
-      "title": "Why Iranians are taking to Tehran’s streets during war",
-      "link": "https://www.aljazeera.com/video/the-take-2/2026/3/17/aje-onl-irn_fromwithin_av_v3-170326?traffic_source=rss",
-      "date": "2026-03-17T16:32:46.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "As bombs fall and millions are displaced, protests grow in Iran. Could this war be strengthening Iran’s resolve?"
-    },
-    {
       "title": "Takeaways from China’s National People’s Congress Meeting",
       "link": "https://warontherocks.com/2026/03/takeaways-from-chinas-national-peoples-congress-meeting/",
       "date": "2026-03-17T16:03:31.000Z",
@@ -111,33 +138,6 @@
       "sourceId": "war_on_rocks",
       "category": "strategic",
       "snippet": ""
-    },
-    {
-      "title": "Video: What we know about Israel’s assault on southern Lebanon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/video-what-we-know-about-israels-assault-on-southern-lebanon?traffic_source=rss",
-      "date": "2026-03-17T15:58:36.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "The Israeli military has launched waves of air raids across southern Lebanon."
-    },
-    {
-      "title": "Drones expand the deadly front lines of Sudan’s devastating war",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/drones-expand-the-deadly-front-lines-of-sudans-devastating-war?traffic_source=rss",
-      "date": "2026-03-17T15:46:39.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "The United Nations is warning that escalating drone warfare in Sudan has killed more than 200 people in over a week."
-    },
-    {
-      "title": "What the Iran war looks like from the occupied West Bank",
-      "link": "https://www.aljazeera.com/video/the-take-2/2026/3/17/aje-onl-tt_irn_viewfromowb_av_v2-160326?traffic_source=rss",
-      "date": "2026-03-17T15:30:37.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Iran missile shrapnel falls on West Bank Palestinians as settler attacks, Israeli raids and restrictions continue."
     },
     {
       "title": "To accelerate space capabilities, Pentagon ups Golden Dome spending plan by $10 billion",
