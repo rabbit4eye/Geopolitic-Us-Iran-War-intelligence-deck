@@ -1,44 +1,98 @@
 {
-  "lastUpdated": "2026-03-18T18:42:07.643Z",
+  "lastUpdated": "2026-03-19T01:06:20.076Z",
   "feedCount": 5,
   "totalItems": 40,
   "alertCount": 9,
   "headlines": [
     {
-      "title": "Could the Iran war trigger a global recession?",
-      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/3/18/could-the-iran-war-trigger-a-global-recession?traffic_source=rss",
-      "date": "2026-03-18T18:20:00.000Z",
+      "title": "Iran war live: Qatar, Saudi energy sites attacked; Riyadh says trust gone",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/3/19/iran-war-live-qatar-saudi-energy-sites-attacked-riyadh-says-trust-gone?traffic_source=rss",
+      "date": "2026-03-19T00:30:00.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Energy prices are surging as the Iran war disrupts supply, raising risks for the US, China and Europe."
+      "snippet": "Iranian strikes on Gulf energy come after Israel attacked Iran&#039;s South Pars gasfield and navy assets in the north."
     },
     {
-      "title": "Trump temporarily waives century-old shipping law amid rising fuel costs",
-      "link": "https://www.aljazeera.com/economy/2026/3/18/trump-temporarily-waives-century-old-shipping-law-amid-rising-fuel-costs?traffic_source=rss",
-      "date": "2026-03-18T17:56:26.000Z",
+      "title": "Qatar expels Iranian attaches after LNG facility strike",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/qatar-expels-iranian-attaches-after-lng-facility-strike?traffic_source=rss",
+      "date": "2026-03-19T00:20:00.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Lifting the Jones Act temporarily allows foreign ships to transport cargo across the US, but critics question efficacy."
+      "snippet": "Qatar is expelling Iran’s military and security attaches after Iranian missiles caused “extensive damage” to Ras Laffan."
     },
     {
-      "title": "Who will answer for the Iranian schoolchildren killed in Minab?",
-      "link": "https://www.aljazeera.com/video/the-take-2/2026/3/18/aje-onl-usa_iranaccountability_av_v2-180326?traffic_source=rss",
-      "date": "2026-03-18T17:53:40.000Z",
+      "title": "Funerals held for Afghans killed in Pakistani strike on Kabul hospital",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/funerals-held-for-afghans-killed-in-pakistani-strike-on-kabul-hospital?traffic_source=rss",
+      "date": "2026-03-19T00:14:18.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "An investigation finds the Minab school strike may have been deliberate. Who can hold the US accountable?"
+      "snippet": "Afghans are burying the victims from a Pakistani air strike on a drug rehabilitation centre in Kabul."
     },
     {
-      "title": "Iranian women’s football team return to Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/18/iranian-womens-football-team-return-to-iran?traffic_source=rss",
-      "date": "2026-03-18T17:51:55.000Z",
+      "title": "At least eight killed as Brazilian police carry out lethal favela raid",
+      "link": "https://www.aljazeera.com/news/2026/3/19/at-least-eight-killed-as-brazilian-police-carry-out-lethal-favela-raid?traffic_source=rss",
+      "date": "2026-03-19T00:07:24.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "The Iranian national women&#039;s football team has returned to Iran, including several players who withdrew asylum requests."
+      "snippet": "Brazilian police say that raid in Rio de Janeiro targeted a leader of Red Command, a powerful criminal group."
+    },
+    {
+      "title": "Dolores Huerta, sexual violence survivors speak out against Cesar Chavez",
+      "link": "https://www.aljazeera.com/news/2026/3/18/dolores-huerta-sexual-violence-survivors-speak-out-against-cesar-chavez?traffic_source=rss",
+      "date": "2026-03-18T23:22:33.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Activists and politicians have called for the late Chavez to have his honours stripped after accusations of rape emerge."
+    },
+    {
+      "title": "What are Iran’s options as war goes on?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/3/18/what-are-irans-options-as-war-goes-on?traffic_source=rss",
+      "date": "2026-03-18T22:58:29.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Tehran defiant as US and Israeli attacks continue."
+    },
+    {
+      "title": "Liverpool thrash Galatasaray 4-0 to reach Champions League quarterfinals",
+      "link": "https://www.aljazeera.com/sports/2026/3/18/liverpool-thrash-galatasaray-4-0-to-reach-champions-league-quarterfinals?traffic_source=rss",
+      "date": "2026-03-18T22:27:51.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Liverpool book quarterfinal with champions Paris Saint-Germain after dismantling Turkish giants Galatasaray at Anfield."
+    },
+    {
+      "title": "Leader of Ecuador-based criminal group Los Lobos arrested in Mexico City",
+      "link": "https://www.aljazeera.com/news/2026/3/18/leader-of-ecuadorean-criminal-group-los-lobos-apprehended-in-mexico-city?traffic_source=rss",
+      "date": "2026-03-18T21:55:30.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Angel Esteban Aguilar is suspected of masterminding the 2023 assassination of an Ecuadorian presidential candidate."
+    },
+    {
+      "title": "Nigeria’s President Tinubu meets royals in UK state visit",
+      "link": "https://www.aljazeera.com/news/2026/3/18/nigerias-president-tinubu-meets-royals-in-historic-uk-state-visit?traffic_source=rss",
+      "date": "2026-03-18T21:46:17.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "With trade between the two countries at a record high, Charles is using the visit to highlight the pair&#039;s deep ties."
+    },
+    {
+      "title": "Iranians burn Trump, Netanyahu effigies at warship victim rally",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/18/iranians-burn-trump-netanyahu-effigies-at-warship-victim-rally?traffic_source=rss",
+      "date": "2026-03-18T20:42:32.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Iranians in Tehran burned effigies of Israeli PM Netanyahu and US President Trump."
     },
     {
       "title": "Syria and the Islamic State: Analyzing America’s Departure",
@@ -59,42 +113,6 @@
       "snippet": ""
     },
     {
-      "title": "LIVE: Liverpool vs Galatasaray – Champions League last 16",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/3/18/live-liverpool-vs-galatasaray-champions-league-last-16?traffic_source=rss",
-      "date": "2026-03-18T17:10:14.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Follow the build-up, analysis and live text commentary of the game as Liverpool host the Turkish champions at Anfield."
-    },
-    {
-      "title": "Gunshots disperse crowd during Persian New Year festivities in Tehran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/18/gunshots-disperse-crowd-during-persian-new-year-festivities-in-tehran?traffic_source=rss",
-      "date": "2026-03-18T16:51:05.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "A crowd celebrating Chaharshanbe Suri in Tehran were forced to flee after gunshots disrupted their event."
-    },
-    {
-      "title": "President or Congress? Who in the US has the power to declare war?",
-      "link": "https://www.aljazeera.com/news/2026/3/18/president-or-congress-who-in-the-us-has-the-power-to-declare-war?traffic_source=rss",
-      "date": "2026-03-18T16:48:57.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "US presidents have long bypassed Congress&#039;s authority and dissenting lawmakers have often tried to fight back."
-    },
-    {
-      "title": "Pakistan and Afghanistan agree to temporary Eid al-Fitr ‘pause’ in conflict",
-      "link": "https://www.aljazeera.com/news/2026/3/18/pakistan-and-afghanistan-agree-to-temporary-eid-al-fitr-pause-in-conflict?traffic_source=rss",
-      "date": "2026-03-18T16:47:12.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Pakistani minister says five-day pause, to begin at midnight Thursday, requested by Saudi Arabia, Qatar and Turkiye."
-    },
-    {
       "title": "Pentagon CTO ‘pretty confident’ about life after Anthropic",
       "link": "https://breakingdefense.com/2026/03/pentagon-cto-pretty-confident-about-life-after-anthropic/",
       "date": "2026-03-18T16:30:00.000Z",
@@ -102,15 +120,6 @@
       "sourceId": "breaking_defense",
       "category": "defense",
       "snippet": ""
-    },
-    {
-      "title": "How Los Angeles’s Iranian diaspora is confronting the US war on Iran",
-      "link": "https://www.aljazeera.com/news/longform/2026/3/18/how-los-angeless-iranian-diaspora-is-confronting-the-us-war-on-iran?traffic_source=rss",
-      "date": "2026-03-18T15:42:59.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Residents are divided between supporting and opposing the US and Israeli war against Iran, amid fears for loved ones."
     },
     {
       "title": "With the Pentagon’s FY27 budget request forthcoming, it&#8217;s unclear if it will hit $1.5 trillion",
@@ -129,15 +138,6 @@
       "sourceId": "breaking_defense",
       "category": "defense",
       "snippet": ""
-    },
-    {
-      "title": "Trump wants to overthrow the Cuban president",
-      "link": "https://www.aljazeera.com/video/2026/3/18/trump-wants-to-overthrow-the-cuban-president?traffic_source=rss",
-      "date": "2026-03-18T14:59:16.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "The Trump administration says it wants to remove Cuba’s President Miguel Diaz-Canel by the end of the year."
     },
     {
       "title": "Will Congress back an Iran war supplemental? Rep. Rob Wittman thinks so.",
@@ -212,7 +212,7 @@
       "snippet": ""
     },
     {
-      "title": "New Space Force acquisition portfolios include space control, orbital warfare",
+      "title": "New Space Force acquisition portfolios to cover space control, orbital warfare",
       "link": "https://breakingdefense.com/2026/03/new-space-force-acquisition-portfolios-include-space-control-orbital-warfare/",
       "date": "2026-03-17T18:26:30.000Z",
       "source": "Breaking Defense",
