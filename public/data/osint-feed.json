@@ -1,26 +1,152 @@
 {
-  "lastUpdated": "2026-03-20T12:30:53.668Z",
+  "lastUpdated": "2026-03-20T18:31:17.174Z",
   "feedCount": 5,
   "totalItems": 40,
   "alertCount": 12,
   "headlines": [
     {
-      "title": "Slovenia heads to polls with diverging views on Israel in focus",
-      "link": "https://www.aljazeera.com/news/2026/3/20/slovenia-heads-to-polls-with-diverging-views-on-israel-in-focus?traffic_source=rss",
-      "date": "2026-03-20T11:51:23.000Z",
+      "title": "Cuba ‘categorically’ rejects prospect of removing Diaz-Canel in US talks",
+      "link": "https://www.aljazeera.com/news/2026/3/20/cuba-categorically-rejects-prospect-of-removing-diaz-canel-in-us-talks?traffic_source=rss",
+      "date": "2026-03-20T18:10:24.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Slovenia&#039;s election sees the centre-left coalition take on the populist right amid claims of foreign meddling."
+      "snippet": "Minister Carlos Fernandez de Cossio says he is open to US trade talks but refused to entertain a leadership shake-up."
     },
     {
-      "title": "Israel says it hit Syrian army camps in the south after Druze ‘attacked’",
-      "link": "https://www.aljazeera.com/news/2026/3/20/israel-says-it-hit-syrian-army-camps-in-the-south-after-druze-attacked?traffic_source=rss",
-      "date": "2026-03-20T11:46:30.000Z",
+      "title": "Space Force shifts GPS III launch from ULA to SpaceX",
+      "link": "https://breakingdefense.com/2026/03/space-force-shifts-gps-iii-launch-from-ula-to-spacex/",
+      "date": "2026-03-20T17:05:00.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "Iran’s Khamenei says enemy ‘defeated’ in written Nowruz message",
+      "link": "https://www.aljazeera.com/news/2026/3/20/irans-khamenei-says-enemy-defeated-in-written-nowruz-message?traffic_source=rss",
+      "date": "2026-03-20T16:38:53.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Israeli air strikes target army camps in response to alleged attacks on the Druze community in Suwayda on Thursday."
+      "snippet": "Mojtaba Khamenei has not been seen in public since he replaced his slain father as Iran&#039;s supreme leader."
+    },
+    {
+      "title": "Answering the demand signal to move faster, field sooner, iterate continuously",
+      "link": "https://breakingdefense.com/2026/03/answering-the-demand-signal-to-move-faster-field-sooner-iterate-continuously/",
+      "date": "2026-03-20T16:31:42.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "Could Iran war trigger the next global food shock?",
+      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/3/20/could-iran-war-trigger-the-next-global-food-shock?traffic_source=rss",
+      "date": "2026-03-20T16:20:00.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "From factories to supermarket shelves, the Iran war is disrupting global supply chains."
+    },
+    {
+      "title": "Air raid sirens blare during Eid call to prayer in Kuwait",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/air-raid-sirens-blare-during-eid-call-to-prayer-in-kuwait?traffic_source=rss",
+      "date": "2026-03-20T16:05:39.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Air raid sirens sounded across Kuwait City as Iran targeted US assets with missiles and drones."
+    },
+    {
+      "title": "‘Cowards’: Trump slams NATO over lack of support in US–Israel war on Iran",
+      "link": "https://www.aljazeera.com/news/2026/3/20/cowards-trump-slams-nato-over-lack-of-support-in-us-israel-war-on?traffic_source=rss",
+      "date": "2026-03-20T15:49:05.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Trump is calling for US allies to help guarantee shipping through the Strait of Hormuz as NATO relocates Iraq personnel."
+    },
+    {
+      "title": "Guardiola sidesteps Arsenal League Cup final rivalry as ‘world collapses’",
+      "link": "https://www.aljazeera.com/sports/2026/3/20/guardiola-sidesteps-arsenal-rivalry-while-world-is-going-to-collapse?traffic_source=rss",
+      "date": "2026-03-20T15:47:05.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Manchester City boss Pep Guardiola refuses to talk rivalry with Arsenal at a time when &#039;the world is going to collapse&#039;."
+    },
+    {
+      "title": "What US-Israeli targets reveal about Iran war goals three weeks in",
+      "link": "https://www.aljazeera.com/news/2026/3/20/what-us-israeli-targets-reveal-about-iran-war-goals-three-weeks-in?traffic_source=rss",
+      "date": "2026-03-20T15:35:06.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "From degradation of military to efforts to foment unrest, targets show array of objectives but no single endgame."
+    },
+    {
+      "title": "Israel&#8217;s Elbit reveals military contract to put high-powered laser weapon on aircraft",
+      "link": "https://breakingdefense.com/2026/03/israels-elbit-reveals-military-contract-to-put-high-powered-laser-weapon-on-aircraft/",
+      "date": "2026-03-20T15:32:00.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "Switzerland announces halt to weapons exports to US amid Iran war",
+      "link": "https://www.aljazeera.com/news/2026/3/20/switzerland-announces-halt-to-weapons-exports-to-us-amid-iran-war?traffic_source=rss",
+      "date": "2026-03-20T15:29:24.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Move comes as Swiss government also closed its airspace to US military flights directly linked to the Iran war."
+    },
+    {
+      "title": "US easing ban on Iranian oil would signal ‘beginning of the end of war’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/us-easing-ban-on-iranian-oil-would-signal-beginning-of-the-end-of?traffic_source=rss",
+      "date": "2026-03-20T15:12:02.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "The US says it is considering removing sanctions on Iranian oil stranded on tankers at sea."
+    },
+    {
+      "title": "Will Russian oil be the biggest winner in the US-Israel war on Iran?",
+      "link": "https://www.aljazeera.com/features/2026/3/20/will-russian-oil-be-the-biggest-winner-in-the-us-israel-war-on-iran?traffic_source=rss",
+      "date": "2026-03-20T14:48:43.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "The price of Russian Urals has soared in recent weeks. How Russia - and other energy producing nations - could profit."
+    },
+    {
+      "title": "Conflict and Consequences",
+      "link": "https://warontherocks.com/2026/03/conflict-and-consequences/",
+      "date": "2026-03-20T14:00:04.000Z",
+      "source": "War on the Rocks",
+      "sourceId": "war_on_rocks",
+      "category": "strategic",
+      "snippet": ""
+    },
+    {
+      "title": "India seeking to join European sixth-generation fighter program: Reports",
+      "link": "https://breakingdefense.com/2026/03/india-seeking-to-join-european-sixth-generation-fighter-program-reports/",
+      "date": "2026-03-20T13:52:18.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "What is the Pentagon’s ‘Space Data Network,’ and why does it matter for Golden Dome?",
+      "link": "https://breakingdefense.com/2026/03/what-is-the-pentagons-space-data-network-and-why-does-it-matter-for-golden-dome/",
+      "date": "2026-03-20T13:26:31.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
     },
     {
       "title": "Air Force counter-drone lab requests ideas to track and kill small UAS",
@@ -32,79 +158,7 @@
       "snippet": ""
     },
     {
-      "title": "Refugee Council questions Australia’s Iran strategy at Women’s Asian Cup",
-      "link": "https://www.aljazeera.com/sports/2026/3/20/refugee-council-questions-australias-iran-strategy-at-womens-asian-cup?traffic_source=rss",
-      "date": "2026-03-20T11:21:01.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Women&#039;s Asian Cup hosts Australia face criticism for the political tug of war over the Iranian women&#039;s football team."
-    },
-    {
-      "title": "Iran today, Africa tomorrow",
-      "link": "https://www.aljazeera.com/opinions/2026/3/20/iran-today-africa-tomorrow?traffic_source=rss",
-      "date": "2026-03-20T11:08:08.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "What is being done to Iran today could be done to Africa tomorrow. Africa must reject this illegal war."
-    },
-    {
-      "title": "Iran does not need to close the Strait of Hormuz to disrupt it",
-      "link": "https://www.aljazeera.com/opinions/2026/3/20/iran-does-not-need-to-close-the-strait-of-hormuz-to-disrupt-it?traffic_source=rss",
-      "date": "2026-03-20T11:05:25.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "The real risk lies not in closure, but in disruption in the strait’s approaches."
-    },
-    {
-      "title": "Iran developing a ‘vetting system’ for Strait of Hormuz transit: Report",
-      "link": "https://www.aljazeera.com/news/2026/3/20/iran-developing-a-vetting-system-for-strait-of-hormuz-transit-report?traffic_source=rss",
-      "date": "2026-03-20T10:13:07.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Lloyd&#039;s List reports that ships could be allowed to pass through &#039;safe corridor&#039; once they are approved by IRGC."
-    },
-    {
-      "title": "Muslims celebrate Eid al-Fitr around the world amid shadow of war",
-      "link": "https://www.aljazeera.com/gallery/2026/3/20/photos-muslims-celebrate-eid-al-fitr-around-the-world-amid-shadow-of-war?traffic_source=rss",
-      "date": "2026-03-20T10:11:30.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "People gather with family and for congregational prayers to mark the end of the holy fasting month."
-    },
-    {
-      "title": "Eid celebrations dimmed by war and displacement across Middle East",
-      "link": "https://www.aljazeera.com/news/2026/3/20/eid-celebrations-dimmed-by-war-and-displacement-across-middle-east?traffic_source=rss",
-      "date": "2026-03-20T09:25:00.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Economic crises and conflict dampen traditional Eid celebrations in Iran, Gaza, and Lebanon."
-    },
-    {
-      "title": "Five problems the Iran war could solve for Israel’s Netanyahu",
-      "link": "https://www.aljazeera.com/news/2026/3/20/five-problems-the-iran-war-could-solve-for-israels-netanyahu?traffic_source=rss",
-      "date": "2026-03-20T09:17:59.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "From the Iranian threat to his own domestic legal and political troubles, war with Iran has advantages for Netanyahu."
-    },
-    {
-      "title": "Long before Trump: How US policy has harmed the environment for decades",
-      "link": "https://www.aljazeera.com/news/2026/3/20/long-before-trump-how-us-policy-has-harmed-the-environment-for-decades?traffic_source=rss",
-      "date": "2026-03-20T08:28:07.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Environment advocacy groups are suing the US government over climate change policy rollback."
-    },
-    {
-      "title": "Indirect Fire in the Global War on Terror and Today",
+      "title": "What It Was Like to Be Under Incoming Fire from the War on Terror to Today",
       "link": "https://warontherocks.com/2026/03/indirect-fire-in-the-global-war-on-terror-and-today/",
       "date": "2026-03-20T08:00:59.000Z",
       "source": "War on the Rocks",
@@ -212,63 +266,9 @@
       "snippet": ""
     },
     {
-      "title": "Gulf nations ‘trying to reach out’ for Ukrainian counter-drone capability",
-      "link": "https://breakingdefense.com/2026/03/gulf-nations-trying-to-reach-out-for-ukrainian-counter-drone-capability/",
-      "date": "2026-03-19T15:35:00.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "Hegseth confirms potential $200 billion request for Iran operations, but figure &#8216;could move&#8217;",
-      "link": "https://breakingdefense.com/2026/03/hegseth-confirms-potential-200-billion-request-for-iran-operations-but-figure-could-move/",
-      "date": "2026-03-19T14:16:37.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "Italy’s Leonardo closes on $1.9B Iveco land vehicle acquisition",
-      "link": "https://breakingdefense.com/2026/03/italys-leonardo-closes-on-1-9b-iveco-land-vehicle-acquisition/",
-      "date": "2026-03-19T13:55:24.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "Building partnerships as part of Saudi Arabia&#8217;s Vision 2030",
-      "link": "https://breakingdefense.com/2026/03/building-partnerships-as-part-of-saudi-arabias-vision-2030/",
-      "date": "2026-03-19T13:51:18.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "Capacity gap for 9 specialized components gnarls space supply chain: Study",
-      "link": "https://breakingdefense.com/2026/03/capacity-gap-for-9-specialized-components-gnarls-space-supply-chain-study/",
-      "date": "2026-03-19T11:30:00.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
       "title": "Countering Drones and the Pace of Modern War",
       "link": "https://warontherocks.com/2026/03/countering-drones-and-the-pace-of-modern-war/",
       "date": "2026-03-19T08:00:08.000Z",
-      "source": "War on the Rocks",
-      "sourceId": "war_on_rocks",
-      "category": "strategic",
-      "snippet": ""
-    },
-    {
-      "title": "The Inevitability of Chinese Military Purges",
-      "link": "https://warontherocks.com/2026/03/the-inevitability-of-chinese-military-purges/",
-      "date": "2026-03-19T07:30:00.000Z",
       "source": "War on the Rocks",
       "sourceId": "war_on_rocks",
       "category": "strategic",
@@ -279,18 +279,18 @@
     {
       "level": "CRITICAL",
       "keyword": "strait of hormuz",
-      "title": "Iran does not need to close the Strait of Hormuz to disrupt it",
+      "title": "‘Cowards’: Trump slams NATO over lack of support in US–Israel war on Iran",
       "source": "Al Jazeera — Middle East",
-      "date": "2026-03-20T11:05:25.000Z",
-      "link": "https://www.aljazeera.com/opinions/2026/3/20/iran-does-not-need-to-close-the-strait-of-hormuz-to-disrupt-it?traffic_source=rss"
+      "date": "2026-03-20T15:49:05.000Z",
+      "link": "https://www.aljazeera.com/news/2026/3/20/cowards-trump-slams-nato-over-lack-of-support-in-us-israel-war-on?traffic_source=rss"
     },
     {
-      "level": "CRITICAL",
-      "keyword": "strait of hormuz",
-      "title": "Iran developing a ‘vetting system’ for Strait of Hormuz transit: Report",
+      "level": "HIGH",
+      "keyword": "sanctions",
+      "title": "US easing ban on Iranian oil would signal ‘beginning of the end of war’",
       "source": "Al Jazeera — Middle East",
-      "date": "2026-03-20T10:13:07.000Z",
-      "link": "https://www.aljazeera.com/news/2026/3/20/iran-developing-a-vetting-system-for-strait-of-hormuz-transit-report?traffic_source=rss"
+      "date": "2026-03-20T15:12:02.000Z",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/us-easing-ban-on-iranian-oil-would-signal-beginning-of-the-end-of?traffic_source=rss"
     },
     {
       "level": "HIGH",
