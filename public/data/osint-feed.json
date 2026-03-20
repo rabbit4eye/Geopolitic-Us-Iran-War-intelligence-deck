@@ -1,98 +1,134 @@
 {
-  "lastUpdated": "2026-03-20T06:39:19.383Z",
+  "lastUpdated": "2026-03-20T12:30:53.668Z",
   "feedCount": 5,
   "totalItems": 40,
-  "alertCount": 9,
+  "alertCount": 12,
   "headlines": [
     {
-      "title": "Eid under siege: Little to celebrate in Gaza as Israel tightens chokehold",
-      "link": "https://www.aljazeera.com/opinions/2026/3/20/eid-under-siege-little-to-celebrate-in-gaza-as-israel-tightens-chokehold?traffic_source=rss",
-      "date": "2026-03-20T06:21:22.000Z",
+      "title": "Slovenia heads to polls with diverging views on Israel in focus",
+      "link": "https://www.aljazeera.com/news/2026/3/20/slovenia-heads-to-polls-with-diverging-views-on-israel-in-focus?traffic_source=rss",
+      "date": "2026-03-20T11:51:23.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Tighter restrictions on goods and aid are driving shortages, adding to the strain on families in Gaza on Eid."
+      "snippet": "Slovenia&#039;s election sees the centre-left coalition take on the populist right amid claims of foreign meddling."
     },
     {
-      "title": "Iran women’s football team feted in Tehran after asylum battle at Asian Cup",
-      "link": "https://www.aljazeera.com/sports/2026/3/20/iran-womens-football-team-feted-in-tehran-after-asylum-battle-at-asian-cup?traffic_source=rss",
-      "date": "2026-03-20T05:51:10.000Z",
+      "title": "Israel says it hit Syrian army camps in the south after Druze ‘attacked’",
+      "link": "https://www.aljazeera.com/news/2026/3/20/israel-says-it-hit-syrian-army-camps-in-the-south-after-druze-attacked?traffic_source=rss",
+      "date": "2026-03-20T11:46:30.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Iran’s national football team returned to their war-torn nation after several of the players sought asylum in Australia."
+      "snippet": "Israeli air strikes target army camps in response to alleged attacks on the Druze community in Suwayda on Thursday."
     },
     {
-      "title": "Iranian football players celebrated in Tehran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/iranian-football-players-celebrated-in-tehran?traffic_source=rss",
-      "date": "2026-03-20T05:10:56.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Iran’s national women’s football team has been given a hero’s welcome home, weeks after they were thrust into a crisis."
+      "title": "Air Force counter-drone lab requests ideas to track and kill small UAS",
+      "link": "https://breakingdefense.com/2026/03/air-force-counter-drone-lab-requests-ideas-to-track-and-kill-small-uas/",
+      "date": "2026-03-20T11:29:00.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
     },
     {
-      "title": "FIFA’s Gianni Infantino seemingly changes course on peace efforts",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/fifas-gianni-infantino-seemingly-changes-course-on-peace-efforts?traffic_source=rss",
-      "date": "2026-03-20T05:00:02.000Z",
+      "title": "Refugee Council questions Australia’s Iran strategy at Women’s Asian Cup",
+      "link": "https://www.aljazeera.com/sports/2026/3/20/refugee-council-questions-australias-iran-strategy-at-womens-asian-cup?traffic_source=rss",
+      "date": "2026-03-20T11:21:01.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "FIFA President Gianni Infantino said his organisation “can certainly not solve geopolitical conflicts.”"
+      "snippet": "Women&#039;s Asian Cup hosts Australia face criticism for the political tug of war over the Iranian women&#039;s football team."
     },
     {
-      "title": "Iran footballer Azmoun kicked off national team for disloyalty, say reports",
-      "link": "https://www.aljazeera.com/sports/2026/3/20/iran-footballer-azmoun-kicked-off-national-team-for-disloyalty-say-reports?traffic_source=rss",
-      "date": "2026-03-20T04:59:37.000Z",
+      "title": "Iran today, Africa tomorrow",
+      "link": "https://www.aljazeera.com/opinions/2026/3/20/iran-today-africa-tomorrow?traffic_source=rss",
+      "date": "2026-03-20T11:08:08.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Reports say Sardar Azmoun, who plays for UAE club Shabab Al-Ahli, was expelled for Instagram post with Dubai&#039;s ‌ruler."
+      "snippet": "What is being done to Iran today could be done to Africa tomorrow. Africa must reject this illegal war."
     },
     {
-      "title": "Japan vs Australia: Women’s Asian Cup final – team news, start and lineups",
-      "link": "https://www.aljazeera.com/sports/2026/3/20/japan-vs-australia-womens-asian-cup-final-team-news-start-and-lineups?traffic_source=rss",
-      "date": "2026-03-20T04:45:40.000Z",
+      "title": "Iran does not need to close the Strait of Hormuz to disrupt it",
+      "link": "https://www.aljazeera.com/opinions/2026/3/20/iran-does-not-need-to-close-the-strait-of-hormuz-to-disrupt-it?traffic_source=rss",
+      "date": "2026-03-20T11:05:25.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Hosts Australia will be hoping to turn the tables on Japan as they meet for a third time in the Asian Cup final."
+      "snippet": "The real risk lies not in closure, but in disruption in the strait’s approaches."
     },
     {
-      "title": "Why Pakistani farmers are suing two German companies for deadly 2022 floods",
-      "link": "https://www.aljazeera.com/features/2026/3/20/why-pakistani-farmers-are-suing-two-german-companies-for-deadly-2022-floods?traffic_source=rss",
-      "date": "2026-03-20T04:22:09.000Z",
+      "title": "Iran developing a ‘vetting system’ for Strait of Hormuz transit: Report",
+      "link": "https://www.aljazeera.com/news/2026/3/20/iran-developing-a-vetting-system-for-strait-of-hormuz-transit-report?traffic_source=rss",
+      "date": "2026-03-20T10:13:07.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Case relates to RWE and Heidelberg Materials, accused of emissions that intensified historic floods and destroyed farms."
+      "snippet": "Lloyd&#039;s List reports that ships could be allowed to pass through &#039;safe corridor&#039; once they are approved by IRGC."
     },
     {
-      "title": "Unpacking Netanyahu’s latest claims about the war on Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/unpacking-netanyahus-latest-claims-about-the-war-on-iran?traffic_source=rss",
-      "date": "2026-03-20T03:49:04.000Z",
+      "title": "Muslims celebrate Eid al-Fitr around the world amid shadow of war",
+      "link": "https://www.aljazeera.com/gallery/2026/3/20/photos-muslims-celebrate-eid-al-fitr-around-the-world-amid-shadow-of-war?traffic_source=rss",
+      "date": "2026-03-20T10:11:30.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Benjamin Netanyahu claimed to have made significant progress in 20 days of war on Iran but indicated more is to come."
+      "snippet": "People gather with family and for congregational prayers to mark the end of the holy fasting month."
     },
     {
-      "title": "Trump must ‘take the steering wheel back from the Israelis’ in Iran war",
-      "link": "https://www.aljazeera.com/video/quotable/2026/3/20/trump-must-take-the-steering-wheel-back-from-the-israelis-in-iran-war?traffic_source=rss",
-      "date": "2026-03-20T03:48:34.000Z",
+      "title": "Eid celebrations dimmed by war and displacement across Middle East",
+      "link": "https://www.aljazeera.com/news/2026/3/20/eid-celebrations-dimmed-by-war-and-displacement-across-middle-east?traffic_source=rss",
+      "date": "2026-03-20T09:25:00.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Trita Parsi, argues that US President Trump must not allow Israel to control the war with Iran."
+      "snippet": "Economic crises and conflict dampen traditional Eid celebrations in Iran, Gaza, and Lebanon."
     },
     {
-      "title": "Luka Doncic scores 60 points as Lakers rally to defeat Heat in NBA",
-      "link": "https://www.aljazeera.com/sports/2026/3/20/luka-doncic-scores-60-points-as-lakers-rally-to-defeat-heat-in-nba?traffic_source=rss",
-      "date": "2026-03-20T03:22:03.000Z",
+      "title": "Five problems the Iran war could solve for Israel’s Netanyahu",
+      "link": "https://www.aljazeera.com/news/2026/3/20/five-problems-the-iran-war-could-solve-for-israels-netanyahu?traffic_source=rss",
+      "date": "2026-03-20T09:17:59.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "The NBA&#039;s leading scorer recorded the second 60-point game of his career as the Lakers take down the Heat in Miami."
+      "snippet": "From the Iranian threat to his own domestic legal and political troubles, war with Iran has advantages for Netanyahu."
+    },
+    {
+      "title": "Long before Trump: How US policy has harmed the environment for decades",
+      "link": "https://www.aljazeera.com/news/2026/3/20/long-before-trump-how-us-policy-has-harmed-the-environment-for-decades?traffic_source=rss",
+      "date": "2026-03-20T08:28:07.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Environment advocacy groups are suing the US government over climate change policy rollback."
+    },
+    {
+      "title": "Indirect Fire in the Global War on Terror and Today",
+      "link": "https://warontherocks.com/2026/03/indirect-fire-in-the-global-war-on-terror-and-today/",
+      "date": "2026-03-20T08:00:59.000Z",
+      "source": "War on the Rocks",
+      "sourceId": "war_on_rocks",
+      "category": "strategic",
+      "snippet": ""
+    },
+    {
+      "title": "Why Did the United States Lift Sanctions on Assad’s Chemical Weapons Scientists?",
+      "link": "https://warontherocks.com/2026/03/why-did-the-united-states-lift-sanctions-on-assads-chemical-weapons-scientists/",
+      "date": "2026-03-20T07:30:51.000Z",
+      "source": "War on the Rocks",
+      "sourceId": "war_on_rocks",
+      "category": "strategic",
+      "snippet": ""
+    },
+    {
+      "title": "What the Donroe Doctrine Could Mean for China’s Economic Statecraft",
+      "link": "https://warontherocks.com/2026/03/what-the-donroe-doctrine-could-mean-for-chinas-economic-statecraft/",
+      "date": "2026-03-20T07:15:59.000Z",
+      "source": "War on the Rocks",
+      "sourceId": "war_on_rocks",
+      "category": "strategic",
+      "snippet": ""
     },
     {
       "title": "EXCLUSIVE: US poised to accept new F-35s without radars, sources say",
@@ -237,45 +273,33 @@
       "sourceId": "war_on_rocks",
       "category": "strategic",
       "snippet": ""
-    },
-    {
-      "title": "Islamic State Containment Is Collapsing in Syria",
-      "link": "https://warontherocks.com/2026/03/islamic-state-containment-is-collapsing-in-syria/",
-      "date": "2026-03-19T07:15:18.000Z",
-      "source": "War on the Rocks",
-      "sourceId": "war_on_rocks",
-      "category": "strategic",
-      "snippet": ""
-    },
-    {
-      "title": "Syria and the Islamic State: Analyzing America’s Departure",
-      "link": "https://warontherocks.com/2026/03/syria-and-the-islamic-state-analyzing-americas-departure/",
-      "date": "2026-03-18T17:30:15.000Z",
-      "source": "War on the Rocks",
-      "sourceId": "war_on_rocks",
-      "category": "strategic",
-      "snippet": ""
-    },
-    {
-      "title": "In new timeline, Army set to take full control of THAAD missile program by 2027",
-      "link": "https://breakingdefense.com/2026/03/in-new-timeline-army-set-to-take-full-control-of-thaad-missile-program-by-2027/",
-      "date": "2026-03-18T17:11:17.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "Military Operational Thinking in an Age of Artificial Intelligence",
-      "link": "https://warontherocks.com/2026/03/military-operational-thinking-in-an-age-of-artificial-intelligence/",
-      "date": "2026-03-18T08:00:11.000Z",
-      "source": "War on the Rocks",
-      "sourceId": "war_on_rocks",
-      "category": "strategic",
-      "snippet": ""
     }
   ],
   "alerts": [
+    {
+      "level": "CRITICAL",
+      "keyword": "strait of hormuz",
+      "title": "Iran does not need to close the Strait of Hormuz to disrupt it",
+      "source": "Al Jazeera — Middle East",
+      "date": "2026-03-20T11:05:25.000Z",
+      "link": "https://www.aljazeera.com/opinions/2026/3/20/iran-does-not-need-to-close-the-strait-of-hormuz-to-disrupt-it?traffic_source=rss"
+    },
+    {
+      "level": "CRITICAL",
+      "keyword": "strait of hormuz",
+      "title": "Iran developing a ‘vetting system’ for Strait of Hormuz transit: Report",
+      "source": "Al Jazeera — Middle East",
+      "date": "2026-03-20T10:13:07.000Z",
+      "link": "https://www.aljazeera.com/news/2026/3/20/iran-developing-a-vetting-system-for-strait-of-hormuz-transit-report?traffic_source=rss"
+    },
+    {
+      "level": "HIGH",
+      "keyword": "sanctions",
+      "title": "Why Did the United States Lift Sanctions on Assad’s Chemical Weapons Scientists?",
+      "source": "War on the Rocks",
+      "date": "2026-03-20T07:30:51.000Z",
+      "link": "https://warontherocks.com/2026/03/why-did-the-united-states-lift-sanctions-on-assads-chemical-weapons-scientists/"
+    },
     {
       "level": "ELEVATED",
       "keyword": "diplomacy",
