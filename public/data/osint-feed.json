@@ -1,9 +1,99 @@
 {
-  "lastUpdated": "2026-03-19T18:39:34.466Z",
+  "lastUpdated": "2026-03-20T01:02:32.054Z",
   "feedCount": 5,
   "totalItems": 40,
-  "alertCount": 9,
+  "alertCount": 10,
   "headlines": [
+    {
+      "title": "Videos show Iranian missile fragments impacting northern Israel",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/videos-show-iranian-missile-fragments-impacting-northern-israel?traffic_source=rss",
+      "date": "2026-03-20T00:21:16.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Videos published by local Israeli platforms show Iranian missile fragments making impact in northern Israel."
+    },
+    {
+      "title": "Iran war live: Tehran warns of intensified strikes if energy sites targeted",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/3/20/iran-war-live-tehran-warns-of-intensified-strikes-if-energy-sites-targeted?traffic_source=rss",
+      "date": "2026-03-20T00:04:42.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Iran strikes Israeli oil refinery in northern city of Haifa as Tehran launches attacks on regional energy facilities."
+    },
+    {
+      "title": "US arts commission approves gold coin stamped with Donald Trump’s face",
+      "link": "https://www.aljazeera.com/news/2026/3/19/us-arts-commission-approves-gold-coin-stamped-with-donald-trumps-face?traffic_source=rss",
+      "date": "2026-03-19T23:54:22.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "The gold coin comes in addition to Trump&#039;s efforts to have his face stamped on a $1 coin, in violation of federal law."
+    },
+    {
+      "title": "Mexican military says 11 killed in raid targeting Sinaloa cartel leader",
+      "link": "https://www.aljazeera.com/news/2026/3/19/mexican-military-says-11-killed-in-raid-targeting-sinaloa-cartel-leader?traffic_source=rss",
+      "date": "2026-03-19T23:15:48.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Omar Oswaldo Torres, the leader of the Los Mayos faction of the Sinaloa criminal network, was detained in the raid."
+    },
+    {
+      "title": "US intelligence chief admits US, Israel not aligned on Iran war goals",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/us-intelligence-chief-admits-us-israel-not-aligned-on-iran-war-goals?traffic_source=rss",
+      "date": "2026-03-19T23:07:25.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "The US Director of National ‌Intelligence says American and Israeli goals in the war on Iran are not the same."
+    },
+    {
+      "title": "Senegal and Morocco tied by religion and trade but divided by AFCON fallout",
+      "link": "https://www.aljazeera.com/sports/2026/3/19/senegal-and-morocco-tied-by-religion-and-trade-but-divided-by-afcon-fallout?traffic_source=rss",
+      "date": "2026-03-19T22:51:25.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Senegal were stripped of the AFCON crown with Morocco awarded the title, a move that divides two closely knit nations."
+    },
+    {
+      "title": "Netanyahu says Iran’s uranium enrichment abilities destroyed",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/netanyahu-says-irans-uranium-enrichment-abilities-destroyed?traffic_source=rss",
+      "date": "2026-03-19T22:03:44.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Israeli Prime Minister Benjamin Netanyahu claims Iran no longer has “the capacity to enrich uranium.&quot;"
+    },
+    {
+      "title": "Israel continues Gaza attacks amid regional war, kills several Palestinians",
+      "link": "https://www.aljazeera.com/news/2026/3/19/israel-continues-gaza-attacks-amid-regional-war-kills-several-palestinians?traffic_source=rss",
+      "date": "2026-03-19T22:00:17.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Three killed in separate attacks in Gaza City as Rafah border reopens for limited medical evacuations."
+    },
+    {
+      "title": "FIFA details Infantino’s $6m deal with 33% Club World Cup bonus increase",
+      "link": "https://www.aljazeera.com/sports/2026/3/19/fifa-details-infantinos-6m-deal-with-33-club-world-cup-bonus-increase?traffic_source=rss",
+      "date": "2026-03-19T21:27:39.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "FIFA president Gianni Infantino&#039;s pay boost revealed in latest accounts that target $14bn in revenue for 2027-30."
+    },
+    {
+      "title": "Israelis protest in Tel Aviv calling for end to Iran war",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/israelis-protest-in-tel-aviv-calling-for-end-to-iran-war?traffic_source=rss",
+      "date": "2026-03-19T21:12:48.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Israelis protested in Tel Aviv demanding an end to the war with Iran and conflict with Hezbollah."
+    },
     {
       "title": "EXCLUSIVE: US poised to accept new F-35s without radars, sources say",
       "link": "https://breakingdefense.com/2026/03/exclusive-us-poised-to-accept-new-f-35s-without-radars-sources-say/",
@@ -12,24 +102,6 @@
       "sourceId": "breaking_defense",
       "category": "defense",
       "snippet": ""
-    },
-    {
-      "title": "Israel says Haifa oil refinery hit in Iranian missile attack",
-      "link": "https://www.aljazeera.com/news/2026/3/19/israel-says-oil-refinery-hit-in-iranian-missile-attack-no-major-damage?traffic_source=rss",
-      "date": "2026-03-19T18:12:01.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Israeli Energy Minister Eli Cohen says &#039;no significant damage&#039; reported after Iranian strike on Haifa oil refinery."
-    },
-    {
-      "title": "Trump references Pearl Harbor during meeting with Japanese PM on Iran war",
-      "link": "https://www.aljazeera.com/news/2026/3/19/trump-references-pearl-harbor-during-meeting-with-japanese-pm-on-iran-war?traffic_source=rss",
-      "date": "2026-03-19T18:05:50.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "US president said that Japan was &#039;stepping up to the plate&#039; to support the US war without offering details."
     },
     {
       "title": "Pentagon comptroller says a &#8216;generational investment&#8217; is coming, but when?",
@@ -50,15 +122,6 @@
       "snippet": ""
     },
     {
-      "title": "Missile strikes close to reporter during Israeli attacks in Lebanon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/missile-strikes-close-to-reporter-during-israeli-attacks-in-lebanon?traffic_source=rss",
-      "date": "2026-03-19T17:21:42.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "A missile struck metres away from a Russia Today reporter as he was covering Israeli attacks on southern Lebanon."
-    },
-    {
       "title": "Germany marks April deadline to rescue FCAS fighter project from collapse: Reports",
       "link": "https://breakingdefense.com/2026/03/germany-marks-april-deadline-to-rescue-fcas-fighter-project-from-collapse-reports/",
       "date": "2026-03-19T17:03:56.000Z",
@@ -66,33 +129,6 @@
       "sourceId": "breaking_defense",
       "category": "defense",
       "snippet": ""
-    },
-    {
-      "title": "Iran attacks cut 17% of Qatar’s LNG capacity for up to 5 years: QatarEnergy",
-      "link": "https://www.aljazeera.com/news/2026/3/19/iran-attacks-cut-17-of-qatars-lng-capacity-for-up-to-5-years-qatarenergy?traffic_source=rss",
-      "date": "2026-03-19T16:39:21.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "CEO Saad al-Kaabi says QatarEnergy may have to declare force majeure on long-term contracts for up to five years."
-    },
-    {
-      "title": "European nations, Japan to join ‘appropriate efforts’ to open Hormuz Strait",
-      "link": "https://www.aljazeera.com/news/2026/3/19/european-nations-japan-to-join-appropriate-efforts-to-open-hormuz-strait?traffic_source=rss",
-      "date": "2026-03-19T16:36:15.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Countries are looking for ways to contain record-high prices as oil, gas crisis deepens."
-    },
-    {
-      "title": "Senegal instruct lawyers, while CAF’s Motsepe defends Morocco’s AFCON award",
-      "link": "https://www.aljazeera.com/sports/2026/3/19/senegal-instruct-lawyers-while-cafs-motsepe-defends-moroccos-afcon-award?traffic_source=rss",
-      "date": "2026-03-19T16:14:41.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Senegal football calls in lawyers as CAS awaits, while CAF president defends decision to hand AFCON title to Morocco."
     },
     {
       "title": "Trump pushes back on mounting criticism about his Iran war battle plan as conflict spreads",
@@ -140,33 +176,6 @@
       "snippet": ""
     },
     {
-      "title": "Death toll surpasses 1,000 in Lebanon as Israeli bombardment continues",
-      "link": "https://www.aljazeera.com/news/2026/3/19/death-toll-surpasses-1000-in-lebanon-as-israeli-bombardment-continues?traffic_source=rss",
-      "date": "2026-03-19T15:47:11.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "At least 40 medical workers among those killed as rights groups urge Israel to end attacks on Lebanon health facilities."
-    },
-    {
-      "title": "Hegseth insists US is meeting Iran war objectives",
-      "link": "https://www.aljazeera.com/video/2026/3/19/hegseth-insists-us-is-meeting-iran-war-objectives?traffic_source=rss",
-      "date": "2026-03-19T15:38:54.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "US Defense Secretary insisted Washington is meeting its objectives against Iran despite escalating attacks on Gulf."
-    },
-    {
-      "title": "Hegseth says no ‘timeframe’ for war on Iran as Pentagon asks for $200bn",
-      "link": "https://www.aljazeera.com/news/2026/3/19/hegseth-says-no-timeframe-for-war-on-iran-as-pentagon-asks-for-200bn?traffic_source=rss",
-      "date": "2026-03-19T15:37:40.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Defense Secretary Pete Hegseth hints war funding may change, leaving timeline decisions to President Trump."
-    },
-    {
       "title": "Gulf nations ‘trying to reach out’ for Ukrainian counter-drone capability",
       "link": "https://breakingdefense.com/2026/03/gulf-nations-trying-to-reach-out-for-ukrainian-counter-drone-capability/",
       "date": "2026-03-19T15:35:00.000Z",
@@ -174,15 +183,6 @@
       "sourceId": "breaking_defense",
       "category": "defense",
       "snippet": ""
-    },
-    {
-      "title": "“It’s time to end the war.” UN’s Guterres urges US, Israel to cease attacks",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/its-time-to-end-the-war-uns-guterres-urges-us-israel-to-cease?traffic_source=rss",
-      "date": "2026-03-19T15:28:19.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "UN Secretary-General Antonio Guterres warned the US and Israel of “potential tragic consequences” from the war in Iran."
     },
     {
       "title": "Hegseth confirms potential $200 billion request for Iran operations, but figure &#8216;could move&#8217;",
@@ -276,6 +276,14 @@
     }
   ],
   "alerts": [
+    {
+      "level": "ELEVATED",
+      "keyword": "hezbollah",
+      "title": "Israelis protest in Tel Aviv calling for end to Iran war",
+      "source": "Al Jazeera — Middle East",
+      "date": "2026-03-19T21:12:48.000Z",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/israelis-protest-in-tel-aviv-calling-for-end-to-iran-war?traffic_source=rss"
+    },
     {
       "level": "ELEVATED",
       "keyword": "diplomacy",
