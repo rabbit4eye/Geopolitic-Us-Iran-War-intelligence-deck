@@ -1,9 +1,81 @@
 {
-  "lastUpdated": "2026-03-21T12:22:01.891Z",
+  "lastUpdated": "2026-03-21T18:19:28.840Z",
   "feedCount": 5,
   "totalItems": 40,
-  "alertCount": 12,
+  "alertCount": 11,
   "headlines": [
+    {
+      "title": "Former FBI chief, Robert Mueller, dead at 81",
+      "link": "https://www.aljazeera.com/news/2026/3/21/former-fbi-chief-robert-mueller-dead-at-81?traffic_source=rss",
+      "date": "2026-03-21T17:42:27.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Robert Mueller oversaw the probe into alleged Russian interference in the 2016 United States election."
+    },
+    {
+      "title": "Trump threatens to deploy ICE to airports amid Homeland Security shutdown",
+      "link": "https://www.aljazeera.com/news/2026/3/21/trump-threatens-to-deploy-ice-to-airports-amid-homeland-security-shutdown?traffic_source=rss",
+      "date": "2026-03-21T16:57:54.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "The US president called on immigration agents to place &#039;heavy emphasis&#039; on the arrests of Somali immigrants."
+    },
+    {
+      "title": "Tehran holds Eid prayers as funeral held for IRGC spokesman",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/21/tehran-holds-eid-prayers-as-funeral-held-for-irgc-spokesman?traffic_source=rss",
+      "date": "2026-03-21T16:20:31.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Eid al-Fitr prayers were held in Tehran after overnight air strikes on the capital."
+    },
+    {
+      "title": "Bahrain says Patriot system intercepted drone over homes",
+      "link": "https://www.aljazeera.com/news/2026/3/21/bahrain-says-patriot-system-intercepted-drone-over-homes?traffic_source=rss",
+      "date": "2026-03-21T16:02:46.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Bahrain&#039;s account differs from how the US military described the March 9 incident, which led to civilian injuries."
+    },
+    {
+      "title": "Arab states should beware of Israel’s hegemonic energy expansion",
+      "link": "https://www.aljazeera.com/opinions/2026/3/21/arab-states-should-beware-of-israels-hegemonic-energy-expansion?traffic_source=rss",
+      "date": "2026-03-21T16:01:31.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "The Iran war revealed how dependent Israel’s Arab neighbours are on its gas exports."
+    },
+    {
+      "title": "UK says Iran missile attack on Diego Garcia failed",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/21/uk-says-iran-missile-attack-on-diego-garcia-failed?traffic_source=rss",
+      "date": "2026-03-21T15:59:35.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "The UK says Iran launched ballistic missiles at the joint US-UK Diego Garcia base in the Indian Ocean."
+    },
+    {
+      "title": "Iranian woman’s video of US-Israel attack ends as bomb hits",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/21/iranian-womans-video-of-us-israel-attack-ends-as-bomb-hits?traffic_source=rss",
+      "date": "2026-03-21T14:40:33.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "The fate of an Iranian woman caught in a US-Israeli bomb attack is unknown, after video emerged of her filming it."
+    },
+    {
+      "title": "Unease in Japan after Trump cites Pearl Harbor to defend Iran war",
+      "link": "https://www.aljazeera.com/news/2026/3/21/unease-in-japan-after-trump-uses-pearl-harbor-to-defend-iran-war?traffic_source=rss",
+      "date": "2026-03-21T14:34:12.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "US president&#039;s reference to Japan&#039;s 1941 attack has shaken Japanese as PM Takaichi&#039;s silence gets mixed reaction."
+    },
     {
       "title": "Japan beat Australia to lift Women’s Asian Cup title",
       "link": "https://www.aljazeera.com/sports/2026/3/21/japan-beat-australia-to-lift-womens-asian-cup-title?traffic_source=rss",
@@ -21,78 +93,6 @@
       "sourceId": "aljazeera_mideast",
       "category": "news",
       "snippet": "No leakage of radioactive materials reported in the area in central Iran, Tehran&#039;s atomic energy organisation says."
-    },
-    {
-      "title": "US jury finds Elon Musk misled investors during Twitter purchase",
-      "link": "https://www.aljazeera.com/news/2026/3/21/us-jury-finds-elon-musk-misled-investors-during-twitter-purchase?traffic_source=rss",
-      "date": "2026-03-21T11:18:31.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Jury finds that two tweets posted in May 2022 by Musk contained false statements."
-    },
-    {
-      "title": "War spirals as information control tightens",
-      "link": "https://www.aljazeera.com/video/the-listening-post/2026/3/21/war-spirals-as-information-control-tightens?traffic_source=rss",
-      "date": "2026-03-21T10:44:38.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "From Washington to Tehran to Tel Aviv, the fight to control the narrative seems as critical as the war itself."
-    },
-    {
-      "title": "Drone strike near Iraqi intelligence headquarters in Baghdad kills officer",
-      "link": "https://www.aljazeera.com/news/2026/3/21/drone-strike-near-iraqi-intelligence-headquarters-in-baghdad-kills-officer?traffic_source=rss",
-      "date": "2026-03-21T10:41:03.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "One police officer killed in strike by &#039;outlaw groups&#039; on headquarters of Iraqi National Intelligence Service."
-    },
-    {
-      "title": "Lin Yu-ting cleared to return to boxing after sex eligibility review",
-      "link": "https://www.aljazeera.com/sports/2026/3/21/olympic-champion-lin-yu-ting-cleared-to-return-to-boxing-after-sex-eligibility-review?traffic_source=rss",
-      "date": "2026-03-21T10:40:59.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Lin and Algerian boxer Imane Khelif were embroiled in a dispute over biological sex at the 2024 Paris Olympics."
-    },
-    {
-      "title": "‘I have fought for Aaron’: A Ugandan mother confronts disability and stigma",
-      "link": "https://www.aljazeera.com/features/longform/2026/3/21/i-have-fought-for-aaron-a-ugandan-mother-confronts-disability-and-stigma?traffic_source=rss",
-      "date": "2026-03-21T09:42:23.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Martha Apolot, 21, rejected by her family and community when her disabled son was born, fights daily to meet his needs."
-    },
-    {
-      "title": "Real Madrid vs Atletico Madrid: La Liga – team news, start, lineups",
-      "link": "https://www.aljazeera.com/sports/2026/3/21/real-madrid-vs-atletico-madrid-la-liga-team-news-start-lineups?traffic_source=rss",
-      "date": "2026-03-21T09:34:42.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Madrid host rivals Atletico at the Santiago Bernabeu as they aim to stay in touch with Barca, who are four points clear."
-    },
-    {
-      "title": "Israel systematically torturing Palestinians in custody, says UN expert",
-      "link": "https://www.aljazeera.com/news/2026/3/21/israel-systematically-torturing-palestinians-in-custody-says-un-expert?traffic_source=rss",
-      "date": "2026-03-21T09:31:47.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Report by Francesca Albanese says &#039;torture in detention used on unprecedented scale as punitive collective vengeance&#039;."
-    },
-    {
-      "title": "Iran war: What’s happening on day 22 of US-Israel attacks?",
-      "link": "https://www.aljazeera.com/news/2026/3/21/iran-war-what-is-happening-on-day-22-of-us-israel-attacks?traffic_source=rss",
-      "date": "2026-03-21T09:07:01.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "As conflict enters week 4, here’s the latest on the US-Israel attack on Iran and across the Middle East."
     },
     {
       "title": "Navy, Hadrian launch partnership, open facility to build submarine parts",
@@ -283,14 +283,6 @@
       "source": "Al Jazeera — Middle East",
       "date": "2026-03-21T11:32:54.000Z",
       "link": "https://www.aljazeera.com/news/2026/3/21/iran-says-us-and-israel-attacked-natanz-nuclear-facility?traffic_source=rss"
-    },
-    {
-      "level": "HIGH",
-      "keyword": "drone strike",
-      "title": "Drone strike near Iraqi intelligence headquarters in Baghdad kills officer",
-      "source": "Al Jazeera — Middle East",
-      "date": "2026-03-21T10:41:03.000Z",
-      "link": "https://www.aljazeera.com/news/2026/3/21/drone-strike-near-iraqi-intelligence-headquarters-in-baghdad-kills-officer?traffic_source=rss"
     },
     {
       "level": "HIGH",
