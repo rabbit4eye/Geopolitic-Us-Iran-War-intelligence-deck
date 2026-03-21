@@ -1,9 +1,45 @@
 {
-  "lastUpdated": "2026-03-21T00:58:54.389Z",
+  "lastUpdated": "2026-03-21T06:28:14.294Z",
   "feedCount": 5,
   "totalItems": 40,
   "alertCount": 11,
   "headlines": [
+    {
+      "title": "LIVE: Japan vs Australia – Women’s Asian Cup 2026 final",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/3/21/live-japan-vs-australia-womens-asian-cup-2026-final?traffic_source=rss",
+      "date": "2026-03-21T06:01:04.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Follow our live build-up, with team news, ahead of our text commentary stream of the Women&#039;s Asian Cup final."
+    },
+    {
+      "title": "300 million people celebrate Nowruz under a cloud of war",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/21/300-million-people-celebrate-nowruz-under-a-cloud-of-war?traffic_source=rss",
+      "date": "2026-03-21T03:58:08.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Millions of people have rung in the ancient Persian New Year, Nowruz, as war grips the Middle East."
+    },
+    {
+      "title": "Aid flotilla for Cuba sets sail from Mexico",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/21/aid-flotilla-for-cuba-sets-sail-from-mexico?traffic_source=rss",
+      "date": "2026-03-21T03:31:10.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "An aid flotilla from Mexico is sailing for Cuba as the country suffers under a tightening US fuel blockade."
+    },
+    {
+      "title": "Al Jazeera reporter’s journey from Jordan to Iraq",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/21/al-jazeera-reporters-journey-from-jordan-to-iraq?traffic_source=rss",
+      "date": "2026-03-21T01:02:53.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Al Jazeera’s Nicolas Haque recorded his journey on the long road from Amman to Baghdad."
+    },
     {
       "title": "Iran war live: Trump says no ceasefire as Khamenei issues defiant message",
       "link": "https://www.aljazeera.com/news/liveblog/2026/3/21/iran-war-live-trump-says-other-nations-have-to-protect-hormuz-from-iran?traffic_source=rss",
@@ -57,42 +93,6 @@
       "sourceId": "aljazeera_mideast",
       "category": "news",
       "snippet": "The US is moving military assets to the Middle East that are key to providing support for ground troop operations."
-    },
-    {
-      "title": "Palestinian citizens of Israel demand better protection against missiles",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/palestinian-citizens-of-israel-demand-better-protection-against-missiles?traffic_source=rss",
-      "date": "2026-03-20T21:03:38.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "At least 15 people have been killed by attacks in Israel since the war on Iran started late last month."
-    },
-    {
-      "title": "Iran’s Supreme Leader Khamenei says enemy ‘defeated’ in message",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/irans-supreme-leader-khamenei-says-enemy-defeated-in-audio-message?traffic_source=rss",
-      "date": "2026-03-20T20:50:29.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Supreme Leader Mojtaba Khamenei has released a message for the Persian New Year."
-    },
-    {
-      "title": "Ex-minister Gamboa targeted in Costa Rica’s first extradition to the US",
-      "link": "https://www.aljazeera.com/news/2026/3/20/ex-minister-gamboa-targeted-in-costa-ricas-first-extradition-to-the-us?traffic_source=rss",
-      "date": "2026-03-20T20:39:59.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "A former Supreme Court justice, Celso Gamboa was accused by the US of using government connections to traffic cocaine."
-    },
-    {
-      "title": "US says it struck alleged drug trafficking vessel in Pacific, killing two",
-      "link": "https://www.aljazeera.com/news/2026/3/20/us-says-it-struck-alleged-drug-trafficking-vessel-in-pacific-killing-two?traffic_source=rss",
-      "date": "2026-03-20T20:30:08.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "In an initial statement, the US military said three people survived the strike but did not offer additional details."
     },
     {
       "title": "Navy, Hadrian launch partnership, open facility to build submarine parts",
