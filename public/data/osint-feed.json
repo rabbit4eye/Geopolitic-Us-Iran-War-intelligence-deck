@@ -1,9 +1,63 @@
 {
-  "lastUpdated": "2026-03-23T01:07:28.043Z",
+  "lastUpdated": "2026-03-23T06:55:52.317Z",
   "feedCount": 5,
   "totalItems": 40,
-  "alertCount": 11,
+  "alertCount": 10,
   "headlines": [
+    {
+      "title": "Lionel Messi scores as Inter Miami rally past NYCFC in MLS",
+      "link": "https://www.aljazeera.com/sports/2026/3/23/lionel-messi-scores-as-inter-miami-rally-past-nycfc-in-mls?traffic_source=rss",
+      "date": "2026-03-23T06:20:25.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "The Argentinian star forward records his 901st career goal as Inter Miami beat New York City FC at Yankee Stadium."
+    },
+    {
+      "title": "New York’s LaGuardia airport’s closed after Air Canada jet hits vehicle",
+      "link": "https://www.aljazeera.com/news/2026/3/23/air-canada-jet-collides-with-ground-vehicle-at-new-york-airport?traffic_source=rss",
+      "date": "2026-03-23T05:48:23.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "LaGuardia airport shut down after Air Canada Express plane strikes ground vehicle upon landing from Montreal."
+    },
+    {
+      "title": "Brothers search rubble for missing sibling under Tehran rubble after strike",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/brothers-search-rubble-for-missing-sibling-under-tehran-rubble-after-strike?traffic_source=rss",
+      "date": "2026-03-23T04:54:31.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Five days after a strike destroyed a building in Tehran, Mahdi Mirzahosseini’s brothers are still searching for him."
+    },
+    {
+      "title": "Marco Bezzecchi dominates MotoGP Brazil for fourth straight victory",
+      "link": "https://www.aljazeera.com/sports/2026/3/23/marco-bezzecchi-dominates-motogp-brazil-for-fourth-straight-victory?traffic_source=rss",
+      "date": "2026-03-23T04:50:11.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "The Italian rider is now 11 points clear of Aprilia teammate Jorge Martin in the riders&#039; standings after two rounds."
+    },
+    {
+      "title": "Immense damage seen in Iran’s streets after air strikes",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/immense-damage-seen-in-irans-streets-after-air-strikes?traffic_source=rss",
+      "date": "2026-03-23T03:19:18.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Videos show the aftermath of strikes in Iran, as search teams recover bodies from rubble."
+    },
+    {
+      "title": "Asian stock markets plunge amid Trump’s ultimatum on Iran",
+      "link": "https://www.aljazeera.com/economy/2026/3/23/asian-stock-markets-plunge-amid-trumps-ultimatum-on-iran?traffic_source=rss",
+      "date": "2026-03-23T01:56:28.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Key indexes in Japan, South Korea and Hong Kong tumble as Iran threatens attacks on energy infrastructure across region."
+    },
     {
       "title": "Iran war live: Tehran vows to ‘completely close’ Hormuz if power plants hit",
       "link": "https://www.aljazeera.com/news/liveblog/2026/3/23/iran-war-live-tehran-vows-to-completely-close-hormuz-if-power-plants-hit?traffic_source=rss",
@@ -39,60 +93,6 @@
       "sourceId": "aljazeera_mideast",
       "category": "news",
       "snippet": "Real stay within four points of league leaders Barcelona with hard-fought win in Madrid derby."
-    },
-    {
-      "title": "Who’s left running Iran?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/3/22/whos-left-running-iran?traffic_source=rss",
-      "date": "2026-03-22T22:14:08.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Much of the top leadership has been eliminated, but the country is still fighting."
-    },
-    {
-      "title": "Slovenia’s liberals and conservatives neck and neck in parliamentary vote",
-      "link": "https://www.aljazeera.com/news/2026/3/22/slovenias-freedom-movement-party-takes-narrow-election-lead-exit-poll?traffic_source=rss",
-      "date": "2026-03-22T21:22:41.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "The nearly equal result means that none of the main parties will have a majority in the 90-member parliament."
-    },
-    {
-      "title": "Displaced families shelter in tents in Beirut amid Israeli strikes",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/displaced-families-shelter-in-tents-in-beirut-amid-israeli-strikes?traffic_source=rss",
-      "date": "2026-03-22T20:33:30.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Families displaced by Israeli strikes are sheltering in tents across Beirut, as rain falls."
-    },
-    {
-      "title": "Emerging from latest blackout, Cuba says ready for any potential US attack",
-      "link": "https://www.aljazeera.com/news/2026/3/22/emerging-from-latest-blackout-cuba-says-ready-for-any-potential-us-attack?traffic_source=rss",
-      "date": "2026-03-22T20:28:34.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Trump, who cut off oil supplies to Cuba after abducting Venezuela&#039;s Maduro, has threatened to take over the nation."
-    },
-    {
-      "title": "Trump sends US immigration agents to airports as shutdown chaos deepens",
-      "link": "https://www.aljazeera.com/news/2026/3/22/trump-sends-us-immigration-agents-to-airports-as-shutdown-chaos-deepens?traffic_source=rss",
-      "date": "2026-03-22T20:24:06.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Shutdown standoff forces US President Trump&#039;s hand as airport queues spiral and security staff go unpaid."
-    },
-    {
-      "title": "Israeli air strikes on Gaza kill four Palestinians",
-      "link": "https://www.aljazeera.com/news/2026/3/22/israeli-air-strikes-on-gaza-kill-four-palestinians?traffic_source=rss",
-      "date": "2026-03-22T20:17:33.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Strikes intensify across Gaza as health officials say 680 Palestinians have been killed since October&#039;s &#039;ceasefire&#039;."
     },
     {
       "title": "Navy, Hadrian launch partnership, open facility to build submarine parts",
@@ -276,14 +276,6 @@
     }
   ],
   "alerts": [
-    {
-      "level": "CRITICAL",
-      "keyword": "ceasefire",
-      "title": "Israeli air strikes on Gaza kill four Palestinians",
-      "source": "Al Jazeera — Middle East",
-      "date": "2026-03-22T20:17:33.000Z",
-      "link": "https://www.aljazeera.com/news/2026/3/22/israeli-air-strikes-on-gaza-kill-four-palestinians?traffic_source=rss"
-    },
     {
       "level": "HIGH",
       "keyword": "sanctions",
