@@ -1,44 +1,170 @@
 {
-  "lastUpdated": "2026-03-23T12:37:25.341Z",
+  "lastUpdated": "2026-03-23T18:37:19.711Z",
   "feedCount": 5,
   "totalItems": 40,
-  "alertCount": 11,
+  "alertCount": 12,
   "headlines": [
     {
-      "title": "UK PM Starmer says no threat from Iran on Britain, calls for de-escalation",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/uk-pm-starmer-says-no-threat-from-iran-on-britain-calls-for-de-escalation?traffic_source=rss",
-      "date": "2026-03-23T11:57:25.000Z",
+      "title": "Iran denies any talks with US after Trump claims ‘productive’ discussions",
+      "link": "https://www.aljazeera.com/news/2026/3/23/iran-denies-any-talks-with-us-after-trump-claims-productive-discussions?traffic_source=rss",
+      "date": "2026-03-23T18:21:54.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "UK PM Keir Starmer says routine assessments conclude that the UK is not a target of Iran amid global tensions."
+      "snippet": "Iran parliament speaker says US president using idea of talks to &#039;escape quagmire in which US and Israel are trapped&#039;."
     },
     {
-      "title": "‘Sahel is no longer fooled’ Niger civil society leader",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/sahel-is-no-longer-fooled-niger-civil-society-leader?traffic_source=rss",
-      "date": "2026-03-23T11:47:08.000Z",
+      "title": "Why the oil and gas price shock from the Iran war won’t just fade away",
+      "link": "https://www.aljazeera.com/opinions/2026/3/23/why-the-oil-and-gas-price-shock-from-the-iran-war-wont-just-fade-away?traffic_source=rss",
+      "date": "2026-03-23T18:06:18.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Niger civil society leader Abdourahamane Oumarou has called for mass protests across Burkina Faso, Mali and Niger."
+      "snippet": "Rerouting and diversification cannot help when a significant chunk of oil and gas have been taken off the market."
     },
     {
-      "title": "Trump shares SNL skit mocking Starmer as he speaks to UK PM over Iran war",
-      "link": "https://www.aljazeera.com/news/2026/3/23/trump-shares-snl-skit-mocking-starmer-as-he-speaks-to-uk-pm-over-iran-war?traffic_source=rss",
-      "date": "2026-03-23T11:42:09.000Z",
+      "title": "How the Iran war is about to hit your wallet",
+      "link": "https://www.aljazeera.com/video/the-take-2/2026/3/23/aje-onl-tt_irn_gasfields_av_v2-230326?traffic_source=rss",
+      "date": "2026-03-23T17:56:35.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Trump shares SNL-style skit mocking Starmer&#039;s panic over his call, the day the two leaders spoke about the war in Iran."
+      "snippet": "Strikes on gas sites in the Iran war are driving up energy costs, pushing up prices for power, food and more worldwide."
     },
     {
-      "title": "UK police investigate Jewish charity ambulance arson as hate crime",
-      "link": "https://www.aljazeera.com/news/2026/3/23/uk-police-investigate-jewish-charity-ambulance-arson-as-hate-crime?traffic_source=rss",
-      "date": "2026-03-23T11:42:02.000Z",
+      "title": "Trump can declare victory in Iran – and he should",
+      "link": "https://www.aljazeera.com/opinions/2026/3/23/trump-can-declare-victory-in-iran-and-he?traffic_source=rss",
+      "date": "2026-03-23T17:42:04.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Four ambulances owned by Hatzola Northwest were torched in what PM Keir Starmer described as &#039;deeply shocking&#039;."
+      "snippet": "The US president has proven that hitting hard and fast rather than engaging in endless negotiations guarantees victory."
+    },
+    {
+      "title": "Army receives first autonomous-ready, optionally piloted Black Hawk",
+      "link": "https://breakingdefense.com/2026/03/army-receives-first-autonomous-ready-optionally-piloted-black-hawk/",
+      "date": "2026-03-23T17:25:19.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "How Israel is reacting to Trump’s  ‘de-escalation’ with Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/how-israel-is-reacting-to-trumps-de-escalation-with-iran?traffic_source=rss",
+      "date": "2026-03-23T17:09:05.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "There is expected to be pushback from Israel following President Donald Trump’s move towards de-escalation with Iran."
+    },
+    {
+      "title": "Trump admin&#8217;s comments could undermine case against Anthropic in court: Experts",
+      "link": "https://breakingdefense.com/2026/03/trump-admins-public-comments-could-undermine-case-against-anthropic-in-court-experts/",
+      "date": "2026-03-23T16:53:54.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "Israeli strike on Lebanon bridge raises fears of ground invasion",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/israeli-strike-on-lebanon-bridge-raises-fears-of-ground-invasion?traffic_source=rss",
+      "date": "2026-03-23T16:01:08.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Lebanon fears that Israel’s attack on Qasmiyeh Bridge could be a “prelude to a ground invasion”."
+    },
+    {
+      "title": "Lockheed Martin Australia, Rheinmetall exploring HIMARS sustainment Down Under",
+      "link": "https://breakingdefense.com/2026/03/lockheed-martin-australia-rheinmetall-exploring-himars-sustainment-down-under/",
+      "date": "2026-03-23T16:00:52.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "North Korea’s Nuclear Gamble Pays Off in Trump’s New World Order",
+      "link": "https://www.armscontrol.org/media-citations/newsweek/2026-03-23",
+      "date": "2026-03-23T15:57:07.000Z",
+      "source": "Arms Control Association",
+      "sourceId": "arms_control",
+      "category": "policy",
+      "snippet": ""
+    },
+    {
+      "title": "Is US helping Saudi Arabia get closer to having nuclear bomb? Congressional papers raise alarm",
+      "link": "https://www.armscontrol.org/media-citations/firstpost/2026-03-23",
+      "date": "2026-03-23T15:54:52.000Z",
+      "source": "Arms Control Association",
+      "sourceId": "arms_control",
+      "category": "policy",
+      "snippet": ""
+    },
+    {
+      "title": "U.S. releases new details on alleged secret Chinese nuclear test",
+      "link": "https://www.armscontrol.org/media-citations/npr/2026-03-23",
+      "date": "2026-03-23T15:51:30.000Z",
+      "source": "Arms Control Association",
+      "sourceId": "arms_control",
+      "category": "policy",
+      "snippet": ""
+    },
+    {
+      "title": "US must build trust with Russia, China to prevent resumption of nuclear testing — expert",
+      "link": "https://www.armscontrol.org/media-citations/tass/2026-03-23",
+      "date": "2026-03-23T15:49:42.000Z",
+      "source": "Arms Control Association",
+      "sourceId": "arms_control",
+      "category": "policy",
+      "snippet": ""
+    },
+    {
+      "title": "Swiss becomes first woman to head chemical weapons body",
+      "link": "https://www.armscontrol.org/media-citations/swiss-info/2026-03-23",
+      "date": "2026-03-23T15:49:02.000Z",
+      "source": "Arms Control Association",
+      "sourceId": "arms_control",
+      "category": "policy",
+      "snippet": ""
+    },
+    {
+      "title": "Which countries have strategic oil reserves – and how much?",
+      "link": "https://www.aljazeera.com/news/2026/3/23/which-countries-have-strategic-oil-reserves-and-how-much?traffic_source=rss",
+      "date": "2026-03-23T15:24:26.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Members of the International Energy Agency have agreed to release 400 million barrels of oil from strategic reserves."
+    },
+    {
+      "title": "Trump deploys ICE agents to US airports amid staffing issues, delays",
+      "link": "https://www.aljazeera.com/news/2026/3/23/trump-deploys-ice-agents-to-us-airports-amid-staffing-issues-delays?traffic_source=rss",
+      "date": "2026-03-23T15:13:54.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Democrats and other observers slam deployment of US immigration agents to airports as dangerous and source of tension."
+    },
+    {
+      "title": "Energy, water, bonds: What are Iran’s targets if Trump hits power plants?",
+      "link": "https://www.aljazeera.com/news/2026/3/23/energy-water-bonds-what-are-irans-targets-if-trump-hits-power-plants?traffic_source=rss",
+      "date": "2026-03-23T15:13:50.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Donald Trump&#039;s Strait of Hormuz deadline for Iran raises concerns about attacks on energy in the Middle East."
+    },
+    {
+      "title": "Trump signals off-ramp in Iran war despite no ‘regime change’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/trump-signals-off-ramp-in-iran-war-despite-no-regime?traffic_source=rss",
+      "date": "2026-03-23T15:09:18.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "President Donald Trump has ordered the US military to postpone strikes against Iranian power plants and energy."
     },
     {
       "title": "Space Force to overhaul legacy ground-based missile defense radar systems",
@@ -48,60 +174,6 @@
       "sourceId": "breaking_defense",
       "category": "defense",
       "snippet": ""
-    },
-    {
-      "title": "Taiwan opposition leader says that improving ties with China is not anti-US",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/taiwan-opposition-leader-says-that-improving-ties-with-china-is-not-anti-us?traffic_source=rss",
-      "date": "2026-03-23T11:33:07.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": ""
-    },
-    {
-      "title": "Has Iran brought down an ‘unkillable’ US F-35 jet?",
-      "link": "https://www.aljazeera.com/news/2026/3/23/has-iran-brought-down-an-unkillable-us-f-35-jet?traffic_source=rss",
-      "date": "2026-03-23T11:18:10.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "The supersonic fighter jet is designed to avoid detection by radar and other technologies."
-    },
-    {
-      "title": "Trump postpones military strikes on Iranian power plants for five days",
-      "link": "https://www.aljazeera.com/news/2026/3/23/trump-postpones-military-strikes-on-iranian-power-plants?traffic_source=rss",
-      "date": "2026-03-23T11:13:47.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "The US president&#039;s announcement comes after he holds ‌&#039;good and ​productive conversations&#039; with Tehran."
-    },
-    {
-      "title": "Iraq pulled into Iran war as US targets Iran-aligned groups",
-      "link": "https://www.aljazeera.com/news/2026/3/23/iraq-pulled-into-iran-war-as-us-targets-iran-aligned-groups?traffic_source=rss",
-      "date": "2026-03-23T11:10:44.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Iraq is increasingly caught between the US and Iran as the regional war escalates, deepening economic woes."
-    },
-    {
-      "title": "Threats over Iran war bare Trump efforts to transform free speech: Experts",
-      "link": "https://www.aljazeera.com/news/2026/3/23/threats-over-iran-war-bare-trump-efforts-to-transform-free-speech-experts?traffic_source=rss",
-      "date": "2026-03-23T11:10:05.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Threat to punish broadcasters for coverage not in &#039;public interest&#039; comes amid wider roll-backs, analysts say."
-    },
-    {
-      "title": "IRGC spokesman tells US President Donald Trump ‘You’re fired!’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/irgc-spokesman-tells-us-president-donald-trump-youre?traffic_source=rss",
-      "date": "2026-03-23T09:42:19.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Spokesman for the IRGC took jabs at US president Trump, mimicking his catchphrases and language."
     },
     {
       "title": "The Battlefield is the Next Betting Market",
@@ -185,15 +257,6 @@
       "snippet": ""
     },
     {
-      "title": "Air Force counter-drone lab requests ideas to track and kill small UAS",
-      "link": "https://breakingdefense.com/2026/03/air-force-counter-drone-lab-requests-ideas-to-track-and-kill-small-uas/",
-      "date": "2026-03-20T11:29:00.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
       "title": "What It Was Like to Be Under Incoming Fire from the War on Terror to Today",
       "link": "https://warontherocks.com/2026/03/indirect-fire-in-the-global-war-on-terror-and-today/",
       "date": "2026-03-20T08:00:59.000Z",
@@ -210,79 +273,64 @@
       "sourceId": "war_on_rocks",
       "category": "strategic",
       "snippet": ""
-    },
-    {
-      "title": "What the Donroe Doctrine Could Mean for China’s Economic Statecraft",
-      "link": "https://warontherocks.com/2026/03/what-the-donroe-doctrine-could-mean-for-chinas-economic-statecraft/",
-      "date": "2026-03-20T07:15:59.000Z",
-      "source": "War on the Rocks",
-      "sourceId": "war_on_rocks",
-      "category": "strategic",
-      "snippet": ""
-    },
-    {
-      "title": "EXCLUSIVE: US poised to accept new F-35s without radars, sources say",
-      "link": "https://breakingdefense.com/2026/03/exclusive-us-poised-to-accept-new-f-35s-without-radars-sources-say/",
-      "date": "2026-03-19T18:32:23.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "Pentagon comptroller says a &#8216;generational investment&#8217; is coming, but when?",
-      "link": "https://breakingdefense.com/2026/03/pentagon-comptroller-says-a-generational-investment-is-coming-but-when/",
-      "date": "2026-03-19T18:00:00.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "Trump pushes back on mounting criticism about his Iran war battle plan as conflict spreads",
-      "link": "https://www.armscontrol.org/media-citations/associated-press/2026-03-19",
-      "date": "2026-03-19T16:08:31.000Z",
-      "source": "Arms Control Association",
-      "sourceId": "arms_control",
-      "category": "policy",
-      "snippet": ""
-    },
-    {
-      "title": "Trump blames Iran for the war — critics question the diplomacy",
-      "link": "https://www.armscontrol.org/media-citations/npr/2026-03-19-0",
-      "date": "2026-03-19T16:05:39.000Z",
-      "source": "Arms Control Association",
-      "sourceId": "arms_control",
-      "category": "policy",
-      "snippet": ""
-    },
-    {
-      "title": "How ignorance, misunderstanding and obfuscation ended Iran nuclear talks",
-      "link": "https://www.armscontrol.org/media-citations/guardian/2026-03-19",
-      "date": "2026-03-19T16:03:32.000Z",
-      "source": "Arms Control Association",
-      "sourceId": "arms_control",
-      "category": "policy",
-      "snippet": ""
-    },
-    {
-      "title": "Once the airstrikes stop, Iran&#039;s nuclear threat leaves no easy endgame",
-      "link": "https://www.armscontrol.org/media-citations/npr/2026-03-19",
-      "date": "2026-03-19T16:02:08.000Z",
-      "source": "Arms Control Association",
-      "sourceId": "arms_control",
-      "category": "policy",
-      "snippet": ""
     }
   ],
   "alerts": [
     {
+      "level": "ELEVATED",
+      "keyword": "negotiation",
+      "title": "Trump can declare victory in Iran – and he should",
+      "source": "Al Jazeera — Middle East",
+      "date": "2026-03-23T17:42:04.000Z",
+      "link": "https://www.aljazeera.com/opinions/2026/3/23/trump-can-declare-victory-in-iran-and-he?traffic_source=rss"
+    },
+    {
       "level": "CRITICAL",
       "keyword": "escalation",
-      "title": "UK PM Starmer says no threat from Iran on Britain, calls for de-escalation",
+      "title": "How Israel is reacting to Trump’s  ‘de-escalation’ with Iran",
       "source": "Al Jazeera — Middle East",
-      "date": "2026-03-23T11:57:25.000Z",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/uk-pm-starmer-says-no-threat-from-iran-on-britain-calls-for-de-escalation?traffic_source=rss"
+      "date": "2026-03-23T17:09:05.000Z",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/how-israel-is-reacting-to-trumps-de-escalation-with-iran?traffic_source=rss"
+    },
+    {
+      "level": "CRITICAL",
+      "keyword": "nuclear",
+      "title": "North Korea’s Nuclear Gamble Pays Off in Trump’s New World Order",
+      "source": "Arms Control Association",
+      "date": "2026-03-23T15:57:07.000Z",
+      "link": "https://www.armscontrol.org/media-citations/newsweek/2026-03-23"
+    },
+    {
+      "level": "CRITICAL",
+      "keyword": "nuclear",
+      "title": "Is US helping Saudi Arabia get closer to having nuclear bomb? Congressional papers raise alarm",
+      "source": "Arms Control Association",
+      "date": "2026-03-23T15:54:52.000Z",
+      "link": "https://www.armscontrol.org/media-citations/firstpost/2026-03-23"
+    },
+    {
+      "level": "CRITICAL",
+      "keyword": "nuclear",
+      "title": "U.S. releases new details on alleged secret Chinese nuclear test",
+      "source": "Arms Control Association",
+      "date": "2026-03-23T15:51:30.000Z",
+      "link": "https://www.armscontrol.org/media-citations/npr/2026-03-23"
+    },
+    {
+      "level": "CRITICAL",
+      "keyword": "nuclear",
+      "title": "US must build trust with Russia, China to prevent resumption of nuclear testing — expert",
+      "source": "Arms Control Association",
+      "date": "2026-03-23T15:49:42.000Z",
+      "link": "https://www.armscontrol.org/media-citations/tass/2026-03-23"
+    },
+    {
+      "level": "CRITICAL",
+      "keyword": "strait of hormuz",
+      "title": "Energy, water, bonds: What are Iran’s targets if Trump hits power plants?",
+      "source": "Al Jazeera — Middle East",
+      "date": "2026-03-23T15:13:50.000Z",
+      "link": "https://www.aljazeera.com/news/2026/3/23/energy-water-bonds-what-are-irans-targets-if-trump-hits-power-plants?traffic_source=rss"
     },
     {
       "level": "HIGH",
@@ -323,46 +371,6 @@
       "source": "Arms Control Association",
       "date": "2026-03-19T16:01:27.000Z",
       "link": "https://www.armscontrol.org/media-citations/fox-news/2026-03-19"
-    },
-    {
-      "level": "CRITICAL",
-      "keyword": "nuclear",
-      "title": "Virtual Briefing: Multilateral Arms Control after New START: Involving China and Other Nuclear-Armed States",
-      "source": "Arms Control Association",
-      "date": "2026-03-16T15:16:03.000Z",
-      "link": "https://www.armscontrol.org/events-and-remarks/2026-03/virtual-briefing-multilateral-arms-control-after-new-start-involving"
-    },
-    {
-      "level": "CRITICAL",
-      "keyword": "nuclear",
-      "title": "U.S. Negotiators Were Ill-Prepared for Serious Nuclear Negotiations with Iran",
-      "source": "Arms Control Association",
-      "date": "2026-03-11T15:21:16.000Z",
-      "link": "https://www.armscontrol.org/blog/2026-03-11/us-negotiators-were-ill-prepared-serious-nuclear-negotiations-iran"
-    },
-    {
-      "level": "ELEVATED",
-      "keyword": "negotiation",
-      "title": "U.S. Negotiators Were Ill-Prepared for Serious Nuclear Negotiations with Iran",
-      "source": "Arms Control Association",
-      "date": "2026-03-11T15:21:16.000Z",
-      "link": "https://www.armscontrol.org/blog/2026-03-11/us-negotiators-were-ill-prepared-serious-nuclear-negotiations-iran"
-    },
-    {
-      "level": "CRITICAL",
-      "keyword": "nuclear",
-      "title": "Was Iran really building a nuclear weapon? Podcast",
-      "source": "Arms Control Association",
-      "date": "2026-03-10T17:56:25.000Z",
-      "link": "https://www.armscontrol.org/media-citations/guardian/2026-03-10"
-    },
-    {
-      "level": "CRITICAL",
-      "keyword": "nuclear",
-      "title": "The U.S. War on Iran: New and Lingering Nuclear Risks",
-      "source": "Arms Control Association",
-      "date": "2026-03-10T14:09:18.000Z",
-      "link": "https://www.armscontrol.org/issue-briefs/2026-03/us-war-iran-new-and-lingering-nuclear-risks"
     }
   ],
   "sources": [
