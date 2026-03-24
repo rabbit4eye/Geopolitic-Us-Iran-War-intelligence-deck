@@ -1,44 +1,143 @@
 {
-  "lastUpdated": "2026-03-23T18:37:19.711Z",
+  "lastUpdated": "2026-03-24T01:00:29.969Z",
   "feedCount": 5,
   "totalItems": 40,
-  "alertCount": 12,
+  "alertCount": 8,
   "headlines": [
     {
-      "title": "Iran denies any talks with US after Trump claims ‘productive’ discussions",
-      "link": "https://www.aljazeera.com/news/2026/3/23/iran-denies-any-talks-with-us-after-trump-claims-productive-discussions?traffic_source=rss",
-      "date": "2026-03-23T18:21:54.000Z",
+      "title": "Israeli settlers vandalise school, raise Israeli flag in occupied West Bank",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/israeli-settlers-vandalise-school-raise-israeli-flag-in-occupied-west-bank?traffic_source=rss",
+      "date": "2026-03-24T00:14:00.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Iran parliament speaker says US president using idea of talks to &#039;escape quagmire in which US and Israel are trapped&#039;."
+      "snippet": "Israeli settlers have been filmed vandalising a boys’ school in Huwara."
     },
     {
-      "title": "Why the oil and gas price shock from the Iran war won’t just fade away",
-      "link": "https://www.aljazeera.com/opinions/2026/3/23/why-the-oil-and-gas-price-shock-from-the-iran-war-wont-just-fade-away?traffic_source=rss",
-      "date": "2026-03-23T18:06:18.000Z",
+      "title": "Iran war live: Tehran says Trump’s peace talk claims are ‘fake news’",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/3/24/iran-war-live-tehran-says-trumps-claims-of-peace-talks-fake?traffic_source=rss",
+      "date": "2026-03-24T00:00:00.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Rerouting and diversification cannot help when a significant chunk of oil and gas have been taken off the market."
+      "snippet": "Iran&#039;s Revolutionary Guard calls Trump a &#039;deceitful American president&#039;, accuses him of &#039;contradictory behaviour&#039;."
     },
     {
-      "title": "How the Iran war is about to hit your wallet",
-      "link": "https://www.aljazeera.com/video/the-take-2/2026/3/23/aje-onl-tt_irn_gasfields_av_v2-230326?traffic_source=rss",
-      "date": "2026-03-23T17:56:35.000Z",
+      "title": "Trump says Iran ‘wants peace’ after US military did ‘great job’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/trump-says-iran-wants-peace-after-us-military-did-great?traffic_source=rss",
+      "date": "2026-03-23T23:54:50.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Strikes on gas sites in the Iran war are driving up energy costs, pushing up prices for power, food and more worldwide."
+      "snippet": "US President Donald Trump says ‘there’s a very good chance of a deal’ to end the US-Israel war on Iran."
     },
     {
-      "title": "Trump can declare victory in Iran – and he should",
-      "link": "https://www.aljazeera.com/opinions/2026/3/23/trump-can-declare-victory-in-iran-and-he?traffic_source=rss",
-      "date": "2026-03-23T17:42:04.000Z",
+      "title": "Macron says Lebanon’s fight is ‘just’ amid escalating attacks by Israel",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/macron-says-lebanons-fight-is-just-amid-escalating-attacks-by-israel?traffic_source=rss",
+      "date": "2026-03-23T22:59:25.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "The US president has proven that hitting hard and fast rather than engaging in endless negotiations guarantees victory."
+      "snippet": "France’s president Emmanuel Macron said Lebanon’s fight against threats to its security is ‘just’."
+    },
+    {
+      "title": "UN expert says world has given Israel ‘licence to torture Palestinians’",
+      "link": "https://www.aljazeera.com/news/2026/3/23/un-expert-says-world-has-given-israel-licence-to-torture-palestinians?traffic_source=rss",
+      "date": "2026-03-23T22:58:33.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "UN Special Rapporteur Francesca Albanese says torture &#039;has effectively become state policy&#039; in Israel."
+    },
+    {
+      "title": "Have Israel, the US and Iran violated international law?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/3/23/have-israel-the-us-and-iran-violated-international-law?traffic_source=rss",
+      "date": "2026-03-23T21:34:08.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Civilian targets have been struck by all three warring parties."
+    },
+    {
+      "title": "Smotrich urges Israel to annex southern Lebanon as assault intensifies",
+      "link": "https://www.aljazeera.com/news/2026/3/23/smotrich-urges-israel-to-annex-southern-lebanon-as-assault-intensifies?traffic_source=rss",
+      "date": "2026-03-23T21:27:33.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Israel&#039;s far-right finance minister says Litani River must be &#039;the new Israeli border&#039;, as attacks on Lebanon ramp up."
+    },
+    {
+      "title": "Iranian officials dismiss claims of US talks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/iranian-officials-dismiss-claims-of-us-talks?traffic_source=rss",
+      "date": "2026-03-23T21:14:07.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Senior Iranian officials deny that Iran held talks with the US"
+    },
+    {
+      "title": "Trump said Iran will &#039;soon&#039; have missiles able to hit the U.S. A 2025 intel report said it will take 10 years.",
+      "link": "https://www.armscontrol.org/media-citations/reuters/2026-03-23",
+      "date": "2026-03-23T21:12:41.000Z",
+      "source": "Arms Control Association",
+      "sourceId": "arms_control",
+      "category": "policy",
+      "snippet": ""
+    },
+    {
+      "title": "Omani FM Cites &#039;Significant Progress&#039; As US, Iran Conclude Fresh Round Of Nuclear Talks",
+      "link": "https://www.armscontrol.org/media-citations/radio-free-europe-radio-liberty/2026-03-23",
+      "date": "2026-03-23T21:11:48.000Z",
+      "source": "Arms Control Association",
+      "sourceId": "arms_control",
+      "category": "policy",
+      "snippet": ""
+    },
+    {
+      "title": "Space Force anticipates first Kronos C2 contracts in April",
+      "link": "https://breakingdefense.com/2026/03/space-force-anticipates-first-kronos-c2-contracts-in-april/",
+      "date": "2026-03-23T21:08:27.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "Moment missile strikes shortly after Israeli president’s visit",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/moment-missile-strikes-shortly-after-israeli-presidents-visit?traffic_source=rss",
+      "date": "2026-03-23T20:47:04.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Shortly after a news conference, Israel&#039;s president was forced to take cover as a missile struck nearby."
+    },
+    {
+      "title": "As Fury production starts, Anduril pledging a different production approach at Arsenal-1",
+      "link": "https://breakingdefense.com/2026/03/as-fury-production-starts-anduril-pledging-a-different-production-approach-at-arsenal-1/",
+      "date": "2026-03-23T20:39:56.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "Ukraine strikes key Russian oil port and refinery",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/ukraine-strikes-key-russian-oil-port-and-refinery?traffic_source=rss",
+      "date": "2026-03-23T20:35:31.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Ukraine said it hit a key Russian oil terminal at Primorsk and a refinery in Ufa on Monday."
+    },
+    {
+      "title": "Space Force&#8217;s two new cyber squadrons to defend space launch operations",
+      "link": "https://breakingdefense.com/2026/03/space-forces-two-new-cyber-squadrons-to-defend-space-launch-operations/",
+      "date": "2026-03-23T18:48:11.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
     },
     {
       "title": "Army receives first autonomous-ready, optionally piloted Black Hawk",
@@ -50,15 +149,6 @@
       "snippet": ""
     },
     {
-      "title": "How Israel is reacting to Trump’s  ‘de-escalation’ with Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/how-israel-is-reacting-to-trumps-de-escalation-with-iran?traffic_source=rss",
-      "date": "2026-03-23T17:09:05.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "There is expected to be pushback from Israel following President Donald Trump’s move towards de-escalation with Iran."
-    },
-    {
       "title": "Trump admin&#8217;s comments could undermine case against Anthropic in court: Experts",
       "link": "https://breakingdefense.com/2026/03/trump-admins-public-comments-could-undermine-case-against-anthropic-in-court-experts/",
       "date": "2026-03-23T16:53:54.000Z",
@@ -68,13 +158,13 @@
       "snippet": ""
     },
     {
-      "title": "Israeli strike on Lebanon bridge raises fears of ground invasion",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/israeli-strike-on-lebanon-bridge-raises-fears-of-ground-invasion?traffic_source=rss",
-      "date": "2026-03-23T16:01:08.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Lebanon fears that Israel’s attack on Qasmiyeh Bridge could be a “prelude to a ground invasion”."
+      "title": "Trump administration pursuing nuclear deal with Saudi Arabia, opening path to enrichment: Report",
+      "link": "https://www.armscontrol.org/media-citations/middle-east-eye/2026-03-23",
+      "date": "2026-03-23T16:08:55.000Z",
+      "source": "Arms Control Association",
+      "sourceId": "arms_control",
+      "category": "policy",
+      "snippet": ""
     },
     {
       "title": "Lockheed Martin Australia, Rheinmetall exploring HIMARS sustainment Down Under",
@@ -131,42 +221,6 @@
       "snippet": ""
     },
     {
-      "title": "Which countries have strategic oil reserves – and how much?",
-      "link": "https://www.aljazeera.com/news/2026/3/23/which-countries-have-strategic-oil-reserves-and-how-much?traffic_source=rss",
-      "date": "2026-03-23T15:24:26.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Members of the International Energy Agency have agreed to release 400 million barrels of oil from strategic reserves."
-    },
-    {
-      "title": "Trump deploys ICE agents to US airports amid staffing issues, delays",
-      "link": "https://www.aljazeera.com/news/2026/3/23/trump-deploys-ice-agents-to-us-airports-amid-staffing-issues-delays?traffic_source=rss",
-      "date": "2026-03-23T15:13:54.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Democrats and other observers slam deployment of US immigration agents to airports as dangerous and source of tension."
-    },
-    {
-      "title": "Energy, water, bonds: What are Iran’s targets if Trump hits power plants?",
-      "link": "https://www.aljazeera.com/news/2026/3/23/energy-water-bonds-what-are-irans-targets-if-trump-hits-power-plants?traffic_source=rss",
-      "date": "2026-03-23T15:13:50.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Donald Trump&#039;s Strait of Hormuz deadline for Iran raises concerns about attacks on energy in the Middle East."
-    },
-    {
-      "title": "Trump signals off-ramp in Iran war despite no ‘regime change’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/trump-signals-off-ramp-in-iran-war-despite-no-regime?traffic_source=rss",
-      "date": "2026-03-23T15:09:18.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "President Donald Trump has ordered the US military to postpone strikes against Iranian power plants and energy."
-    },
-    {
       "title": "Space Force to overhaul legacy ground-based missile defense radar systems",
       "link": "https://breakingdefense.com/2026/03/space-force-to-overhaul-legacy-ground-based-missile-defense-radar-systems/",
       "date": "2026-03-23T11:42:00.000Z",
@@ -219,78 +273,24 @@
       "sourceId": "breaking_defense",
       "category": "defense",
       "snippet": ""
-    },
-    {
-      "title": "Israel&#8217;s Elbit reveals military contract to put high-powered laser weapon on aircraft",
-      "link": "https://breakingdefense.com/2026/03/israels-elbit-reveals-military-contract-to-put-high-powered-laser-weapon-on-aircraft/",
-      "date": "2026-03-20T15:32:00.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "Conflict and Consequences",
-      "link": "https://warontherocks.com/2026/03/conflict-and-consequences/",
-      "date": "2026-03-20T14:00:04.000Z",
-      "source": "War on the Rocks",
-      "sourceId": "war_on_rocks",
-      "category": "strategic",
-      "snippet": ""
-    },
-    {
-      "title": "India seeking to join European sixth-generation fighter program: Reports",
-      "link": "https://breakingdefense.com/2026/03/india-seeking-to-join-european-sixth-generation-fighter-program-reports/",
-      "date": "2026-03-20T13:52:18.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "What is the Pentagon’s ‘Space Data Network,’ and why does it matter for Golden Dome?",
-      "link": "https://breakingdefense.com/2026/03/what-is-the-pentagons-space-data-network-and-why-does-it-matter-for-golden-dome/",
-      "date": "2026-03-20T13:26:31.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "What It Was Like to Be Under Incoming Fire from the War on Terror to Today",
-      "link": "https://warontherocks.com/2026/03/indirect-fire-in-the-global-war-on-terror-and-today/",
-      "date": "2026-03-20T08:00:59.000Z",
-      "source": "War on the Rocks",
-      "sourceId": "war_on_rocks",
-      "category": "strategic",
-      "snippet": ""
-    },
-    {
-      "title": "Why Did the United States Lift Sanctions on Assad’s Chemical Weapons Scientists?",
-      "link": "https://warontherocks.com/2026/03/why-did-the-united-states-lift-sanctions-on-assads-chemical-weapons-scientists/",
-      "date": "2026-03-20T07:30:51.000Z",
-      "source": "War on the Rocks",
-      "sourceId": "war_on_rocks",
-      "category": "strategic",
-      "snippet": ""
     }
   ],
   "alerts": [
     {
-      "level": "ELEVATED",
-      "keyword": "negotiation",
-      "title": "Trump can declare victory in Iran – and he should",
-      "source": "Al Jazeera — Middle East",
-      "date": "2026-03-23T17:42:04.000Z",
-      "link": "https://www.aljazeera.com/opinions/2026/3/23/trump-can-declare-victory-in-iran-and-he?traffic_source=rss"
+      "level": "CRITICAL",
+      "keyword": "nuclear",
+      "title": "Omani FM Cites &#039;Significant Progress&#039; As US, Iran Conclude Fresh Round Of Nuclear Talks",
+      "source": "Arms Control Association",
+      "date": "2026-03-23T21:11:48.000Z",
+      "link": "https://www.armscontrol.org/media-citations/radio-free-europe-radio-liberty/2026-03-23"
     },
     {
       "level": "CRITICAL",
-      "keyword": "escalation",
-      "title": "How Israel is reacting to Trump’s  ‘de-escalation’ with Iran",
-      "source": "Al Jazeera — Middle East",
-      "date": "2026-03-23T17:09:05.000Z",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/how-israel-is-reacting-to-trumps-de-escalation-with-iran?traffic_source=rss"
+      "keyword": "nuclear",
+      "title": "Trump administration pursuing nuclear deal with Saudi Arabia, opening path to enrichment: Report",
+      "source": "Arms Control Association",
+      "date": "2026-03-23T16:08:55.000Z",
+      "link": "https://www.armscontrol.org/media-citations/middle-east-eye/2026-03-23"
     },
     {
       "level": "CRITICAL",
@@ -325,14 +325,6 @@
       "link": "https://www.armscontrol.org/media-citations/tass/2026-03-23"
     },
     {
-      "level": "CRITICAL",
-      "keyword": "strait of hormuz",
-      "title": "Energy, water, bonds: What are Iran’s targets if Trump hits power plants?",
-      "source": "Al Jazeera — Middle East",
-      "date": "2026-03-23T15:13:50.000Z",
-      "link": "https://www.aljazeera.com/news/2026/3/23/energy-water-bonds-what-are-irans-targets-if-trump-hits-power-plants?traffic_source=rss"
-    },
-    {
       "level": "HIGH",
       "keyword": "sanctions",
       "title": "Why Did the United States Lift Sanctions on Assad’s Chemical Weapons Scientists?",
@@ -347,30 +339,6 @@
       "source": "Arms Control Association",
       "date": "2026-03-19T16:05:39.000Z",
       "link": "https://www.armscontrol.org/media-citations/npr/2026-03-19-0"
-    },
-    {
-      "level": "CRITICAL",
-      "keyword": "nuclear",
-      "title": "How ignorance, misunderstanding and obfuscation ended Iran nuclear talks",
-      "source": "Arms Control Association",
-      "date": "2026-03-19T16:03:32.000Z",
-      "link": "https://www.armscontrol.org/media-citations/guardian/2026-03-19"
-    },
-    {
-      "level": "CRITICAL",
-      "keyword": "nuclear",
-      "title": "Once the airstrikes stop, Iran&#039;s nuclear threat leaves no easy endgame",
-      "source": "Arms Control Association",
-      "date": "2026-03-19T16:02:08.000Z",
-      "link": "https://www.armscontrol.org/media-citations/npr/2026-03-19"
-    },
-    {
-      "level": "CRITICAL",
-      "keyword": "nuclear",
-      "title": "Strikes may set Iran back but likely won&#039;t end nuclear program, UN watchdog chief warns",
-      "source": "Arms Control Association",
-      "date": "2026-03-19T16:01:27.000Z",
-      "link": "https://www.armscontrol.org/media-citations/fox-news/2026-03-19"
     }
   ],
   "sources": [
