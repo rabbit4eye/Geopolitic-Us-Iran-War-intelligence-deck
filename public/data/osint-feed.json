@@ -1,98 +1,125 @@
 {
-  "lastUpdated": "2026-03-24T06:49:54.718Z",
+  "lastUpdated": "2026-03-24T12:41:01.463Z",
   "feedCount": 5,
   "totalItems": 40,
   "alertCount": 9,
   "headlines": [
     {
-      "title": "Amid muted Eid celebrations, violence surges across the West Bank",
-      "link": "https://www.aljazeera.com/news/2026/3/24/amid-muted-eid-celebrations-violence-surges-across-the-west-bank?traffic_source=rss",
-      "date": "2026-03-24T06:25:55.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Settler attacks and land seizures marked a week that was supposed to be one of celebration for Palestinians."
+      "title": "Swiss Destinus, Shield AI wrap European drone autonomy test campaign",
+      "link": "https://breakingdefense.com/2026/03/swiss-destinus-shield-ai-wrap-european-drone-autonomy-test-campaign/",
+      "date": "2026-03-24T12:01:00.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
     },
     {
-      "title": "Mbappe fit and ready to play every Real Madrid game before World Cup",
-      "link": "https://www.aljazeera.com/sports/2026/3/24/mbappe-fit-and-ready-to-play-every-real-madrid-game-before-world-cup?traffic_source=rss",
-      "date": "2026-03-24T06:23:20.000Z",
+      "title": "Moment Israeli soldier throws stun grenade at shop near Ramallah",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/moment-israeli-soldier-throws-stun-grenade-at-shop-near-ramallah?traffic_source=rss",
+      "date": "2026-03-24T11:58:09.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "French striker says he has made &#039;100 percent recovery&#039; from his lingering knee injury and is fully available."
+      "snippet": "CCTV footage shows an Israeli soldier throwing a stun grenade into a shop during a night raid near Ramallah."
     },
     {
-      "title": "US-Israel war on Iran: What’s happening on day 25 of attacks?",
-      "link": "https://www.aljazeera.com/news/2026/3/24/us-israel-war-on-iran-whats-happening-on-day-25-of-attacks?traffic_source=rss",
-      "date": "2026-03-24T06:17:43.000Z",
+      "title": "Are Middle East attacks pushing Asia towards an energy crisis?",
+      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/3/24/are-middle-east-attacks-pushing-asia-towards-an-energy-crisis?traffic_source=rss",
+      "date": "2026-03-24T11:54:25.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Trump claims talks on with Iran, as he holds off on energy attacks, but Tehran denies any negotiations."
+      "snippet": "Energy facilities in the Middle East are under attack, including Qatar&#039;s LNG, pushing prices higher."
     },
     {
-      "title": "Tiger Woods eyes Masters return with competitive golf outing at TGL",
-      "link": "https://www.aljazeera.com/sports/2026/3/24/tiger-woods-eyes-masters-return-with-competitive-golf-outing-at-tgl?traffic_source=rss",
-      "date": "2026-03-24T05:49:25.000Z",
+      "title": "Israeli forces blow up mosque minaret in southern Lebanon",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/israeli-forces-blow-up-mosque-minaret-in-southern-lebanon?traffic_source=rss",
+      "date": "2026-03-24T11:48:46.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "The oft-injured 15-time major winner is hoping to use the tournament as a test run before the Masters next month."
+      "snippet": "Video shows Israeli forces blowing up a mosque&#039;s minaret in Khiam in southern Lebanon."
     },
     {
-      "title": "Zinedine Zidane to take over as France coach this summer: Report",
-      "link": "https://www.aljazeera.com/sports/2026/3/24/zinedine-zidane-to-take-over-as-france-coach-this-summer-report?traffic_source=rss",
-      "date": "2026-03-24T05:04:26.000Z",
+      "title": "Australia and EU seal trade deal to cut reliance on China’s rare earths",
+      "link": "https://www.aljazeera.com/news/2026/3/24/australia-and-eu-seal-trade-deal-to-cut-reliance-on-chinas-rare-earths?traffic_source=rss",
+      "date": "2026-03-24T11:48:03.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Zidane will succeed his former national side teammate Didier Deschamps as France head coach, according to the report."
+      "snippet": "EU&#039;s Von der Leyen says critical minerals partnership is &#039;crucial&#039; as China dominates supply chains."
     },
     {
-      "title": "Trump administration deploys ICE agents at airports across US",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/trump-administration-deploys-ice-agents-at-airports-across-us?traffic_source=rss",
-      "date": "2026-03-24T04:47:25.000Z",
+      "title": "Lebanon declares Iranian ambassador persona non grata amid Israeli attacks",
+      "link": "https://www.aljazeera.com/news/2026/3/24/lebanon-declares-iranian-ambassador-persona-non-grata-amid-israeli-attacks?traffic_source=rss",
+      "date": "2026-03-24T11:44:10.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "The Trump administration has deployed ICE agents to airports across the United States."
+      "snippet": "Lebanese Foreign Ministry summons envoy to Iran, citing breaches of diplomatic protocol by Tehran."
     },
     {
-      "title": "Israel bombs petrol station in southern Lebanon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/israel-bombs-petrol-station-in-southern-lebanon?traffic_source=rss",
-      "date": "2026-03-24T04:28:17.000Z",
+      "title": "How does the current global oil crisis compare with the 1973 oil embargo?",
+      "link": "https://www.aljazeera.com/news/2026/3/24/how-does-the-current-global-oil-crisis-compare-with-the-1973-oil-embargo?traffic_source=rss",
+      "date": "2026-03-24T11:22:33.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "An Israeli attack has hit a petrol station in southern Lebanon, near the Rashidieh Camp for Palestinian refugees."
+      "snippet": "The 1973 oil embargo removed 4.5 million barrels per day from global supply. Today, that figure stands at 20 million."
     },
     {
-      "title": "US markets surge after Trump announces he’s postponing strikes on Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/us-markets-surge-after-trump-announces-hes-postponing-strikes-on-iran?traffic_source=rss",
-      "date": "2026-03-24T04:21:56.000Z",
+      "title": "Accountability for international humanitarian law is a ‘thing of the past’",
+      "link": "https://www.aljazeera.com/video/quotable/2026/3/24/accountability-for-international-humanitarian-law-is-a-thing-of-the?traffic_source=rss",
+      "date": "2026-03-24T10:46:28.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Major US financial markets opened higher after US President Donald Trump announced he was postponing strikes on Iran."
+      "snippet": "Former ICC prosecutor Geoffrey Nice says the US-Israel warns that holding powerful states accountable is ‘unrealistic&#039;"
     },
     {
-      "title": "Large pro-government rallies held in Tehran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/large-pro-government-rallies-held-in-tehran?traffic_source=rss",
-      "date": "2026-03-24T03:27:35.000Z",
+      "title": "Bill Cosby found guilty of 1972 sexual assault, victim awarded nearly $60m",
+      "link": "https://www.aljazeera.com/news/2026/3/24/bill-cosby-found-guilty-of-1972-sexual-assault-victim-awarded-nearly-60m?traffic_source=rss",
+      "date": "2026-03-24T10:40:41.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Videos show large demonstrations in Tehran, where crowds waved Iranian flags and chanted in support of the government."
+      "snippet": "The actor faces allegations of sexual misconduct by at least 60 women, all of which he denies."
     },
     {
-      "title": "‘Israel has been given a licence to torture Palestinians’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/israel-has-been-given-a-licence-to-torture?traffic_source=rss",
-      "date": "2026-03-24T02:20:00.000Z",
+      "title": "Amazon says AWS Bahrain region ‘disrupted’ following drone activity",
+      "link": "https://www.aljazeera.com/news/2026/3/24/amazon-says-aws-bahrain-region-disrupted-following-drone-activity?traffic_source=rss",
+      "date": "2026-03-24T10:39:41.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "UN Special Rapporteur Francesca Albanese has said the world gave Israel a ‘licence to torture Palestinians’."
+      "snippet": "The disruption marks the second time in a month that AWS operations have been affected by the Iran war."
+    },
+    {
+      "title": "Supporter groups file lawsuit against FIFA over World Cup ticket prices",
+      "link": "https://www.aljazeera.com/sports/2026/3/24/supporters-group-file-lawsuit-against-fifa-over-world-cup-ticket-prices?traffic_source=rss",
+      "date": "2026-03-24T10:31:13.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Euroconsumers and FSE file a lawsuit with the European Commission against the sport body over World Cup ticket prices."
+    },
+    {
+      "title": "The Next Transformation of U.S. Shipbuilding",
+      "link": "https://warontherocks.com/2026/03/the-next-transformation-of-u-s-shipbuilding/",
+      "date": "2026-03-24T08:00:38.000Z",
+      "source": "War on the Rocks",
+      "sourceId": "war_on_rocks",
+      "category": "strategic",
+      "snippet": ""
+    },
+    {
+      "title": "Converting History into Hard Power: A Polish-German Reckoning",
+      "link": "https://warontherocks.com/2026/03/converting-history-into-hard-power-a-polish-german-reckoning/",
+      "date": "2026-03-24T07:30:21.000Z",
+      "source": "War on the Rocks",
+      "sourceId": "war_on_rocks",
+      "category": "strategic",
+      "snippet": ""
     },
     {
       "title": "Trump said Iran will &#039;soon&#039; have missiles able to hit the U.S. A 2025 intel report said it will take 10 years.",
@@ -246,43 +273,16 @@
       "sourceId": "war_on_rocks",
       "category": "strategic",
       "snippet": ""
-    },
-    {
-      "title": "Navy, Hadrian launch partnership, open facility to build submarine parts",
-      "link": "https://breakingdefense.com/2026/03/navy-hadrian-launch-public-private-partnership-open-facility-to-build-submarine-parts/",
-      "date": "2026-03-20T19:39:41.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "Space Force shifts GPS III launch from ULA to SpaceX",
-      "link": "https://breakingdefense.com/2026/03/space-force-shifts-gps-iii-launch-from-ula-to-spacex/",
-      "date": "2026-03-20T17:05:00.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "Answering the demand signal to move faster, field sooner, iterate continuously",
-      "link": "https://breakingdefense.com/2026/03/answering-the-demand-signal-to-move-faster-field-sooner-iterate-continuously/",
-      "date": "2026-03-20T16:31:42.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
     }
   ],
   "alerts": [
     {
-      "level": "ELEVATED",
-      "keyword": "negotiation",
-      "title": "US-Israel war on Iran: What’s happening on day 25 of attacks?",
+      "level": "HIGH",
+      "keyword": "rare earth",
+      "title": "Australia and EU seal trade deal to cut reliance on China’s rare earths",
       "source": "Al Jazeera — Middle East",
-      "date": "2026-03-24T06:17:43.000Z",
-      "link": "https://www.aljazeera.com/news/2026/3/24/us-israel-war-on-iran-whats-happening-on-day-25-of-attacks?traffic_source=rss"
+      "date": "2026-03-24T11:48:03.000Z",
+      "link": "https://www.aljazeera.com/news/2026/3/24/australia-and-eu-seal-trade-deal-to-cut-reliance-on-chinas-rare-earths?traffic_source=rss"
     },
     {
       "level": "CRITICAL",
