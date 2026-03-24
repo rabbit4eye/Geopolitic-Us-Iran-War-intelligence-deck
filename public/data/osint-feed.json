@@ -1,9 +1,180 @@
 {
-  "lastUpdated": "2026-03-24T12:41:01.463Z",
+  "lastUpdated": "2026-03-24T18:44:38.776Z",
   "feedCount": 5,
   "totalItems": 40,
   "alertCount": 9,
   "headlines": [
+    {
+      "title": "Conference Chief Seeks to Rebuild NPT Credibility:  An Interview with Ambassador Do Hung Viet of Vietnam, president of the 2026 NPT Review Conference",
+      "link": "https://www.armscontrol.org/act/2026-04/interviews/conference-chief-seeks-rebuild-npt-credibility-interview-ambassador-do-hung",
+      "date": "2026-04-01T14:43:31.000Z",
+      "source": "Arms Control Association",
+      "sourceId": "arms_control",
+      "category": "policy",
+      "snippet": ""
+    },
+    {
+      "title": "America must adopt a Sixth Domain of warfare doctrine",
+      "link": "https://breakingdefense.com/2026/03/america-must-adopt-a-sixth-domain-of-warfare-doctrine/",
+      "date": "2026-03-24T18:38:38.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "Iran names successor to security chief killed in US-Israeli attack",
+      "link": "https://www.aljazeera.com/news/2026/3/24/mohammad-bagher-zolghadr-succeeds-slain-larijani-as-iran-security-chief?traffic_source=rss",
+      "date": "2026-03-24T18:11:47.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Mohammad Bagher Zolghadr, ex-IRGC commander, to replace late Ali Larijani as chief of Supreme National Security Council."
+    },
+    {
+      "title": "Afghanistan frees detained US citizen Dennis Coyle as gesture of ‘goodwill’",
+      "link": "https://www.aljazeera.com/news/2026/3/24/afghanistan-frees-detained-us-citizen-dennis-coyle-as-gesture-of-goodwill?traffic_source=rss",
+      "date": "2026-03-24T18:11:34.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "US State Secretary Marco Rubio welcomes Coyle&#039;s release as &#039;positive step&#039; and thanks Qatar and the UAE for their help."
+    },
+    {
+      "title": "Israeli strike lands near Roman ruins in Lebanon",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/israeli-strike-lands-near-roman-ruins-in-lebanon?traffic_source=rss",
+      "date": "2026-03-24T18:06:04.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Smoke was seen rising close to Roman ruins in the Lebanese city of Tyre after an Israeli strike hit a building nearby."
+    },
+    {
+      "title": "Kim Jong Un says North Korea will never give up on nuclear weapons",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/kim-jong-un-says-north-korea-will-never-give-up-on-nuclear-weapons?traffic_source=rss",
+      "date": "2026-03-24T18:01:06.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Kim Jong Un has said North Korea will never give up on its push for nuclear weapons."
+    },
+    {
+      "title": "The War in Iran and Implications for the Nuclear Non-Proliferation Regime",
+      "link": "https://warontherocks.com/2026/03/the-war-in-iran-and-implications-for-the-nuclear-non-proliferation-regime/",
+      "date": "2026-03-24T18:00:24.000Z",
+      "source": "War on the Rocks",
+      "sourceId": "war_on_rocks",
+      "category": "strategic",
+      "snippet": ""
+    },
+    {
+      "title": "Anthropic challenges US Pentagon’s ban in San Francisco court showdown",
+      "link": "https://www.aljazeera.com/economy/2026/3/24/anthropic-challenges-us-pentagons-ban-in-san-francisco-court-showdown?traffic_source=rss",
+      "date": "2026-03-24T17:57:50.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Anthropic accuses Pentagon of unlawful retaliation over its refusal to loosen AI safety restrictions for military use."
+    },
+    {
+      "title": "Israeli soldiers accused of ‘torturing’ toddler in Gaza",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/israeli-soldiers-accused-of-torturing-toddler-in-gaza?traffic_source=rss",
+      "date": "2026-03-24T17:49:16.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "The family of a two-year-old boy in Gaza says Israeli soldiers tortured him to extract information about his father."
+    },
+    {
+      "title": "When are UEFA’s World Cup 2026 playoffs, and which nations are involved?",
+      "link": "https://www.aljazeera.com/sports/2026/3/24/when-are-uefas-world-cup-2026-playoffs-and-which-nations-are-involved?traffic_source=rss",
+      "date": "2026-03-24T16:46:37.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "The final qualification spots for the FIFA World Cup 2026 are about to be sealed via UEFA and Intercontinental playoffs."
+    },
+    {
+      "title": "Palestinian FA calls for Israeli ban after FIFA discrimination report",
+      "link": "https://www.aljazeera.com/sports/2026/3/24/palestine-fa-calls-for-israel-football-ban-after-fifa-discrimination-report?traffic_source=rss",
+      "date": "2026-03-24T16:46:29.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "The Israel Football Association was fined by FIFA for racism and discrimination breaches following Palestinian report."
+    },
+    {
+      "title": "Kratos scores $447M Space Force award for missile tracking ground system",
+      "link": "https://breakingdefense.com/2026/03/kratos-scores-447m-space-force-award-for-missile-tracking-ground-system/",
+      "date": "2026-03-24T16:37:54.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "Israeli defences questioned as Iran continues to cause damage",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/israeli-defences-questioned-as-iran-continues-to-cause-damage?traffic_source=rss",
+      "date": "2026-03-24T16:31:31.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Iranian missiles have caused damage in Israel, raising questions about the country’s air defence systems."
+    },
+    {
+      "title": "Aid flotilla reaches Cuba amid US oil blockade and blackouts",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/aid-flotilla-reaches-cuba-amid-us-oil-blockade-and-blackouts?traffic_source=rss",
+      "date": "2026-03-24T16:15:59.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "An aid flotilla has arrived in Cuba as a US-imposed oil blockade drives severe fuel shortages and widespread blackouts."
+    },
+    {
+      "title": "War as a Force of Destruction, Change, and Opportunity",
+      "link": "https://warontherocks.com/2026/03/war-as-a-force-of-destruction-change-and-opportunity/",
+      "date": "2026-03-24T15:53:58.000Z",
+      "source": "War on the Rocks",
+      "sourceId": "war_on_rocks",
+      "category": "strategic",
+      "snippet": ""
+    },
+    {
+      "title": "April 2026 Interview - Do Hung Viet",
+      "link": "https://www.armscontrol.org/node/15232",
+      "date": "2026-03-24T15:10:54.000Z",
+      "source": "Arms Control Association",
+      "sourceId": "arms_control",
+      "category": "policy",
+      "snippet": ""
+    },
+    {
+      "title": "Air Force seeks industry feedback to &#8216;benchmark&#8217; progress of Northrop missile",
+      "link": "https://breakingdefense.com/2026/03/air-force-seeks-industry-feedback-to-benchmark-progress-of-northrop-missile/",
+      "date": "2026-03-24T14:55:00.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "What new weapons could a supplemental buy, plus news on the Army&#8217;s C5ISR plans",
+      "link": "https://breakingdefense.com/2026/03/what-new-weapons-could-a-supplemental-buy-plus-news-on-the-armys-c5isr-plans/",
+      "date": "2026-03-24T14:08:12.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "General Dynamics-led team unveils self-driving truck with microwave counter-drone tech",
+      "link": "https://breakingdefense.com/2026/03/general-dynamics-led-team-unveils-self-driving-truck-with-microwave-counter-drone-tech/",
+      "date": "2026-03-24T13:00:00.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
     {
       "title": "Swiss Destinus, Shield AI wrap European drone autonomy test campaign",
       "link": "https://breakingdefense.com/2026/03/swiss-destinus-shield-ai-wrap-european-drone-autonomy-test-campaign/",
@@ -12,96 +183,6 @@
       "sourceId": "breaking_defense",
       "category": "defense",
       "snippet": ""
-    },
-    {
-      "title": "Moment Israeli soldier throws stun grenade at shop near Ramallah",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/moment-israeli-soldier-throws-stun-grenade-at-shop-near-ramallah?traffic_source=rss",
-      "date": "2026-03-24T11:58:09.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "CCTV footage shows an Israeli soldier throwing a stun grenade into a shop during a night raid near Ramallah."
-    },
-    {
-      "title": "Are Middle East attacks pushing Asia towards an energy crisis?",
-      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/3/24/are-middle-east-attacks-pushing-asia-towards-an-energy-crisis?traffic_source=rss",
-      "date": "2026-03-24T11:54:25.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Energy facilities in the Middle East are under attack, including Qatar&#039;s LNG, pushing prices higher."
-    },
-    {
-      "title": "Israeli forces blow up mosque minaret in southern Lebanon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/israeli-forces-blow-up-mosque-minaret-in-southern-lebanon?traffic_source=rss",
-      "date": "2026-03-24T11:48:46.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Video shows Israeli forces blowing up a mosque&#039;s minaret in Khiam in southern Lebanon."
-    },
-    {
-      "title": "Australia and EU seal trade deal to cut reliance on China’s rare earths",
-      "link": "https://www.aljazeera.com/news/2026/3/24/australia-and-eu-seal-trade-deal-to-cut-reliance-on-chinas-rare-earths?traffic_source=rss",
-      "date": "2026-03-24T11:48:03.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "EU&#039;s Von der Leyen says critical minerals partnership is &#039;crucial&#039; as China dominates supply chains."
-    },
-    {
-      "title": "Lebanon declares Iranian ambassador persona non grata amid Israeli attacks",
-      "link": "https://www.aljazeera.com/news/2026/3/24/lebanon-declares-iranian-ambassador-persona-non-grata-amid-israeli-attacks?traffic_source=rss",
-      "date": "2026-03-24T11:44:10.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Lebanese Foreign Ministry summons envoy to Iran, citing breaches of diplomatic protocol by Tehran."
-    },
-    {
-      "title": "How does the current global oil crisis compare with the 1973 oil embargo?",
-      "link": "https://www.aljazeera.com/news/2026/3/24/how-does-the-current-global-oil-crisis-compare-with-the-1973-oil-embargo?traffic_source=rss",
-      "date": "2026-03-24T11:22:33.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "The 1973 oil embargo removed 4.5 million barrels per day from global supply. Today, that figure stands at 20 million."
-    },
-    {
-      "title": "Accountability for international humanitarian law is a ‘thing of the past’",
-      "link": "https://www.aljazeera.com/video/quotable/2026/3/24/accountability-for-international-humanitarian-law-is-a-thing-of-the?traffic_source=rss",
-      "date": "2026-03-24T10:46:28.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Former ICC prosecutor Geoffrey Nice says the US-Israel warns that holding powerful states accountable is ‘unrealistic&#039;"
-    },
-    {
-      "title": "Bill Cosby found guilty of 1972 sexual assault, victim awarded nearly $60m",
-      "link": "https://www.aljazeera.com/news/2026/3/24/bill-cosby-found-guilty-of-1972-sexual-assault-victim-awarded-nearly-60m?traffic_source=rss",
-      "date": "2026-03-24T10:40:41.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "The actor faces allegations of sexual misconduct by at least 60 women, all of which he denies."
-    },
-    {
-      "title": "Amazon says AWS Bahrain region ‘disrupted’ following drone activity",
-      "link": "https://www.aljazeera.com/news/2026/3/24/amazon-says-aws-bahrain-region-disrupted-following-drone-activity?traffic_source=rss",
-      "date": "2026-03-24T10:39:41.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "The disruption marks the second time in a month that AWS operations have been affected by the Iran war."
-    },
-    {
-      "title": "Supporter groups file lawsuit against FIFA over World Cup ticket prices",
-      "link": "https://www.aljazeera.com/sports/2026/3/24/supporters-group-file-lawsuit-against-fifa-over-world-cup-ticket-prices?traffic_source=rss",
-      "date": "2026-03-24T10:31:13.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Euroconsumers and FSE file a lawsuit with the European Commission against the sport body over World Cup ticket prices."
     },
     {
       "title": "The Next Transformation of U.S. Shipbuilding",
@@ -176,30 +257,12 @@
       "snippet": ""
     },
     {
-      "title": "Trump admin&#8217;s comments could undermine case against Anthropic in court: Experts",
-      "link": "https://breakingdefense.com/2026/03/trump-admins-public-comments-could-undermine-case-against-anthropic-in-court-experts/",
-      "date": "2026-03-23T16:53:54.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
       "title": "Trump administration pursuing nuclear deal with Saudi Arabia, opening path to enrichment: Report",
       "link": "https://www.armscontrol.org/media-citations/middle-east-eye/2026-03-23",
       "date": "2026-03-23T16:08:55.000Z",
       "source": "Arms Control Association",
       "sourceId": "arms_control",
       "category": "policy",
-      "snippet": ""
-    },
-    {
-      "title": "Lockheed Martin Australia, Rheinmetall exploring HIMARS sustainment Down Under",
-      "link": "https://breakingdefense.com/2026/03/lockheed-martin-australia-rheinmetall-exploring-himars-sustainment-down-under/",
-      "date": "2026-03-23T16:00:52.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
       "snippet": ""
     },
     {
@@ -210,79 +273,24 @@
       "sourceId": "arms_control",
       "category": "policy",
       "snippet": ""
-    },
-    {
-      "title": "Is US helping Saudi Arabia get closer to having nuclear bomb? Congressional papers raise alarm",
-      "link": "https://www.armscontrol.org/media-citations/firstpost/2026-03-23",
-      "date": "2026-03-23T15:54:52.000Z",
-      "source": "Arms Control Association",
-      "sourceId": "arms_control",
-      "category": "policy",
-      "snippet": ""
-    },
-    {
-      "title": "U.S. releases new details on alleged secret Chinese nuclear test",
-      "link": "https://www.armscontrol.org/media-citations/npr/2026-03-23",
-      "date": "2026-03-23T15:51:30.000Z",
-      "source": "Arms Control Association",
-      "sourceId": "arms_control",
-      "category": "policy",
-      "snippet": ""
-    },
-    {
-      "title": "US must build trust with Russia, China to prevent resumption of nuclear testing — expert",
-      "link": "https://www.armscontrol.org/media-citations/tass/2026-03-23",
-      "date": "2026-03-23T15:49:42.000Z",
-      "source": "Arms Control Association",
-      "sourceId": "arms_control",
-      "category": "policy",
-      "snippet": ""
-    },
-    {
-      "title": "Swiss becomes first woman to head chemical weapons body",
-      "link": "https://www.armscontrol.org/media-citations/swiss-info/2026-03-23",
-      "date": "2026-03-23T15:49:02.000Z",
-      "source": "Arms Control Association",
-      "sourceId": "arms_control",
-      "category": "policy",
-      "snippet": ""
-    },
-    {
-      "title": "Space Force to overhaul legacy ground-based missile defense radar systems",
-      "link": "https://breakingdefense.com/2026/03/space-force-to-overhaul-legacy-ground-based-missile-defense-radar-systems/",
-      "date": "2026-03-23T11:42:00.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "The Battlefield is the Next Betting Market",
-      "link": "https://warontherocks.com/2026/03/the-battlefield-is-the-next-betting-market/",
-      "date": "2026-03-23T07:30:53.000Z",
-      "source": "War on the Rocks",
-      "sourceId": "war_on_rocks",
-      "category": "strategic",
-      "snippet": ""
-    },
-    {
-      "title": "Trump’s Visit to China Won’t Fix Much, If It Even Happens",
-      "link": "https://warontherocks.com/2026/03/trumps-visit-to-china-wont-fix-much-if-it-even-happens/",
-      "date": "2026-03-23T07:15:00.000Z",
-      "source": "War on the Rocks",
-      "sourceId": "war_on_rocks",
-      "category": "strategic",
-      "snippet": ""
     }
   ],
   "alerts": [
     {
-      "level": "HIGH",
-      "keyword": "rare earth",
-      "title": "Australia and EU seal trade deal to cut reliance on China’s rare earths",
+      "level": "CRITICAL",
+      "keyword": "nuclear",
+      "title": "Kim Jong Un says North Korea will never give up on nuclear weapons",
       "source": "Al Jazeera — Middle East",
-      "date": "2026-03-24T11:48:03.000Z",
-      "link": "https://www.aljazeera.com/news/2026/3/24/australia-and-eu-seal-trade-deal-to-cut-reliance-on-chinas-rare-earths?traffic_source=rss"
+      "date": "2026-03-24T18:01:06.000Z",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/kim-jong-un-says-north-korea-will-never-give-up-on-nuclear-weapons?traffic_source=rss"
+    },
+    {
+      "level": "CRITICAL",
+      "keyword": "nuclear",
+      "title": "The War in Iran and Implications for the Nuclear Non-Proliferation Regime",
+      "source": "War on the Rocks",
+      "date": "2026-03-24T18:00:24.000Z",
+      "link": "https://warontherocks.com/2026/03/the-war-in-iran-and-implications-for-the-nuclear-non-proliferation-regime/"
     },
     {
       "level": "CRITICAL",
@@ -339,14 +347,6 @@
       "source": "War on the Rocks",
       "date": "2026-03-20T07:30:51.000Z",
       "link": "https://warontherocks.com/2026/03/why-did-the-united-states-lift-sanctions-on-assads-chemical-weapons-scientists/"
-    },
-    {
-      "level": "ELEVATED",
-      "keyword": "diplomacy",
-      "title": "Trump blames Iran for the war — critics question the diplomacy",
-      "source": "Arms Control Association",
-      "date": "2026-03-19T16:05:39.000Z",
-      "link": "https://www.armscontrol.org/media-citations/npr/2026-03-19-0"
     }
   ],
   "sources": [
