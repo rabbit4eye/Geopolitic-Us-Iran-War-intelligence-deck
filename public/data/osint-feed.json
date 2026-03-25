@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-25T01:05:19.493Z",
+  "lastUpdated": "2026-03-25T06:48:31.750Z",
   "feedCount": 5,
   "totalItems": 40,
-  "alertCount": 8,
+  "alertCount": 10,
   "headlines": [
     {
       "title": "Conference Chief Seeks to Rebuild NPT Credibility:  An Interview with Ambassador Do Hung Viet of Vietnam, president of the 2026 NPT Review Conference",
@@ -14,67 +14,94 @@
       "snippet": ""
     },
     {
-      "title": "Iran war live: Trump again says talks under way; 12 killed in south Tehran",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/3/25/iran-war-live-trump-again-says-talks-underway-12-killed-in-south-tehran?traffic_source=rss",
-      "date": "2026-03-25T00:00:00.000Z",
+      "title": "Amid US-Israeli attacks, people in Iran struggle to survive ailing economy",
+      "link": "https://www.aljazeera.com/features/2026/3/25/amid-us-israeli-attacks-people-in-iran-struggle-to-survive-ailing-economy?traffic_source=rss",
+      "date": "2026-03-25T05:41:14.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "US-Israeli strikes on Iran continue despite claim of talks, with at least 12 killed, 28 wounded in one attack on Tehran."
+      "snippet": "Some are left without an income, others are temporarily displaced, and no one knows when the internet will return ."
     },
     {
-      "title": "Russian weapons, tactics seen in Ukraine are shaping Myanmar’s civil war",
-      "link": "https://www.aljazeera.com/news/2026/3/24/russian-weapons-tactics-seen-in-ukraine-are-shaping-myanmars-civil-war?traffic_source=rss",
-      "date": "2026-03-24T23:43:51.000Z",
+      "title": "From Pakistan to Egypt, Iran war drives up prices in Global South",
+      "link": "https://www.aljazeera.com/economy/2026/3/25/from-pakistan-to-egypt-iran-war-drives-up-fuel-prices-in-the-global-south?traffic_source=rss",
+      "date": "2026-03-25T05:20:18.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Russian role felt in Myanmar, from aircraft to waves of conscripts launching &#039;meat assaults&#039; made infamous in Ukraine."
+      "snippet": "Developing economies in Asia, Africa and the Middle East are bearing the brunt of surging energy costs."
     },
     {
-      "title": "Activists label Larry Ellison’s yacht ‘The Trump Propagandist’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/activists-label-larry-ellisons-yacht-the-trump-propagandist?traffic_source=rss",
-      "date": "2026-03-24T23:25:14.000Z",
+      "title": "OpenAI pulls AI video app Sora as concerns grow on deepfake videos",
+      "link": "https://www.aljazeera.com/economy/2026/3/25/openai-pulls-ai-video-app-sora-as-concerns-grow-on-deepfake-videos?traffic_source=rss",
+      "date": "2026-03-25T04:59:56.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Led By Donkeys released a video showing members labelling Larry Ellison’s superyacht “The Trump Propagandist.”"
+      "snippet": "This is first big step by ChatGPT maker to focus its business on potentially more lucrative areas, such as coding tools."
     },
     {
-      "title": "Trump keeps up claims of talks with ‘the right people’ in Iran",
-      "link": "https://www.aljazeera.com/news/2026/3/24/trump-keeps-up-claims-of-talks-with-the-right-people-in-iran?traffic_source=rss",
-      "date": "2026-03-24T23:25:08.000Z",
+      "title": "Parsi: No deal ‘’without both sides giving something to the other’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/parsi-no-deal-without-both-sides-giving-something-to-the?traffic_source=rss",
+      "date": "2026-03-25T04:58:54.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "US reportedly engaged in backchannel efforts, though Israel apparently not on same page, and military buildup continues."
+      "snippet": "Trita Parsi argues that Iran is unlikely to agree to end the war without sanctions relief."
     },
     {
-      "title": "Explosion, fire at Erbil high-rise amid Iranian attacks",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/explosion-fire-at-erbil-high-rise-amid-iranian-attacks?traffic_source=rss",
-      "date": "2026-03-24T23:00:31.000Z",
+      "title": "Thousands march to mark 50th anniversary of Argentina’s bloody coup",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/thousands-march-to-mark-50th-anniversary-of-argentinas-bloody-coup?traffic_source=rss",
+      "date": "2026-03-25T04:57:23.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Video shows a large explosion and fire at a high-rise building in Erbil reportedly near the US Consulate."
+      "snippet": "Thousands of people took to the streets in Buenos Aires to mark the 50th anniversary of Argentina’s last military coup."
     },
     {
-      "title": "Palestinian refugees in Lebanon face another forced displacement",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/palestinian-refugees-in-lebanon-face-another-forced-displacement?traffic_source=rss",
-      "date": "2026-03-24T22:39:48.000Z",
+      "title": "New Zealand footballers willing to play Iran World Cup match outside US",
+      "link": "https://www.aljazeera.com/sports/2026/3/25/new-zealand-footballers-willing-to-play-iran-world-cup-match-outside-us?traffic_source=rss",
+      "date": "2026-03-25T04:57:10.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "After Israel’s bombing of Beirut’s southern suburb of Dahiyeh, Palestinian refugee Dalal Dawali fled to Beddawi camp."
+      "snippet": "The teams are set to play on June 15 in Los Angeles, but Iran has threatened to boycott its matches due to the war."
     },
     {
-      "title": "Arms manufacturer thrives amid US-Israel war on Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/arms-manufacturer-thrives-amid-us-israel-war-on-iran?traffic_source=rss",
-      "date": "2026-03-24T21:33:59.000Z",
+      "title": "Indonesians fire wooden cannons in post-Eid tradition",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/indonesians-fire-wooden-cannons-in-post-eid-tradition?traffic_source=rss",
+      "date": "2026-03-25T04:51:22.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Elbit Systems has seen rapid growth as wars intensify across Iran, Palestine, and Lebanon."
+      "snippet": "Two villages in Indonesia’s West Java province faced off with wooden cannons in a traditional post-Eid celebration."
+    },
+    {
+      "title": "Canada tells Israel that Lebanon’s sovereignty ‘must not be violated’",
+      "link": "https://www.aljazeera.com/news/2026/3/25/canada-tells-israel-that-lebanons-sovereignty-must-not-be-violated?traffic_source=rss",
+      "date": "2026-03-25T04:21:15.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Canada and France call on Israel to halt plans to occupy southern Lebanon as invasion preparations under way."
+    },
+    {
+      "title": "What we know about the US’s 15-point plan Iran proposal",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/what-we-know-about-the-uss-15-point-plan-iran-proposal?traffic_source=rss",
+      "date": "2026-03-25T04:10:03.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "US media reports the Trump administration has proposed a temporary ceasefire and a 15-point plan to end the war on Iran."
+    },
+    {
+      "title": "US jury orders Meta to pay $375m for endangering children",
+      "link": "https://www.aljazeera.com/economy/2026/3/25/us-jury-orders-meta-to-pay-375m-for-endangering-children?traffic_source=rss",
+      "date": "2026-03-25T04:10:03.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "The verdict marks the first time a US state has successfully sued the social media giant over child safety issues."
     },
     {
       "title": "AV unveils LOCUST X3, latest entrant into laser counter-drone race",
@@ -84,33 +111,6 @@
       "sourceId": "breaking_defense",
       "category": "defense",
       "snippet": ""
-    },
-    {
-      "title": "Long lines, unpaid TSA workers: Experts say US air travel system in crisis",
-      "link": "https://www.aljazeera.com/news/2026/3/24/long-lines-unpaid-tsa-workers-experts-say-us-air-travel-system-in-crisis?traffic_source=rss",
-      "date": "2026-03-24T21:13:34.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "TSA workers face unpaid wages, causing long lines and staffing shortages at key US airports during shutdown chaos."
-    },
-    {
-      "title": "Building collapses after Iranian missile strike on Israel",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/building-collapses-after-iranian-missile-strike-on-israel?traffic_source=rss",
-      "date": "2026-03-24T21:07:10.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "A building has collapsed in Bnei Brak, near Tel Aviv, after Israeli authorities said it was hit by an Iranian missile."
-    },
-    {
-      "title": "Trump claims US has achieved ‘regime change’, ‘received present’ from Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/trump-claims-us-has-achieved-regime-change-received-present-from-iran?traffic_source=rss",
-      "date": "2026-03-24T21:06:28.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "US President Donald Trump has told reporters in the Oval Office that the US has achieved regime change in Iran."
     },
     {
       "title": "Army C2 to see more budget line consolidation in FY27, says service undersecretary",
@@ -276,6 +276,22 @@
     }
   ],
   "alerts": [
+    {
+      "level": "HIGH",
+      "keyword": "sanctions",
+      "title": "Parsi: No deal ‘’without both sides giving something to the other’",
+      "source": "Al Jazeera — Middle East",
+      "date": "2026-03-25T04:58:54.000Z",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/parsi-no-deal-without-both-sides-giving-something-to-the?traffic_source=rss"
+    },
+    {
+      "level": "CRITICAL",
+      "keyword": "ceasefire",
+      "title": "What we know about the US’s 15-point plan Iran proposal",
+      "source": "Al Jazeera — Middle East",
+      "date": "2026-03-25T04:10:03.000Z",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/what-we-know-about-the-uss-15-point-plan-iran-proposal?traffic_source=rss"
+    },
     {
       "level": "CRITICAL",
       "keyword": "nuclear",
