@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-24T18:44:38.776Z",
+  "lastUpdated": "2026-03-25T01:05:19.493Z",
   "feedCount": 5,
   "totalItems": 40,
-  "alertCount": 9,
+  "alertCount": 8,
   "headlines": [
     {
       "title": "Conference Chief Seeks to Rebuild NPT Credibility:  An Interview with Ambassador Do Hung Viet of Vietnam, president of the 2026 NPT Review Conference",
@@ -11,6 +11,123 @@
       "source": "Arms Control Association",
       "sourceId": "arms_control",
       "category": "policy",
+      "snippet": ""
+    },
+    {
+      "title": "Iran war live: Trump again says talks under way; 12 killed in south Tehran",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/3/25/iran-war-live-trump-again-says-talks-underway-12-killed-in-south-tehran?traffic_source=rss",
+      "date": "2026-03-25T00:00:00.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "US-Israeli strikes on Iran continue despite claim of talks, with at least 12 killed, 28 wounded in one attack on Tehran."
+    },
+    {
+      "title": "Russian weapons, tactics seen in Ukraine are shaping Myanmar’s civil war",
+      "link": "https://www.aljazeera.com/news/2026/3/24/russian-weapons-tactics-seen-in-ukraine-are-shaping-myanmars-civil-war?traffic_source=rss",
+      "date": "2026-03-24T23:43:51.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Russian role felt in Myanmar, from aircraft to waves of conscripts launching &#039;meat assaults&#039; made infamous in Ukraine."
+    },
+    {
+      "title": "Activists label Larry Ellison’s yacht ‘The Trump Propagandist’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/activists-label-larry-ellisons-yacht-the-trump-propagandist?traffic_source=rss",
+      "date": "2026-03-24T23:25:14.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Led By Donkeys released a video showing members labelling Larry Ellison’s superyacht “The Trump Propagandist.”"
+    },
+    {
+      "title": "Trump keeps up claims of talks with ‘the right people’ in Iran",
+      "link": "https://www.aljazeera.com/news/2026/3/24/trump-keeps-up-claims-of-talks-with-the-right-people-in-iran?traffic_source=rss",
+      "date": "2026-03-24T23:25:08.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "US reportedly engaged in backchannel efforts, though Israel apparently not on same page, and military buildup continues."
+    },
+    {
+      "title": "Explosion, fire at Erbil high-rise amid Iranian attacks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/explosion-fire-at-erbil-high-rise-amid-iranian-attacks?traffic_source=rss",
+      "date": "2026-03-24T23:00:31.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Video shows a large explosion and fire at a high-rise building in Erbil reportedly near the US Consulate."
+    },
+    {
+      "title": "Palestinian refugees in Lebanon face another forced displacement",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/palestinian-refugees-in-lebanon-face-another-forced-displacement?traffic_source=rss",
+      "date": "2026-03-24T22:39:48.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "After Israel’s bombing of Beirut’s southern suburb of Dahiyeh, Palestinian refugee Dalal Dawali fled to Beddawi camp."
+    },
+    {
+      "title": "Arms manufacturer thrives amid US-Israel war on Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/arms-manufacturer-thrives-amid-us-israel-war-on-iran?traffic_source=rss",
+      "date": "2026-03-24T21:33:59.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Elbit Systems has seen rapid growth as wars intensify across Iran, Palestine, and Lebanon."
+    },
+    {
+      "title": "AV unveils LOCUST X3, latest entrant into laser counter-drone race",
+      "link": "https://breakingdefense.com/2026/03/av-unveils-locust-x3-latest-entrant-into-laser-counter-drone-race/",
+      "date": "2026-03-24T21:32:41.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "Long lines, unpaid TSA workers: Experts say US air travel system in crisis",
+      "link": "https://www.aljazeera.com/news/2026/3/24/long-lines-unpaid-tsa-workers-experts-say-us-air-travel-system-in-crisis?traffic_source=rss",
+      "date": "2026-03-24T21:13:34.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "TSA workers face unpaid wages, causing long lines and staffing shortages at key US airports during shutdown chaos."
+    },
+    {
+      "title": "Building collapses after Iranian missile strike on Israel",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/building-collapses-after-iranian-missile-strike-on-israel?traffic_source=rss",
+      "date": "2026-03-24T21:07:10.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "A building has collapsed in Bnei Brak, near Tel Aviv, after Israeli authorities said it was hit by an Iranian missile."
+    },
+    {
+      "title": "Trump claims US has achieved ‘regime change’, ‘received present’ from Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/trump-claims-us-has-achieved-regime-change-received-present-from-iran?traffic_source=rss",
+      "date": "2026-03-24T21:06:28.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "US President Donald Trump has told reporters in the Oval Office that the US has achieved regime change in Iran."
+    },
+    {
+      "title": "Army C2 to see more budget line consolidation in FY27, says service undersecretary",
+      "link": "https://breakingdefense.com/2026/03/army-c2-to-see-more-budget-line-consolidation-in-fy27-says-service-undersecretary/",
+      "date": "2026-03-24T20:33:08.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "&#8216;Bleeding cash&#8217;: UK investment plan delay hurting key suppliers, industry groups warn",
+      "link": "https://breakingdefense.com/2026/03/bleeding-cash-uk-investment-plan-delay-hurting-key-suppliers-industry-groups-warn/",
+      "date": "2026-03-24T18:53:56.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
       "snippet": ""
     },
     {
@@ -23,42 +140,6 @@
       "snippet": ""
     },
     {
-      "title": "Iran names successor to security chief killed in US-Israeli attack",
-      "link": "https://www.aljazeera.com/news/2026/3/24/mohammad-bagher-zolghadr-succeeds-slain-larijani-as-iran-security-chief?traffic_source=rss",
-      "date": "2026-03-24T18:11:47.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Mohammad Bagher Zolghadr, ex-IRGC commander, to replace late Ali Larijani as chief of Supreme National Security Council."
-    },
-    {
-      "title": "Afghanistan frees detained US citizen Dennis Coyle as gesture of ‘goodwill’",
-      "link": "https://www.aljazeera.com/news/2026/3/24/afghanistan-frees-detained-us-citizen-dennis-coyle-as-gesture-of-goodwill?traffic_source=rss",
-      "date": "2026-03-24T18:11:34.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "US State Secretary Marco Rubio welcomes Coyle&#039;s release as &#039;positive step&#039; and thanks Qatar and the UAE for their help."
-    },
-    {
-      "title": "Israeli strike lands near Roman ruins in Lebanon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/israeli-strike-lands-near-roman-ruins-in-lebanon?traffic_source=rss",
-      "date": "2026-03-24T18:06:04.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Smoke was seen rising close to Roman ruins in the Lebanese city of Tyre after an Israeli strike hit a building nearby."
-    },
-    {
-      "title": "Kim Jong Un says North Korea will never give up on nuclear weapons",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/kim-jong-un-says-north-korea-will-never-give-up-on-nuclear-weapons?traffic_source=rss",
-      "date": "2026-03-24T18:01:06.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Kim Jong Un has said North Korea will never give up on its push for nuclear weapons."
-    },
-    {
       "title": "The War in Iran and Implications for the Nuclear Non-Proliferation Regime",
       "link": "https://warontherocks.com/2026/03/the-war-in-iran-and-implications-for-the-nuclear-non-proliferation-regime/",
       "date": "2026-03-24T18:00:24.000Z",
@@ -68,42 +149,6 @@
       "snippet": ""
     },
     {
-      "title": "Anthropic challenges US Pentagon’s ban in San Francisco court showdown",
-      "link": "https://www.aljazeera.com/economy/2026/3/24/anthropic-challenges-us-pentagons-ban-in-san-francisco-court-showdown?traffic_source=rss",
-      "date": "2026-03-24T17:57:50.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Anthropic accuses Pentagon of unlawful retaliation over its refusal to loosen AI safety restrictions for military use."
-    },
-    {
-      "title": "Israeli soldiers accused of ‘torturing’ toddler in Gaza",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/israeli-soldiers-accused-of-torturing-toddler-in-gaza?traffic_source=rss",
-      "date": "2026-03-24T17:49:16.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "The family of a two-year-old boy in Gaza says Israeli soldiers tortured him to extract information about his father."
-    },
-    {
-      "title": "When are UEFA’s World Cup 2026 playoffs, and which nations are involved?",
-      "link": "https://www.aljazeera.com/sports/2026/3/24/when-are-uefas-world-cup-2026-playoffs-and-which-nations-are-involved?traffic_source=rss",
-      "date": "2026-03-24T16:46:37.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "The final qualification spots for the FIFA World Cup 2026 are about to be sealed via UEFA and Intercontinental playoffs."
-    },
-    {
-      "title": "Palestinian FA calls for Israeli ban after FIFA discrimination report",
-      "link": "https://www.aljazeera.com/sports/2026/3/24/palestine-fa-calls-for-israel-football-ban-after-fifa-discrimination-report?traffic_source=rss",
-      "date": "2026-03-24T16:46:29.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "The Israel Football Association was fined by FIFA for racism and discrimination breaches following Palestinian report."
-    },
-    {
       "title": "Kratos scores $447M Space Force award for missile tracking ground system",
       "link": "https://breakingdefense.com/2026/03/kratos-scores-447m-space-force-award-for-missile-tracking-ground-system/",
       "date": "2026-03-24T16:37:54.000Z",
@@ -111,24 +156,6 @@
       "sourceId": "breaking_defense",
       "category": "defense",
       "snippet": ""
-    },
-    {
-      "title": "Israeli defences questioned as Iran continues to cause damage",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/israeli-defences-questioned-as-iran-continues-to-cause-damage?traffic_source=rss",
-      "date": "2026-03-24T16:31:31.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Iranian missiles have caused damage in Israel, raising questions about the country’s air defence systems."
-    },
-    {
-      "title": "Aid flotilla reaches Cuba amid US oil blockade and blackouts",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/aid-flotilla-reaches-cuba-amid-us-oil-blockade-and-blackouts?traffic_source=rss",
-      "date": "2026-03-24T16:15:59.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "An aid flotilla has arrived in Cuba as a US-imposed oil blockade drives severe fuel shortages and widespread blackouts."
     },
     {
       "title": "War as a Force of Destruction, Change, and Opportunity",
@@ -230,33 +257,6 @@
       "snippet": ""
     },
     {
-      "title": "As Fury production starts, Anduril pledging a different production approach at Arsenal-1",
-      "link": "https://breakingdefense.com/2026/03/as-fury-production-starts-anduril-pledging-a-different-production-approach-at-arsenal-1/",
-      "date": "2026-03-23T20:39:56.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "Space Force&#8217;s two new cyber squadrons to defend space launch operations",
-      "link": "https://breakingdefense.com/2026/03/space-forces-two-new-cyber-squadrons-to-defend-space-launch-operations/",
-      "date": "2026-03-23T18:48:11.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "Army receives first autonomous-ready, optionally piloted Black Hawk",
-      "link": "https://breakingdefense.com/2026/03/army-receives-first-autonomous-ready-optionally-piloted-black-hawk/",
-      "date": "2026-03-23T17:25:19.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
       "title": "Trump administration pursuing nuclear deal with Saudi Arabia, opening path to enrichment: Report",
       "link": "https://www.armscontrol.org/media-citations/middle-east-eye/2026-03-23",
       "date": "2026-03-23T16:08:55.000Z",
@@ -276,14 +276,6 @@
     }
   ],
   "alerts": [
-    {
-      "level": "CRITICAL",
-      "keyword": "nuclear",
-      "title": "Kim Jong Un says North Korea will never give up on nuclear weapons",
-      "source": "Al Jazeera — Middle East",
-      "date": "2026-03-24T18:01:06.000Z",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/kim-jong-un-says-north-korea-will-never-give-up-on-nuclear-weapons?traffic_source=rss"
-    },
     {
       "level": "CRITICAL",
       "keyword": "nuclear",
