@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-25T18:40:29.863Z",
+  "lastUpdated": "2026-03-26T01:10:22.150Z",
   "feedCount": 5,
   "totalItems": 40,
-  "alertCount": 8,
+  "alertCount": 10,
   "headlines": [
     {
       "title": "Conference Chief Seeks to Rebuild NPT Credibility:  An Interview with Ambassador Do Hung Viet of Vietnam, president of the 2026 NPT Review Conference",
@@ -11,6 +11,105 @@
       "source": "Arms Control Association",
       "sourceId": "arms_control",
       "category": "policy",
+      "snippet": ""
+    },
+    {
+      "title": "Trump says Iranian leaders want deal ‘so badly’ but fear retaliation",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/trump-says-iranian-leaders-want-deal-so-badly-but-fear-retaliation?traffic_source=rss",
+      "date": "2026-03-26T00:56:32.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Donald Trump said Iran is negotiating with the US but is “afraid to say it”."
+    },
+    {
+      "title": "Sarah Mullally enthroned as first female archbishop of Canterbury",
+      "link": "https://www.aljazeera.com/news/2026/3/26/sarah-mullally-enthroned-as-first-female-archbishop-of-canterbury?traffic_source=rss",
+      "date": "2026-03-26T00:51:48.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "The first woman to lead the Church of England formally installed at ceremony before 2,000 guests."
+    },
+    {
+      "title": "Iran war live: US demands Tehran accept defeat; Israel pounds Lebanon",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/3/26/iran-war-live-us-demands-tehran-accept-defeat-israel-pounds-lebanon?traffic_source=rss",
+      "date": "2026-03-26T00:00:00.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Iranian official describes US&#039;s 15-point plan as &#039;maximalist&#039; as state television outlines five conditions for peace."
+    },
+    {
+      "title": "Migrants march in southern Mexico to denounce immigration restrictions",
+      "link": "https://www.aljazeera.com/gallery/2026/3/25/migrants-march-in-southern-mexico-to-denounce-immigration-restrictions?traffic_source=rss",
+      "date": "2026-03-25T23:52:44.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "The march comes as a court in the US suggests there may be a secret deportation agreement between the US and Mexico."
+    },
+    {
+      "title": "Egypt says it is ready to host Iran de-escalation talks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/egypt-says-it-is-ready-to-host-iran-de-escalation-talks?traffic_source=rss",
+      "date": "2026-03-25T23:44:14.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Egypt’s Foreign Minister Badr Abdelatty said Cairo is ready to host talks on Iran to support de-escalation."
+    },
+    {
+      "title": "Iranian foreign minister rejects talks with US",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/iranian-foreign-minister-rejects-talks-with-us?traffic_source=rss",
+      "date": "2026-03-25T23:09:23.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "“No negotiations have taken place.” Iran’s foreign minister, Abbas Araghchi says Tehran is not in talks with the US."
+    },
+    {
+      "title": "Mexico will continue accepting Cuban medical workers despite US pressure",
+      "link": "https://www.aljazeera.com/news/2026/3/25/mexico-will-continue-accepting-cuban-medical-workers-despite-us-pressure?traffic_source=rss",
+      "date": "2026-03-25T22:28:38.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Mexican President Claudia Sheinbaum praises services from Cuban doctors, who often work in underserved rural areas."
+    },
+    {
+      "title": "Video shows Israeli strike hitting displacement camp in Gaza",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/video-shows-israeli-strike-hitting-displacement-camp-in-gaza?traffic_source=rss",
+      "date": "2026-03-25T22:12:18.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Videos show the moment a strike hit a tent camp for displaced Palestinians in Deir el-Balah."
+    },
+    {
+      "title": "Palestine weekly wrap: West Bank attacks surge, Israel restricts Gaza aid",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/palestine-weekly-wrap-west-bank-attacks-surge-israel-restricts-gaza-aid?traffic_source=rss",
+      "date": "2026-03-25T21:07:47.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Settler attacks, aid curbs and land seizures mar a week that was meant to be one of celebration for Palestinians."
+    },
+    {
+      "title": "Philippines farmers feeling the pinch of the war on Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/philippines-farmers-feeling-the-pinch-of-the-war-on-iran?traffic_source=rss",
+      "date": "2026-03-25T20:59:41.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Cabbage farmers in the Philippines are harvesting their crops at a loss as prices plunge and fuel costs soar."
+    },
+    {
+      "title": "New joint intel report warns of cyber threats to growing LEO satellite constellations",
+      "link": "https://breakingdefense.com/2026/03/new-joint-intel-report-warns-of-cyber-threats-to-growing-leo-satellite-constellations/",
+      "date": "2026-03-25T19:39:00.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
       "snippet": ""
     },
     {
@@ -23,49 +122,13 @@
       "snippet": ""
     },
     {
-      "title": "Palestine Action hunger strikers to sue prisons over alleged mistreatment",
-      "link": "https://www.aljazeera.com/news/2026/3/25/palestine-action-hunger-strikers-to-sue-prisons-over-alleged-mistreatment?traffic_source=rss",
-      "date": "2026-03-25T17:49:47.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Activists plan to take legal action against the UK prisons that allegedly mistreated them."
-    },
-    {
-      "title": "Inside Trump’s quiet plan to ‘take’ Cuba",
-      "link": "https://www.aljazeera.com/video/the-take-2/2026/3/25/aje-onl-tt_cub_internationalize_av_v2-250326?traffic_source=rss",
-      "date": "2026-03-25T17:43:39.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "As the world tries to reach Cuba through aid convoys, the US continues to impose a fuel blockade."
-    },
-    {
-      "title": "How the US plunged Cuba into darkness",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/how-the-us-plunged-cuba-into-darkness?traffic_source=rss",
-      "date": "2026-03-25T17:42:32.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": ""
-    },
-    {
       "title": "How Are Iran’s Partnerships with Belarus and Russia Holding Up During War?",
-      "link": "https://warontherocks.com/2026/03/how-are-irans-eurasian-alliances-holding-up-during-war/",
+      "link": "https://warontherocks.com/2026/03/how-are-irans-partnerships-with-belarus-and-russia-holding-up-during-war/",
       "date": "2026-03-25T17:30:56.000Z",
       "source": "War on the Rocks",
       "sourceId": "war_on_rocks",
       "category": "strategic",
       "snippet": ""
-    },
-    {
-      "title": "What we know about US attack on Iraqi military site",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/what-we-know-about-us-attack-on-iraqi-military-site?traffic_source=rss",
-      "date": "2026-03-25T17:10:28.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Iraqi authorities say a US air strike on a military site in Anbar killed seven soldiers and wounded 13."
     },
     {
       "title": "Requirements without factories: Why the Pentagon must reconnect design to production",
@@ -75,60 +138,6 @@
       "sourceId": "breaking_defense",
       "category": "defense",
       "snippet": ""
-    },
-    {
-      "title": "Protest in India over cooking gas crisis",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/protest-in-india-over-cooking-gas-crisis?traffic_source=rss",
-      "date": "2026-03-25T16:36:39.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Indian opposition parties have staged a protest over the shortage of cooking gas triggered by the war on Iran."
-    },
-    {
-      "title": "Deadly US attack on Iraqi military base sparks condemnation",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/deadly-us-attack-on-iraqi-military-base-sparks-condemnation?traffic_source=rss",
-      "date": "2026-03-25T16:31:23.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "The US killed seven Iraqi soldiers in a strike in Iraq as it targeted the Popular Mobilisation Forces."
-    },
-    {
-      "title": "What it would take to end the Iran war",
-      "link": "https://www.aljazeera.com/opinions/2026/3/25/what-it-would-take-to-end-the-iran-war?traffic_source=rss",
-      "date": "2026-03-25T16:25:30.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "The termination of the US-Israeli war on Iran would require solid guarantees and a credible guarantor."
-    },
-    {
-      "title": "Is war turning Tehran’s air into a chemical weapon?",
-      "link": "https://www.aljazeera.com/video/the-take-2/2026/3/25/aje-onl-tt_irn_chemicalwarfare_av_v2-240326?traffic_source=rss",
-      "date": "2026-03-25T16:25:21.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": ""
-    },
-    {
-      "title": "Which teams can still qualify for the World Cup, and when are the playoffs?",
-      "link": "https://www.aljazeera.com/sports/2026/3/25/which-teams-can-still-qualify-for-the-world-cup-and-when-are-the-playoffs?traffic_source=rss",
-      "date": "2026-03-25T16:19:45.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "A breakdown of the intercontinental tournament that will determine two of last six teams to qualify for World Cup 2026."
-    },
-    {
-      "title": "Iran, Nigeria, and Africa’s oil dependency",
-      "link": "https://www.aljazeera.com/video/africa-now/2026/3/25/iran-nigeria-and-africas-oil-dependency?traffic_source=rss",
-      "date": "2026-03-25T16:16:23.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Could this be the moment Africa breaks its dependency on foreign energy?"
     },
     {
       "title": "Army&#8217;s digital marketplace for drones is officially open",
@@ -230,15 +239,6 @@
       "snippet": ""
     },
     {
-      "title": "&#8216;Bleeding cash&#8217;: UK investment plan delay hurting key suppliers, industry groups warn",
-      "link": "https://breakingdefense.com/2026/03/bleeding-cash-uk-investment-plan-delay-hurting-key-suppliers-industry-groups-warn/",
-      "date": "2026-03-24T18:53:56.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
       "title": "The War in Iran and Implications for the Nuclear Non-Proliferation Regime",
       "link": "https://warontherocks.com/2026/03/the-war-in-iran-and-implications-for-the-nuclear-non-proliferation-regime/",
       "date": "2026-03-24T18:00:24.000Z",
@@ -276,6 +276,22 @@
     }
   ],
   "alerts": [
+    {
+      "level": "CRITICAL",
+      "keyword": "escalation",
+      "title": "Egypt says it is ready to host Iran de-escalation talks",
+      "source": "Al Jazeera — Middle East",
+      "date": "2026-03-25T23:44:14.000Z",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/egypt-says-it-is-ready-to-host-iran-de-escalation-talks?traffic_source=rss"
+    },
+    {
+      "level": "ELEVATED",
+      "keyword": "negotiation",
+      "title": "Iranian foreign minister rejects talks with US",
+      "source": "Al Jazeera — Middle East",
+      "date": "2026-03-25T23:09:23.000Z",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/iranian-foreign-minister-rejects-talks-with-us?traffic_source=rss"
+    },
     {
       "level": "ELEVATED",
       "keyword": "proxy",
