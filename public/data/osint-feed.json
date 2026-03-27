@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-26T18:48:20.849Z",
+  "lastUpdated": "2026-03-27T01:10:32.297Z",
   "feedCount": 5,
   "totalItems": 40,
-  "alertCount": 10,
+  "alertCount": 11,
   "headlines": [
     {
       "title": "Conference Chief Seeks to Rebuild NPT Credibility:  An Interview with Ambassador Do Hung Viet of Vietnam, president of the 2026 NPT Review Conference",
@@ -11,6 +11,114 @@
       "source": "Arms Control Association",
       "sourceId": "arms_control",
       "category": "policy",
+      "snippet": ""
+    },
+    {
+      "title": "Projectile from Lebanon kills at least one in north Israel",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/projectile-from-lebanon-kills-at-least-one-in-north-israel?traffic_source=rss",
+      "date": "2026-03-27T00:11:00.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Video captured flames and black smoke where a projectile from Lebanon killed at least one person in northern Israel."
+    },
+    {
+      "title": "Iran war live: Trump delays attacks on Iranian energy sector by 10 days",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/3/27/iran-war-live-trump-delays-attacks-on-iranian-energy-sector-by-10-days?traffic_source=rss",
+      "date": "2026-03-27T00:00:00.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Iranian missiles, drones target Kuwait, UAE, Saudi Arabia and Jordan as Trump says Iran has &#039;chance to make a deal&#039;."
+    },
+    {
+      "title": "Costa Rica to accept 25 deportees per week under Trump deportation effort",
+      "link": "https://www.aljazeera.com/news/2026/3/26/costa-rica-to-accept-25-deportees-per-week-under-trump-deportation-effort?traffic_source=rss",
+      "date": "2026-03-26T23:09:57.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "The Central American nation is latest to sign a &#039;third-country&#039; deportation agreement with the Trump administration."
+    },
+    {
+      "title": "Trump ‘pausing’ plan to destroy Iranian power plants for 10 days",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/trump-pausing-plan-to-destroy-iranian-power-plants-for-10-days?traffic_source=rss",
+      "date": "2026-03-26T23:06:56.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Donald Trump says he is “pausing” his plan to destroy Iranian power plants for 10 days."
+    },
+    {
+      "title": "EU’s top diplomat urges US to pressure Russia to stop aiding Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/eus-top-diplomat-urges-us-to-pressure-russia-to-stop-aiding-iran?traffic_source=rss",
+      "date": "2026-03-26T23:04:38.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "The European Union’s Foreign Policy Chief Kaja Kallas says the US needs to pressure Russia to stop assisting Iran."
+    },
+    {
+      "title": "Mbappe nets for 10-man France in win against Brazil in World Cup warm-up",
+      "link": "https://www.aljazeera.com/sports/2026/3/26/mbappe-nets-for-10-man-france-in-win-against-brazil-in-world-cup-warm-up?traffic_source=rss",
+      "date": "2026-03-26T22:37:20.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "France beat Brazil 2-1 in a friendly in United States, in what was a potential dress rehearsal for World Cup 2026 final."
+    },
+    {
+      "title": "Manila’s streets empty as fuel prices surge amid Strait of Hormuz crisis",
+      "link": "https://www.aljazeera.com/gallery/2026/3/26/manilas-streets-empty-as-fuel-prices-surge-amid-strait-of-hormuz-crisis?traffic_source=rss",
+      "date": "2026-03-26T22:30:16.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Empty streets expose another crisis as Filipinos battle soaring oil prices, dwindling incomes, and a stagnating economy."
+    },
+    {
+      "title": "Why Iraq is the most fragile front in the US-Israel war on Iran",
+      "link": "https://www.aljazeera.com/video/the-take-2/2026/3/26/aje-onl-tt_irq_neighborspillover_av_v2-260326?traffic_source=rss",
+      "date": "2026-03-26T22:23:40.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Iraq is under attack from all sides as militias and foreign powers clash."
+    },
+    {
+      "title": "Police fire water cannons at Chile student protest",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/police-fire-water-cannons-at-chile-student-protest?traffic_source=rss",
+      "date": "2026-03-26T22:15:19.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Police in Chile fired water cannons at students gathering in central Santiago to protest education policies."
+    },
+    {
+      "title": "Argentina declares Jalisco New Generation Cartel a ‘terrorist’ group",
+      "link": "https://www.aljazeera.com/news/2026/3/26/argentina-declares-jalisco-new-generation-cartel-a-terrorist-group?traffic_source=rss",
+      "date": "2026-03-26T22:03:55.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "President Javier Milei&#039;s office said the designation &#039;strengthens international cooperation&#039; against crime."
+    },
+    {
+      "title": "Companies to enter negotiations to build commercial data centers on Army installations",
+      "link": "https://breakingdefense.com/2026/03/companies-to-enter-negotiations-to-build-commercial-data-center-on-army-installations/",
+      "date": "2026-03-26T20:19:33.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "Vulcan grounding could impact multiple Space Force, NRO satellite launches",
+      "link": "https://breakingdefense.com/2026/03/vulcan-grounding-could-impact-multiple-space-force-nro-satellite-launches/",
+      "date": "2026-03-26T19:41:00.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
       "snippet": ""
     },
     {
@@ -32,51 +140,6 @@
       "snippet": ""
     },
     {
-      "title": "Kim Jong Un gifted gun after Belarus friendship treaty",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/kim-jong-un-gifted-gun-after-belarus-friendship-treaty?traffic_source=rss",
-      "date": "2026-03-26T18:03:33.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Belarusian President Alexander Lukashenko gifted North Korean leader Kim Jong Un a gun."
-    },
-    {
-      "title": "Iranian missiles cause widespread damage across Israel in latest wave",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/iranian-missiles-cause-widespread-damage-across-israel-in-latest-wave?traffic_source=rss",
-      "date": "2026-03-26T17:58:03.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Iranian missiles have caused widespread damage across Israel in the latest wave of attacks."
-    },
-    {
-      "title": "More than one million displaced by Israel’s evacuations in Lebanon",
-      "link": "https://www.aljazeera.com/gallery/2026/3/26/more-than-one-million-displaced-by-israels-evacuations-in-lebanon?traffic_source=rss",
-      "date": "2026-03-26T17:40:31.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "More than 250,000 people flee Lebanon in two weeks, with 125,000 crossing into Syria, including 7,000 Lebanese citizens."
-    },
-    {
-      "title": "London police officer filmed in crowd intimidating Al Jazeera journalists",
-      "link": "https://www.aljazeera.com/news/2026/3/26/london-police-officer-involved-in-verbal-assault-on-al-jazeera-journalists?traffic_source=rss",
-      "date": "2026-03-26T17:26:28.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Metropolitan Police says reviewing footage of incident, reporters must be able to work &#039;without intimidation&#039;."
-    },
-    {
-      "title": "LIVE: Brazil vs France – FIFA World Cup 2026 warm up",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/3/26/live-brazil-vs-france-fifa-world-cup-2026-warm-up?traffic_source=rss",
-      "date": "2026-03-26T17:08:51.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Follow our live build-up, with full team news coverage, before our comprehensive text commentary stream."
-    },
-    {
       "title": "Want to fix acquisition? Start with the program managers.",
       "link": "https://breakingdefense.com/2026/03/want-to-fix-acquisition-start-with-the-program-managers/",
       "date": "2026-03-26T17:05:36.000Z",
@@ -84,51 +147,6 @@
       "sourceId": "breaking_defense",
       "category": "defense",
       "snippet": ""
-    },
-    {
-      "title": "Details revealed of Board of Peace plan for Gaza disarmament",
-      "link": "https://www.aljazeera.com/news/2026/3/26/details-revealed-of-board-of-peace-plan-for-gaza-disarmament?traffic_source=rss",
-      "date": "2026-03-26T16:47:01.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Plan, submitted by Board of Peace head Nikolay Mladenov, calls for gradual disarmament over eight months."
-    },
-    {
-      "title": "Pentagon boss claims Iran now has ‘no navy, no navy leader’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/pentagon-boss-claims-iran-now-has-no-navy-no-navy?traffic_source=rss",
-      "date": "2026-03-26T16:33:18.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Defense Secretary Pete Hegseth has said that Iran war is &#039;stuff for the history books&#039;."
-    },
-    {
-      "title": "Olympics align with Trump as transgender athletes banned from women’s games",
-      "link": "https://www.aljazeera.com/sports/2026/3/26/olympics-align-with-trump-as-transgender-athletes-banned-from-womens-games?traffic_source=rss",
-      "date": "2026-03-26T16:27:43.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Transgender athletes banned from women&#039;s Olympic events by new IOC policy aiming for &#039;fairness, safety and integrity&#039;."
-    },
-    {
-      "title": "Trump says Iran ‘lousy fighters but great negotiators’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/trump-says-iran-lousy-fighters-but-great?traffic_source=rss",
-      "date": "2026-03-26T16:18:01.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "President Trump has said Iran is “begging to make a deal”, describing them as “lousy fighters but great negotiators&quot;."
-    },
-    {
-      "title": "Tehran’s’tollbooth’: How Iran picks who to let through Strait of Hormuz",
-      "link": "https://www.aljazeera.com/news/2026/3/26/tehranstollbooth-how-iran-picks-who-to-let-through-strait-of-hormuz?traffic_source=rss",
-      "date": "2026-03-26T15:56:05.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Iran has blocked the passage of vessels carrying 20 percent of the world’s oil and liquefied natural gas supplies."
     },
     {
       "title": "&#8216;Jury&#8217;s still out&#8217; on future of Army&#8217;s mobile prepositioned stock: AMC head",
@@ -203,30 +221,12 @@
       "snippet": ""
     },
     {
-      "title": "&#8216;Too early to tell&#8217; if timeline holds for delivery of Army&#8217;s tilt-rotor MV-75 for testing: Official",
-      "link": "https://breakingdefense.com/2026/03/too-early-to-tell-if-timeline-holds-for-delivery-of-armys-tilt-rotor-mv-75-for-testing-official/",
-      "date": "2026-03-25T18:29:00.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
       "title": "How Are Iran’s Partnerships with Belarus and Russia Holding Up During War?",
       "link": "https://warontherocks.com/2026/03/how-are-irans-partnerships-with-belarus-and-russia-holding-up-during-war/",
       "date": "2026-03-25T17:30:56.000Z",
       "source": "War on the Rocks",
       "sourceId": "war_on_rocks",
       "category": "strategic",
-      "snippet": ""
-    },
-    {
-      "title": "Requirements without factories: Why the Pentagon must reconnect design to production",
-      "link": "https://breakingdefense.com/2026/03/requirements-without-factories-why-the-pentagon-must-reconnect-design-to-production/",
-      "date": "2026-03-25T17:01:00.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
       "snippet": ""
     },
     {
@@ -279,10 +279,18 @@
     {
       "level": "CRITICAL",
       "keyword": "strait of hormuz",
-      "title": "Tehran’s’tollbooth’: How Iran picks who to let through Strait of Hormuz",
+      "title": "Manila’s streets empty as fuel prices surge amid Strait of Hormuz crisis",
       "source": "Al Jazeera — Middle East",
-      "date": "2026-03-26T15:56:05.000Z",
-      "link": "https://www.aljazeera.com/news/2026/3/26/tehranstollbooth-how-iran-picks-who-to-let-through-strait-of-hormuz?traffic_source=rss"
+      "date": "2026-03-26T22:30:16.000Z",
+      "link": "https://www.aljazeera.com/gallery/2026/3/26/manilas-streets-empty-as-fuel-prices-surge-amid-strait-of-hormuz-crisis?traffic_source=rss"
+    },
+    {
+      "level": "ELEVATED",
+      "keyword": "negotiation",
+      "title": "Companies to enter negotiations to build commercial data centers on Army installations",
+      "source": "Breaking Defense",
+      "date": "2026-03-26T20:19:33.000Z",
+      "link": "https://breakingdefense.com/2026/03/companies-to-enter-negotiations-to-build-commercial-data-center-on-army-installations/"
     },
     {
       "level": "CRITICAL",
