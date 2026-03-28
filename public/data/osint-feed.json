@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-27T18:40:02.576Z",
+  "lastUpdated": "2026-03-28T01:04:13.853Z",
   "feedCount": 5,
   "totalItems": 40,
-  "alertCount": 9,
+  "alertCount": 12,
   "headlines": [
     {
       "title": "Conference Chief Seeks to Rebuild NPT Credibility:  An Interview with Ambassador Do Hung Viet of Vietnam, president of the 2026 NPT Review Conference",
@@ -11,6 +11,114 @@
       "source": "Arms Control Association",
       "sourceId": "arms_control",
       "category": "policy",
+      "snippet": ""
+    },
+    {
+      "title": "Trump says US-Israeli war on Iran creating a new Middle East",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/trump-says-us-israeli-war-on-iran-creating-a-new-middle-east?traffic_source=rss",
+      "date": "2026-03-28T00:05:46.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Donald Trump told a Saudi investment conference that the Middle East will soon be free from Iranian “nuclear blackmail.”"
+    },
+    {
+      "title": "Iran war live: Trump again slams NATO’s lack of support for war on Tehran",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/3/28/iran-war-live-trump-again-slams-natos-lack-of-support-for-war-on-tehran?traffic_source=rss",
+      "date": "2026-03-28T00:00:48.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Iranian Red Crescent says more than 92,600 civilian units were damaged across the country in US-Israeli attacks."
+    },
+    {
+      "title": "Rescue workers rush to save lives after south Tehran missile strike",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/rescue-workers-rush-to-save-lives-after-south-tehran-missile-strike?traffic_source=rss",
+      "date": "2026-03-27T23:28:03.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Iranian rescue workers have been pulling survivors and bodies out of a building after a missile strike on south Tehran."
+    },
+    {
+      "title": "Houthis warn ‘fingers on the trigger’ as US-Israel war on Iran continues",
+      "link": "https://www.aljazeera.com/news/2026/3/27/houthis-warn-fingers-on-the-trigger-as-us-israeli-war-on-iran-continues?traffic_source=rss",
+      "date": "2026-03-27T22:53:23.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "The Iran-aligned Yemeni group have the ability to target key shipping lanes around the Arabian Peninsula."
+    },
+    {
+      "title": "‘Fingers on the trigger’ for military intervention, Houthis warn",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/fingers-on-the-trigger-for-military-intervention-houthis-warn?traffic_source=rss",
+      "date": "2026-03-27T22:35:24.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "The Houthis have warned that they are ready for direct military intervention in the US-Israeli war on Iran."
+    },
+    {
+      "title": "Tiger Woods charged with DUI after rollover crash in Florida",
+      "link": "https://www.aljazeera.com/sports/2026/3/27/tiger-woods-charged-with-dui-after-rollover-crash-in-florida?traffic_source=rss",
+      "date": "2026-03-27T22:17:04.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Tiger Woods showed signs of impairment and was arrested at the scene of car crash in which he struck another vehicle."
+    },
+    {
+      "title": "Oyarzabal double seals Spain win against Serbia in World Cup warm-up",
+      "link": "https://www.aljazeera.com/sports/2026/3/27/oyarzabal-double-seals-spain-win-against-serbia-in-world-cup-warm-up?traffic_source=rss",
+      "date": "2026-03-27T22:09:55.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Spain enjoy a comfortable night as Mikel Oyarzabal scores twice in 3-0 win against Serbia in warm-up for World Cup 2026."
+    },
+    {
+      "title": "What is the TACO trade and are investors profiting amid war on Iran?",
+      "link": "https://www.aljazeera.com/news/2026/3/27/what-is-the-taco-trade-and-are-investors-profiting-amid-war-on-iran?traffic_source=rss",
+      "date": "2026-03-27T22:06:38.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Global energy crisis continues to widen amid market volatility, while so-called &#039;TACO traders&#039; attempt to capitalise."
+    },
+    {
+      "title": "Guns in the streets as US, Israel intensify month-long attacks across Iran",
+      "link": "https://www.aljazeera.com/news/2026/3/27/guns-in-the-streets-as-us-israel-intensify-month-long-attacks-across?traffic_source=rss",
+      "date": "2026-03-27T21:22:49.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "A senior IRGC official in Tehran told state television that children over 12 can join armed patrols and checkpoints."
+    },
+    {
+      "title": "Mexico’s navy searches for two missing boats involved in Cuba aid convoy",
+      "link": "https://www.aljazeera.com/news/2026/3/27/mexicos-navy-searches-for-two-missing-boats-involved-in-cuba-aid-convoy?traffic_source=rss",
+      "date": "2026-03-27T20:51:09.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "The Nuestra America Convoy said that the sailboats were led by &#039;experienced sailors&#039; with access to safety equipment."
+    },
+    {
+      "title": "Judge grants Anthropic preliminary injunction but Pentagon CTO says ban still stands",
+      "link": "https://breakingdefense.com/2026/03/judge-grants-anthropic-preliminary-injunction-but-pentagon-cto-says-ban-still-stands/",
+      "date": "2026-03-27T19:55:39.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "Norway floats additional $11.8B in defense spending through 2035, cancels drone program",
+      "link": "https://breakingdefense.com/2026/03/norway-floats-additional-11-8b-in-defense-spending-through-2035-cancels-drone-program/",
+      "date": "2026-03-27T18:43:35.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
       "snippet": ""
     },
     {
@@ -32,42 +140,6 @@
       "snippet": ""
     },
     {
-      "title": "How close is the US to a quagmire in Iran?",
-      "link": "https://www.aljazeera.com/video/the-take-2/2026/3/27/aje-onl-tt_us_iran15pointplan_av-270326?traffic_source=rss",
-      "date": "2026-03-27T18:00:56.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": ""
-    },
-    {
-      "title": "Iran’s football team honours children killed in Minab school airstrike",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/irans-football-team-honours-children-killed-in-minab-school-airstrike?traffic_source=rss",
-      "date": "2026-03-27T17:32:11.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Iranian football players laid backpacks on a football pitch in Turkey to pay tribute to the children killed in a US-Isra"
-    },
-    {
-      "title": "Israelis question Lebanon war as opposition grows",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/israelis-question-lebanon-war-as-opposition-grows?traffic_source=rss",
-      "date": "2026-03-27T17:31:37.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Growing opposition within Israel is raising questions about the government’s military strategy in southern Lebanon."
-    },
-    {
-      "title": "FBI director Kash Patel’s emails, photos hacked by Iran-linked group",
-      "link": "https://www.aljazeera.com/news/2026/3/27/fbi-director-kash-patels-emails-photos-hacked-by-iran-linked-group?traffic_source=rss",
-      "date": "2026-03-27T17:15:39.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "The vigilante group Handala Hack Team said that it had successfully gained access to Patel&#039;s personal email account."
-    },
-    {
       "title": "White House to deliver FY27 budget request on April 3: OMB",
       "link": "https://breakingdefense.com/2026/03/white-house-to-deliver-fy27-budget-request-on-april-3-omb/",
       "date": "2026-03-27T17:14:07.000Z",
@@ -77,24 +149,6 @@
       "snippet": ""
     },
     {
-      "title": "LIVE: Spain vs Serbia – World Cup 2026 friendly",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/3/27/live-spain-vs-serbia-world-cup-2026-friendly?traffic_source=rss",
-      "date": "2026-03-27T17:01:00.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Follow our live build-up, with full team news coverage, ahead of our text commentary stream."
-    },
-    {
-      "title": "Russia declares protagonist of Oscar-winning documentary a ‘foreign agent’",
-      "link": "https://www.aljazeera.com/news/2026/3/27/russia-declares-protagonist-of-oscar-winning-documentary-a-foreign-agent?traffic_source=rss",
-      "date": "2026-03-27T16:37:59.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "The teacher had spent two years documenting pro-war propaganda at a school before smuggling footage out of Russia."
-    },
-    {
       "title": "Will the Pentagon have to cut exercises to pay for the Iran war?",
       "link": "https://breakingdefense.com/2026/03/will-the-pentagon-have-to-cut-exercises-to-pay-for-the-iran-war/",
       "date": "2026-03-27T16:05:01.000Z",
@@ -102,42 +156,6 @@
       "sourceId": "breaking_defense",
       "category": "defense",
       "snippet": ""
-    },
-    {
-      "title": "Is Europe heading to an energy crisis?",
-      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/3/27/is-europe-heading-to-an-energy-crisis?traffic_source=rss",
-      "date": "2026-03-27T15:59:00.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Europe is bracing for a supply crunch and a price shock as the Iran conflict drags on."
-    },
-    {
-      "title": "Meet the children left without parents under El Salvador’s emergency decree",
-      "link": "https://www.aljazeera.com/news/longform/2026/3/27/meet-the-children-left-without-parents-under-el-salvadors-emergency-decree?traffic_source=rss",
-      "date": "2026-03-27T15:51:46.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "As El Salvador&#039;s state of emergency turns four years old, families warn of the toll of the mass arrests on children."
-    },
-    {
-      "title": "Lebanon faces ‘humanitarian catastrophe’ under Israeli assault: UN",
-      "link": "https://www.aljazeera.com/news/2026/3/27/lebanon-faces-humanitarian-catastrophe-under-israeli-assault-un?traffic_source=rss",
-      "date": "2026-03-27T15:11:46.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Displaced Lebanese families &#039;living in constant fear&#039; under Israeli bombardment, warns UN Refugee Agency official."
-    },
-    {
-      "title": "Nixon to Trump: Pakistan’s long record as backchannel between rival powers",
-      "link": "https://www.aljazeera.com/news/2026/3/27/nixon-to-trump-pakistans-long-record-as-backchannel-between-rival-powers?traffic_source=rss",
-      "date": "2026-03-27T14:38:27.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Islamabad reprises its role as diplomatic broker as US and Iran edge closer to wider confrontation."
     },
     {
       "title": "State Department clears $340M FMS request for hypersonic missile testing support for Japan",
@@ -188,24 +206,6 @@
       "title": "Companies to enter negotiations to build commercial data centers on Army installations",
       "link": "https://breakingdefense.com/2026/03/companies-to-enter-negotiations-to-build-commercial-data-center-on-army-installations/",
       "date": "2026-03-26T20:19:33.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "Vulcan grounding could impact multiple Space Force, NRO satellite launches",
-      "link": "https://breakingdefense.com/2026/03/vulcan-grounding-could-impact-multiple-space-force-nro-satellite-launches/",
-      "date": "2026-03-26T19:41:00.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "Bipartisan bill would make restrictions on contractor buybacks, dividends permanent",
-      "link": "https://breakingdefense.com/2026/03/bipartisan-bill-would-make-restrictions-on-contractor-buybacks-dividends-permanent/",
-      "date": "2026-03-26T18:46:15.000Z",
       "source": "Breaking Defense",
       "sourceId": "breaking_defense",
       "category": "defense",
@@ -276,6 +276,30 @@
     }
   ],
   "alerts": [
+    {
+      "level": "CRITICAL",
+      "keyword": "nuclear",
+      "title": "Trump says US-Israeli war on Iran creating a new Middle East",
+      "source": "Al Jazeera — Middle East",
+      "date": "2026-03-28T00:05:46.000Z",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/trump-says-us-israeli-war-on-iran-creating-a-new-middle-east?traffic_source=rss"
+    },
+    {
+      "level": "ELEVATED",
+      "keyword": "houthi",
+      "title": "Houthis warn ‘fingers on the trigger’ as US-Israel war on Iran continues",
+      "source": "Al Jazeera — Middle East",
+      "date": "2026-03-27T22:53:23.000Z",
+      "link": "https://www.aljazeera.com/news/2026/3/27/houthis-warn-fingers-on-the-trigger-as-us-israeli-war-on-iran-continues?traffic_source=rss"
+    },
+    {
+      "level": "ELEVATED",
+      "keyword": "houthi",
+      "title": "‘Fingers on the trigger’ for military intervention, Houthis warn",
+      "source": "Al Jazeera — Middle East",
+      "date": "2026-03-27T22:35:24.000Z",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/fingers-on-the-trigger-for-military-intervention-houthis-warn?traffic_source=rss"
+    },
     {
       "level": "ELEVATED",
       "keyword": "negotiation",
