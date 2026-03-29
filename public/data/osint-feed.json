@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-29T01:13:36.948Z",
+  "lastUpdated": "2026-03-29T06:50:27.765Z",
   "feedCount": 5,
   "totalItems": 40,
-  "alertCount": 13,
+  "alertCount": 12,
   "headlines": [
     {
       "title": "Conference Chief Seeks to Rebuild NPT Credibility:  An Interview with Ambassador Do Hung Viet of Vietnam, president of the 2026 NPT Review Conference",
@@ -14,6 +14,33 @@
       "snippet": ""
     },
     {
+      "title": "Israel Adesanya knocked out by Joe Pyfer at UFC Fight Night in Seattle",
+      "link": "https://www.aljazeera.com/sports/2026/3/29/israel-adesanya-knocked-out-by-joe-pyfer-at-ufc-fight-night-in-seattle?traffic_source=rss",
+      "date": "2026-03-29T05:57:46.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Former two-time champion loses his fourth straight bout after being stopped by Pyfer in the second round."
+    },
+    {
+      "title": "Sabalenka defeats Gauff to win second straight Miami Open title",
+      "link": "https://www.aljazeera.com/sports/2026/3/29/sabalenka-defeats-gauff-to-win-second-straight-miami-open-title?traffic_source=rss",
+      "date": "2026-03-29T05:25:00.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "World number one Aryna Sabalenka edges Coco Gauff in a tense three-set final to claim the &#039;Sunshine Double&#039; in Florida."
+    },
+    {
+      "title": "What happens in the occupied West Bank under the shadow of the Iran war",
+      "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/3/29/what-happens-in-the-occupied-west-bank-under-the-shadow-of-the-iran-war?traffic_source=rss",
+      "date": "2026-03-29T04:34:31.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Since Israel went to war with Iran, settler violence in the occupied West Bank has surged."
+    },
+    {
       "title": "As war on Iran enters second month, Yemen’s Houthis open new front",
       "link": "https://www.aljazeera.com/news/2026/3/29/as-war-on-iran-enters-second-month-yemens-houthis-open-new-front?traffic_source=rss",
       "date": "2026-03-29T00:59:21.000Z",
@@ -23,13 +50,13 @@
       "snippet": "The Yemeni group pledges more attacks on Israel as fears mount that the worsening conflict will spiral out of control."
     },
     {
-      "title": "Iran war live: Tehran warns US, Israeli universities; Houthis fire missiles",
+      "title": "Iran war live: Pakistan, Egypt, Turkiye, Saudi diplomats meet in Islamabad",
       "link": "https://www.aljazeera.com/news/liveblog/2026/3/29/iran-war-live-houthis-attack-israel-anti-war-protesters-rally-in-tel-aviv?traffic_source=rss",
       "date": "2026-03-29T00:00:00.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Antiwar protesters rally in Tel Aviv and US cities, as attacks kill a family of four in Iran&#039;s Bushehr province."
+      "snippet": "Push for diplomacy as Iran threatens retaliatory attacks on Israeli, US universities in the Middle East."
     },
     {
       "title": "Vice President JD Vance tops CPAC’s straw poll to be US president in 2028",
@@ -75,33 +102,6 @@
       "sourceId": "aljazeera_mideast",
       "category": "news",
       "snippet": "Islamabad&#039;s diplomatic push bears fruit as the world watches for signs of a broader breakthrough."
-    },
-    {
-      "title": "Kuwait airport hit by Iranian drone strikes",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/kuwait-airport-hit-by-iranian-drone-strikes?traffic_source=rss",
-      "date": "2026-03-28T20:58:37.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Thick, black smoke rose from Kuwait International Airport Saturday after suspected Iranian drone strikes caused damage."
-    },
-    {
-      "title": "Could Ukraine’s drone expertise serve Gulf countries?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/3/28/could-ukraines-drone-expertise-serve-gulf-countries?traffic_source=rss",
-      "date": "2026-03-28T20:50:59.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": ""
-    },
-    {
-      "title": "Palestine Action supporters arrested as London’s Met Police reverse policy",
-      "link": "https://www.aljazeera.com/news/2026/3/28/palestine-action-supporters-arrested-as-londons-met-police-reverse-policy?traffic_source=rss",
-      "date": "2026-03-28T20:09:35.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Arrests come days after force announced U-turn, saying that despite High Court ruling, &#039;terror&#039; ban remains in place."
     },
     {
       "title": "Judge grants Anthropic preliminary injunction but Pentagon CTO says ban still stands",
@@ -286,8 +286,8 @@
     },
     {
       "level": "ELEVATED",
-      "keyword": "houthi",
-      "title": "Iran war live: Tehran warns US, Israeli universities; Houthis fire missiles",
+      "keyword": "diplomacy",
+      "title": "Iran war live: Pakistan, Egypt, Turkiye, Saudi diplomats meet in Islamabad",
       "source": "Al Jazeera — Middle East",
       "date": "2026-03-29T00:00:00.000Z",
       "link": "https://www.aljazeera.com/news/liveblog/2026/3/29/iran-war-live-houthis-attack-israel-anti-war-protesters-rally-in-tel-aviv?traffic_source=rss"
@@ -299,14 +299,6 @@
       "source": "Al Jazeera — Middle East",
       "date": "2026-03-28T21:56:30.000Z",
       "link": "https://www.aljazeera.com/news/2026/3/28/pakistan-secures-iran-deal-to-send-20-ships-through-strait-of-hormuz?traffic_source=rss"
-    },
-    {
-      "level": "HIGH",
-      "keyword": "drone strike",
-      "title": "Kuwait airport hit by Iranian drone strikes",
-      "source": "Al Jazeera — Middle East",
-      "date": "2026-03-28T20:58:37.000Z",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/kuwait-airport-hit-by-iranian-drone-strikes?traffic_source=rss"
     },
     {
       "level": "ELEVATED",
