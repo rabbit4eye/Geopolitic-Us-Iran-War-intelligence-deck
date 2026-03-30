@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-30T12:47:54.512Z",
+  "lastUpdated": "2026-03-30T18:43:08.472Z",
   "feedCount": 5,
   "totalItems": 40,
-  "alertCount": 8,
+  "alertCount": 9,
   "headlines": [
     {
       "title": "Conference Chief Seeks to Rebuild NPT Credibility:  An Interview with Ambassador Do Hung Viet of Vietnam, president of the 2026 NPT Review Conference",
@@ -14,94 +14,139 @@
       "snippet": ""
     },
     {
-      "title": "Trump ‘pretty sure’ of Iran deal, but can Pakistan-led efforts end the war?",
-      "link": "https://www.aljazeera.com/news/2026/3/30/trump-pretty-sure-of-iran-deal-but-can-pakistan-led-efforts-end-the-war?traffic_source=rss",
-      "date": "2026-03-30T12:23:26.000Z",
+      "title": "US airport lines shorten as TSA workers get paid",
+      "link": "https://www.aljazeera.com/economy/2026/3/30/us-airport-lines-shorten-as-tsa-workers-get-paid?traffic_source=rss",
+      "date": "2026-03-30T18:26:55.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Pakistan, Saudi Arabia, Turkiye and Egypt set up a team for backchannel talks with the US and Iran."
+      "snippet": "Airports like JFK and Houston report shorter wait times, though LaGuardia still faces delays of up to two hours."
     },
     {
-      "title": "Germany’s FM tells President al-Sharaa ‘We stand with Syria’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/germanys-fm-tells-president-al-sharaa-we-stand-with-syria?traffic_source=rss",
-      "date": "2026-03-30T11:32:06.000Z",
+      "title": "Two more UN peacekeepers killed in southern Lebanon: UNIFIL",
+      "link": "https://www.aljazeera.com/news/2026/3/30/two-more-un-peacekeepers-killed-in-southern-lebanon-unifil?traffic_source=rss",
+      "date": "2026-03-30T18:11:15.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Syrian president Ahmed al-Sharaa met with top German officials in a visit to Berlin to discuss cooperation."
+      "snippet": "At least three UN peacekeepers killed this week as violence surges amid Israel&#039;s expanding invasion of southern Lebanon."
     },
     {
-      "title": "Russia’s FSB orders British diplomat’s expulsion, UK rejects ‘intimidation’",
-      "link": "https://www.aljazeera.com/news/2026/3/30/russia-expels-british-diplomat-accused-of-economic-espionage?traffic_source=rss",
-      "date": "2026-03-30T11:20:33.000Z",
+      "title": "What is the ‘Greater Israel’ project?",
+      "link": "https://www.aljazeera.com/video/the-take-2/2026/3/30/aje-onl-tt_isr_greaterisrael_av_v2-300326?traffic_source=rss",
+      "date": "2026-03-30T17:55:31.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Russia’s intelligence agency accuses the second secretary at the British Embassy in Moscow of espionage."
+      "snippet": ""
     },
     {
-      "title": "Beirut apartment damaged in Israeli strike",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/beirut-apartment-damaged-in-israeli-strike?traffic_source=rss",
-      "date": "2026-03-30T11:10:41.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "An Israeli air strike has heavily damaged a residential building in Beirut’s southern suburbs."
+      "title": "Ukraine inks defense agreements with Qatar and Saudi Arabia, with UAE to follow",
+      "link": "https://breakingdefense.com/2026/03/ukraine-inks-defense-agreements-with-qatar-and-saudi-arabia-with-uae-to-follow/",
+      "date": "2026-03-30T17:27:47.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
     },
     {
-      "title": "Sirens heard across Haifa port",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/sirens-heard-across-haifa-port?traffic_source=rss",
-      "date": "2026-03-30T11:10:18.000Z",
+      "title": "ICE announces death of another Mexican detainee in US immigration custody",
+      "link": "https://www.aljazeera.com/news/2026/3/30/ice-announces-death-of-another-mexican-detainee-in-us-immigration-custody?traffic_source=rss",
+      "date": "2026-03-30T17:20:51.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Sirens were heard across the port of Haifa on Monday, amid expectations of incoming missiles."
+      "snippet": "Mexico&#039;s President Claudia Sheinbaum says her country will take steps to protest death of another Mexican citizen in US."
     },
     {
-      "title": "Schools, water, industry: What civilian targets have US, Israel, Iran hit?",
-      "link": "https://www.aljazeera.com/news/2026/3/30/schools-water-industry-what-civilian-targets-have-us-israel-iran-hit?traffic_source=rss",
-      "date": "2026-03-30T11:09:06.000Z",
+      "title": "G7 ready to take ‘necessary measures’ to ensure energy market stability",
+      "link": "https://www.aljazeera.com/news/2026/3/30/g7-ready-to-take-necessary-measures-to-ensure-energy-market-stability?traffic_source=rss",
+      "date": "2026-03-30T16:56:13.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "US and Israel have increasingly been hitting civilian sites in Iran as efforts to end the weeks-long war are under way."
+      "snippet": "Jitters in G7 nations as higher energy prices threaten to drive up inflation, damage purchasing power and stunt growth."
     },
     {
-      "title": "Syria’s al-Sharaa visits Germany to talk reconstruction, return of refugees",
-      "link": "https://www.aljazeera.com/news/2026/3/30/syrian-president-in-berlin-for-talks-with-germanys-merz?traffic_source=rss",
-      "date": "2026-03-30T10:56:47.000Z",
+      "title": "‘Strait of Hormuz will reopen one way or another’, Rubio tells Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/strait-of-hormuz-will-reopen-one-way-or-another-rubio-tells-al-jazeera?traffic_source=rss",
+      "date": "2026-03-30T16:51:19.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "President aims to address refugee repatriation and Syria&#039;s rebuilding during high-level meetings in Berlin."
+      "snippet": "Secretary of State Marco Rubio has told Al Jazeera that the US will not accept Iran’s claim over the Strait of Hormuz."
     },
     {
-      "title": "Green and Yellow: Two lines that separate me from my land",
-      "link": "https://www.aljazeera.com/opinions/2026/3/30/green-and-yellow-two-lines-that-separate-me-from-my-land?traffic_source=rss",
-      "date": "2026-03-30T10:53:40.000Z",
+      "title": "Fire contained after missile attack on oil refinery in Israel’s Haifa",
+      "link": "https://www.aljazeera.com/news/2026/3/30/fire-contained-after-missile-attack-on-oil-refinery-in-israels-haifa?traffic_source=rss",
+      "date": "2026-03-30T16:25:31.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Israel can draw as many lines as it wants, but we will not give up the right to our land."
+      "snippet": "Attack marks second time Oil Refineries facility in northern Israel targeted during US-Israeli war on Iran."
     },
     {
-      "title": "Tatreez in Madrid: Stitching culture and resistance",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/tatreez-in-madrid-stitching-culture-and-resistance?traffic_source=rss",
-      "date": "2026-03-30T10:50:48.000Z",
+      "title": "UK pro-Palestine activist arrested weeks after being released on bail",
+      "link": "https://www.aljazeera.com/news/2026/3/30/uk-pro-palestine-activist-arrested-weeks-after-being-released-on-bail?traffic_source=rss",
+      "date": "2026-03-30T16:18:31.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "A Palestinian refugee is teaching traditional ‘tatreez’ embroidery in Madrid, helping preserve cultural heritage."
+      "snippet": "Campaigners believe 21-year-old Qesser Zuhrah was arrested over an Instagram post."
     },
     {
-      "title": "Palestine aIly Ireland under fire for allowing weapons transfers to Israel",
-      "link": "https://www.aljazeera.com/news/2026/3/30/palestine-aily-ireland-under-fire-for-allowing-weapons-transfers-to-israel?traffic_source=rss",
-      "date": "2026-03-30T10:41:45.000Z",
+      "title": "Palestine’s Land Day: 50 Years of Resistance",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/palestines-land-day-50-years-of-resistance?traffic_source=rss",
+      "date": "2026-03-30T16:14:53.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Since the Iraq War, Shannon Airport has served as a key transit hub for the US military. It is now under scrutiny again."
+      "snippet": "On the 50th Land Day, Al Jazeera’s Hala Al Shami looks into what happened in Palestine on March 30, 1976."
+    },
+    {
+      "title": "We dug up medics in Gaza. A year later, international law remains buried",
+      "link": "https://www.aljazeera.com/opinions/2026/3/30/we-dug-up-medics-in-gaza-a-year-later-international-law-remains-buried?traffic_source=rss",
+      "date": "2026-03-30T16:13:00.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Israel has created an environment of impunity for attacks on healthcare that has spread well beyond Gaza&#039;s borders."
+    },
+    {
+      "title": "Successes and Setbacks",
+      "link": "https://warontherocks.com/2026/03/successes-and-setbacks/",
+      "date": "2026-03-30T16:06:55.000Z",
+      "source": "War on the Rocks",
+      "sourceId": "war_on_rocks",
+      "category": "strategic",
+      "snippet": ""
+    },
+    {
+      "title": "The Iran war will provoke a new nuclear age",
+      "link": "https://www.armscontrol.org/media-citations/new-statesman/2026-03-30",
+      "date": "2026-03-30T15:49:34.000Z",
+      "source": "Arms Control Association",
+      "sourceId": "arms_control",
+      "category": "policy",
+      "snippet": ""
+    },
+    {
+      "title": "The War in Iran and Implications for the Nuclear Non-Proliferation Regime",
+      "link": "https://www.armscontrol.org/media-citations/war-rocks/2026-03-30",
+      "date": "2026-03-30T15:47:59.000Z",
+      "source": "Arms Control Association",
+      "sourceId": "arms_control",
+      "category": "policy",
+      "snippet": ""
+    },
+    {
+      "title": "Iran shows the emerging crisis of the US airborne battle management fleet",
+      "link": "https://breakingdefense.com/2026/03/iran-shows-the-enduring-need-and-emerging-crisis-of-the-us-airborne-battle-management-fleet/",
+      "date": "2026-03-30T14:33:12.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
     },
     {
       "title": "Every Soldier a Software Builder: Governing the Army’s New Digital Workforce",
@@ -228,61 +273,32 @@
       "sourceId": "war_on_rocks",
       "category": "strategic",
       "snippet": ""
-    },
-    {
-      "title": "MBDA plans $5.8B investment in missile production as demand soars",
-      "link": "https://breakingdefense.com/2026/03/mbda-plans-5-8b-investment-in-missile-production-as-demand-soars/",
-      "date": "2026-03-27T07:15:00.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "Companies to enter negotiations to build commercial data centers on Army installations",
-      "link": "https://breakingdefense.com/2026/03/companies-to-enter-negotiations-to-build-commercial-data-center-on-army-installations/",
-      "date": "2026-03-26T20:19:33.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "10 Ukrainians Humbled Two NATO Battalions. When Will NATO Wake Up?",
-      "link": "https://warontherocks.com/2026/03/10-ukrainians-humbled-two-nato-battalions-when-will-nato-wake-up/",
-      "date": "2026-03-26T07:30:39.000Z",
-      "source": "War on the Rocks",
-      "sourceId": "war_on_rocks",
-      "category": "strategic",
-      "snippet": ""
-    },
-    {
-      "title": "A Torpedo in the Trade Lanes: Naval Warfare Returns to the Indo-Pacific",
-      "link": "https://warontherocks.com/2026/03/a-torpedo-in-the-trade-lanes-naval-warfare-returns-to-the-indo-pacific/",
-      "date": "2026-03-26T07:15:10.000Z",
-      "source": "War on the Rocks",
-      "sourceId": "war_on_rocks",
-      "category": "strategic",
-      "snippet": ""
-    },
-    {
-      "title": "How South Korea Can Bring Iron to the Strait of Hormuz",
-      "link": "https://warontherocks.com/2026/03/how-south-korea-can-bring-iron-to-the-strait-of-hormuz/",
-      "date": "2026-03-26T07:00:30.000Z",
-      "source": "War on the Rocks",
-      "sourceId": "war_on_rocks",
-      "category": "strategic",
-      "snippet": ""
     }
   ],
   "alerts": [
     {
-      "level": "ELEVATED",
-      "keyword": "negotiation",
-      "title": "Companies to enter negotiations to build commercial data centers on Army installations",
-      "source": "Breaking Defense",
-      "date": "2026-03-26T20:19:33.000Z",
-      "link": "https://breakingdefense.com/2026/03/companies-to-enter-negotiations-to-build-commercial-data-center-on-army-installations/"
+      "level": "CRITICAL",
+      "keyword": "strait of hormuz",
+      "title": "‘Strait of Hormuz will reopen one way or another’, Rubio tells Al Jazeera",
+      "source": "Al Jazeera — Middle East",
+      "date": "2026-03-30T16:51:19.000Z",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/strait-of-hormuz-will-reopen-one-way-or-another-rubio-tells-al-jazeera?traffic_source=rss"
+    },
+    {
+      "level": "CRITICAL",
+      "keyword": "nuclear",
+      "title": "The Iran war will provoke a new nuclear age",
+      "source": "Arms Control Association",
+      "date": "2026-03-30T15:49:34.000Z",
+      "link": "https://www.armscontrol.org/media-citations/new-statesman/2026-03-30"
+    },
+    {
+      "level": "CRITICAL",
+      "keyword": "nuclear",
+      "title": "The War in Iran and Implications for the Nuclear Non-Proliferation Regime",
+      "source": "Arms Control Association",
+      "date": "2026-03-30T15:47:59.000Z",
+      "link": "https://www.armscontrol.org/media-citations/war-rocks/2026-03-30"
     },
     {
       "level": "CRITICAL",
@@ -331,14 +347,6 @@
       "source": "Arms Control Association",
       "date": "2026-03-23T15:51:30.000Z",
       "link": "https://www.armscontrol.org/media-citations/npr/2026-03-23"
-    },
-    {
-      "level": "CRITICAL",
-      "keyword": "nuclear",
-      "title": "US must build trust with Russia, China to prevent resumption of nuclear testing — expert",
-      "source": "Arms Control Association",
-      "date": "2026-03-23T15:49:42.000Z",
-      "link": "https://www.armscontrol.org/media-citations/tass/2026-03-23"
     }
   ],
   "sources": [
