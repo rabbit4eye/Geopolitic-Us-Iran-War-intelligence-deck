@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-31T06:59:30.601Z",
+  "lastUpdated": "2026-03-31T12:45:24.535Z",
   "feedCount": 5,
   "totalItems": 40,
-  "alertCount": 8,
+  "alertCount": 7,
   "headlines": [
     {
       "title": "Conference Chief Seeks to Rebuild NPT Credibility:  An Interview with Ambassador Do Hung Viet of Vietnam, president of the 2026 NPT Review Conference",
@@ -14,31 +14,130 @@
       "snippet": ""
     },
     {
-      "title": "15-year-old Vaibhav Sooryavanshi scores 15-ball fifty for Rajasthan Royals",
-      "link": "https://www.aljazeera.com/sports/2026/3/31/15-year-old-vaibhav-sooryavanshi-scores-15-ball-fifty-for-rajasthan-royals?traffic_source=rss",
-      "date": "2026-03-31T06:20:09.000Z",
+      "title": "Pakistan cricketer Fakhar Zaman handed two-match PSL ban for ball tampering",
+      "link": "https://www.aljazeera.com/sports/2026/3/31/pakistan-cricketer-fakhar-zaman-handed-two-match-psl-ban-for-ball-tampering?traffic_source=rss",
+      "date": "2026-03-31T12:28:02.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Indian teenage prodigy smashes his third IPL half century as Rajasthan routs Chennai Super Kings in the IPL."
+      "snippet": "Lahore Qalandars batter was found guilty of changing the condition of the ball in the match against Karachi Kings."
     },
     {
-      "title": "What can nations do to make up for the ongoing energy shortfall?",
-      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/3/31/what-can-nations-do-to-make-up-for-the-ongoing-energy-shortfall?traffic_source=rss",
-      "date": "2026-03-31T06:05:20.000Z",
+      "title": "Three Indonesian peacekeepers killed by Israeli attacks in Lebanon",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/three-indonesian-peacekeepers-killed-by-israeli-attacks-in-lebanon?traffic_source=rss",
+      "date": "2026-03-31T12:12:12.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "The Middle East conflict has cut off 20 percent of the world&#039;s fuel supply. Countries are scrambling for alternatives."
+      "snippet": "Two Israeli attacks in southern Lebanon have killed three Indonesian UN peacekeepers in the past 48 hours."
     },
     {
-      "title": "LeBron James records triple-double as Lakers dominate Wizards",
-      "link": "https://www.aljazeera.com/sports/2026/3/31/lebron-james-records-triple-double-as-lakers-dominate-wizards?traffic_source=rss",
-      "date": "2026-03-31T05:16:01.000Z",
+      "title": "Iranian rescuers save two civilians from rubble after US-Israeli strikes",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/iranian-rescuers-save-two-civilians-from-rubble-after-us-israeli-strikes?traffic_source=rss",
+      "date": "2026-03-31T12:01:54.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Led by James&#039;s 125th regular-season triple-double, the LA Lakers destroyed the Washington Wizards for their 49th win."
+      "snippet": "Footage shows Iranian Red Crescent Society rescuers and firemen saving two civilians from underneath the rubble."
+    },
+    {
+      "title": "Hundreds rally in West Bank against Israeli death penalty for Palestinians",
+      "link": "https://www.aljazeera.com/news/2026/3/31/hundreds-rally-in-west-bank-against-israeli-death-penalty-for-palestinians?traffic_source=rss",
+      "date": "2026-03-31T11:52:55.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Civil society joins protests as EU voices express &#039;great concern&#039; about Israel&#039;s law targeting Palestinian prisoners."
+    },
+    {
+      "title": "‘AI helped pick the first thousand targets in Iran’",
+      "link": "https://www.aljazeera.com/video/quotable/2026/3/31/ai-helped-pick-the-first-thousand-targets-in?traffic_source=rss",
+      "date": "2026-03-31T11:15:48.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "‘AI helped pick the first thousand targets in Iran’"
+    },
+    {
+      "title": "Drones strike Russia’s Ust-Luga port again as EU officials visit Ukraine",
+      "link": "https://www.aljazeera.com/news/2026/3/31/drones-strike-russias-ust-luga-port-again-as-eu-officials-visit-ukraine?traffic_source=rss",
+      "date": "2026-03-31T10:54:13.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Attacks come as Ukraine says its air defences shot down 267 out of 289 drones launched by Russia overnight."
+    },
+    {
+      "title": "A Gaza mother waits in agony: Did Israel kill her daughter, or arrest her?",
+      "link": "https://www.aljazeera.com/news/2026/3/31/gaza-disappeared-malak-abu-mady?traffic_source=rss",
+      "date": "2026-03-31T10:50:15.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Tahrir Abu Mady has her daughter Malak&#039;s death certificate. But a prisoner&#039;s list suggests she might have been arrested."
+    },
+    {
+      "title": "Italy denies the US military use of its air bases to attack Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/italy-denies-the-us-military-use-of-its-air-bases-to-attack-iran?traffic_source=rss",
+      "date": "2026-03-31T10:34:53.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Italian press reports that the government has refuse to authorise US to land bombers at a base in Sicily"
+    },
+    {
+      "title": "Caster Semenya pledges to fight against Olympic gender-testing policy",
+      "link": "https://www.aljazeera.com/sports/2026/3/31/caster-semenya-pledges-to-fight-against-olympic-gender-testing-policy?traffic_source=rss",
+      "date": "2026-03-31T10:06:55.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "&#039;We&#039;re going to be vocal about it, we&#039;re going to make noise until we&#039;re heard,&#039; South Africa&#039;s gold medallist says."
+    },
+    {
+      "title": "Gaza families reunite years after babies evacuated amid Israel’s war",
+      "link": "https://www.aljazeera.com/news/2026/3/31/gaza-families-reunite-years-after-babies-evacuated-amid-israels-war?traffic_source=rss",
+      "date": "2026-03-31T10:01:34.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Infants evacuated from al-Shifa Hospital during Israel&#039;s siege in 2023 return home after years of separation."
+    },
+    {
+      "title": "The U.S. Military Risks Letting Contractors Define How It Sees the Battlefield",
+      "link": "https://warontherocks.com/2026/03/the-u-s-military-risks-letting-contractors-define-how-it-sees-the-battlefield/",
+      "date": "2026-03-31T08:00:10.000Z",
+      "source": "War on the Rocks",
+      "sourceId": "war_on_rocks",
+      "category": "strategic",
+      "snippet": ""
+    },
+    {
+      "title": "The Trump Administration Had No Plan for the War with Iran",
+      "link": "https://warontherocks.com/2026/03/the-trump-administration-had-no-plan-for-the-war-with-iran/",
+      "date": "2026-03-31T07:30:08.000Z",
+      "source": "War on the Rocks",
+      "sourceId": "war_on_rocks",
+      "category": "strategic",
+      "snippet": ""
+    },
+    {
+      "title": "Ukraine attacks on oil and gas to be &#8216;painful&#8217; for Russian economy: Official",
+      "link": "https://breakingdefense.com/2026/03/ukraine-attacks-on-oil-and-gas-to-be-painful-for-russian-economy-official/",
+      "date": "2026-03-31T07:30:00.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "The Cost of Hesitation: Why “Finishing the Mission” is Imperative in Iran",
+      "link": "https://warontherocks.com/2026/03/the-cost-of-hesitation-why-finishing-the-mission-is-imperative-in-iran/",
+      "date": "2026-03-31T07:15:53.000Z",
+      "source": "War on the Rocks",
+      "sourceId": "war_on_rocks",
+      "category": "strategic",
+      "snippet": ""
     },
     {
       "title": "Breaking Defense announces Breaking Defense Europe, a new, distinct, European edition",
@@ -48,69 +147,6 @@
       "sourceId": "breaking_defense",
       "category": "defense",
       "snippet": ""
-    },
-    {
-      "title": "Children in Gaza reenact a funeral procession during play",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/children-in-gaza-reenact-a-funeral-procession-during-play?traffic_source=rss",
-      "date": "2026-03-31T04:41:45.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "A group of children reenacted a funeral with their doll as they played together in a displacement camp in Gaza."
-    },
-    {
-      "title": "Spain closes airspace to US warplanes involved in war on Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/spain-closes-airspace-to-us-warplanes-involved-in-war-on-iran?traffic_source=rss",
-      "date": "2026-03-31T04:40:16.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Spain has taken another step in rejecting the US-Israeli war on Iran, denying US warplanes the use of its airspace."
-    },
-    {
-      "title": "Outrage and condemnation over Israel’s death penalty law for Palestinians",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/outrage-and-condemnation-over-israels-death-penalty-law-for-palestinians?traffic_source=rss",
-      "date": "2026-03-31T04:30:00.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Outrage and widespread condemnation has followed Israel legalising the death penalty for Palestinians."
-    },
-    {
-      "title": "UK pro-Palestine activist arrested weeks after being released on bail",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/uk-pro-palestine-activist-arrested-weeks-after-being-released-on-bail-2?traffic_source=rss",
-      "date": "2026-03-31T04:11:28.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "UK pro-Palestine activist Qesser Zuhrah has been arrested on terrorism charges after being released on bail last month."
-    },
-    {
-      "title": "What we learned from Al Jazeera’s interview with Marco Rubio",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/what-we-learned-from-al-jazeeras-interview-with-marco-rubio?traffic_source=rss",
-      "date": "2026-03-31T03:36:39.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Experts cast doubt on some of the claims made by US Secretary of State Marco Rubio in an interview with Al Jazeera."
-    },
-    {
-      "title": "Activist Nerdeen Kiswani: ‘I feel more threatened than ever before’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/activist-nerdeen-kiswani-i-feel-more-threatened-than-ever?traffic_source=rss",
-      "date": "2026-03-31T03:35:22.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Days after the FBI foiled an assassination plot, activist Nerdeen Kiswani says she&#039;ll continue advocating for Palestine."
-    },
-    {
-      "title": "Pentagon denies that Hegseth’s broker sought investment before Iran war",
-      "link": "https://www.aljazeera.com/economy/2026/3/31/pentagon-denies-hegseths-broker-sought-defence-investment-before-iran-war?traffic_source=rss",
-      "date": "2026-03-31T02:32:29.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "US Department of Defense demands retraction of report alleging broker sought multimillion-dollar investment for Hegseth."
     },
     {
       "title": "Israel approves $45B defense budget as Iran war rages",
@@ -237,42 +273,6 @@
       "sourceId": "breaking_defense",
       "category": "defense",
       "snippet": ""
-    },
-    {
-      "title": "Norway floats additional $11.8B in defense spending through 2035, cancels drone program",
-      "link": "https://breakingdefense.com/2026/03/norway-floats-additional-11-8b-in-defense-spending-through-2035-cancels-drone-program/",
-      "date": "2026-03-27T18:43:35.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "Army may reexamine ground vehicle programs amid &#8216;constantly evolving&#8217; environment: Official",
-      "link": "https://breakingdefense.com/2026/03/army-may-reexamine-ground-vehicle-programs-amid-constantly-evolving-environment-official/",
-      "date": "2026-03-27T18:11:08.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "The Pentagon Wants Dual-Use Innovation. Patent Law Might Punish It.",
-      "link": "https://warontherocks.com/2026/03/the-pentagon-wants-dual-use-innovation-patent-law-might-punish-it/",
-      "date": "2026-03-27T08:00:22.000Z",
-      "source": "War on the Rocks",
-      "sourceId": "war_on_rocks",
-      "category": "strategic",
-      "snippet": ""
-    },
-    {
-      "title": "Hellscape Taiwan: A Porcupine Defense in the Drone Age",
-      "link": "https://warontherocks.com/2026/03/hellscape-taiwan-a-porcupine-defense-in-the-drone-age/",
-      "date": "2026-03-27T07:30:24.000Z",
-      "source": "War on the Rocks",
-      "sourceId": "war_on_rocks",
-      "category": "strategic",
-      "snippet": ""
     }
   ],
   "alerts": [
@@ -291,14 +291,6 @@
       "source": "Arms Control Association",
       "date": "2026-03-30T15:47:59.000Z",
       "link": "https://www.armscontrol.org/media-citations/war-rocks/2026-03-30"
-    },
-    {
-      "level": "CRITICAL",
-      "keyword": "strait of hormuz",
-      "title": "How South Korea Can Bring Iron to the Strait of Hormuz",
-      "source": "War on the Rocks",
-      "date": "2026-03-26T07:00:30.000Z",
-      "link": "https://warontherocks.com/2026/03/how-south-korea-can-bring-iron-to-the-strait-of-hormuz/"
     },
     {
       "level": "CRITICAL",
