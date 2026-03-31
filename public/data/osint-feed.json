@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-31T01:12:04.448Z",
+  "lastUpdated": "2026-03-31T06:59:30.601Z",
   "feedCount": 5,
   "totalItems": 40,
-  "alertCount": 10,
+  "alertCount": 8,
   "headlines": [
     {
       "title": "Conference Chief Seeks to Rebuild NPT Credibility:  An Interview with Ambassador Do Hung Viet of Vietnam, president of the 2026 NPT Review Conference",
@@ -14,94 +14,103 @@
       "snippet": ""
     },
     {
-      "title": "At least 70 killed, 30 wounded in Haiti gang attack, rights group says",
-      "link": "https://www.aljazeera.com/news/2026/3/31/at-least-70-killed-30-wounded-in-haiti-gang-attack-rights-group-says?traffic_source=rss",
-      "date": "2026-03-31T00:02:55.000Z",
+      "title": "15-year-old Vaibhav Sooryavanshi scores 15-ball fifty for Rajasthan Royals",
+      "link": "https://www.aljazeera.com/sports/2026/3/31/15-year-old-vaibhav-sooryavanshi-scores-15-ball-fifty-for-rajasthan-royals?traffic_source=rss",
+      "date": "2026-03-31T06:20:09.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Death toll by the Defenseurs Plus rights group significantly exceeds ⁠official estimates of 16."
+      "snippet": "Indian teenage prodigy smashes his third IPL half century as Rajasthan routs Chennai Super Kings in the IPL."
     },
     {
-      "title": "Al Jazeera’s full interview with Marco Rubio on US war on Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/al-jazeeras-full-interview-with-marco-rubio-on-us-war-on-iran?traffic_source=rss",
-      "date": "2026-03-31T00:02:35.000Z",
+      "title": "What can nations do to make up for the ongoing energy shortfall?",
+      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/3/31/what-can-nations-do-to-make-up-for-the-ongoing-energy-shortfall?traffic_source=rss",
+      "date": "2026-03-31T06:05:20.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "In an exclusive interview, US Secretary of State Marco Rubio says Iran war objectives will be achieved &#039;within weeks&#039;."
+      "snippet": "The Middle East conflict has cut off 20 percent of the world&#039;s fuel supply. Countries are scrambling for alternatives."
     },
     {
-      "title": "Iran war live: Kuwaiti oil tanker hit in Dubai port; 3 UN troops killed",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/3/31/iran-war-live-kuwaiti-oil-tanker-hit-in-dubai-port-3-un-troops-killed?traffic_source=rss",
-      "date": "2026-03-31T00:00:00.000Z",
+      "title": "LeBron James records triple-double as Lakers dominate Wizards",
+      "link": "https://www.aljazeera.com/sports/2026/3/31/lebron-james-records-triple-double-as-lakers-dominate-wizards?traffic_source=rss",
+      "date": "2026-03-31T05:16:01.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Saudi, Qatari, Jordanian leaders meet as Iran continues to retaliate for US-Israeli raids with attacks on Gulf nations."
+      "snippet": "Led by James&#039;s 125th regular-season triple-double, the LA Lakers destroyed the Washington Wizards for their 49th win."
     },
     {
-      "title": "US raises concern over Israel’s closure of Jerusalem holy sites",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/us-raises-concern-over-israels-closure-of-jerusalem-holy-sites?traffic_source=rss",
-      "date": "2026-03-30T23:21:37.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "The White House says the US has raised concerns with Israel over closure of Jerusalem holy sites."
+      "title": "Breaking Defense announces Breaking Defense Europe, a new, distinct, European edition",
+      "link": "https://breakingdefense.com/2026/03/breaking-defense-announces-breaking-defense-europe-a-new-distinct-european-edition/",
+      "date": "2026-03-31T04:45:00.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
     },
     {
-      "title": "Iran’s foreign ministry rejects US ceasefire demands",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/irans-foreign-ministry-rejects-us-ceasefire-demands?traffic_source=rss",
-      "date": "2026-03-30T23:12:51.000Z",
+      "title": "Children in Gaza reenact a funeral procession during play",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/children-in-gaza-reenact-a-funeral-procession-during-play?traffic_source=rss",
+      "date": "2026-03-31T04:41:45.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Iranian Foreign Ministry spokesman says US conditions for a ceasefire are ‘excessive, unrealistic and unreasonable’."
+      "snippet": "A group of children reenacted a funeral with their doll as they played together in a displacement camp in Gaza."
     },
     {
-      "title": "Key moments from Marco Rubio’s interview with Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/key-moments-from-marco-rubios-interview-with-al-jazeera?traffic_source=rss",
-      "date": "2026-03-30T22:33:49.000Z",
+      "title": "Spain closes airspace to US warplanes involved in war on Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/spain-closes-airspace-to-us-warplanes-involved-in-war-on-iran?traffic_source=rss",
+      "date": "2026-03-31T04:40:16.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "US Secretary of State Marco Rubio spoke exclusively to Al Jazeera’s Hashem Ahelbarra about the war on Iran."
+      "snippet": "Spain has taken another step in rejecting the US-Israeli war on Iran, denying US warplanes the use of its airspace."
     },
     {
-      "title": "Is a peaceful settlement possible in Iran?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/3/30/is-a-peaceful-settlement-possible-in-iran-2?traffic_source=rss",
-      "date": "2026-03-30T22:16:11.000Z",
+      "title": "Outrage and condemnation over Israel’s death penalty law for Palestinians",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/outrage-and-condemnation-over-israels-death-penalty-law-for-palestinians?traffic_source=rss",
+      "date": "2026-03-31T04:30:00.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Pakistan says it is ready to host talks on ending the US-Israel war on Iran."
+      "snippet": "Outrage and widespread condemnation has followed Israel legalising the death penalty for Palestinians."
     },
     {
-      "title": "US says Trump ‘interested’ in asking Arab countries to pay for war on Iran",
-      "link": "https://www.aljazeera.com/news/2026/3/30/us-says-trump-interested-in-asking-arab-countries-to-pay-for-war-on-iran?traffic_source=rss",
-      "date": "2026-03-30T22:14:30.000Z",
+      "title": "UK pro-Palestine activist arrested weeks after being released on bail",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/uk-pro-palestine-activist-arrested-weeks-after-being-released-on-bail-2?traffic_source=rss",
+      "date": "2026-03-31T04:11:28.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "White House&#039;s Karoline Leavitt says passing the conflict&#039;s costs off to regional states is &#039;an idea&#039; Donald Trump has."
+      "snippet": "UK pro-Palestine activist Qesser Zuhrah has been arrested on terrorism charges after being released on bail last month."
     },
     {
-      "title": "‘Dangerous escalation’: World reacts to Israel passing death penalty law",
-      "link": "https://www.aljazeera.com/news/2026/3/30/dangerous-escalation-world-reacts-to-israel-passing-death-penalty-law?traffic_source=rss",
-      "date": "2026-03-30T21:29:12.000Z",
+      "title": "What we learned from Al Jazeera’s interview with Marco Rubio",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/what-we-learned-from-al-jazeeras-interview-with-marco-rubio?traffic_source=rss",
+      "date": "2026-03-31T03:36:39.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Rights groups denounce Israeli legislation as a violation of international law that puts Palestinian prisoners at risk."
+      "snippet": "Experts cast doubt on some of the claims made by US Secretary of State Marco Rubio in an interview with Al Jazeera."
     },
     {
-      "title": "UN condemns killing of Indonesian peacekeepers in Lebanon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/un-condemns-killing-of-indonesian-peacekeepers-in-lebanon?traffic_source=rss",
-      "date": "2026-03-30T21:20:00.000Z",
+      "title": "Activist Nerdeen Kiswani: ‘I feel more threatened than ever before’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/activist-nerdeen-kiswani-i-feel-more-threatened-than-ever?traffic_source=rss",
+      "date": "2026-03-31T03:35:22.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "The UN condemned the deaths of three Indonesian peacekeepers in Lebanon, who were killed in two separate incidents."
+      "snippet": "Days after the FBI foiled an assassination plot, activist Nerdeen Kiswani says she&#039;ll continue advocating for Palestine."
+    },
+    {
+      "title": "Pentagon denies that Hegseth’s broker sought investment before Iran war",
+      "link": "https://www.aljazeera.com/economy/2026/3/31/pentagon-denies-hegseths-broker-sought-defence-investment-before-iran-war?traffic_source=rss",
+      "date": "2026-03-31T02:32:29.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "US Department of Defense demands retraction of report alleging broker sought multimillion-dollar investment for Hegseth."
     },
     {
       "title": "Israel approves $45B defense budget as Iran war rages",
@@ -248,15 +257,6 @@
       "snippet": ""
     },
     {
-      "title": "South Korea&#8217;s KAI rolls out first production KF-21 fighter jet",
-      "link": "https://breakingdefense.com/2026/03/south-koreas-kai-rolls-out-first-production-kf-21-fighter-jet/",
-      "date": "2026-03-27T18:10:00.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
       "title": "The Pentagon Wants Dual-Use Innovation. Patent Law Might Punish It.",
       "link": "https://warontherocks.com/2026/03/the-pentagon-wants-dual-use-innovation-patent-law-might-punish-it/",
       "date": "2026-03-27T08:00:22.000Z",
@@ -276,22 +276,6 @@
     }
   ],
   "alerts": [
-    {
-      "level": "CRITICAL",
-      "keyword": "ceasefire",
-      "title": "Iran’s foreign ministry rejects US ceasefire demands",
-      "source": "Al Jazeera — Middle East",
-      "date": "2026-03-30T23:12:51.000Z",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/irans-foreign-ministry-rejects-us-ceasefire-demands?traffic_source=rss"
-    },
-    {
-      "level": "CRITICAL",
-      "keyword": "escalation",
-      "title": "‘Dangerous escalation’: World reacts to Israel passing death penalty law",
-      "source": "Al Jazeera — Middle East",
-      "date": "2026-03-30T21:29:12.000Z",
-      "link": "https://www.aljazeera.com/news/2026/3/30/dangerous-escalation-world-reacts-to-israel-passing-death-penalty-law?traffic_source=rss"
-    },
     {
       "level": "CRITICAL",
       "keyword": "nuclear",
