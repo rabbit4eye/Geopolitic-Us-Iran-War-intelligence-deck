@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-30T18:43:08.472Z",
+  "lastUpdated": "2026-03-31T01:12:04.448Z",
   "feedCount": 5,
   "totalItems": 40,
-  "alertCount": 9,
+  "alertCount": 10,
   "headlines": [
     {
       "title": "Conference Chief Seeks to Rebuild NPT Credibility:  An Interview with Ambassador Do Hung Viet of Vietnam, president of the 2026 NPT Review Conference",
@@ -14,30 +14,129 @@
       "snippet": ""
     },
     {
-      "title": "US airport lines shorten as TSA workers get paid",
-      "link": "https://www.aljazeera.com/economy/2026/3/30/us-airport-lines-shorten-as-tsa-workers-get-paid?traffic_source=rss",
-      "date": "2026-03-30T18:26:55.000Z",
+      "title": "At least 70 killed, 30 wounded in Haiti gang attack, rights group says",
+      "link": "https://www.aljazeera.com/news/2026/3/31/at-least-70-killed-30-wounded-in-haiti-gang-attack-rights-group-says?traffic_source=rss",
+      "date": "2026-03-31T00:02:55.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Airports like JFK and Houston report shorter wait times, though LaGuardia still faces delays of up to two hours."
+      "snippet": "Death toll by the Defenseurs Plus rights group significantly exceeds ⁠official estimates of 16."
     },
     {
-      "title": "Two more UN peacekeepers killed in southern Lebanon: UNIFIL",
-      "link": "https://www.aljazeera.com/news/2026/3/30/two-more-un-peacekeepers-killed-in-southern-lebanon-unifil?traffic_source=rss",
-      "date": "2026-03-30T18:11:15.000Z",
+      "title": "Al Jazeera’s full interview with Marco Rubio on US war on Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/al-jazeeras-full-interview-with-marco-rubio-on-us-war-on-iran?traffic_source=rss",
+      "date": "2026-03-31T00:02:35.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "At least three UN peacekeepers killed this week as violence surges amid Israel&#039;s expanding invasion of southern Lebanon."
+      "snippet": "In an exclusive interview, US Secretary of State Marco Rubio says Iran war objectives will be achieved &#039;within weeks&#039;."
     },
     {
-      "title": "What is the ‘Greater Israel’ project?",
-      "link": "https://www.aljazeera.com/video/the-take-2/2026/3/30/aje-onl-tt_isr_greaterisrael_av_v2-300326?traffic_source=rss",
-      "date": "2026-03-30T17:55:31.000Z",
+      "title": "Iran war live: Kuwaiti oil tanker hit in Dubai port; 3 UN troops killed",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/3/31/iran-war-live-kuwaiti-oil-tanker-hit-in-dubai-port-3-un-troops-killed?traffic_source=rss",
+      "date": "2026-03-31T00:00:00.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
+      "snippet": "Saudi, Qatari, Jordanian leaders meet as Iran continues to retaliate for US-Israeli raids with attacks on Gulf nations."
+    },
+    {
+      "title": "US raises concern over Israel’s closure of Jerusalem holy sites",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/us-raises-concern-over-israels-closure-of-jerusalem-holy-sites?traffic_source=rss",
+      "date": "2026-03-30T23:21:37.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "The White House says the US has raised concerns with Israel over closure of Jerusalem holy sites."
+    },
+    {
+      "title": "Iran’s foreign ministry rejects US ceasefire demands",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/irans-foreign-ministry-rejects-us-ceasefire-demands?traffic_source=rss",
+      "date": "2026-03-30T23:12:51.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Iranian Foreign Ministry spokesman says US conditions for a ceasefire are ‘excessive, unrealistic and unreasonable’."
+    },
+    {
+      "title": "Key moments from Marco Rubio’s interview with Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/key-moments-from-marco-rubios-interview-with-al-jazeera?traffic_source=rss",
+      "date": "2026-03-30T22:33:49.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "US Secretary of State Marco Rubio spoke exclusively to Al Jazeera’s Hashem Ahelbarra about the war on Iran."
+    },
+    {
+      "title": "Is a peaceful settlement possible in Iran?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/3/30/is-a-peaceful-settlement-possible-in-iran-2?traffic_source=rss",
+      "date": "2026-03-30T22:16:11.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Pakistan says it is ready to host talks on ending the US-Israel war on Iran."
+    },
+    {
+      "title": "US says Trump ‘interested’ in asking Arab countries to pay for war on Iran",
+      "link": "https://www.aljazeera.com/news/2026/3/30/us-says-trump-interested-in-asking-arab-countries-to-pay-for-war-on-iran?traffic_source=rss",
+      "date": "2026-03-30T22:14:30.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "White House&#039;s Karoline Leavitt says passing the conflict&#039;s costs off to regional states is &#039;an idea&#039; Donald Trump has."
+    },
+    {
+      "title": "‘Dangerous escalation’: World reacts to Israel passing death penalty law",
+      "link": "https://www.aljazeera.com/news/2026/3/30/dangerous-escalation-world-reacts-to-israel-passing-death-penalty-law?traffic_source=rss",
+      "date": "2026-03-30T21:29:12.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Rights groups denounce Israeli legislation as a violation of international law that puts Palestinian prisoners at risk."
+    },
+    {
+      "title": "UN condemns killing of Indonesian peacekeepers in Lebanon",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/un-condemns-killing-of-indonesian-peacekeepers-in-lebanon?traffic_source=rss",
+      "date": "2026-03-30T21:20:00.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "The UN condemned the deaths of three Indonesian peacekeepers in Lebanon, who were killed in two separate incidents."
+    },
+    {
+      "title": "Israel approves $45B defense budget as Iran war rages",
+      "link": "https://breakingdefense.com/2026/03/israel-approves-45b-defense-budget-as-iran-war-rages/",
+      "date": "2026-03-30T19:57:09.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "Navy unveils final RFP for new trainer aircraft to replace T-45 Goshawk",
+      "link": "https://breakingdefense.com/2026/03/navy-unveils-final-rfp-for-new-trainer-aircraft-to-replace-t-45-goshawk/",
+      "date": "2026-03-30T19:40:07.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "First set of defensive cyber kits to be delivered to CYBERCOM units",
+      "link": "https://breakingdefense.com/2026/03/first-set-of-defensive-cyber-kits-to-be-delivered-to-cybercom-units/",
+      "date": "2026-03-30T19:16:00.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "European Commission adopts $1.7B work program to ramp up weapons production",
+      "link": "https://breakingdefense.com/2026/03/european-commission-adopts-1-7b-work-program-to-ramp-up-weapons-production/",
+      "date": "2026-03-30T18:56:49.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
       "snippet": ""
     },
     {
@@ -48,69 +147,6 @@
       "sourceId": "breaking_defense",
       "category": "defense",
       "snippet": ""
-    },
-    {
-      "title": "ICE announces death of another Mexican detainee in US immigration custody",
-      "link": "https://www.aljazeera.com/news/2026/3/30/ice-announces-death-of-another-mexican-detainee-in-us-immigration-custody?traffic_source=rss",
-      "date": "2026-03-30T17:20:51.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Mexico&#039;s President Claudia Sheinbaum says her country will take steps to protest death of another Mexican citizen in US."
-    },
-    {
-      "title": "G7 ready to take ‘necessary measures’ to ensure energy market stability",
-      "link": "https://www.aljazeera.com/news/2026/3/30/g7-ready-to-take-necessary-measures-to-ensure-energy-market-stability?traffic_source=rss",
-      "date": "2026-03-30T16:56:13.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Jitters in G7 nations as higher energy prices threaten to drive up inflation, damage purchasing power and stunt growth."
-    },
-    {
-      "title": "‘Strait of Hormuz will reopen one way or another’, Rubio tells Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/strait-of-hormuz-will-reopen-one-way-or-another-rubio-tells-al-jazeera?traffic_source=rss",
-      "date": "2026-03-30T16:51:19.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Secretary of State Marco Rubio has told Al Jazeera that the US will not accept Iran’s claim over the Strait of Hormuz."
-    },
-    {
-      "title": "Fire contained after missile attack on oil refinery in Israel’s Haifa",
-      "link": "https://www.aljazeera.com/news/2026/3/30/fire-contained-after-missile-attack-on-oil-refinery-in-israels-haifa?traffic_source=rss",
-      "date": "2026-03-30T16:25:31.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Attack marks second time Oil Refineries facility in northern Israel targeted during US-Israeli war on Iran."
-    },
-    {
-      "title": "UK pro-Palestine activist arrested weeks after being released on bail",
-      "link": "https://www.aljazeera.com/news/2026/3/30/uk-pro-palestine-activist-arrested-weeks-after-being-released-on-bail?traffic_source=rss",
-      "date": "2026-03-30T16:18:31.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Campaigners believe 21-year-old Qesser Zuhrah was arrested over an Instagram post."
-    },
-    {
-      "title": "Palestine’s Land Day: 50 Years of Resistance",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/palestines-land-day-50-years-of-resistance?traffic_source=rss",
-      "date": "2026-03-30T16:14:53.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "On the 50th Land Day, Al Jazeera’s Hala Al Shami looks into what happened in Palestine on March 30, 1976."
-    },
-    {
-      "title": "We dug up medics in Gaza. A year later, international law remains buried",
-      "link": "https://www.aljazeera.com/opinions/2026/3/30/we-dug-up-medics-in-gaza-a-year-later-international-law-remains-buried?traffic_source=rss",
-      "date": "2026-03-30T16:13:00.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Israel has created an environment of impunity for attacks on healthcare that has spread well beyond Gaza&#039;s borders."
     },
     {
       "title": "Successes and Setbacks",
@@ -221,42 +257,6 @@
       "snippet": ""
     },
     {
-      "title": "White House to deliver FY27 budget request on April 3: OMB",
-      "link": "https://breakingdefense.com/2026/03/white-house-to-deliver-fy27-budget-request-on-april-3-omb/",
-      "date": "2026-03-27T17:14:07.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "Will the Pentagon have to cut exercises to pay for the Iran war?",
-      "link": "https://breakingdefense.com/2026/03/will-the-pentagon-have-to-cut-exercises-to-pay-for-the-iran-war/",
-      "date": "2026-03-27T16:05:01.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "State Department clears $340M FMS request for hypersonic missile testing support for Japan",
-      "link": "https://breakingdefense.com/2026/03/state-department-clears-340m-fms-request-for-hypersonic-missile-testing-support-for-japan/",
-      "date": "2026-03-27T14:18:04.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "NATO sees $145B in munitions needs, as members all hit 2 percent GDP for first time",
-      "link": "https://breakingdefense.com/2026/03/nato-sees-145b-in-munitions-needs-as-members-all-hit-2-percent-gdp-for-first-time/",
-      "date": "2026-03-27T13:36:10.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
       "title": "The Pentagon Wants Dual-Use Innovation. Patent Law Might Punish It.",
       "link": "https://warontherocks.com/2026/03/the-pentagon-wants-dual-use-innovation-patent-law-might-punish-it/",
       "date": "2026-03-27T08:00:22.000Z",
@@ -278,11 +278,19 @@
   "alerts": [
     {
       "level": "CRITICAL",
-      "keyword": "strait of hormuz",
-      "title": "‘Strait of Hormuz will reopen one way or another’, Rubio tells Al Jazeera",
+      "keyword": "ceasefire",
+      "title": "Iran’s foreign ministry rejects US ceasefire demands",
       "source": "Al Jazeera — Middle East",
-      "date": "2026-03-30T16:51:19.000Z",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/strait-of-hormuz-will-reopen-one-way-or-another-rubio-tells-al-jazeera?traffic_source=rss"
+      "date": "2026-03-30T23:12:51.000Z",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/irans-foreign-ministry-rejects-us-ceasefire-demands?traffic_source=rss"
+    },
+    {
+      "level": "CRITICAL",
+      "keyword": "escalation",
+      "title": "‘Dangerous escalation’: World reacts to Israel passing death penalty law",
+      "source": "Al Jazeera — Middle East",
+      "date": "2026-03-30T21:29:12.000Z",
+      "link": "https://www.aljazeera.com/news/2026/3/30/dangerous-escalation-world-reacts-to-israel-passing-death-penalty-law?traffic_source=rss"
     },
     {
       "level": "CRITICAL",
