@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-31T18:43:04.994Z",
+  "lastUpdated": "2026-04-01T01:18:42.703Z",
   "feedCount": 5,
   "totalItems": 40,
-  "alertCount": 9,
+  "alertCount": 5,
   "headlines": [
     {
       "title": "Conference Chief Seeks to Rebuild NPT Credibility:  An Interview with Ambassador Do Hung Viet of Vietnam, president of the 2026 NPT Review Conference",
@@ -14,40 +14,103 @@
       "snippet": ""
     },
     {
-      "title": "Palestinians in occupied West Bank protest Israel’s death penalty law",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/palestinians-in-occupied-west-bank-protest-israels-death-penalty-law?traffic_source=rss",
-      "date": "2026-03-31T18:18:12.000Z",
+      "title": "Judge temporarily halts Trump’s $400m White House ballroom project",
+      "link": "https://www.aljazeera.com/news/2026/4/1/judge-temporarily-halts-trumps-400m-white-house-ballroom-project?traffic_source=rss",
+      "date": "2026-04-01T00:50:22.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Families of Palestinian prisoners protested against a bill allowing the death penalty for Palestinians in the West Bank"
+      "snippet": "District Judge Richard Leon says construction has to stop until Congress provides statutory authorisation."
     },
     {
-      "title": "Israeli strike hits building in Beirut’s southern suburbs",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/israeli-strike-hits-building-in-beiruts-southern-suburbs?traffic_source=rss",
-      "date": "2026-03-31T18:16:11.000Z",
+      "title": "Trump tells allies ‘get your own oil’, says Iran war could end in 2-3 weeks",
+      "link": "https://www.aljazeera.com/news/2026/4/1/trump-tells-allies-get-your-own-oil-says-iran-war-could-end-in-2-3-weeks?traffic_source=rss",
+      "date": "2026-04-01T00:14:19.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "A building in Beirut’s southern suburbs has been hit by an Israeli strike."
+      "snippet": "Under pressure as domestic petrol prices soar, US president says no deal needed to end war on Iran."
     },
     {
-      "title": "US-Israel launch major attacks as Iranian authorities maintain defiance",
-      "link": "https://www.aljazeera.com/news/2026/3/31/us-israel-launch-major-attacks-as-iranian-authorities-maintain-defiance?traffic_source=rss",
-      "date": "2026-03-31T18:07:51.000Z",
+      "title": "Iran war live: Trump says deal ‘irrelevant’; steel plants in Isfahan hit",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/4/1/iran-live-trump-says-no-deal-needed-to-end-war-isfahan-steel-plants-hit?traffic_source=rss",
+      "date": "2026-04-01T00:00:00.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Bunker-buster bombs trigger massive secondary explosions at a mountainous area near Isfahan overnight."
+      "snippet": "US-Israeli strikes continue across Iran, hitting pharmaceutical companies and steel plants in Isfahan and Farokhshar."
     },
     {
-      "title": "One month of war on Iran cost Arab countries up to $194bn: UNDP",
-      "link": "https://www.aljazeera.com/news/2026/3/31/one-month-of-war-in-middle-east-cost-arab-states-up-to-194bn-undp?traffic_source=rss",
-      "date": "2026-03-31T17:48:57.000Z",
+      "title": "DR Congo beat Jamaica to reach World Cup via intercontinental finals",
+      "link": "https://www.aljazeera.com/sports/2026/3/31/dr-congo-beat-jamaica-in-world-cup-intercontinental-qualifying-finals?traffic_source=rss",
+      "date": "2026-03-31T23:52:44.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Even if conflict is &#039;short but intense&#039;, countries like Sudan, Yemen, Lebanon will see major increases in poverty rates."
+      "snippet": "Former Manchester United defender Axel Tuanzebe scores in extra time as DR Congo beat Jamaica 1-0 in qualifying playoff."
+    },
+    {
+      "title": "Trump says US will be leaving Iran in two to three weeks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/trump-says-us-will-be-leaving-iran-in-two-to-three-weeks?traffic_source=rss",
+      "date": "2026-03-31T23:47:57.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Speaking to reporters in the Oval Office, US President Donald Trump says US could leave Iran “in two or three weeks.&quot;"
+    },
+    {
+      "title": "Pope Leo urges Trump to end war on Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/pope-leo-urges-trump-to-end-war-on-iran?traffic_source=rss",
+      "date": "2026-03-31T23:12:43.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Pope Leo XIV has urged US President Donald Trump to find an “off-ramp” from the US and Israel’s war on Iran."
+    },
+    {
+      "title": "After Strait of Hormuz opens, turmoil would still last months, analysts say",
+      "link": "https://www.aljazeera.com/news/2026/3/31/after-strait-of-hormuz-opens-turmoil-would-still-last-months-analysts-say?traffic_source=rss",
+      "date": "2026-03-31T23:03:49.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Effective shutdown of key waterway could lead to permanent changes in how shipping industry does business."
+    },
+    {
+      "title": "US exempts Gulf of Mexico oil drillers from endangered species protections",
+      "link": "https://www.aljazeera.com/news/2026/3/31/us-exempts-gulf-of-mexico-oil-drillers-from-endangered-species-protections?traffic_source=rss",
+      "date": "2026-03-31T23:02:56.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "The Trump administration says protections would diminish US energy competitiveness amid the ongoing war on Iran."
+    },
+    {
+      "title": "EU warns oil and gas prices won’t quickly return to normal after Iran war",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/eu-warns-oil-and-gas-prices-wont-quickly-return-to-normal-after-iran-war?traffic_source=rss",
+      "date": "2026-03-31T22:56:54.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "The EU’s energy commissioner has warned oil and gas prices will not return to normal any time soon."
+    },
+    {
+      "title": "Tiger Woods pleads not guilty to DUI in car crash where opioids found",
+      "link": "https://www.aljazeera.com/sports/2026/3/31/tiger-woods-pleads-not-guilty-to-dui-in-car-crash-where-opioids-found?traffic_source=rss",
+      "date": "2026-03-31T21:54:47.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Plea comes hours after sheriff&#039;s report said the golfer showed signs of impairment at the scene of last week&#039;s crash."
+    },
+    {
+      "title": "&#8216;Of course&#8217; Navy leader &#8216;concerned&#8217; that Iran conflict diminishes US ability to deter China",
+      "link": "https://breakingdefense.com/2026/03/of-course-navy-leader-concerned-that-iran-conflict-diminishes-us-ability-to-deter-china/",
+      "date": "2026-03-31T21:12:06.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
     },
     {
       "title": "Washington questions NATO alliance, as Spain fences off airspace",
@@ -59,15 +122,6 @@
       "snippet": ""
     },
     {
-      "title": "Major explosion at Russian petrochemical plant",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/major-explosion-at-russian-petrochemical-plant?traffic_source=rss",
-      "date": "2026-03-31T17:31:27.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "A massive explosion occurred at a major petrochemical plant in Russia, killing at least two people and injuring dozens."
-    },
-    {
       "title": "Holding Water Hostage",
       "link": "https://warontherocks.com/2026/03/holding-water-hostage/",
       "date": "2026-03-31T17:30:25.000Z",
@@ -75,24 +129,6 @@
       "sourceId": "war_on_rocks",
       "category": "strategic",
       "snippet": ""
-    },
-    {
-      "title": "Foreign journalist kidnapped in Iraq: Interior Ministry",
-      "link": "https://www.aljazeera.com/news/2026/3/31/foreign-journalist-kidnapped-in-iraq-interior-ministry?traffic_source=rss",
-      "date": "2026-03-31T17:27:53.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Iraq&#039;s Ministry of Interior says one suspect arrested after &#039;unknown individuals&#039; kidnap journalist."
-    },
-    {
-      "title": "Why Iran believes it can outlast the US",
-      "link": "https://www.aljazeera.com/video/the-take-2/2026/3/31/aje-onl-tt_irn_whatcouldendthewar_av_v2-310326?traffic_source=rss",
-      "date": "2026-03-31T17:04:51.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Iran is preparing for deeper US escalation while insisting it’s winning. Can this war end before it widens?"
     },
     {
       "title": "Army aiming for ITEP to reach full qualification by 2028, senior leaders say",
@@ -104,31 +140,13 @@
       "snippet": ""
     },
     {
-      "title": "Qatar says ‘ready to help’ with US-Iran negotiations",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/qatar-says-ready-to-help-with-us-iran-negotiations?traffic_source=rss",
-      "date": "2026-03-31T17:00:24.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Qatari Foreign Ministry spokesperson Majed al-Ansari says Qatar is “ready to help” with US-Iran negotiations."
-    },
-    {
-      "title": "UK accused of ‘intimidation tactics’ against bailed pro-Palestine activists",
-      "link": "https://www.aljazeera.com/news/2026/3/31/uk-accused-intimidation-tactics-bailed-pro-palestine-activitsts?traffic_source=rss",
-      "date": "2026-03-31T16:27:34.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "In the space of a week, two young women linked to Palestine Action have been arrested in the UK."
-    },
-    {
-      "title": "UN aid chief warns of new Israeli occupation in southern Lebanon",
-      "link": "https://www.aljazeera.com/news/2026/3/31/un-humanitarian-chief-warns-of-new-israeli-occupation-in-southern-lebanon?traffic_source=rss",
-      "date": "2026-03-31T16:24:19.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "As Israel expands Lebanon invasion, Tom Fletcher asks how world will prepare for &#039;new addition&#039; to occupied territory."
+      "title": "Press Registration | 2026 Annual Meeting",
+      "link": "https://www.armscontrol.org/2026AnnualMeeting/press",
+      "date": "2026-03-31T16:19:13.000Z",
+      "source": "Arms Control Association",
+      "sourceId": "arms_control",
+      "category": "policy",
+      "snippet": ""
     },
     {
       "title": "What NATO wants most, and how Breaking Defense is expanding in Europe",
@@ -221,12 +239,12 @@
       "snippet": ""
     },
     {
-      "title": "First set of defensive cyber kits to be delivered to CYBERCOM units",
-      "link": "https://breakingdefense.com/2026/03/first-set-of-defensive-cyber-kits-to-be-delivered-to-cybercom-units/",
-      "date": "2026-03-30T19:16:00.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
+      "title": "Sponsorship | 2026 Arms Control Association Annual Meeting",
+      "link": "https://www.armscontrol.org/2026AnnualMeeting/Sponsors",
+      "date": "2026-03-30T16:30:18.000Z",
+      "source": "Arms Control Association",
+      "sourceId": "arms_control",
+      "category": "policy",
       "snippet": ""
     },
     {
@@ -239,6 +257,15 @@
       "snippet": ""
     },
     {
+      "title": "2026 Arms Control Association Annual Meeting",
+      "link": "https://www.armscontrol.org/2026AnnualMeeting",
+      "date": "2026-03-30T16:04:38.000Z",
+      "source": "Arms Control Association",
+      "sourceId": "arms_control",
+      "category": "policy",
+      "snippet": ""
+    },
+    {
       "title": "The Iran war will provoke a new nuclear age",
       "link": "https://www.armscontrol.org/media-citations/new-statesman/2026-03-30",
       "date": "2026-03-30T15:49:34.000Z",
@@ -246,51 +273,16 @@
       "sourceId": "arms_control",
       "category": "policy",
       "snippet": ""
-    },
-    {
-      "title": "The War in Iran and Implications for the Nuclear Non-Proliferation Regime",
-      "link": "https://www.armscontrol.org/media-citations/war-rocks/2026-03-30",
-      "date": "2026-03-30T15:47:59.000Z",
-      "source": "Arms Control Association",
-      "sourceId": "arms_control",
-      "category": "policy",
-      "snippet": ""
-    },
-    {
-      "title": "Every Soldier a Software Builder: Governing the Army’s New Digital Workforce",
-      "link": "https://warontherocks.com/2026/03/every-soldier-a-software-builder-governing-the-armys-new-digital-workforce/",
-      "date": "2026-03-30T08:00:57.000Z",
-      "source": "War on the Rocks",
-      "sourceId": "war_on_rocks",
-      "category": "strategic",
-      "snippet": ""
-    },
-    {
-      "title": "Putin Is Not Trapped: Why Regime Survival Does Not Depend on Victory",
-      "link": "https://warontherocks.com/2026/03/putin-is-not-trapped-why-regime-survival-does-not-depend-on-victory/",
-      "date": "2026-03-30T07:30:58.000Z",
-      "source": "War on the Rocks",
-      "sourceId": "war_on_rocks",
-      "category": "strategic",
-      "snippet": ""
     }
   ],
   "alerts": [
     {
       "level": "CRITICAL",
-      "keyword": "escalation",
-      "title": "Why Iran believes it can outlast the US",
+      "keyword": "strait of hormuz",
+      "title": "After Strait of Hormuz opens, turmoil would still last months, analysts say",
       "source": "Al Jazeera — Middle East",
-      "date": "2026-03-31T17:04:51.000Z",
-      "link": "https://www.aljazeera.com/video/the-take-2/2026/3/31/aje-onl-tt_irn_whatcouldendthewar_av_v2-310326?traffic_source=rss"
-    },
-    {
-      "level": "ELEVATED",
-      "keyword": "negotiation",
-      "title": "Qatar says ‘ready to help’ with US-Iran negotiations",
-      "source": "Al Jazeera — Middle East",
-      "date": "2026-03-31T17:00:24.000Z",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/qatar-says-ready-to-help-with-us-iran-negotiations?traffic_source=rss"
+      "date": "2026-03-31T23:03:49.000Z",
+      "link": "https://www.aljazeera.com/news/2026/3/31/after-strait-of-hormuz-opens-turmoil-would-still-last-months-analysts-say?traffic_source=rss"
     },
     {
       "level": "CRITICAL",
@@ -323,30 +315,6 @@
       "source": "Arms Control Association",
       "date": "2026-03-23T16:08:55.000Z",
       "link": "https://www.armscontrol.org/media-citations/middle-east-eye/2026-03-23"
-    },
-    {
-      "level": "CRITICAL",
-      "keyword": "nuclear",
-      "title": "North Korea’s Nuclear Gamble Pays Off in Trump’s New World Order",
-      "source": "Arms Control Association",
-      "date": "2026-03-23T15:57:07.000Z",
-      "link": "https://www.armscontrol.org/media-citations/newsweek/2026-03-23"
-    },
-    {
-      "level": "CRITICAL",
-      "keyword": "nuclear",
-      "title": "Is US helping Saudi Arabia get closer to having nuclear bomb? Congressional papers raise alarm",
-      "source": "Arms Control Association",
-      "date": "2026-03-23T15:54:52.000Z",
-      "link": "https://www.armscontrol.org/media-citations/firstpost/2026-03-23"
-    },
-    {
-      "level": "CRITICAL",
-      "keyword": "nuclear",
-      "title": "U.S. releases new details on alleged secret Chinese nuclear test",
-      "source": "Arms Control Association",
-      "date": "2026-03-23T15:51:30.000Z",
-      "link": "https://www.armscontrol.org/media-citations/npr/2026-03-23"
     }
   ],
   "sources": [
