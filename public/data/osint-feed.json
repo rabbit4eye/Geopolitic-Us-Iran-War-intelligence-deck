@@ -1,26 +1,197 @@
 {
-  "lastUpdated": "2026-04-01T18:42:45.057Z",
+  "lastUpdated": "2026-04-02T01:08:56.607Z",
   "feedCount": 5,
   "totalItems": 40,
-  "alertCount": 5,
+  "alertCount": 4,
   "headlines": [
     {
-      "title": "The NPT System Hangs in the Balance",
-      "link": "https://www.armscontrol.org/act/2026-04/focus/npt-system-hangs-balance",
-      "date": "2026-04-01T18:36:26.000Z",
+      "title": "Iran war live: Trump to address nation; Tehran denies seeking ceasefire",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/4/2/iran-war-live-trump-to-address-nation-tehran-denies-seeking-ceasefire?traffic_source=rss",
+      "date": "2026-04-02T00:00:30.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Iran denies seeking a truce and keeps up counterattacks, as US-Israeli raids cause deaths and damage across the country."
+    },
+    {
+      "title": "Magnitude 7.4 quake hits off Indonesia’s Ternate, tsunami warning triggered",
+      "link": "https://www.aljazeera.com/news/2026/4/1/magnitude-7-4-quake-hits-off-indonesias-ternate-tsunami-warning-triggered?traffic_source=rss",
+      "date": "2026-04-01T23:54:08.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "The ​epicentre of the ⁠earthquake was about ⁠120km (75 miles) from Ternate, in Indonesia&#039;s North Maluku ‌province."
+    },
+    {
+      "title": "FBI agents from US arrive in Cuba to probe lethal speedboat shooting",
+      "link": "https://www.aljazeera.com/news/2026/4/1/fbi-agents-from-us-arrive-in-cuba-to-probe-lethal-speedboat-shooting?traffic_source=rss",
+      "date": "2026-04-01T23:31:14.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Trump administration has denied involvement after Cuban government says a boat of armed men tried to infiltrate island."
+    },
+    {
+      "title": "First troops from UN-backed Gang Suppression Force arrive in Haiti",
+      "link": "https://www.aljazeera.com/news/2026/4/1/first-troops-from-un-backed-gang-suppression-force-arrive-in-haiti?traffic_source=rss",
+      "date": "2026-04-01T23:19:08.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "The force has an initial mandate of 12 months to address widespread gang violence in Haiti ahead of its elections."
+    },
+    {
+      "title": "Artemis II successfully launches four astronauts into space",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/artemis-ii-successfully-launches-four-astronauts-into-space?traffic_source=rss",
+      "date": "2026-04-01T23:09:58.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "NASA successfully launched four astronauts into space on Wednesday evening, for a 10-day flight to the moon."
+    },
+    {
+      "title": "NASA successfully launches historic Artemis II moon mission",
+      "link": "https://www.aljazeera.com/news/2026/4/1/nasas-artemis-ii-lifts-off-to-the-moon?traffic_source=rss",
+      "date": "2026-04-01T22:39:26.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "The mission is a major step in NASA’s plan to return humans to the moon and eventually send astronauts to Mars."
+    },
+    {
+      "title": "US removes sanctions on Venezuela’s interim President Delcy Rodriguez",
+      "link": "https://www.aljazeera.com/news/2026/4/1/us-removes-sanctions-on-venezuelas-interim-president-delcy-rodriguez?traffic_source=rss",
+      "date": "2026-04-01T22:12:46.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "US has exerted growing influence over the Venezuelan government after abducting former President Nicolas Maduro."
+    },
+    {
+      "title": "April 2026 Digital Magazine",
+      "link": "https://www.armscontrol.org/node/15261",
+      "date": "2026-04-01T21:32:40.000Z",
       "source": "Arms Control Association",
       "sourceId": "arms_control",
       "category": "policy",
       "snippet": ""
     },
     {
-      "title": "Why Iran says its universities are being targeted",
-      "link": "https://www.aljazeera.com/video/the-take-2/2026/4/1/aje-onl-tt_irn_scholasticide_av_v3-010426?traffic_source=rss",
-      "date": "2026-04-01T18:34:28.000Z",
+      "title": "April 2026 Syria News",
+      "link": "https://www.armscontrol.org/node/15260",
+      "date": "2026-04-01T21:26:39.000Z",
+      "source": "Arms Control Association",
+      "sourceId": "arms_control",
+      "category": "policy",
+      "snippet": ""
+    },
+    {
+      "title": "NASA moon mission a ‘contrast’ to US war on Iran, says US senator",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/nasa-moon-mission-a-contrast-to-us-war-on-iran-says-us-senator?traffic_source=rss",
+      "date": "2026-04-01T21:20:21.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Iran reportedly follows through on threat on American universities, after attacks on two Iranian research universities."
+      "snippet": "Astronauts have boarded NASA’s Orion capsule as they prepare for the first crewed lunar mission in more than 50 years."
+    },
+    {
+      "title": "April 2026 - NPT Conference News",
+      "link": "https://www.armscontrol.org/node/15259",
+      "date": "2026-04-01T21:17:58.000Z",
+      "source": "Arms Control Association",
+      "sourceId": "arms_control",
+      "category": "policy",
+      "snippet": ""
+    },
+    {
+      "title": "April 2026 NK news",
+      "link": "https://www.armscontrol.org/node/15258",
+      "date": "2026-04-01T21:15:20.000Z",
+      "source": "Arms Control Association",
+      "sourceId": "arms_control",
+      "category": "policy",
+      "snippet": ""
+    },
+    {
+      "title": "April 2026 Iran News",
+      "link": "https://www.armscontrol.org/node/15257",
+      "date": "2026-04-01T21:13:36.000Z",
+      "source": "Arms Control Association",
+      "sourceId": "arms_control",
+      "category": "policy",
+      "snippet": ""
+    },
+    {
+      "title": "SpaceX files to go public, paving way to make Elon Musk first trillionaire",
+      "link": "https://www.aljazeera.com/news/2026/4/1/spacex-files-to-go-public-paving-way-to-make-elon-musk-first-trillionaire?traffic_source=rss",
+      "date": "2026-04-01T21:12:27.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Company has captured public attention through vast network of satellites and focus on space exploration."
+    },
+    {
+      "title": "Smoke and embers seen over Iran’s Isfahan after strike",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/smoke-and-embers-seen-over-irans-isfahan-after-strike?traffic_source=rss",
+      "date": "2026-04-01T21:01:09.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Video captured a massive column of smoke and burning embers towering over Isfahan, Iran following a US-Israeli strike."
+    },
+    {
+      "title": "Industry bullish on DoC draft license process for novel space activities",
+      "link": "https://breakingdefense.com/2026/04/industry-bullish-on-doc-draft-license-process-for-novel-space-activities/",
+      "date": "2026-04-01T19:42:01.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "April 2026 Books of Note",
+      "link": "https://www.armscontrol.org/act/2026-04/arms-control-today/april-2026-books-note",
+      "date": "2026-04-01T19:07:26.000Z",
+      "source": "Arms Control Association",
+      "sourceId": "arms_control",
+      "category": "policy",
+      "snippet": ""
+    },
+    {
+      "title": "Conference Chief Seeks to Rebuild NPT Credibility:  An Interview with Ambassador Do Hung Viet of Vietnam, president of the 2026 NPT Review Conference",
+      "link": "https://www.armscontrol.org/act/2026-04/interviews/conference-chief-seeks-rebuild-npt-credibility-interview-ambassador-do-hung",
+      "date": "2026-04-01T19:05:00.000Z",
+      "source": "Arms Control Association",
+      "sourceId": "arms_control",
+      "category": "policy",
+      "snippet": ""
+    },
+    {
+      "title": "The U.S. Has Been Central to the  NPT Since the Beginning. What Will It Do in 2026",
+      "link": "https://www.armscontrol.org/act/2026-04/features/us-has-been-central-npt-beginning-what-will-it-do-2026",
+      "date": "2026-04-01T19:04:59.000Z",
+      "source": "Arms Control Association",
+      "sourceId": "arms_control",
+      "category": "policy",
+      "snippet": ""
+    },
+    {
+      "title": "Analysis: U.S. Negotiators Were Ill-Prepared for Serious Nuclear Talks With Iran",
+      "link": "https://www.armscontrol.org/act/2026-04/features/analysis-us-negotiators-were-ill-prepared-serious-nuclear-talks-iran",
+      "date": "2026-04-01T19:03:00.000Z",
+      "source": "Arms Control Association",
+      "sourceId": "arms_control",
+      "category": "policy",
+      "snippet": ""
+    },
+    {
+      "title": "Coercing Syria on Chemical Weapons: A Case Study of Deterrence and Coercive Diplomacy",
+      "link": "https://www.armscontrol.org/act/2026-04/book-reviews/coercing-syria-chemical-weapons-case-study-deterrence-and-coercive",
+      "date": "2026-04-01T19:02:00.000Z",
+      "source": "Arms Control Association",
+      "sourceId": "arms_control",
+      "category": "policy",
+      "snippet": ""
     },
     {
       "title": "Hormuz disruption will change trade — and defense — at other chokepoints",
@@ -30,15 +201,6 @@
       "sourceId": "breaking_defense",
       "category": "defense",
       "snippet": ""
-    },
-    {
-      "title": "Iraq coach says World Cup can help ‘change perception’ of country",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/iraq-coach-says-world-cup-can-help-change-perception-of-country?traffic_source=rss",
-      "date": "2026-04-01T18:03:55.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Over those past four decades, Iraq has faced a number of crises, including wars and separatist movements."
     },
     {
       "title": "Switzerland considers &#8216;complete termination&#8217; of US Patriot order, vows to extend payment freeze",
@@ -59,24 +221,6 @@
       "snippet": ""
     },
     {
-      "title": "Iran authorities await war ‘victory’ as supporters mark 1979 anniversary",
-      "link": "https://www.aljazeera.com/news/2026/4/1/iran-authorities-await-war-victory-as-supporters-mark-1979-anniversary?traffic_source=rss",
-      "date": "2026-04-01T17:28:24.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Officials, government supporters take to streets to mark Islamic Republic Day, even as US, Israel continue bombing."
-    },
-    {
-      "title": "‘This is an apartheid regime’: Critics decry Israel’s new death penalty law",
-      "link": "https://www.aljazeera.com/news/2026/4/1/this-is-an-apartheid-regime-critics-decry-israels-new-death-penalty-law?traffic_source=rss",
-      "date": "2026-04-01T17:12:41.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Celebrations in the Israeli parliament mark the passing of legislation intended to apply to Palestinians only."
-    },
-    {
       "title": "FY27 budget &#8216;to reflect&#8217; Space Force need for rapid capabilities growth: Saltzman",
       "link": "https://breakingdefense.com/2026/04/fy27-budget-to-reflect-space-force-need-for-rapid-capabilities-growth-saltzman/",
       "date": "2026-04-01T16:59:16.000Z",
@@ -86,75 +230,12 @@
       "snippet": ""
     },
     {
-      "title": "Iranian officials ‘laugh’ at Trump’s claim Iran wants a ceasefire",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/iranian-officials-laugh-at-trumps-claim-iran-wants-a-ceasefire?traffic_source=rss",
-      "date": "2026-04-01T16:29:51.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "A senior Iranian official has laughed in response to US President Donald Trump&#039;s claim that Iran asked for a ceasefire."
-    },
-    {
-      "title": "Kenya’s tea industry suffers crisis caused by the US-Israeli war on Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/kenyas-tea-industry-suffers-crisis-caused-by-the-us-israeli-war-on-iran?traffic_source=rss",
-      "date": "2026-04-01T16:25:47.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Kenyan tea farmers are facing a crisis after the US-Israeli war on Iran disrupted key export routes to the Middle East."
-    },
-    {
-      "title": "History’s biggest census: Why India’s new population count is controversial",
-      "link": "https://www.aljazeera.com/news/2026/4/1/historys-biggest-census-why-indias-new-population-count-is-controversial?traffic_source=rss",
-      "date": "2026-04-01T16:19:46.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "The population count, which was delayed by five years, will include caste enumeration for the first time in a century."
-    },
-    {
       "title": "Air Force strategy to protect aircraft was designed for China. Will it work for Iran?",
       "link": "https://breakingdefense.com/2026/04/air-force-strategy-to-protect-aircraft-was-designed-for-china-will-it-work-for-iran/",
       "date": "2026-04-01T16:05:00.000Z",
       "source": "Breaking Defense",
       "sourceId": "breaking_defense",
       "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "UK to host meeting of 35 countries on reopening Strait of Hormuz",
-      "link": "https://www.aljazeera.com/news/2026/4/1/uk-to-host-meeting-of-35-countries-on-reopening-strait-of-hormuz?traffic_source=rss",
-      "date": "2026-04-01T15:55:32.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Before talks with 35 countries, UK Prime Minister Keir Starmer says reopening strait &#039;will not be easy&#039;."
-    },
-    {
-      "title": "What can nations do to make up for the ongoing energy shortfall?",
-      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/4/1/what-can-nations-do-to-make-up-for-the-ongoing-energy-shortfall?traffic_source=rss",
-      "date": "2026-04-01T15:45:00.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "The Middle East conflict has cut off 20 percent of the world&#039;s fuel supply. Countries are scrambling for alternatives."
-    },
-    {
-      "title": "Russia says will continue helping Cuba after first oil shipment arrives",
-      "link": "https://www.aljazeera.com/news/2026/4/1/russia-to-continue-helping-cuba-after-first-oil-shipment-arrives-diplomat?traffic_source=rss",
-      "date": "2026-04-01T15:39:32.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Foreign ministry spokeswoman Maria Zakharova also called on the US to lift its energy blockade on the island nation."
-    },
-    {
-      "title": "Will Iran war start a nuclear arms race in Middle East?",
-      "link": "https://www.armscontrol.org/media-citations/deutsche-welle/2026-04-01",
-      "date": "2026-04-01T14:56:30.000Z",
-      "source": "Arms Control Association",
-      "sourceId": "arms_control",
-      "category": "policy",
       "snippet": ""
     },
     {
@@ -176,15 +257,6 @@
       "snippet": ""
     },
     {
-      "title": "Conference Chief Seeks to Rebuild NPT Credibility:  An Interview with Ambassador Do Hung Viet of Vietnam, president of the 2026 NPT Review Conference",
-      "link": "https://www.armscontrol.org/act/2026-04/interviews/conference-chief-seeks-rebuild-npt-credibility-interview-ambassador-do-hung",
-      "date": "2026-04-01T14:43:31.000Z",
-      "source": "Arms Control Association",
-      "sourceId": "arms_control",
-      "category": "policy",
-      "snippet": ""
-    },
-    {
       "title": "Pentagon, Boeing announce plan to triple Patriot PAC-3 seeker production",
       "link": "https://breakingdefense.com/2026/04/pentagon-boeing-announce-plan-to-triple-patriot-pac-3-seeker-production/",
       "date": "2026-04-01T13:58:02.000Z",
@@ -201,120 +273,40 @@
       "sourceId": "breaking_defense",
       "category": "defense",
       "snippet": ""
-    },
-    {
-      "title": "China’s AI Is Spreading Fast. Here’s How to Stop the Security Risks",
-      "link": "https://warontherocks.com/2026/04/chinas-ai-is-spreading-fast-heres-how-to-stop-the-security-risks/",
-      "date": "2026-04-01T08:00:43.000Z",
-      "source": "War on the Rocks",
-      "sourceId": "war_on_rocks",
-      "category": "strategic",
-      "snippet": ""
-    },
-    {
-      "title": "The Most Important Deterrent That NATO Needs Is Creativity",
-      "link": "https://warontherocks.com/2026/04/the-most-important-deterrent-that-nato-needs-is-creativity-2/",
-      "date": "2026-04-01T07:30:55.000Z",
-      "source": "War on the Rocks",
-      "sourceId": "war_on_rocks",
-      "category": "strategic",
-      "snippet": ""
-    },
-    {
-      "title": "The Arsenal as the Battlefield: The War on Iran and the Return of Counter-Industrial Targeting",
-      "link": "https://warontherocks.com/2026/04/the-arsenal-as-the-battlefield-the-war-on-iran-and-the-return-of-counter-industrial-targeting/",
-      "date": "2026-04-01T07:15:06.000Z",
-      "source": "War on the Rocks",
-      "sourceId": "war_on_rocks",
-      "category": "strategic",
-      "snippet": ""
-    },
-    {
-      "title": "&#8216;Of course&#8217; Navy leader &#8216;concerned&#8217; that Iran conflict diminishes US ability to deter China",
-      "link": "https://breakingdefense.com/2026/03/of-course-navy-leader-concerned-that-iran-conflict-diminishes-us-ability-to-deter-china/",
-      "date": "2026-03-31T21:12:06.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "April 2026 Focus",
-      "link": "https://www.armscontrol.org/node/15239",
-      "date": "2026-03-31T19:04:59.000Z",
-      "source": "Arms Control Association",
-      "sourceId": "arms_control",
-      "category": "policy",
-      "snippet": ""
-    },
-    {
-      "title": "Washington questions NATO alliance, as Spain fences off airspace",
-      "link": "https://breakingdefense.com/2026/03/washington-questions-nato-alliance-as-spain-fences-off-airspace/",
-      "date": "2026-03-31T17:35:00.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "Holding Water Hostage",
-      "link": "https://warontherocks.com/2026/03/holding-water-hostage/",
-      "date": "2026-03-31T17:30:25.000Z",
-      "source": "War on the Rocks",
-      "sourceId": "war_on_rocks",
-      "category": "strategic",
-      "snippet": ""
-    },
-    {
-      "title": "Army aiming for ITEP to reach full qualification by 2028, senior leaders say",
-      "link": "https://breakingdefense.com/2026/03/army-aiming-for-itep-to-reach-full-qualification-by-2028-senior-leaders-say/",
-      "date": "2026-03-31T17:04:20.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
     }
   ],
   "alerts": [
     {
       "level": "CRITICAL",
       "keyword": "ceasefire",
-      "title": "Iranian officials ‘laugh’ at Trump’s claim Iran wants a ceasefire",
+      "title": "Iran war live: Trump to address nation; Tehran denies seeking ceasefire",
       "source": "Al Jazeera — Middle East",
-      "date": "2026-04-01T16:29:51.000Z",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/iranian-officials-laugh-at-trumps-claim-iran-wants-a-ceasefire?traffic_source=rss"
+      "date": "2026-04-02T00:00:30.000Z",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/4/2/iran-war-live-trump-to-address-nation-tehran-denies-seeking-ceasefire?traffic_source=rss"
     },
     {
-      "level": "CRITICAL",
-      "keyword": "strait of hormuz",
-      "title": "UK to host meeting of 35 countries on reopening Strait of Hormuz",
+      "level": "HIGH",
+      "keyword": "sanctions",
+      "title": "US removes sanctions on Venezuela’s interim President Delcy Rodriguez",
       "source": "Al Jazeera — Middle East",
-      "date": "2026-04-01T15:55:32.000Z",
-      "link": "https://www.aljazeera.com/news/2026/4/1/uk-to-host-meeting-of-35-countries-on-reopening-strait-of-hormuz?traffic_source=rss"
+      "date": "2026-04-01T22:12:46.000Z",
+      "link": "https://www.aljazeera.com/news/2026/4/1/us-removes-sanctions-on-venezuelas-interim-president-delcy-rodriguez?traffic_source=rss"
     },
     {
       "level": "CRITICAL",
       "keyword": "nuclear",
-      "title": "Will Iran war start a nuclear arms race in Middle East?",
+      "title": "Analysis: U.S. Negotiators Were Ill-Prepared for Serious Nuclear Talks With Iran",
       "source": "Arms Control Association",
-      "date": "2026-04-01T14:56:30.000Z",
-      "link": "https://www.armscontrol.org/media-citations/deutsche-welle/2026-04-01"
+      "date": "2026-04-01T19:03:00.000Z",
+      "link": "https://www.armscontrol.org/act/2026-04/features/analysis-us-negotiators-were-ill-prepared-serious-nuclear-talks-iran"
     },
     {
-      "level": "CRITICAL",
-      "keyword": "nuclear",
-      "title": "The Iran war will provoke a new nuclear age",
+      "level": "ELEVATED",
+      "keyword": "diplomacy",
+      "title": "Coercing Syria on Chemical Weapons: A Case Study of Deterrence and Coercive Diplomacy",
       "source": "Arms Control Association",
-      "date": "2026-03-30T15:49:34.000Z",
-      "link": "https://www.armscontrol.org/media-citations/new-statesman/2026-03-30"
-    },
-    {
-      "level": "CRITICAL",
-      "keyword": "nuclear",
-      "title": "The War in Iran and Implications for the Nuclear Non-Proliferation Regime",
-      "source": "Arms Control Association",
-      "date": "2026-03-30T15:47:59.000Z",
-      "link": "https://www.armscontrol.org/media-citations/war-rocks/2026-03-30"
+      "date": "2026-04-01T19:02:00.000Z",
+      "link": "https://www.armscontrol.org/act/2026-04/book-reviews/coercing-syria-chemical-weapons-case-study-deterrence-and-coercive"
     }
   ],
   "sources": [
