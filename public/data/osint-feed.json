@@ -1,26 +1,152 @@
 {
-  "lastUpdated": "2026-04-02T12:42:55.429Z",
+  "lastUpdated": "2026-04-02T18:39:27.892Z",
   "feedCount": 5,
   "totalItems": 40,
-  "alertCount": 5,
+  "alertCount": 4,
   "headlines": [
     {
-      "title": "Smoke rises over Mashhad, Iran, following strike near airport",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/smoke-rises-over-mashhad-iran-following-strike-near-airport?traffic_source=rss",
-      "date": "2026-04-02T12:13:10.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Footage shows columns of smoke rising over the Iranian city of Mashhad, after US-Israeli strikes near the airport."
+      "title": "Iran conflict could open door for new players in Gulf defense market",
+      "link": "https://breakingdefense.com/2026/04/iran-conflict-could-open-door-for-new-players-in-gulf-defense-market/",
+      "date": "2026-04-02T18:16:22.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
     },
     {
-      "title": "Women’s Asian Cup finalists accuse governing body over equal money",
-      "link": "https://www.aljazeera.com/sports/2026/4/2/womens-asian-cup-finalists-accuse-governing-body-over-equal-money?traffic_source=rss",
-      "date": "2026-04-02T12:07:55.000Z",
+      "title": "UN experts urge investigation into Israel’s killing of Lebanese journalists",
+      "link": "https://www.aljazeera.com/news/2026/4/2/un-experts-urge-investigation-into-israels-killing-of-lebanese-journalists?traffic_source=rss",
+      "date": "2026-04-02T17:47:36.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Japan and Australia renew calls for pay parity with men&#039;s football, as former also sack coach Nils Nielsen."
+      "snippet": "UN experts say Israel &#039;emboldened by impunity&#039; for previous journalist killings in Lebanon, Gaza and the West Bank."
+    },
+    {
+      "title": "Pastor’s White House prayer claims Iranians seek death of all Jews",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/pastors-white-house-prayer-claims-iranians-seek-death-of-all-jews?traffic_source=rss",
+      "date": "2026-04-02T17:42:04.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Evangelical pastor Franklin Graham claimed Iranians seek to kill Jews worldwide and said Trump was chosen by God."
+    },
+    {
+      "title": "Space Force plans to establish HQ staff group as surrogate Futures Command",
+      "link": "https://breakingdefense.com/2026/04/space-force-plans-to-establish-hq-staff-group-as-surrogate-futures-command/",
+      "date": "2026-04-02T17:41:16.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "The Global Ripple Effect of the War in Iran",
+      "link": "https://warontherocks.com/2026/04/the-global-ripple-effect-of-the-war-in-iran/",
+      "date": "2026-04-02T17:30:56.000Z",
+      "source": "War on the Rocks",
+      "sourceId": "war_on_rocks",
+      "category": "strategic",
+      "snippet": ""
+    },
+    {
+      "title": "Mohamed Salah: Football, Faith &amp; Changing Perceptions",
+      "link": "https://www.aljazeera.com/video/game-theory/2026/4/2/aje-onl-salaheffect_v6-020426?traffic_source=rss",
+      "date": "2026-04-02T17:27:54.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Mohamed Salah hasn’t just become one of Liverpool&#039;s greatest players, he’s challenged stereotypes about Muslims."
+    },
+    {
+      "title": "US Homeland Security shutdown to stretch on, despite Senate passing funding",
+      "link": "https://www.aljazeera.com/news/2026/4/2/us-homeland-security-shutdown-to-stretch-on-despite-senate-passing-funding?traffic_source=rss",
+      "date": "2026-04-02T17:27:24.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "The House has failed to hold a vote on the Senate bill, while Trump says he will sign order to pay &#039;all&#039; DHS employees."
+    },
+    {
+      "title": "Trump fires Pam Bondi as US attorney general, elevates Todd Blanche",
+      "link": "https://www.aljazeera.com/news/2026/4/2/trump-says-pam-bondi-out-as-attorney-general?traffic_source=rss",
+      "date": "2026-04-02T17:20:00.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Bondi had come under fire for what critics called politically motivated prosecutions and her handling of Epstein files."
+    },
+    {
+      "title": "Argentina expels Iranian diplomat amid rift over blacklisting IRGC",
+      "link": "https://www.aljazeera.com/news/2026/4/2/argentina-expels-iranian-diplomat-amid-rift-over-blacklisting-irgc?traffic_source=rss",
+      "date": "2026-04-02T17:02:21.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Buenos Aires accuses Tehran of making &#039;offensive&#039; accusations against Argentina after it labeled IRGC as &#039;terror&#039; group."
+    },
+    {
+      "title": "World Cup 2026: Iran and Infantino talks progressing as war darkens US trip",
+      "link": "https://www.aljazeera.com/sports/2026/4/2/world-cup-2026-iran-and-infantino-talks-progressing-as-war-darkens-us-trip?traffic_source=rss",
+      "date": "2026-04-02T16:55:34.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Iranian football officials hold first face-to-face meeting with FIFA&#039;s president since start of US-Israel war on Iran."
+    },
+    {
+      "title": "US-Israeli strike hits newly opened B1 bridge near Tehran, killing two",
+      "link": "https://www.aljazeera.com/video/2026/4/2/us-israeli-strike-hits-newly-opened-b1-bridge-near-tehran-killing-two?traffic_source=rss",
+      "date": "2026-04-02T16:54:52.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "A US-Israeli strike targeted the B1 bridge in Karaj, west of Tehran, killing at least two people."
+    },
+    {
+      "title": "A year after ‘Liberation Day,’ impact of Trump tariffs on defense industry remains muted",
+      "link": "https://breakingdefense.com/2026/04/a-year-after-liberation-day-impact-of-trump-tariffs-on-defense-industry-remains-muted/",
+      "date": "2026-04-02T16:42:19.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "Video: Protests in Gaza against Israel’s Palestinian death penalty law",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/video-protests-in-gaza-against-israels-palestinian-death-penalty-law?traffic_source=rss",
+      "date": "2026-04-02T16:31:38.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Palestinians in Gaza joined protests against the Israeli govt approval of a death penalty law on Palestinian prisoners."
+    },
+    {
+      "title": "‘Israel has been avoiding any diplomacy’ and pursuing escalation",
+      "link": "https://www.aljazeera.com/video/quotable/2026/4/2/israel-has-been-avoiding-any-diplomacy-and-pursuing-escalation?traffic_source=rss",
+      "date": "2026-04-02T16:27:36.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "‘When the only tool you have in your toolbox is a hammer you can solve everything with the hammer’."
+    },
+    {
+      "title": "Edgewing receives first GCAP next-gen fighter international contract to boost design activities",
+      "link": "https://breakingdefense.com/2026/04/edgewing-receives-first-gcap-next-gen-fighter-international-contract-to-boost-design-activities/",
+      "date": "2026-04-02T15:05:00.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "ST Engineering to serve as subcontractor for Kuwaiti navy vessels deal",
+      "link": "https://breakingdefense.com/2026/04/st-engineering-to-serve-as-subcontractor-for-kuwaiti-navy-vessels-deal/",
+      "date": "2026-04-02T14:02:10.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
     },
     {
       "title": "Army’s enterprise contracting vehicles likely to speed procurement but not without risk",
@@ -30,78 +156,6 @@
       "sourceId": "breaking_defense",
       "category": "defense",
       "snippet": ""
-    },
-    {
-      "title": "Pakistan-bound ships pass through Strait of Hormuz",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/pakistan-bound-ships-pass-through-strait-of-hormuz?traffic_source=rss",
-      "date": "2026-04-02T11:57:37.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Two ships have passed through the Strait of Hormuz and arrived at Karachi Port."
-    },
-    {
-      "title": "Four children killed in nursery school stabbing attack in Uganda",
-      "link": "https://www.aljazeera.com/news/2026/4/2/four-children-killed-in-school-stabbing-attack-in-uganda?traffic_source=rss",
-      "date": "2026-04-02T11:44:19.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Police say a suspect is in custody but the motive remains unknown after attack in Ugandan capital, Kampala."
-    },
-    {
-      "title": "Israeli strikes kill 7 in southern Lebanon, Hezbollah targets ground troops",
-      "link": "https://www.aljazeera.com/news/2026/4/2/israeli-strikes-kill-7-in-southern-lebanon-hezbollah-targets-ground-troops?traffic_source=rss",
-      "date": "2026-04-02T11:26:47.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Lebanon&#039;s prime minister warns of a &#039;critical&#039; situation as Israel says it is working to dismantle Hezbollah."
-    },
-    {
-      "title": "How Israel’s record budget will finance expanding illegal settlements",
-      "link": "https://www.aljazeera.com/economy/2026/4/2/how-israels-record-budget-will-finance-expanding-illegal-settlements?traffic_source=rss",
-      "date": "2026-04-02T11:09:02.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Budget of $271bn comes against a backdrop of surging violence by Israeli settlers towards Palestinians in the West Bank."
-    },
-    {
-      "title": "Libyan military leader may have combat drones despite UN embargo",
-      "link": "https://www.aljazeera.com/news/2026/4/2/libyan-military-leader-may-have-combat-drones-despite-un-embargo?traffic_source=rss",
-      "date": "2026-04-02T11:01:16.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Reuters news agency says satellite images show ⁠at least three drones at Al Khadim airbase between April and December."
-    },
-    {
-      "title": "Eight countries condemn Israel’s one-sided death penalty for Palestinians",
-      "link": "https://www.aljazeera.com/news/2026/4/2/muslim-majority-countries-condemn-israels-one-sided-new-death-penalty-law?traffic_source=rss",
-      "date": "2026-04-02T10:40:32.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Muslim-majority nations denounce Israel&#039;s &#039;increasingly discriminatory&#039; practices that &#039;entrench a system of apartheid&#039;."
-    },
-    {
-      "title": "Yemen’s Houthis coordinate with Iran, but retain independence, despite war",
-      "link": "https://www.aljazeera.com/news/2026/4/2/yemen-houthis-analysis-iran?traffic_source=rss",
-      "date": "2026-04-02T10:36:37.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Houthi actions align with Iran’s strategy, but maintain autonomy to maximise regional influence and domestic objectives."
-    },
-    {
-      "title": "US-Israeli attacks and its impact on Iran’s economy",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/us-israeli-attacks-and-its-impact-on-irans-economy?traffic_source=rss",
-      "date": "2026-04-02T10:31:15.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "US-Israeli attacks and its impact on Iran’s economy"
     },
     {
       "title": "A 250-Year Arsenal of Innovation: A Call for Articles on American Defense Technologies",
@@ -219,86 +273,24 @@
       "sourceId": "arms_control",
       "category": "policy",
       "snippet": ""
-    },
-    {
-      "title": "Coercing Syria on Chemical Weapons: A Case Study of Deterrence and Coercive Diplomacy",
-      "link": "https://www.armscontrol.org/act/2026-04/book-reviews/coercing-syria-chemical-weapons-case-study-deterrence-and-coercive",
-      "date": "2026-04-01T19:02:00.000Z",
-      "source": "Arms Control Association",
-      "sourceId": "arms_control",
-      "category": "policy",
-      "snippet": ""
-    },
-    {
-      "title": "Hormuz disruption will change trade — and defense — at other chokepoints",
-      "link": "https://breakingdefense.com/2026/04/hormuz-disruption-will-change-trade-and-defense-at-other-chokepoints/",
-      "date": "2026-04-01T18:23:34.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "Switzerland considers &#8216;complete termination&#8217; of US Patriot order, vows to extend payment freeze",
-      "link": "https://breakingdefense.com/2026/04/switzerland-considers-complete-termination-of-us-patriot-order-vows-to-extend-payment-freeze/",
-      "date": "2026-04-01T17:33:26.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "From Theory to Reality: Evaluating the U.S.-Ukrainian Minerals Deal",
-      "link": "https://warontherocks.com/2026/04/from-theory-to-reality-evaluating-the-u-s-ukrainian-minerals-deal/",
-      "date": "2026-04-01T17:30:34.000Z",
-      "source": "War on the Rocks",
-      "sourceId": "war_on_rocks",
-      "category": "strategic",
-      "snippet": ""
-    },
-    {
-      "title": "FY27 budget &#8216;to reflect&#8217; Space Force need for rapid capabilities growth: Saltzman",
-      "link": "https://breakingdefense.com/2026/04/fy27-budget-to-reflect-space-force-need-for-rapid-capabilities-growth-saltzman/",
-      "date": "2026-04-01T16:59:16.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "Air Force strategy to protect aircraft was designed for China. Will it work for Iran?",
-      "link": "https://breakingdefense.com/2026/04/air-force-strategy-to-protect-aircraft-was-designed-for-china-will-it-work-for-iran/",
-      "date": "2026-04-01T16:05:00.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
     }
   ],
   "alerts": [
     {
       "level": "CRITICAL",
-      "keyword": "strait of hormuz",
-      "title": "Pakistan-bound ships pass through Strait of Hormuz",
+      "keyword": "escalation",
+      "title": "‘Israel has been avoiding any diplomacy’ and pursuing escalation",
       "source": "Al Jazeera — Middle East",
-      "date": "2026-04-02T11:57:37.000Z",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/pakistan-bound-ships-pass-through-strait-of-hormuz?traffic_source=rss"
+      "date": "2026-04-02T16:27:36.000Z",
+      "link": "https://www.aljazeera.com/video/quotable/2026/4/2/israel-has-been-avoiding-any-diplomacy-and-pursuing-escalation?traffic_source=rss"
     },
     {
       "level": "ELEVATED",
-      "keyword": "hezbollah",
-      "title": "Israeli strikes kill 7 in southern Lebanon, Hezbollah targets ground troops",
+      "keyword": "diplomacy",
+      "title": "‘Israel has been avoiding any diplomacy’ and pursuing escalation",
       "source": "Al Jazeera — Middle East",
-      "date": "2026-04-02T11:26:47.000Z",
-      "link": "https://www.aljazeera.com/news/2026/4/2/israeli-strikes-kill-7-in-southern-lebanon-hezbollah-targets-ground-troops?traffic_source=rss"
-    },
-    {
-      "level": "ELEVATED",
-      "keyword": "houthi",
-      "title": "Yemen’s Houthis coordinate with Iran, but retain independence, despite war",
-      "source": "Al Jazeera — Middle East",
-      "date": "2026-04-02T10:36:37.000Z",
-      "link": "https://www.aljazeera.com/news/2026/4/2/yemen-houthis-analysis-iran?traffic_source=rss"
+      "date": "2026-04-02T16:27:36.000Z",
+      "link": "https://www.aljazeera.com/video/quotable/2026/4/2/israel-has-been-avoiding-any-diplomacy-and-pursuing-escalation?traffic_source=rss"
     },
     {
       "level": "CRITICAL",
