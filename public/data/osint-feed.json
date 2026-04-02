@@ -1,98 +1,134 @@
 {
-  "lastUpdated": "2026-04-02T06:57:49.031Z",
+  "lastUpdated": "2026-04-02T12:42:55.429Z",
   "feedCount": 5,
   "totalItems": 40,
-  "alertCount": 3,
+  "alertCount": 5,
   "headlines": [
     {
-      "title": "Israel’s death penalty law is not about executing Palestinians",
-      "link": "https://www.aljazeera.com/opinions/2026/4/2/israels-death-penalty-law-is-not-about-executing-palestinians?traffic_source=rss",
-      "date": "2026-04-02T06:11:37.000Z",
+      "title": "Smoke rises over Mashhad, Iran, following strike near airport",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/smoke-rises-over-mashhad-iran-following-strike-near-airport?traffic_source=rss",
+      "date": "2026-04-02T12:13:10.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "It is about eliminating Palestinian existence in Palestine."
+      "snippet": "Footage shows columns of smoke rising over the Iranian city of Mashhad, after US-Israeli strikes near the airport."
     },
     {
-      "title": "How long will Artemis II take to reach the moon, and what happens next?",
-      "link": "https://www.aljazeera.com/news/2026/4/2/how-long-will-artemis-ii-take-to-reach-the-moon-and-what-happens-next?traffic_source=rss",
-      "date": "2026-04-02T05:48:56.000Z",
+      "title": "Women’s Asian Cup finalists accuse governing body over equal money",
+      "link": "https://www.aljazeera.com/sports/2026/4/2/womens-asian-cup-finalists-accuse-governing-body-over-equal-money?traffic_source=rss",
+      "date": "2026-04-02T12:07:55.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "The capsule is expected to reach the moon on about April 6, the sixth day of the mission."
+      "snippet": "Japan and Australia renew calls for pay parity with men&#039;s football, as former also sack coach Nils Nielsen."
     },
     {
-      "title": "Trump’s primetime speech on Iran war: Key takeaways",
-      "link": "https://www.aljazeera.com/news/2026/4/2/trumps-primetime-speech-on-iran-war-key-takeaways?traffic_source=rss",
-      "date": "2026-04-02T05:15:10.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "US president says Washington is &#039;getting very close&#039; to achieving goals as he promises to bomb Iran into &#039;Stone Ages&#039;."
+      "title": "Army’s enterprise contracting vehicles likely to speed procurement but not without risk",
+      "link": "https://breakingdefense.com/2026/04/armys-enterprise-contracting-vehicles-likely-to-speed-procurement-but-not-without-risk/",
+      "date": "2026-04-02T12:00:00.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
     },
     {
-      "title": "Trump’s national address on Iran ’embarrassing, incoherent’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/trumps-national-address-on-iran-embarrassing?traffic_source=rss",
-      "date": "2026-04-02T05:01:23.000Z",
+      "title": "Pakistan-bound ships pass through Strait of Hormuz",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/pakistan-bound-ships-pass-through-strait-of-hormuz?traffic_source=rss",
+      "date": "2026-04-02T11:57:37.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Harlan Ullman, a former senior US naval officer, has slammed President Trump’s address to the nation."
+      "snippet": "Two ships have passed through the Strait of Hormuz and arrived at Karachi Port."
     },
     {
-      "title": "Trump claims ‘success’ in Iran in just 32 days compared to lengthy US wars",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/trump-claims-success-in-iran-in-just-32-days-compared-to-lengthy-us-wars?traffic_source=rss",
-      "date": "2026-04-02T05:00:13.000Z",
+      "title": "Four children killed in nursery school stabbing attack in Uganda",
+      "link": "https://www.aljazeera.com/news/2026/4/2/four-children-killed-in-school-stabbing-attack-in-uganda?traffic_source=rss",
+      "date": "2026-04-02T11:44:19.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "US President Donald Trump said Iran was the ‘bully of the Middle East’ but is ‘no longer a threat’."
+      "snippet": "Police say a suspect is in custody but the motive remains unknown after attack in Ugandan capital, Kampala."
     },
     {
-      "title": "Trump threatens to bring Iran ‘back to the Stone Ages’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/trump-threatens-to-bring-iran-back-to-the-stone?traffic_source=rss",
-      "date": "2026-04-02T04:57:14.000Z",
+      "title": "Israeli strikes kill 7 in southern Lebanon, Hezbollah targets ground troops",
+      "link": "https://www.aljazeera.com/news/2026/4/2/israeli-strikes-kill-7-in-southern-lebanon-hezbollah-targets-ground-troops?traffic_source=rss",
+      "date": "2026-04-02T11:26:47.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "President Trump says the US will bring Iran ‘back to the Stone Ages where they belong&#039; by striking hard."
+      "snippet": "Lebanon&#039;s prime minister warns of a &#039;critical&#039; situation as Israel says it is working to dismantle Hezbollah."
     },
     {
-      "title": "Trump urges countries ‘get involved’ in war on Iran if they can’t get fuel",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/trump-urges-countries-get-involved-in-war-on-iran-if-they-cant-get-fuel?traffic_source=rss",
-      "date": "2026-04-02T04:54:53.000Z",
+      "title": "How Israel’s record budget will finance expanding illegal settlements",
+      "link": "https://www.aljazeera.com/economy/2026/4/2/how-israels-record-budget-will-finance-expanding-illegal-settlements?traffic_source=rss",
+      "date": "2026-04-02T11:09:02.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "US President Donald Trump says nations that rely on oil from the Strait of Hormuz should build up some delayed courage."
+      "snippet": "Budget of $271bn comes against a backdrop of surging violence by Israeli settlers towards Palestinians in the West Bank."
     },
     {
-      "title": "Gambia police fire tear gas at rally over rearrest of siblings",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/gambia-police-fire-tear-gas-at-rally-over-rearrest-of-siblings?traffic_source=rss",
-      "date": "2026-04-02T04:37:56.000Z",
+      "title": "Libyan military leader may have combat drones despite UN embargo",
+      "link": "https://www.aljazeera.com/news/2026/4/2/libyan-military-leader-may-have-combat-drones-despite-un-embargo?traffic_source=rss",
+      "date": "2026-04-02T11:01:16.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Police fired tear gas and water cannons at protesters in the Gambia who were demanding the release of two siblings."
+      "snippet": "Reuters news agency says satellite images show ⁠at least three drones at Al Khadim airbase between April and December."
     },
     {
-      "title": "Tiger Woods declines 2027 Ryder Cup captaincy; can leave US for treatment",
-      "link": "https://www.aljazeera.com/sports/2026/4/2/tiger-woods-declines-2027-ryder-cup-captaincy-can-leave-us-for-treatment?traffic_source=rss",
-      "date": "2026-04-02T04:23:47.000Z",
+      "title": "Eight countries condemn Israel’s one-sided death penalty for Palestinians",
+      "link": "https://www.aljazeera.com/news/2026/4/2/muslim-majority-countries-condemn-israels-one-sided-new-death-penalty-law?traffic_source=rss",
+      "date": "2026-04-02T10:40:32.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "The 15-time major winner will focus on health following his car crash and subsequent DUI arrest on Friday."
+      "snippet": "Muslim-majority nations denounce Israel&#039;s &#039;increasingly discriminatory&#039; practices that &#039;entrench a system of apartheid&#039;."
     },
     {
-      "title": "Iran war live: Trump claims goals nearing completion, vows to ‘finish job’",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/4/2/iran-war-live-trump-to-address-nation-tehran-denies-seeking-ceasefire?traffic_source=rss",
-      "date": "2026-04-02T00:00:30.000Z",
+      "title": "Yemen’s Houthis coordinate with Iran, but retain independence, despite war",
+      "link": "https://www.aljazeera.com/news/2026/4/2/yemen-houthis-analysis-iran?traffic_source=rss",
+      "date": "2026-04-02T10:36:37.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Iran denies seeking a truce and keeps up counterattacks, as US-Israeli raids cause deaths and damage across the country."
+      "snippet": "Houthi actions align with Iran’s strategy, but maintain autonomy to maximise regional influence and domestic objectives."
+    },
+    {
+      "title": "US-Israeli attacks and its impact on Iran’s economy",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/us-israeli-attacks-and-its-impact-on-irans-economy?traffic_source=rss",
+      "date": "2026-04-02T10:31:15.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "US-Israeli attacks and its impact on Iran’s economy"
+    },
+    {
+      "title": "A 250-Year Arsenal of Innovation: A Call for Articles on American Defense Technologies",
+      "link": "https://warontherocks.com/2026/04/a-250-year-arsenal-of-innovation-a-call-for-articles-on-american-defense-technologies/",
+      "date": "2026-04-02T08:00:37.000Z",
+      "source": "War on the Rocks",
+      "sourceId": "war_on_rocks",
+      "category": "strategic",
+      "snippet": ""
+    },
+    {
+      "title": "From Filament to Firepower: 3D Printing’s Impact on Warfare",
+      "link": "https://warontherocks.com/2026/04/from-filament-to-firepower-3d-printings-impact-on-warfare/",
+      "date": "2026-04-02T07:30:27.000Z",
+      "source": "War on the Rocks",
+      "sourceId": "war_on_rocks",
+      "category": "strategic",
+      "snippet": ""
+    },
+    {
+      "title": "The Iran War and the Energy Lesson We Failed to Learn",
+      "link": "https://warontherocks.com/2026/04/the-iran-war-and-the-energy-lesson-we-failed-to-learn/",
+      "date": "2026-04-02T07:15:21.000Z",
+      "source": "War on the Rocks",
+      "sourceId": "war_on_rocks",
+      "category": "strategic",
+      "snippet": ""
     },
     {
       "title": "April 2026 Digital Magazine",
@@ -237,52 +273,32 @@
       "sourceId": "breaking_defense",
       "category": "defense",
       "snippet": ""
-    },
-    {
-      "title": "Pentagon awards Pratt &#038; Whitney $6.6 billion for F-35 engines",
-      "link": "https://breakingdefense.com/2026/04/pentagon-awards-pratt-whitney-6-6-billion-for-f-35-engines/",
-      "date": "2026-04-01T14:53:20.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "The Folly of Seizing Kharg Island",
-      "link": "https://warontherocks.com/2026/04/the-folly-of-seizing-kharg-island/",
-      "date": "2026-04-01T14:53:09.000Z",
-      "source": "War on the Rocks",
-      "sourceId": "war_on_rocks",
-      "category": "strategic",
-      "snippet": ""
-    },
-    {
-      "title": "Pentagon, Boeing announce plan to triple Patriot PAC-3 seeker production",
-      "link": "https://breakingdefense.com/2026/04/pentagon-boeing-announce-plan-to-triple-patriot-pac-3-seeker-production/",
-      "date": "2026-04-01T13:58:02.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "Honeywell, Odys Aviation team up on airborne C-UAS program",
-      "link": "https://breakingdefense.com/2026/04/honeywell-odys-aviation-team-up-on-airborne-c-uas-program/",
-      "date": "2026-04-01T13:25:12.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
     }
   ],
   "alerts": [
     {
       "level": "CRITICAL",
       "keyword": "strait of hormuz",
-      "title": "Trump urges countries ‘get involved’ in war on Iran if they can’t get fuel",
+      "title": "Pakistan-bound ships pass through Strait of Hormuz",
       "source": "Al Jazeera — Middle East",
-      "date": "2026-04-02T04:54:53.000Z",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/trump-urges-countries-get-involved-in-war-on-iran-if-they-cant-get-fuel?traffic_source=rss"
+      "date": "2026-04-02T11:57:37.000Z",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/pakistan-bound-ships-pass-through-strait-of-hormuz?traffic_source=rss"
+    },
+    {
+      "level": "ELEVATED",
+      "keyword": "hezbollah",
+      "title": "Israeli strikes kill 7 in southern Lebanon, Hezbollah targets ground troops",
+      "source": "Al Jazeera — Middle East",
+      "date": "2026-04-02T11:26:47.000Z",
+      "link": "https://www.aljazeera.com/news/2026/4/2/israeli-strikes-kill-7-in-southern-lebanon-hezbollah-targets-ground-troops?traffic_source=rss"
+    },
+    {
+      "level": "ELEVATED",
+      "keyword": "houthi",
+      "title": "Yemen’s Houthis coordinate with Iran, but retain independence, despite war",
+      "source": "Al Jazeera — Middle East",
+      "date": "2026-04-02T10:36:37.000Z",
+      "link": "https://www.aljazeera.com/news/2026/4/2/yemen-houthis-analysis-iran?traffic_source=rss"
     },
     {
       "level": "CRITICAL",
