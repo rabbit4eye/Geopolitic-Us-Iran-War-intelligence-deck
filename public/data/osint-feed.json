@@ -1,9 +1,117 @@
 {
-  "lastUpdated": "2026-04-02T18:39:27.892Z",
+  "lastUpdated": "2026-04-03T01:11:19.781Z",
   "feedCount": 5,
   "totalItems": 40,
-  "alertCount": 4,
+  "alertCount": 3,
   "headlines": [
+    {
+      "title": "Trump unveils 100 percent tariff on drugs to push for pharmaceutical deals",
+      "link": "https://www.aljazeera.com/news/2026/4/2/trump-unveils-100-percent-tariff-on-drugs-to-push-for-pharmaceutical-deals?traffic_source=rss",
+      "date": "2026-04-02T23:38:53.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "US president has said that he will use tariffs to bring down costly medical drugs, but the impact remains uncertain."
+    },
+    {
+      "title": "Trump to propose $1.5 trillion defense budget, banking on $350 billion from reconciliation",
+      "link": "https://breakingdefense.com/2026/04/trump-to-propose-1-5-trillion-defense-budget-banking-on-350-billion-from-reconciliation/",
+      "date": "2026-04-02T23:09:37.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "US court orders resentencing for Colorado clerk involved in election scheme",
+      "link": "https://www.aljazeera.com/news/2026/4/2/us-court-orders-resentencing-for-colorado-clerk-involved-in-election-scheme?traffic_source=rss",
+      "date": "2026-04-02T22:56:55.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Former clerk Tina Peters has become a cause celebre for the election denial movement and President Donald Trump."
+    },
+    {
+      "title": "Rights groups, Milwaukee leaders slam ICE’s arrest of Palestinian advocate",
+      "link": "https://www.aljazeera.com/news/2026/4/2/rights-groups-milwaukee-leaders-slam-ices-arrest-of-palestinian-advocate?traffic_source=rss",
+      "date": "2026-04-02T22:45:48.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Salah Sarsour, the president of Islamic Society of Milwaukee, was reportedly detained while driving on March 30."
+    },
+    {
+      "title": "Unbridled Bosnian joy marks World Cup qualification win over Italy",
+      "link": "https://www.aljazeera.com/sports/2026/4/2/unbridled-bosnian-joy-marks-world-cup-qualification-win-over-italy?traffic_source=rss",
+      "date": "2026-04-02T21:25:28.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Bosnia and Herzegovina&#039;s dramatic win over Italy sparks wild celebrations from Zenica to Sarajevo and evokes memories."
+    },
+    {
+      "title": "Pope Leo condemns ‘brutality’ of world in first Easter services",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/pope-leo-condemns-brutality-of-world-in-first-easter-services?traffic_source=rss",
+      "date": "2026-04-02T21:24:26.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Pope Leo washed the feet of 12 priests in a ritual, using the moment to urge Catholics to stand with the oppressed."
+    },
+    {
+      "title": "9-year-old boy recounts airstrike in Lebanon that killed whole family",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/9-year-old-boy-recounts-airstrike-in-lebanon-that-killed-whole-family?traffic_source=rss",
+      "date": "2026-04-02T21:22:53.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Karim Al-Haj Hussein survived an Israeli strike on his home in Lebanon’s Baalbek that killed his family members."
+    },
+    {
+      "title": "Oil shock triggers global price spikes as Iran war drags on",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/oil-shock-triggers-global-price-spikes-as-iran-war-drags-on?traffic_source=rss",
+      "date": "2026-04-02T21:04:35.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Fuel shocks from the US-Israel war on Iran are rippling worldwide, as Strait of Hormuz disruptions push prices higher."
+    },
+    {
+      "title": "Iran says army forces are ready to repel US-Israeli attacks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/iran-says-army-forces-are-ready-to-repel-us-israeli-attacks?traffic_source=rss",
+      "date": "2026-04-02T20:54:30.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Iran says it is ready to counter any US-Israeli attacks, insisting its military capabilities remain intact."
+    },
+    {
+      "title": "Russia sending second ship with oil to Cuba amid US blockade",
+      "link": "https://www.aljazeera.com/news/2026/4/2/russia-sending-second-ship-with-oil-to-cuba-amid-us-blockade?traffic_source=rss",
+      "date": "2026-04-02T20:51:25.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Announcement comes days after Russian tanker brought some 700,000 barrels of crude to Cuba in response to energy crisis."
+    },
+    {
+      "title": "Hegseth fires Army&#8217;s top officer, Gen. Randy George",
+      "link": "https://breakingdefense.com/2026/04/hegseth-fires-armys-top-officer-gen-randy-george/",
+      "date": "2026-04-02T20:37:52.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "At least 43 people killed in ADF attack in northeast DR Congo, army says",
+      "link": "https://www.aljazeera.com/news/2026/4/2/at-least-43-people-killed-in-adf-attack-in-northeast-dr-congo-army-says?traffic_source=rss",
+      "date": "2026-04-02T20:34:00.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Attacks by the Allied Democratic Forces have intensified in recent months."
+    },
     {
       "title": "Iran conflict could open door for new players in Gulf defense market",
       "link": "https://breakingdefense.com/2026/04/iran-conflict-could-open-door-for-new-players-in-gulf-defense-market/",
@@ -12,24 +120,6 @@
       "sourceId": "breaking_defense",
       "category": "defense",
       "snippet": ""
-    },
-    {
-      "title": "UN experts urge investigation into Israel’s killing of Lebanese journalists",
-      "link": "https://www.aljazeera.com/news/2026/4/2/un-experts-urge-investigation-into-israels-killing-of-lebanese-journalists?traffic_source=rss",
-      "date": "2026-04-02T17:47:36.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "UN experts say Israel &#039;emboldened by impunity&#039; for previous journalist killings in Lebanon, Gaza and the West Bank."
-    },
-    {
-      "title": "Pastor’s White House prayer claims Iranians seek death of all Jews",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/pastors-white-house-prayer-claims-iranians-seek-death-of-all-jews?traffic_source=rss",
-      "date": "2026-04-02T17:42:04.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Evangelical pastor Franklin Graham claimed Iranians seek to kill Jews worldwide and said Trump was chosen by God."
     },
     {
       "title": "Space Force plans to establish HQ staff group as surrogate Futures Command",
@@ -50,60 +140,6 @@
       "snippet": ""
     },
     {
-      "title": "Mohamed Salah: Football, Faith &amp; Changing Perceptions",
-      "link": "https://www.aljazeera.com/video/game-theory/2026/4/2/aje-onl-salaheffect_v6-020426?traffic_source=rss",
-      "date": "2026-04-02T17:27:54.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Mohamed Salah hasn’t just become one of Liverpool&#039;s greatest players, he’s challenged stereotypes about Muslims."
-    },
-    {
-      "title": "US Homeland Security shutdown to stretch on, despite Senate passing funding",
-      "link": "https://www.aljazeera.com/news/2026/4/2/us-homeland-security-shutdown-to-stretch-on-despite-senate-passing-funding?traffic_source=rss",
-      "date": "2026-04-02T17:27:24.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "The House has failed to hold a vote on the Senate bill, while Trump says he will sign order to pay &#039;all&#039; DHS employees."
-    },
-    {
-      "title": "Trump fires Pam Bondi as US attorney general, elevates Todd Blanche",
-      "link": "https://www.aljazeera.com/news/2026/4/2/trump-says-pam-bondi-out-as-attorney-general?traffic_source=rss",
-      "date": "2026-04-02T17:20:00.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Bondi had come under fire for what critics called politically motivated prosecutions and her handling of Epstein files."
-    },
-    {
-      "title": "Argentina expels Iranian diplomat amid rift over blacklisting IRGC",
-      "link": "https://www.aljazeera.com/news/2026/4/2/argentina-expels-iranian-diplomat-amid-rift-over-blacklisting-irgc?traffic_source=rss",
-      "date": "2026-04-02T17:02:21.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Buenos Aires accuses Tehran of making &#039;offensive&#039; accusations against Argentina after it labeled IRGC as &#039;terror&#039; group."
-    },
-    {
-      "title": "World Cup 2026: Iran and Infantino talks progressing as war darkens US trip",
-      "link": "https://www.aljazeera.com/sports/2026/4/2/world-cup-2026-iran-and-infantino-talks-progressing-as-war-darkens-us-trip?traffic_source=rss",
-      "date": "2026-04-02T16:55:34.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Iranian football officials hold first face-to-face meeting with FIFA&#039;s president since start of US-Israel war on Iran."
-    },
-    {
-      "title": "US-Israeli strike hits newly opened B1 bridge near Tehran, killing two",
-      "link": "https://www.aljazeera.com/video/2026/4/2/us-israeli-strike-hits-newly-opened-b1-bridge-near-tehran-killing-two?traffic_source=rss",
-      "date": "2026-04-02T16:54:52.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "A US-Israeli strike targeted the B1 bridge in Karaj, west of Tehran, killing at least two people."
-    },
-    {
       "title": "A year after ‘Liberation Day,’ impact of Trump tariffs on defense industry remains muted",
       "link": "https://breakingdefense.com/2026/04/a-year-after-liberation-day-impact-of-trump-tariffs-on-defense-industry-remains-muted/",
       "date": "2026-04-02T16:42:19.000Z",
@@ -111,24 +147,6 @@
       "sourceId": "breaking_defense",
       "category": "defense",
       "snippet": ""
-    },
-    {
-      "title": "Video: Protests in Gaza against Israel’s Palestinian death penalty law",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/video-protests-in-gaza-against-israels-palestinian-death-penalty-law?traffic_source=rss",
-      "date": "2026-04-02T16:31:38.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Palestinians in Gaza joined protests against the Israeli govt approval of a death penalty law on Palestinian prisoners."
-    },
-    {
-      "title": "‘Israel has been avoiding any diplomacy’ and pursuing escalation",
-      "link": "https://www.aljazeera.com/video/quotable/2026/4/2/israel-has-been-avoiding-any-diplomacy-and-pursuing-escalation?traffic_source=rss",
-      "date": "2026-04-02T16:27:36.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "‘When the only tool you have in your toolbox is a hammer you can solve everything with the hammer’."
     },
     {
       "title": "Edgewing receives first GCAP next-gen fighter international contract to boost design activities",
@@ -255,42 +273,16 @@
       "sourceId": "arms_control",
       "category": "policy",
       "snippet": ""
-    },
-    {
-      "title": "The U.S. Has Been Central to the  NPT Since the Beginning. What Will It Do in 2026",
-      "link": "https://www.armscontrol.org/act/2026-04/features/us-has-been-central-npt-beginning-what-will-it-do-2026",
-      "date": "2026-04-01T19:04:59.000Z",
-      "source": "Arms Control Association",
-      "sourceId": "arms_control",
-      "category": "policy",
-      "snippet": ""
-    },
-    {
-      "title": "Analysis: U.S. Negotiators Were Ill-Prepared for Serious Nuclear Talks With Iran",
-      "link": "https://www.armscontrol.org/act/2026-04/features/analysis-us-negotiators-were-ill-prepared-serious-nuclear-talks-iran",
-      "date": "2026-04-01T19:03:00.000Z",
-      "source": "Arms Control Association",
-      "sourceId": "arms_control",
-      "category": "policy",
-      "snippet": ""
     }
   ],
   "alerts": [
     {
       "level": "CRITICAL",
-      "keyword": "escalation",
-      "title": "‘Israel has been avoiding any diplomacy’ and pursuing escalation",
+      "keyword": "strait of hormuz",
+      "title": "Oil shock triggers global price spikes as Iran war drags on",
       "source": "Al Jazeera — Middle East",
-      "date": "2026-04-02T16:27:36.000Z",
-      "link": "https://www.aljazeera.com/video/quotable/2026/4/2/israel-has-been-avoiding-any-diplomacy-and-pursuing-escalation?traffic_source=rss"
-    },
-    {
-      "level": "ELEVATED",
-      "keyword": "diplomacy",
-      "title": "‘Israel has been avoiding any diplomacy’ and pursuing escalation",
-      "source": "Al Jazeera — Middle East",
-      "date": "2026-04-02T16:27:36.000Z",
-      "link": "https://www.aljazeera.com/video/quotable/2026/4/2/israel-has-been-avoiding-any-diplomacy-and-pursuing-escalation?traffic_source=rss"
+      "date": "2026-04-02T21:04:35.000Z",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/oil-shock-triggers-global-price-spikes-as-iran-war-drags-on?traffic_source=rss"
     },
     {
       "level": "CRITICAL",
