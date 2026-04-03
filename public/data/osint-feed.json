@@ -1,71 +1,125 @@
 {
-  "lastUpdated": "2026-04-03T06:54:51.782Z",
+  "lastUpdated": "2026-04-03T12:35:26.620Z",
   "feedCount": 5,
   "totalItems": 40,
-  "alertCount": 2,
+  "alertCount": 4,
   "headlines": [
     {
-      "title": "Myanmar’s coup leader elected president by pro-military parliament",
-      "link": "https://www.aljazeera.com/news/2026/4/3/myanmars-coup-leader-elected-president-by-pro-military-parliament?traffic_source=rss",
-      "date": "2026-04-03T06:05:30.000Z",
+      "title": "War crimes are no longer shameful. That should terrify you",
+      "link": "https://www.aljazeera.com/opinions/2026/4/3/war-crimes-are-no-longer-shameful-that-should-terrify-you?traffic_source=rss",
+      "date": "2026-04-03T12:16:18.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Min Aung Hlaing receives enough votes to pass the majority threshold and become the ⁠country&#039;s president."
+      "snippet": "In the latest escalation in the Middle East, warring sides have demonstrated complete disregard for civilian life."
     },
     {
-      "title": "How China’s ‘teapot’ refineries are cushioning it from Iran war oil crisis",
-      "link": "https://www.aljazeera.com/news/2026/4/3/how-chinas-teapot-refineries-are-cushioning-it-from-iran-war-oil-crisis?traffic_source=rss",
-      "date": "2026-04-03T05:57:07.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Small independent refineries are helping China continue importing oil from Iran."
+      "title": "Marine Corps awards Textron, General Dynamics second rapid ARV prototype contract",
+      "link": "https://breakingdefense.com/2026/04/marine-corps-awards-textron-general-dynamics-second-rapid-arv-prototype-contract/",
+      "date": "2026-04-03T12:00:00.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
     },
     {
-      "title": "Iran war live: Trump warns assault on infrastructure ‘hasn’t even started’",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/4/3/iran-war-live-trump-warns-assault-on-infrastructure-hasnt-even-started?traffic_source=rss",
-      "date": "2026-04-03T05:00:00.000Z",
+      "title": "‘I don’t know how we’ll emerge from this’: How much more can Israelis take?",
+      "link": "https://www.aljazeera.com/news/2026/4/3/i-dont-know-how-well-emerge-from-this-how-much-more-can-israelis-take?traffic_source=rss",
+      "date": "2026-04-03T11:24:33.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Trump steps up threats after US strike on Iran&#039;s largest bridge, as Tehran launches attacks across the region."
+      "snippet": "Years of war have fundamentally changed Israel&#039;s politics, economy and society, analysts say."
     },
     {
-      "title": "How war on Iran turned Pakistan’s LNG surplus into a looming shortage",
-      "link": "https://www.aljazeera.com/news/2026/4/3/how-war-on-iran-turned-pakistans-lng-surplus-into-a-looming-shortage?traffic_source=rss",
-      "date": "2026-04-03T04:55:17.000Z",
+      "title": "Burkina Faso military leader Traore says ‘forget democracy’",
+      "link": "https://www.aljazeera.com/news/2026/4/3/burkina-faso-military-leader-traore-says-forget-democracy?traffic_source=rss",
+      "date": "2026-04-03T11:21:00.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Pakistan braces for gas shortage crisis as  LNG supplies collapse amid escalating regional conflict."
+      "snippet": "Traore reneged on promises to hold elections and has since scrapped political parties in the country."
     },
     {
-      "title": "Donald Trump fires loyalist Attorney General Pam Bondi",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/donald-trump-fires-loyalist-attorney-general-pam-bondi?traffic_source=rss",
-      "date": "2026-04-03T04:43:39.000Z",
+      "title": "Rubble, mud and hair: How to rebuild a home in Gaza",
+      "link": "https://www.aljazeera.com/features/2026/4/3/rubble-mud-and-hair-how-to-rebuild-a-home-in-gaza?traffic_source=rss",
+      "date": "2026-04-03T11:14:35.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "President Trump has fired Attorney General Pam Bondi, a loyalist and tenacious Trump defender."
+      "snippet": "Partial rehabilitation replaces reconstruction in Gaza, with residents relying on temporary housing solutions."
     },
     {
-      "title": "Iran vows retaliation after deadly US strike on bridge in Karaj",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/iran-vows-retaliation-after-deadly-us-strike-on-bridge-in-karaj?traffic_source=rss",
-      "date": "2026-04-03T02:11:32.000Z",
+      "title": "Over 100 US legal experts condemn strikes on Iran as possible ‘war crimes’",
+      "link": "https://www.aljazeera.com/news/2026/4/3/over-100-us-legal-experts-condemn-strikes-on-iran-as-possible-war-crimes?traffic_source=rss",
+      "date": "2026-04-03T10:49:25.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Iranian officials say the country’s largest bridge will be “built back stronger,” but America’s standing won&#039;t recover."
+      "snippet": "United States-based scholars sign open letter raising concerns about conduct, rhetoric during US-Israeli war on Iran."
     },
     {
-      "title": "Trump unveils 100 percent tariff on drugs to push for pharmaceutical deals",
-      "link": "https://www.aljazeera.com/news/2026/4/2/trump-unveils-100-percent-tariff-on-drugs-to-push-for-pharmaceutical-deals?traffic_source=rss",
-      "date": "2026-04-02T23:38:53.000Z",
+      "title": "Artemis II mission fires up engines in next step of moon mission",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/artemis-ii-mission-fires-up-engines-in-next-step-of-moon-mission?traffic_source=rss",
+      "date": "2026-04-03T10:29:00.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "US president has said that he will use tariffs to bring down costly medical drugs, but the impact remains uncertain."
+      "snippet": "The Orion capsule has successfully propelled itself out of Earth’s orbit on its mission to the moon."
+    },
+    {
+      "title": "Ten years since Panama Papers: What did they reveal, did anything change?",
+      "link": "https://www.aljazeera.com/news/2026/4/3/ten-years-since-panama-papers-what-did-they-reveal-did-anything-change?traffic_source=rss",
+      "date": "2026-04-03T09:46:11.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "More than 11.5 million documents were released in what was considered one of the biggest data leaks ever."
+    },
+    {
+      "title": "Cuba to pardon more than 2,000 prisoners amid US pressure",
+      "link": "https://www.aljazeera.com/news/2026/4/3/cuba-to-pardon-more-than-2000-prisoners-amid-us-pressure?traffic_source=rss",
+      "date": "2026-04-03T09:06:15.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Releasing political prisoners in Cuba has long been a US core demand as oil blockade continues."
+    },
+    {
+      "title": "Kuwait desalination plant, oil refinery hit by missile and drone strikes",
+      "link": "https://www.aljazeera.com/news/2026/4/3/kuwait-desalination-plant-oil-refinery-hit-by-missile-and-drone-strikes?traffic_source=rss",
+      "date": "2026-04-03T08:59:42.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Meanwhile in UAE, 12 people were injured by debris fall and Oracle and Amazon Web Services data centres were hit."
+    },
+    {
+      "title": "Tiger Woods told police after car crash he was ‘talking to the president’",
+      "link": "https://www.aljazeera.com/sports/2026/4/3/tiger-woods-told-police-after-car-crash-he-was-talking-to-the-president?traffic_source=rss",
+      "date": "2026-04-03T08:59:18.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Police body camera video shows how golfer appeared to be astonished as he was handcuffed for failing sobriety test."
+    },
+    {
+      "title": "The Limits of Trump’s Regime Capture Strategy from Venezuela to Cuba",
+      "link": "https://warontherocks.com/2026/04/the-limits-of-trumps-regime-capture-strategy-from-venezuela-to-cuba/",
+      "date": "2026-04-03T07:30:42.000Z",
+      "source": "War on the Rocks",
+      "sourceId": "war_on_rocks",
+      "category": "strategic",
+      "snippet": ""
+    },
+    {
+      "title": "How the War with Iran Ends",
+      "link": "https://warontherocks.com/2026/04/how-the-war-with-iran-ends/",
+      "date": "2026-04-03T07:15:40.000Z",
+      "source": "War on the Rocks",
+      "sourceId": "war_on_rocks",
+      "category": "strategic",
+      "snippet": ""
     },
     {
       "title": "Trump to propose $1.5 trillion defense budget, banking on $350 billion from reconciliation",
@@ -75,33 +129,6 @@
       "sourceId": "breaking_defense",
       "category": "defense",
       "snippet": ""
-    },
-    {
-      "title": "US court orders resentencing for Colorado clerk involved in election scheme",
-      "link": "https://www.aljazeera.com/news/2026/4/2/us-court-orders-resentencing-for-colorado-clerk-involved-in-election-scheme?traffic_source=rss",
-      "date": "2026-04-02T22:56:55.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Former clerk Tina Peters has become a cause celebre for the election denial movement and President Donald Trump."
-    },
-    {
-      "title": "Rights groups, Milwaukee leaders slam ICE’s arrest of Palestinian advocate",
-      "link": "https://www.aljazeera.com/news/2026/4/2/rights-groups-milwaukee-leaders-slam-ices-arrest-of-palestinian-advocate?traffic_source=rss",
-      "date": "2026-04-02T22:45:48.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Salah Sarsour, the president of Islamic Society of Milwaukee, was reportedly detained while driving on March 30."
-    },
-    {
-      "title": "Unbridled Bosnian joy marks World Cup qualification win over Italy",
-      "link": "https://www.aljazeera.com/sports/2026/4/2/unbridled-bosnian-joy-marks-world-cup-qualification-win-over-italy?traffic_source=rss",
-      "date": "2026-04-02T21:25:28.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Bosnia and Herzegovina&#039;s dramatic win over Italy sparks wild celebrations from Zenica to Sarajevo and evokes memories."
     },
     {
       "title": "Hegseth fires Army&#8217;s top officer, Gen. Randy George",
@@ -246,36 +273,25 @@
       "sourceId": "arms_control",
       "category": "policy",
       "snippet": ""
-    },
-    {
-      "title": "Industry bullish on DoC draft license process for novel space activities",
-      "link": "https://breakingdefense.com/2026/04/industry-bullish-on-doc-draft-license-process-for-novel-space-activities/",
-      "date": "2026-04-01T19:42:01.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "April 2026 Books of Note",
-      "link": "https://www.armscontrol.org/act/2026-04/arms-control-today/april-2026-books-note",
-      "date": "2026-04-01T19:07:26.000Z",
-      "source": "Arms Control Association",
-      "sourceId": "arms_control",
-      "category": "policy",
-      "snippet": ""
-    },
-    {
-      "title": "Conference Chief Seeks to Rebuild NPT Credibility:  An Interview with Ambassador Do Hung Viet of Vietnam, president of the 2026 NPT Review Conference",
-      "link": "https://www.armscontrol.org/act/2026-04/interviews/conference-chief-seeks-rebuild-npt-credibility-interview-ambassador-do-hung",
-      "date": "2026-04-01T19:05:00.000Z",
-      "source": "Arms Control Association",
-      "sourceId": "arms_control",
-      "category": "policy",
-      "snippet": ""
     }
   ],
   "alerts": [
+    {
+      "level": "CRITICAL",
+      "keyword": "escalation",
+      "title": "War crimes are no longer shameful. That should terrify you",
+      "source": "Al Jazeera — Middle East",
+      "date": "2026-04-03T12:16:18.000Z",
+      "link": "https://www.aljazeera.com/opinions/2026/4/3/war-crimes-are-no-longer-shameful-that-should-terrify-you?traffic_source=rss"
+    },
+    {
+      "level": "HIGH",
+      "keyword": "drone strike",
+      "title": "Kuwait desalination plant, oil refinery hit by missile and drone strikes",
+      "source": "Al Jazeera — Middle East",
+      "date": "2026-04-03T08:59:42.000Z",
+      "link": "https://www.aljazeera.com/news/2026/4/3/kuwait-desalination-plant-oil-refinery-hit-by-missile-and-drone-strikes?traffic_source=rss"
+    },
     {
       "level": "CRITICAL",
       "keyword": "nuclear",
