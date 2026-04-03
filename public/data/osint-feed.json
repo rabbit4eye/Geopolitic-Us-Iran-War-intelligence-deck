@@ -1,17 +1,134 @@
 {
-  "lastUpdated": "2026-04-03T12:35:26.620Z",
+  "lastUpdated": "2026-04-03T18:30:12.571Z",
   "feedCount": 5,
   "totalItems": 40,
-  "alertCount": 4,
+  "alertCount": 3,
   "headlines": [
     {
-      "title": "War crimes are no longer shameful. That should terrify you",
-      "link": "https://www.aljazeera.com/opinions/2026/4/3/war-crimes-are-no-longer-shameful-that-should-terrify-you?traffic_source=rss",
-      "date": "2026-04-03T12:16:18.000Z",
+      "title": "EXCLUSIVE: SDA&#8217;s Sandhoo likely to lead Space Force Missile Warning &#038; Tracking portfolio",
+      "link": "https://breakingdefense.com/2026/04/exclusive-sdas-sandhoo-likely-to-lead-space-force-missile-warning-tracking-portfolio/",
+      "date": "2026-04-03T18:15:42.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "Palestine 36: A film about a revolt that nearly changed history",
+      "link": "https://www.aljazeera.com/video/the-take-2/2026/4/3/aje-onl-tt_pal_jacir_av_v2-030426?traffic_source=rss",
+      "date": "2026-04-03T18:03:23.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "In the latest escalation in the Middle East, warring sides have demonstrated complete disregard for civilian life."
+      "snippet": "Director Annemarie Jacir on how Palestine 36 traces today’s crisis back to British colonial rule."
+    },
+    {
+      "title": "Cambodia parliament approves law to combat cybercrime scam rings",
+      "link": "https://www.aljazeera.com/news/2026/4/3/cambodia-parliament-approves-law-to-combat-cybercrime-scam-rings?traffic_source=rss",
+      "date": "2026-04-03T17:40:45.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Justice Minister Keut Rith says the law aimed to enhance the &quot;cleaning operation&quot; across the country."
+    },
+    {
+      "title": "US unemployment rate drops despite economic uncertainty and Iran war",
+      "link": "https://www.aljazeera.com/news/2026/4/3/us-unemployment-rate-drops-despite-economic-uncertainty-and-iran-war?traffic_source=rss",
+      "date": "2026-04-03T17:35:23.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "White House says March jobs report &#039;blew out expectations&#039; with gains made in the healthcare and construction sectors."
+    },
+    {
+      "title": "What we know about the US fighter jet shot down in Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/what-we-know-about-the-us-fighter-jet-shot-down-in-iran?traffic_source=rss",
+      "date": "2026-04-03T17:14:08.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "The White House has confirmed Donald Trump has been briefed on the shooting down of a US fighter jet in Iran."
+    },
+    {
+      "title": "Villagers in South Lebanon hang on to hope and their homes as war continues",
+      "link": "https://breakingdefense.com/2026/04/villagers-in-south-lebanon-hang-on-to-hope-and-their-homes-as-war-continues/",
+      "date": "2026-04-03T16:24:37.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "French-owned container ship transits Hormuz Strait in first since Iran war",
+      "link": "https://www.aljazeera.com/news/2026/4/3/french-owned-container-ship-transits-hormuz-strait-in-first-since-iran-war?traffic_source=rss",
+      "date": "2026-04-03T16:24:00.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "CMA CGM&#039;s vessel becomes the first French-owned ship to traverse Hormuz since the US–Israel war on Iran began."
+    },
+    {
+      "title": "Drone footage shows a factory in Israel damaged by Iranian missile debris",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/drone-footage-shows-a-factory-in-israel-damaged-by-iranian-missile-debris?traffic_source=rss",
+      "date": "2026-04-03T15:51:15.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Drone footage from Israel shows damage to a factory in Petah Tikva from debris from an intercepted Iranian missile."
+    },
+    {
+      "title": "Trump seeks historic $1.5 trillion for military in Congress budget request",
+      "link": "https://www.aljazeera.com/news/2026/4/3/trump-seeks-historic-1-5-trillion-for-military-in-congress-budget-request?traffic_source=rss",
+      "date": "2026-04-03T15:48:57.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "The request for defence spending is the largest in decades and accompanies cuts to domestic programmes."
+    },
+    {
+      "title": "Ukraine slows enemy advances, liberates land, drains Russia’s war chest",
+      "link": "https://www.aljazeera.com/features/2026/4/3/ukraine-slows-enemy-advances-liberates-land-drains-russias-war-chest?traffic_source=rss",
+      "date": "2026-04-03T15:44:16.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Ukraine achieves significant victories on the battlefield thanks to burgeoning drone production."
+    },
+    {
+      "title": "Iranian forces launch search for crew of downed US fighter jet",
+      "link": "https://www.aljazeera.com/news/2026/4/3/iranian-forces-launch-search-for-pilot-of-downed-us-fighter-jet?traffic_source=rss",
+      "date": "2026-04-03T15:43:22.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "News outlets in Iran share photos of wreckage and what appears to be an ejection seat with an attached parachute."
+    },
+    {
+      "title": "US F-15E fighter jet downed by Iran, rescue operations underway",
+      "link": "https://breakingdefense.com/2026/04/us-f-15e-fighter-jet-downed-by-iran-rescue-operations-underway/",
+      "date": "2026-04-03T15:36:43.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "Trump says with more time, US can ‘take the oil’ in Iran",
+      "link": "https://www.aljazeera.com/news/2026/4/3/trump-says-with-more-time-us-can-take-the-oil-in-iran?traffic_source=rss",
+      "date": "2026-04-03T15:18:34.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Despite weeks long Iranian blockade on Strait of Hormuz, US president claims Washington can &#039;easily&#039; reopen waterway."
+    },
+    {
+      "title": "For acquisition reform to succeed, the Pentagon needs civilian agency budget flexibilities",
+      "link": "https://breakingdefense.com/2026/04/for-acquisition-reform-to-succeed-the-pentagon-needs-civilian-agency-budget-flexibilities/",
+      "date": "2026-04-03T14:06:04.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
     },
     {
       "title": "Marine Corps awards Textron, General Dynamics second rapid ARV prototype contract",
@@ -21,87 +138,6 @@
       "sourceId": "breaking_defense",
       "category": "defense",
       "snippet": ""
-    },
-    {
-      "title": "‘I don’t know how we’ll emerge from this’: How much more can Israelis take?",
-      "link": "https://www.aljazeera.com/news/2026/4/3/i-dont-know-how-well-emerge-from-this-how-much-more-can-israelis-take?traffic_source=rss",
-      "date": "2026-04-03T11:24:33.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Years of war have fundamentally changed Israel&#039;s politics, economy and society, analysts say."
-    },
-    {
-      "title": "Burkina Faso military leader Traore says ‘forget democracy’",
-      "link": "https://www.aljazeera.com/news/2026/4/3/burkina-faso-military-leader-traore-says-forget-democracy?traffic_source=rss",
-      "date": "2026-04-03T11:21:00.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Traore reneged on promises to hold elections and has since scrapped political parties in the country."
-    },
-    {
-      "title": "Rubble, mud and hair: How to rebuild a home in Gaza",
-      "link": "https://www.aljazeera.com/features/2026/4/3/rubble-mud-and-hair-how-to-rebuild-a-home-in-gaza?traffic_source=rss",
-      "date": "2026-04-03T11:14:35.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Partial rehabilitation replaces reconstruction in Gaza, with residents relying on temporary housing solutions."
-    },
-    {
-      "title": "Over 100 US legal experts condemn strikes on Iran as possible ‘war crimes’",
-      "link": "https://www.aljazeera.com/news/2026/4/3/over-100-us-legal-experts-condemn-strikes-on-iran-as-possible-war-crimes?traffic_source=rss",
-      "date": "2026-04-03T10:49:25.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "United States-based scholars sign open letter raising concerns about conduct, rhetoric during US-Israeli war on Iran."
-    },
-    {
-      "title": "Artemis II mission fires up engines in next step of moon mission",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/artemis-ii-mission-fires-up-engines-in-next-step-of-moon-mission?traffic_source=rss",
-      "date": "2026-04-03T10:29:00.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "The Orion capsule has successfully propelled itself out of Earth’s orbit on its mission to the moon."
-    },
-    {
-      "title": "Ten years since Panama Papers: What did they reveal, did anything change?",
-      "link": "https://www.aljazeera.com/news/2026/4/3/ten-years-since-panama-papers-what-did-they-reveal-did-anything-change?traffic_source=rss",
-      "date": "2026-04-03T09:46:11.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "More than 11.5 million documents were released in what was considered one of the biggest data leaks ever."
-    },
-    {
-      "title": "Cuba to pardon more than 2,000 prisoners amid US pressure",
-      "link": "https://www.aljazeera.com/news/2026/4/3/cuba-to-pardon-more-than-2000-prisoners-amid-us-pressure?traffic_source=rss",
-      "date": "2026-04-03T09:06:15.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Releasing political prisoners in Cuba has long been a US core demand as oil blockade continues."
-    },
-    {
-      "title": "Kuwait desalination plant, oil refinery hit by missile and drone strikes",
-      "link": "https://www.aljazeera.com/news/2026/4/3/kuwait-desalination-plant-oil-refinery-hit-by-missile-and-drone-strikes?traffic_source=rss",
-      "date": "2026-04-03T08:59:42.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Meanwhile in UAE, 12 people were injured by debris fall and Oracle and Amazon Web Services data centres were hit."
-    },
-    {
-      "title": "Tiger Woods told police after car crash he was ‘talking to the president’",
-      "link": "https://www.aljazeera.com/sports/2026/4/3/tiger-woods-told-police-after-car-crash-he-was-talking-to-the-president?traffic_source=rss",
-      "date": "2026-04-03T08:59:18.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Police body camera video shows how golfer appeared to be astonished as he was handcuffed for failing sobriety test."
     },
     {
       "title": "The Limits of Trump’s Regime Capture Strategy from Venezuela to Cuba",
@@ -122,7 +158,7 @@
       "snippet": ""
     },
     {
-      "title": "Trump to propose $1.5 trillion defense budget, banking on $350 billion from reconciliation",
+      "title": "Trump proposes $1.5 trillion defense budget, banking on $350 billion from reconciliation",
       "link": "https://breakingdefense.com/2026/04/trump-to-propose-1-5-trillion-defense-budget-banking-on-350-billion-from-reconciliation/",
       "date": "2026-04-02T23:09:37.000Z",
       "source": "Breaking Defense",
@@ -170,33 +206,6 @@
       "title": "A year after ‘Liberation Day,’ impact of Trump tariffs on defense industry remains muted",
       "link": "https://breakingdefense.com/2026/04/a-year-after-liberation-day-impact-of-trump-tariffs-on-defense-industry-remains-muted/",
       "date": "2026-04-02T16:42:19.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "Edgewing receives first GCAP next-gen fighter international contract to boost design activities",
-      "link": "https://breakingdefense.com/2026/04/edgewing-receives-first-gcap-next-gen-fighter-international-contract-to-boost-design-activities/",
-      "date": "2026-04-02T15:05:00.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "ST Engineering to serve as subcontractor for Kuwaiti navy vessels deal",
-      "link": "https://breakingdefense.com/2026/04/st-engineering-to-serve-as-subcontractor-for-kuwaiti-navy-vessels-deal/",
-      "date": "2026-04-02T14:02:10.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "Army’s enterprise contracting vehicles likely to speed procurement but not without risk",
-      "link": "https://breakingdefense.com/2026/04/armys-enterprise-contracting-vehicles-likely-to-speed-procurement-but-not-without-risk/",
-      "date": "2026-04-02T12:00:00.000Z",
       "source": "Breaking Defense",
       "sourceId": "breaking_defense",
       "category": "defense",
@@ -264,33 +273,16 @@
       "sourceId": "arms_control",
       "category": "policy",
       "snippet": ""
-    },
-    {
-      "title": "April 2026 Iran News",
-      "link": "https://www.armscontrol.org/node/15257",
-      "date": "2026-04-01T21:13:36.000Z",
-      "source": "Arms Control Association",
-      "sourceId": "arms_control",
-      "category": "policy",
-      "snippet": ""
     }
   ],
   "alerts": [
     {
       "level": "CRITICAL",
-      "keyword": "escalation",
-      "title": "War crimes are no longer shameful. That should terrify you",
+      "keyword": "strait of hormuz",
+      "title": "Trump says with more time, US can ‘take the oil’ in Iran",
       "source": "Al Jazeera — Middle East",
-      "date": "2026-04-03T12:16:18.000Z",
-      "link": "https://www.aljazeera.com/opinions/2026/4/3/war-crimes-are-no-longer-shameful-that-should-terrify-you?traffic_source=rss"
-    },
-    {
-      "level": "HIGH",
-      "keyword": "drone strike",
-      "title": "Kuwait desalination plant, oil refinery hit by missile and drone strikes",
-      "source": "Al Jazeera — Middle East",
-      "date": "2026-04-03T08:59:42.000Z",
-      "link": "https://www.aljazeera.com/news/2026/4/3/kuwait-desalination-plant-oil-refinery-hit-by-missile-and-drone-strikes?traffic_source=rss"
+      "date": "2026-04-03T15:18:34.000Z",
+      "link": "https://www.aljazeera.com/news/2026/4/3/trump-says-with-more-time-us-can-take-the-oil-in-iran?traffic_source=rss"
     },
     {
       "level": "CRITICAL",
