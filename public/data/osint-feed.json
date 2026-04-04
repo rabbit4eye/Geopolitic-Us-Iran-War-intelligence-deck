@@ -1,9 +1,45 @@
 {
-  "lastUpdated": "2026-04-04T01:05:24.215Z",
+  "lastUpdated": "2026-04-04T06:44:22.849Z",
   "feedCount": 5,
   "totalItems": 40,
-  "alertCount": 5,
+  "alertCount": 4,
   "headlines": [
+    {
+      "title": "NASA unveils first images of Earth from Artemis II",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/nasa-unveils-first-images-of-earth-from-artemis-ii?traffic_source=rss",
+      "date": "2026-04-04T04:53:57.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "NASA has unveiled the first images of Earth taken by Artemis II astronauts as they head towards the moon."
+    },
+    {
+      "title": "Iran war: What is happening on day 36 of US-Israeli attacks?",
+      "link": "https://www.aljazeera.com/news/2026/4/4/iran-war-what-is-happening-on-day-36-of-us-israeli-attacks?traffic_source=rss",
+      "date": "2026-04-04T03:51:08.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Iran claims responsibility for downing two US warplanes, as search under way for missing crewmember."
+    },
+    {
+      "title": "European Parliament’s Rima Hassan: I’m a target of ‘political harassment’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/european-parliaments-rima-hassan-im-a-target-of-political?traffic_source=rss",
+      "date": "2026-04-04T03:35:55.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "European Parliament member Rima Hassan says she’s facing “genuine judicial and political harassment”."
+    },
+    {
+      "title": "Iranian missile attack hits residential areas in central Israel",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/iranian-missile-attack-hits-residential-areas-in-central-israel?traffic_source=rss",
+      "date": "2026-04-04T02:53:18.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "An Iranian missile attack has caused damage across residential areas in central Israel, according to Israeli media."
+    },
     {
       "title": "Palestinian Christians in Gaza mark Good Friday",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/palestinian-christians-in-gaza-mark-good-friday?traffic_source=rss",
@@ -66,42 +102,6 @@
       "sourceId": "aljazeera_mideast",
       "category": "news",
       "snippet": "Christians across Lebanon observed Good Friday, praying for peace as Israeli strikes and evacuation orders continue."
-    },
-    {
-      "title": "Will force be used to reopen Strait of Hormuz?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/4/3/will-force-be-used-to-reopen-strait-of-hormuz?traffic_source=rss",
-      "date": "2026-04-03T20:55:03.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Some countries threaten action against Iran&#039;s blockade of waterway."
-    },
-    {
-      "title": "Cuba releases over 2,000 prisoners amid mounting US pressure",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/cuba-releases-over-2000-prisoners-amid-mounting-us-pressure?traffic_source=rss",
-      "date": "2026-04-03T20:45:45.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "There have been emotional scenes in Cuba where 2,000 prisoners are being pardoned and released from jail."
-    },
-    {
-      "title": "Survivors of Iran bridge attack recall terror of US-Israeli strike",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/survivors-of-iran-bridge-attack-recall-terror-of-us-israeli-strike?traffic_source=rss",
-      "date": "2026-04-03T20:37:44.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Survivors of an Israeli-US attack on Iran’s biggest road bridge have spoken of their terror as missiles hit it."
-    },
-    {
-      "title": "NASA releases stunning first photos of Earth from Artemis II moon mission",
-      "link": "https://www.aljazeera.com/news/2026/4/3/nasa-releases-first-stunning-artemis-ii-photos-of-earth-from-moon-mission?traffic_source=rss",
-      "date": "2026-04-03T20:34:59.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "The crew were about 100,000 miles (160,000 kilometres) from Earth and were quickly closing in on the moon."
     },
     {
       "title": "EXCLUSIVE: SDA&#8217;s Sandhoo likely to lead Space Force Missile Warning &#038; Tracking portfolio",
@@ -291,14 +291,6 @@
       "source": "Al Jazeera — Middle East",
       "date": "2026-04-03T23:40:08.000Z",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/video-shows-the-moment-a-russian-drone-hit-an-apartment-in-ukraine?traffic_source=rss"
-    },
-    {
-      "level": "CRITICAL",
-      "keyword": "strait of hormuz",
-      "title": "Will force be used to reopen Strait of Hormuz?",
-      "source": "Al Jazeera — Middle East",
-      "date": "2026-04-03T20:55:03.000Z",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/4/3/will-force-be-used-to-reopen-strait-of-hormuz?traffic_source=rss"
     },
     {
       "level": "CRITICAL",
