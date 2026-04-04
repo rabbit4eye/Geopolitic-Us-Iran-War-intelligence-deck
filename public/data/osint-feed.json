@@ -1,9 +1,45 @@
 {
-  "lastUpdated": "2026-04-04T06:44:22.849Z",
+  "lastUpdated": "2026-04-04T12:27:44.162Z",
   "feedCount": 5,
   "totalItems": 40,
-  "alertCount": 4,
+  "alertCount": 3,
   "headlines": [
+    {
+      "title": "At least four people killed in Russian attacks on Ukraine",
+      "link": "https://www.aljazeera.com/news/2026/4/4/1997?traffic_source=rss",
+      "date": "2026-04-04T10:20:36.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "At least one person has also died in a Ukrainian attack on Russia&#039;s southern Rostov region."
+    },
+    {
+      "title": "LIVE: Manchester City vs Liverpool – FA Cup quarterfinal",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/4/4/live-manchester-city-vs-liverpool-fa-cup-quarterfinal?traffic_source=rss",
+      "date": "2026-04-04T08:50:00.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Follow the build-up, analysis and live text commentary as City host Liverpool for FA Cup showdown at the Etihad Stadium."
+    },
+    {
+      "title": "Iran executes two convicted members of banned opposition group",
+      "link": "https://www.aljazeera.com/news/2026/4/4/iran-executes-suspected-members-of-dissident-group-amid-us-israel-war?traffic_source=rss",
+      "date": "2026-04-04T08:22:18.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Abolhassan Montazer and Vahid Baniamerian have been hanged after Iran&#039;s Supreme Court upheld their sentences."
+    },
+    {
+      "title": "Afghanistan earthquake kills eight members of same family",
+      "link": "https://www.aljazeera.com/news/2026/4/4/afghanistan-earthquake-kills-eight-members-of-same-family?traffic_source=rss",
+      "date": "2026-04-04T07:23:53.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "The household&#039;s only survivor was a young boy who was injured in the tremor."
+    },
     {
       "title": "NASA unveils first images of Earth from Artemis II",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/nasa-unveils-first-images-of-earth-from-artemis-ii?traffic_source=rss",
@@ -59,33 +95,6 @@
       "snippet": "Barcelona will be without Raphinha for all three rapid-fire matches against Atletico Madrid in the coming weeks."
     },
     {
-      "title": "Iran war live: Tehran downs 2 US warplanes; Israel bombs Lebanon bridges",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/4/4/iran-war-live-tehran-downs-2-us-warplanes-israel-bombs-lebanon-bridges?traffic_source=rss",
-      "date": "2026-04-04T00:00:00.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Celebrations in Tehran as Iran&#039;s military says the strikes show its forces still have fighting capability."
-    },
-    {
-      "title": "Video shows the moment a Russian drone hit an apartment in Ukraine",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/video-shows-the-moment-a-russian-drone-hit-an-apartment-in-ukraine?traffic_source=rss",
-      "date": "2026-04-03T23:40:08.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Russia has unleashed a massive round of deadly air strikes across Ukraine, in a so-called &quot;Easter escalation.&quot;"
-    },
-    {
-      "title": "Lawyers search for Epstein survivors for Bank of America $72.5m settlement",
-      "link": "https://www.aljazeera.com/news/2026/4/3/lawyers-search-for-epstein-survivors-for-bank-of-america-72-5m-settlement?traffic_source=rss",
-      "date": "2026-04-03T22:54:46.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Bank of America has become the third major bank to settle with victims over allegations of facilitating Epstein crimes."
-    },
-    {
       "title": "Golden Dome, out-years and lots of missiles: Details of Trump&#8217;s $1.5T defense budget request",
       "link": "https://breakingdefense.com/2026/04/golden-dome-out-years-and-lots-of-missiles-details-of-trumps-1-5t-defense-budget-request/",
       "date": "2026-04-03T21:58:39.000Z",
@@ -93,15 +102,6 @@
       "sourceId": "breaking_defense",
       "category": "defense",
       "snippet": ""
-    },
-    {
-      "title": "Christians in Lebanon observe Good Friday under Israeli attacks",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/christians-in-lebanon-observe-good-friday-under-israeli-attacks?traffic_source=rss",
-      "date": "2026-04-03T21:05:17.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Christians across Lebanon observed Good Friday, praying for peace as Israeli strikes and evacuation orders continue."
     },
     {
       "title": "EXCLUSIVE: SDA&#8217;s Sandhoo likely to lead Space Force Missile Warning &#038; Tracking portfolio",
@@ -283,14 +283,6 @@
       "source": "Al Jazeera — Middle East",
       "date": "2026-04-04T00:30:08.000Z",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/palestinian-christians-in-gaza-mark-good-friday?traffic_source=rss"
-    },
-    {
-      "level": "CRITICAL",
-      "keyword": "escalation",
-      "title": "Video shows the moment a Russian drone hit an apartment in Ukraine",
-      "source": "Al Jazeera — Middle East",
-      "date": "2026-04-03T23:40:08.000Z",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/video-shows-the-moment-a-russian-drone-hit-an-apartment-in-ukraine?traffic_source=rss"
     },
     {
       "level": "CRITICAL",
