@@ -1,9 +1,108 @@
 {
-  "lastUpdated": "2026-04-03T18:30:12.571Z",
+  "lastUpdated": "2026-04-04T01:05:24.215Z",
   "feedCount": 5,
   "totalItems": 40,
-  "alertCount": 3,
+  "alertCount": 5,
   "headlines": [
+    {
+      "title": "Palestinian Christians in Gaza mark Good Friday",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/palestinian-christians-in-gaza-mark-good-friday?traffic_source=rss",
+      "date": "2026-04-04T00:30:08.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Palestinian Christians in Gaza marked Good Friday at the Holy Family Church during a fragile ceasefire."
+    },
+    {
+      "title": "Atletico Madrid vs Barcelona: La Liga preview – teams, start time, lineups",
+      "link": "https://www.aljazeera.com/sports/2026/4/4/atletico-madrid-vs-barcelona-la-liga-preview-teams-start-time-lineups?traffic_source=rss",
+      "date": "2026-04-04T00:08:06.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Barcelona will be without Raphinha for all three rapid-fire matches against Atletico Madrid in the coming weeks."
+    },
+    {
+      "title": "Iran war live: Tehran downs 2 US warplanes; Israel bombs Lebanon bridges",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/4/4/iran-war-live-tehran-downs-2-us-warplanes-israel-bombs-lebanon-bridges?traffic_source=rss",
+      "date": "2026-04-04T00:00:00.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Celebrations in Tehran as Iran&#039;s military says the strikes show its forces still have fighting capability."
+    },
+    {
+      "title": "Video shows the moment a Russian drone hit an apartment in Ukraine",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/video-shows-the-moment-a-russian-drone-hit-an-apartment-in-ukraine?traffic_source=rss",
+      "date": "2026-04-03T23:40:08.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Russia has unleashed a massive round of deadly air strikes across Ukraine, in a so-called &quot;Easter escalation.&quot;"
+    },
+    {
+      "title": "Lawyers search for Epstein survivors for Bank of America $72.5m settlement",
+      "link": "https://www.aljazeera.com/news/2026/4/3/lawyers-search-for-epstein-survivors-for-bank-of-america-72-5m-settlement?traffic_source=rss",
+      "date": "2026-04-03T22:54:46.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Bank of America has become the third major bank to settle with victims over allegations of facilitating Epstein crimes."
+    },
+    {
+      "title": "Golden Dome, out-years and lots of missiles: Details of Trump&#8217;s $1.5T defense budget request",
+      "link": "https://breakingdefense.com/2026/04/golden-dome-out-years-and-lots-of-missiles-details-of-trumps-1-5t-defense-budget-request/",
+      "date": "2026-04-03T21:58:39.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "Christians in Lebanon observe Good Friday under Israeli attacks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/christians-in-lebanon-observe-good-friday-under-israeli-attacks?traffic_source=rss",
+      "date": "2026-04-03T21:05:17.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Christians across Lebanon observed Good Friday, praying for peace as Israeli strikes and evacuation orders continue."
+    },
+    {
+      "title": "Will force be used to reopen Strait of Hormuz?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/4/3/will-force-be-used-to-reopen-strait-of-hormuz?traffic_source=rss",
+      "date": "2026-04-03T20:55:03.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Some countries threaten action against Iran&#039;s blockade of waterway."
+    },
+    {
+      "title": "Cuba releases over 2,000 prisoners amid mounting US pressure",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/cuba-releases-over-2000-prisoners-amid-mounting-us-pressure?traffic_source=rss",
+      "date": "2026-04-03T20:45:45.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "There have been emotional scenes in Cuba where 2,000 prisoners are being pardoned and released from jail."
+    },
+    {
+      "title": "Survivors of Iran bridge attack recall terror of US-Israeli strike",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/survivors-of-iran-bridge-attack-recall-terror-of-us-israeli-strike?traffic_source=rss",
+      "date": "2026-04-03T20:37:44.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Survivors of an Israeli-US attack on Iran’s biggest road bridge have spoken of their terror as missiles hit it."
+    },
+    {
+      "title": "NASA releases stunning first photos of Earth from Artemis II moon mission",
+      "link": "https://www.aljazeera.com/news/2026/4/3/nasa-releases-first-stunning-artemis-ii-photos-of-earth-from-moon-mission?traffic_source=rss",
+      "date": "2026-04-03T20:34:59.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "The crew were about 100,000 miles (160,000 kilometres) from Earth and were quickly closing in on the moon."
+    },
     {
       "title": "EXCLUSIVE: SDA&#8217;s Sandhoo likely to lead Space Force Missile Warning &#038; Tracking portfolio",
       "link": "https://breakingdefense.com/2026/04/exclusive-sdas-sandhoo-likely-to-lead-space-force-missile-warning-tracking-portfolio/",
@@ -12,42 +111,6 @@
       "sourceId": "breaking_defense",
       "category": "defense",
       "snippet": ""
-    },
-    {
-      "title": "Palestine 36: A film about a revolt that nearly changed history",
-      "link": "https://www.aljazeera.com/video/the-take-2/2026/4/3/aje-onl-tt_pal_jacir_av_v2-030426?traffic_source=rss",
-      "date": "2026-04-03T18:03:23.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Director Annemarie Jacir on how Palestine 36 traces today’s crisis back to British colonial rule."
-    },
-    {
-      "title": "Cambodia parliament approves law to combat cybercrime scam rings",
-      "link": "https://www.aljazeera.com/news/2026/4/3/cambodia-parliament-approves-law-to-combat-cybercrime-scam-rings?traffic_source=rss",
-      "date": "2026-04-03T17:40:45.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Justice Minister Keut Rith says the law aimed to enhance the &quot;cleaning operation&quot; across the country."
-    },
-    {
-      "title": "US unemployment rate drops despite economic uncertainty and Iran war",
-      "link": "https://www.aljazeera.com/news/2026/4/3/us-unemployment-rate-drops-despite-economic-uncertainty-and-iran-war?traffic_source=rss",
-      "date": "2026-04-03T17:35:23.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "White House says March jobs report &#039;blew out expectations&#039; with gains made in the healthcare and construction sectors."
-    },
-    {
-      "title": "What we know about the US fighter jet shot down in Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/what-we-know-about-the-us-fighter-jet-shot-down-in-iran?traffic_source=rss",
-      "date": "2026-04-03T17:14:08.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "The White House has confirmed Donald Trump has been briefed on the shooting down of a US fighter jet in Iran."
     },
     {
       "title": "Villagers in South Lebanon hang on to hope and their homes as war continues",
@@ -59,51 +122,6 @@
       "snippet": ""
     },
     {
-      "title": "French-owned container ship transits Hormuz Strait in first since Iran war",
-      "link": "https://www.aljazeera.com/news/2026/4/3/french-owned-container-ship-transits-hormuz-strait-in-first-since-iran-war?traffic_source=rss",
-      "date": "2026-04-03T16:24:00.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "CMA CGM&#039;s vessel becomes the first French-owned ship to traverse Hormuz since the US–Israel war on Iran began."
-    },
-    {
-      "title": "Drone footage shows a factory in Israel damaged by Iranian missile debris",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/drone-footage-shows-a-factory-in-israel-damaged-by-iranian-missile-debris?traffic_source=rss",
-      "date": "2026-04-03T15:51:15.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Drone footage from Israel shows damage to a factory in Petah Tikva from debris from an intercepted Iranian missile."
-    },
-    {
-      "title": "Trump seeks historic $1.5 trillion for military in Congress budget request",
-      "link": "https://www.aljazeera.com/news/2026/4/3/trump-seeks-historic-1-5-trillion-for-military-in-congress-budget-request?traffic_source=rss",
-      "date": "2026-04-03T15:48:57.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "The request for defence spending is the largest in decades and accompanies cuts to domestic programmes."
-    },
-    {
-      "title": "Ukraine slows enemy advances, liberates land, drains Russia’s war chest",
-      "link": "https://www.aljazeera.com/features/2026/4/3/ukraine-slows-enemy-advances-liberates-land-drains-russias-war-chest?traffic_source=rss",
-      "date": "2026-04-03T15:44:16.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Ukraine achieves significant victories on the battlefield thanks to burgeoning drone production."
-    },
-    {
-      "title": "Iranian forces launch search for crew of downed US fighter jet",
-      "link": "https://www.aljazeera.com/news/2026/4/3/iranian-forces-launch-search-for-pilot-of-downed-us-fighter-jet?traffic_source=rss",
-      "date": "2026-04-03T15:43:22.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "News outlets in Iran share photos of wreckage and what appears to be an ejection seat with an attached parachute."
-    },
-    {
       "title": "US F-15E fighter jet downed by Iran, rescue operations underway",
       "link": "https://breakingdefense.com/2026/04/us-f-15e-fighter-jet-downed-by-iran-rescue-operations-underway/",
       "date": "2026-04-03T15:36:43.000Z",
@@ -111,15 +129,6 @@
       "sourceId": "breaking_defense",
       "category": "defense",
       "snippet": ""
-    },
-    {
-      "title": "Trump says with more time, US can ‘take the oil’ in Iran",
-      "link": "https://www.aljazeera.com/news/2026/4/3/trump-says-with-more-time-us-can-take-the-oil-in-iran?traffic_source=rss",
-      "date": "2026-04-03T15:18:34.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Despite weeks long Iranian blockade on Strait of Hormuz, US president claims Washington can &#039;easily&#039; reopen waterway."
     },
     {
       "title": "For acquisition reform to succeed, the Pentagon needs civilian agency budget flexibilities",
@@ -203,15 +212,6 @@
       "snippet": ""
     },
     {
-      "title": "A year after ‘Liberation Day,’ impact of Trump tariffs on defense industry remains muted",
-      "link": "https://breakingdefense.com/2026/04/a-year-after-liberation-day-impact-of-trump-tariffs-on-defense-industry-remains-muted/",
-      "date": "2026-04-02T16:42:19.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
       "title": "A 250-Year Arsenal of Innovation: A Call for Articles on American Defense Technologies",
       "link": "https://warontherocks.com/2026/04/a-250-year-arsenal-of-innovation-a-call-for-articles-on-american-defense-technologies/",
       "date": "2026-04-02T08:00:37.000Z",
@@ -278,11 +278,27 @@
   "alerts": [
     {
       "level": "CRITICAL",
-      "keyword": "strait of hormuz",
-      "title": "Trump says with more time, US can ‘take the oil’ in Iran",
+      "keyword": "ceasefire",
+      "title": "Palestinian Christians in Gaza mark Good Friday",
       "source": "Al Jazeera — Middle East",
-      "date": "2026-04-03T15:18:34.000Z",
-      "link": "https://www.aljazeera.com/news/2026/4/3/trump-says-with-more-time-us-can-take-the-oil-in-iran?traffic_source=rss"
+      "date": "2026-04-04T00:30:08.000Z",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/palestinian-christians-in-gaza-mark-good-friday?traffic_source=rss"
+    },
+    {
+      "level": "CRITICAL",
+      "keyword": "escalation",
+      "title": "Video shows the moment a Russian drone hit an apartment in Ukraine",
+      "source": "Al Jazeera — Middle East",
+      "date": "2026-04-03T23:40:08.000Z",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/video-shows-the-moment-a-russian-drone-hit-an-apartment-in-ukraine?traffic_source=rss"
+    },
+    {
+      "level": "CRITICAL",
+      "keyword": "strait of hormuz",
+      "title": "Will force be used to reopen Strait of Hormuz?",
+      "source": "Al Jazeera — Middle East",
+      "date": "2026-04-03T20:55:03.000Z",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/4/3/will-force-be-used-to-reopen-strait-of-hormuz?traffic_source=rss"
     },
     {
       "level": "CRITICAL",
