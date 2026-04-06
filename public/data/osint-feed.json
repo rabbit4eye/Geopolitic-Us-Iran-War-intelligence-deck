@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-04-06T01:14:25.137Z",
+  "lastUpdated": "2026-04-06T07:15:01.927Z",
   "feedCount": 5,
   "totalItems": 40,
   "alertCount": 4,
   "headlines": [
     {
-      "title": "Iran war live: Tehran rejects Trump’s Tuesday deadline on Strait of Hormuz",
+      "title": "Man City captain Silva to leave Premier League club at season’s end",
+      "link": "https://www.aljazeera.com/sports/2026/4/6/man-city-captain-silva-to-leave-premier-league-club-at-seasons-end?traffic_source=rss",
+      "date": "2026-04-06T06:34:00.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Silva to leave Manchester City after winning the Champions League and six Premier League titles in his nine-year stint."
+    },
+    {
+      "title": "Steph Curry returns from injury with 29 points but Warriors lose to Rockets",
+      "link": "https://www.aljazeera.com/sports/2026/4/6/steph-curry-returns-from-injury-with-29-points-but-warriors-lose-to-rockets?traffic_source=rss",
+      "date": "2026-04-06T06:09:38.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "NBA star marks comeback after nine weeks as Houston Rockets beat Golden State Warriors 117-116 in San Francisco."
+    },
+    {
+      "title": "A new regional order for the Strait of Hormuz",
+      "link": "https://www.aljazeera.com/opinions/2026/4/6/a-new-regional-order-for-the-strait-of-hormuz?traffic_source=rss",
+      "date": "2026-04-06T05:40:17.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "The GCC and Iran can come up with a new security architecture for the Strait of Hormuz that can give Trump an off-ramp."
+    },
+    {
+      "title": "Vietnam’s gig workers slammed by rising fuel costs amid fallout of Iran war",
+      "link": "https://www.aljazeera.com/economy/2026/4/6/vietnams-gig-workers-slammed-by-rising-fuel-costs-amid-fallout-of-iran-war?traffic_source=rss",
+      "date": "2026-04-06T01:14:00.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Diesel prices have more than doubled in the Southeast Asian nation amid Iran&#039;s blockade of the Strait of Hormuz."
+    },
+    {
+      "title": "Iran war live: Tehran rejects Trump’s Hormuz deadline; 2 killed in Haifa",
       "link": "https://www.aljazeera.com/news/liveblog/2026/4/6/iran-war-live-tehran-rejects-trumps-tuesday-deadline-on-strait-of-hormuz?traffic_source=rss",
       "date": "2026-04-06T00:00:00.000Z",
       "source": "Al Jazeera — Middle East",
@@ -57,42 +93,6 @@
       "sourceId": "aljazeera_mideast",
       "category": "news",
       "snippet": "Spokesperson Abu Obeida says calling for the group&#039;s disarmament amounts to an attempt to continue Israel&#039;s genocide."
-    },
-    {
-      "title": "Israeli air strike hits crowd in Gaza City",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/israeli-air-strike-hits-crowd-in-gaza-city?traffic_source=rss",
-      "date": "2026-04-05T20:09:18.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Several Palestinians were rushed to hospital with severe injuries after an Israeli air strike hit a crowd in Gaza City."
-    },
-    {
-      "title": "Hamas armed wing rejects disarmament while Israel continues attacks",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/hamas-armed-wing-rejects-disarmament-while-israel-continues-attacks?traffic_source=rss",
-      "date": "2026-04-05T20:03:50.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Hamas’s armed wing says it will not discuss disarmament before Israel fully implements the first phase of ceasefire."
-    },
-    {
-      "title": "Is war more profitable than peace? David Keen explains",
-      "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/4/5/is-war-more-profitable-than-peace-david-keen-explains?traffic_source=rss",
-      "date": "2026-04-05T19:54:01.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "A leading political economist breaks down how war can reward power and be beneficial for profits and political survival."
-    },
-    {
-      "title": "Dozens missing after boat carrying migrants capsizes near Libya",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/dozens-missing-after-boat-carrying-migrants-capsizes-near-libya?traffic_source=rss",
-      "date": "2026-04-05T19:38:53.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Dozens of people are missing and at least two confirmed dead after a boat carrying migrants capsized off coast of Libya."
     },
     {
       "title": "Golden Dome, out-years and lots of missiles: Details of Trump&#8217;s $1.5T defense budget request",
@@ -279,18 +279,18 @@
     {
       "level": "CRITICAL",
       "keyword": "strait of hormuz",
-      "title": "Iran war live: Tehran rejects Trump’s Tuesday deadline on Strait of Hormuz",
+      "title": "A new regional order for the Strait of Hormuz",
       "source": "Al Jazeera — Middle East",
-      "date": "2026-04-06T00:00:00.000Z",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/4/6/iran-war-live-tehran-rejects-trumps-tuesday-deadline-on-strait-of-hormuz?traffic_source=rss"
+      "date": "2026-04-06T05:40:17.000Z",
+      "link": "https://www.aljazeera.com/opinions/2026/4/6/a-new-regional-order-for-the-strait-of-hormuz?traffic_source=rss"
     },
     {
       "level": "CRITICAL",
-      "keyword": "ceasefire",
-      "title": "Hamas armed wing rejects disarmament while Israel continues attacks",
+      "keyword": "strait of hormuz",
+      "title": "Vietnam’s gig workers slammed by rising fuel costs amid fallout of Iran war",
       "source": "Al Jazeera — Middle East",
-      "date": "2026-04-05T20:03:50.000Z",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/hamas-armed-wing-rejects-disarmament-while-israel-continues-attacks?traffic_source=rss"
+      "date": "2026-04-06T01:14:00.000Z",
+      "link": "https://www.aljazeera.com/economy/2026/4/6/vietnams-gig-workers-slammed-by-rising-fuel-costs-amid-fallout-of-iran-war?traffic_source=rss"
     },
     {
       "level": "CRITICAL",
