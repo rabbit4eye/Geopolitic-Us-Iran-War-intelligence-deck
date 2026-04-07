@@ -1,9 +1,126 @@
 {
-  "lastUpdated": "2026-04-06T18:39:52.270Z",
+  "lastUpdated": "2026-04-07T01:12:21.374Z",
   "feedCount": 5,
   "totalItems": 40,
-  "alertCount": 4,
+  "alertCount": 5,
   "headlines": [
+    {
+      "title": "General Atomics CCA drone wingman prototype crashes in California",
+      "link": "https://breakingdefense.com/2026/04/general-atomics-cca-drone-wingman-prototype-crashes-in-california/",
+      "date": "2026-04-07T00:19:03.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "Iran war live: Trump warns of attacks as Hormuz deal deadline nears",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/4/7/iran-war-live-trump-warns-of-devastating-attacks-as-deal-deadline-nears?traffic_source=rss",
+      "date": "2026-04-07T00:00:00.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Defense Secretary Pete Hegseth says US forces are carrying out more strikes on Iran than any day since start of war."
+    },
+    {
+      "title": "Trump says US could charge for Strait of Hormuz passage amid Iran war",
+      "link": "https://www.aljazeera.com/news/2026/4/6/trump-says-us-could-charge-for-strait-of-hormuz-passage-amid-iran-war?traffic_source=rss",
+      "date": "2026-04-06T21:26:20.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "US president says Washington, as the &#039;winner&#039; of the war, has a &#039;concept&#039; for charging a toll in the strategic waterway."
+    },
+    {
+      "title": "Why is Iran’s Bushehr nuclear power plant being attacked?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/4/6/why-is-irans-bushehr-nuclear-power-plant-being?traffic_source=rss",
+      "date": "2026-04-06T21:10:03.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "The WHO has warned of &#039;catastrophic&#039; risks if radioactive release occurs."
+    },
+    {
+      "title": "Protesters swarm US embassy in Tel Aviv, demanding end of wars",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/protesters-swarm-us-embassy-in-tel-aviv-demanding-end-of-wars?traffic_source=rss",
+      "date": "2026-04-06T21:05:52.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Protesters gathered outside the US embassy in Tel Aviv, calling for an end to the war with Iran and Lebanon."
+    },
+    {
+      "title": "Israeli soldiers fire tear gas at Palestinian youth during raid in Hebron",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/israeli-soldiers-fire-tear-gas-at-palestinian-youth-during-raid-in-hebron?traffic_source=rss",
+      "date": "2026-04-06T21:02:01.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Israeli forces raided the Muslim Youth Association in Hebron, firing tear gas at Palestinians."
+    },
+    {
+      "title": "Russia jails former Kursk governor in Ukraine incursion-linked graft probe",
+      "link": "https://www.aljazeera.com/news/2026/4/6/russia-jails-former-kursk-governor-in-ukraine-incursion-linked-graft-probe?traffic_source=rss",
+      "date": "2026-04-06T20:41:49.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Alexei Smirnov found guilty of taking bribes from firms contracted to build fortifications along Ukraine border."
+    },
+    {
+      "title": "Israeli air strike kills at least 10 Palestinians near Gaza school",
+      "link": "https://www.aljazeera.com/news/2026/4/6/israeli-air-strike-kills-at-least-10-palestinians-near-gaza-school?traffic_source=rss",
+      "date": "2026-04-06T20:34:47.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Drones are reported to have fired missiles into an area near Maghazi refugee camp."
+    },
+    {
+      "title": "US Supreme Court clears path for Steve Bannon criminal case dismissal",
+      "link": "https://www.aljazeera.com/news/2026/4/6/us-supreme-court-clears-path-for-steve-bannon-criminal-case-dismissal?traffic_source=rss",
+      "date": "2026-04-06T20:22:24.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Steve Bannon, an ally of US President Donald Trump, served a four-month prison sentence after his 2022 conviction."
+    },
+    {
+      "title": "Lebanon’s Hezbollah and Yemen’s Houthis join Iran in strike on Israel",
+      "link": "https://www.aljazeera.com/news/2026/4/6/lebanons-hezbollah-and-yemens-houthis-join-iran-in-strike-on-israel?traffic_source=rss",
+      "date": "2026-04-06T20:22:06.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "The Houthis in Yemen say they attacked Israel alongside their backers Iran and Hezbollah in Lebanon."
+    },
+    {
+      "title": "Trump claims Iranians begging US to keep bombing Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/trump-claims-iranians-begging-us-to-keep-bombing-iran?traffic_source=rss",
+      "date": "2026-04-06T20:05:05.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Donald Trump claimed the US has “numerous intercepts” of Iranians pleading for a continuation of bombing."
+    },
+    {
+      "title": "Greece inks $750M deal with Israel for Elbit’s PULS Rocket Artillery Systems",
+      "link": "https://breakingdefense.com/2026/04/greece-inks-750m-deal-with-israel-for-elbits-puls-rocket-artillery-systems/",
+      "date": "2026-04-06T19:44:41.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "Army&#8217;s Scarlet Dragon exercise adds commercial data to battlefield data flows",
+      "link": "https://breakingdefense.com/2026/04/armys-scarlet-dragon-exercise-adds-commercial-data-to-battlefield-data-flows/",
+      "date": "2026-04-06T19:12:19.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
     {
       "title": "DIU wants &#8216;moving map&#8217; to help aircrews with situational awareness",
       "link": "https://breakingdefense.com/2026/04/diu-wants-moving-map-to-help-aircrews-with-situational-awareness/",
@@ -14,24 +131,6 @@
       "snippet": ""
     },
     {
-      "title": "Hegseth says strikes on Iran increasing as Hormuz deadline looms",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/hegseth-says-strikes-on-iran-increasing-as-hormuz-deadline-looms?traffic_source=rss",
-      "date": "2026-04-06T18:18:16.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "US Secretary of Defense Pete Hegseth said Monday will be the “largest volume of strikes” on Iran since the war began."
-    },
-    {
-      "title": "Video: Iran’s top university hit in US-Israeli strikes",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/video-irans-top-university-hit-in-us-israeli-strikes?traffic_source=rss",
-      "date": "2026-04-06T18:17:58.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Footage shows damaged research buildings at Tehran’s Sharif University following a US-Israeli strike."
-    },
-    {
       "title": "Reopening the Strait of Hormuz &#038; Saving Downed Pilots",
       "link": "https://warontherocks.com/2026/04/reopening-the-strait-of-hormuz-saving-downed-pilots/",
       "date": "2026-04-06T18:12:05.000Z",
@@ -39,78 +138,6 @@
       "sourceId": "war_on_rocks",
       "category": "strategic",
       "snippet": ""
-    },
-    {
-      "title": "Artemis II breaks record for the furthest human travel from earth",
-      "link": "https://www.aljazeera.com/news/2026/4/6/artemis-ii-breaks-record-for-the-furthest-human-travel-from-earth?traffic_source=rss",
-      "date": "2026-04-06T18:11:02.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "This is a breaking news story."
-    },
-    {
-      "title": "Democrats blast Trump for Iran ‘war crimes’ threat; Republicans supportive",
-      "link": "https://www.aljazeera.com/news/2026/4/6/democrats-blast-trump-for-iran-war-crimes-threat-republicans-supportive?traffic_source=rss",
-      "date": "2026-04-06T17:51:26.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Several members of US Congress question president&#039;s fitness for office after his expletive-laden Easter Sunday message."
-    },
-    {
-      "title": "How Asia became ground zero for the oil crisis",
-      "link": "https://www.aljazeera.com/video/the-take-2/2026/4/6/aje-onl-tt_irn_energyrevisited_av_v2-060426?traffic_source=rss",
-      "date": "2026-04-06T17:47:40.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "As the Iran war disrupts oil flows, fuel shortages hit Asia first. Is this the start of a wider global energy crisis?"
-    },
-    {
-      "title": "Cairo faces darker nights as global energy prices continue to soar",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/cairo-faces-darker-nights-as-global-energy-prices-continue-to-soar?traffic_source=rss",
-      "date": "2026-04-06T17:46:59.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Cairo streets and storefronts have been forced to go dark at night as part of measures to curb Egypt’s electricity use."
-    },
-    {
-      "title": "Trump warns deadline ‘final’ as Iran pushes proposal to end war",
-      "link": "https://www.aljazeera.com/news/2026/4/6/trump-warns-deadline-final-as-iran-pushes-proposal-to-end-war?traffic_source=rss",
-      "date": "2026-04-06T17:38:01.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "US president says proposal not enough to avert threat to infrastructure should Iran fail to open Strait of Hormuz."
-    },
-    {
-      "title": "Trump praised airman’s rescue in Iran during White House Easter event",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/trump-praised-airmans-rescue-in-iran-during-white-house-easter-event?traffic_source=rss",
-      "date": "2026-04-06T17:12:30.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Donald Trump praised the rescue of a downed American airman in Iran during remarks at the White House Easter Egg roll."
-    },
-    {
-      "title": "Libya’s oil disputes mirror Hormuz crisis, fuel European energy fears",
-      "link": "https://www.aljazeera.com/news/2026/4/6/libyas-oil-disputes-mirror-hormuz-crisis-fuel-european-energy-fears?traffic_source=rss",
-      "date": "2026-04-06T16:50:44.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Libyan oil sector proxy wars occur during Hormuz tensions, creating dangerous supply vulnerabilities for global markets."
-    },
-    {
-      "title": "Gaza camp offers children a sense of safety",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/gaza-camp-offers-children-a-sense-of-safety?traffic_source=rss",
-      "date": "2026-04-06T16:06:46.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "The Samir Project is offering children in Gaza a camp where they can learn, heal, and regain some sense of safety."
     },
     {
       "title": "Are Perceptions the Reality?",
@@ -203,15 +230,6 @@
       "snippet": ""
     },
     {
-      "title": "Marine Corps awards Textron, General Dynamics second rapid ARV prototype contract",
-      "link": "https://breakingdefense.com/2026/04/marine-corps-awards-textron-general-dynamics-second-rapid-arv-prototype-contract/",
-      "date": "2026-04-03T12:00:00.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
       "title": "The Limits of Trump’s Regime Capture Strategy from Venezuela to Cuba",
       "link": "https://warontherocks.com/2026/04/the-limits-of-trumps-regime-capture-strategy-from-venezuela-to-cuba/",
       "date": "2026-04-03T07:30:42.000Z",
@@ -227,24 +245,6 @@
       "source": "War on the Rocks",
       "sourceId": "war_on_rocks",
       "category": "strategic",
-      "snippet": ""
-    },
-    {
-      "title": "Trump proposes $1.5 trillion defense budget, banking on $350 billion from reconciliation",
-      "link": "https://breakingdefense.com/2026/04/trump-to-propose-1-5-trillion-defense-budget-banking-on-350-billion-from-reconciliation/",
-      "date": "2026-04-02T23:09:37.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "Hegseth fires Army&#8217;s top officer, Gen. Randy George",
-      "link": "https://breakingdefense.com/2026/04/hegseth-fires-armys-top-officer-gen-randy-george/",
-      "date": "2026-04-02T20:37:52.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
       "snippet": ""
     },
     {
@@ -279,26 +279,34 @@
     {
       "level": "CRITICAL",
       "keyword": "strait of hormuz",
-      "title": "Reopening the Strait of Hormuz &#038; Saving Downed Pilots",
-      "source": "War on the Rocks",
-      "date": "2026-04-06T18:12:05.000Z",
-      "link": "https://warontherocks.com/2026/04/reopening-the-strait-of-hormuz-saving-downed-pilots/"
+      "title": "Trump says US could charge for Strait of Hormuz passage amid Iran war",
+      "source": "Al Jazeera — Middle East",
+      "date": "2026-04-06T21:26:20.000Z",
+      "link": "https://www.aljazeera.com/news/2026/4/6/trump-says-us-could-charge-for-strait-of-hormuz-passage-amid-iran-war?traffic_source=rss"
+    },
+    {
+      "level": "CRITICAL",
+      "keyword": "nuclear",
+      "title": "Why is Iran’s Bushehr nuclear power plant being attacked?",
+      "source": "Al Jazeera — Middle East",
+      "date": "2026-04-06T21:10:03.000Z",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/4/6/why-is-irans-bushehr-nuclear-power-plant-being?traffic_source=rss"
+    },
+    {
+      "level": "ELEVATED",
+      "keyword": "hezbollah",
+      "title": "Lebanon’s Hezbollah and Yemen’s Houthis join Iran in strike on Israel",
+      "source": "Al Jazeera — Middle East",
+      "date": "2026-04-06T20:22:06.000Z",
+      "link": "https://www.aljazeera.com/news/2026/4/6/lebanons-hezbollah-and-yemens-houthis-join-iran-in-strike-on-israel?traffic_source=rss"
     },
     {
       "level": "CRITICAL",
       "keyword": "strait of hormuz",
-      "title": "Trump warns deadline ‘final’ as Iran pushes proposal to end war",
-      "source": "Al Jazeera — Middle East",
-      "date": "2026-04-06T17:38:01.000Z",
-      "link": "https://www.aljazeera.com/news/2026/4/6/trump-warns-deadline-final-as-iran-pushes-proposal-to-end-war?traffic_source=rss"
-    },
-    {
-      "level": "ELEVATED",
-      "keyword": "proxy",
-      "title": "Libya’s oil disputes mirror Hormuz crisis, fuel European energy fears",
-      "source": "Al Jazeera — Middle East",
-      "date": "2026-04-06T16:50:44.000Z",
-      "link": "https://www.aljazeera.com/news/2026/4/6/libyas-oil-disputes-mirror-hormuz-crisis-fuel-european-energy-fears?traffic_source=rss"
+      "title": "Reopening the Strait of Hormuz &#038; Saving Downed Pilots",
+      "source": "War on the Rocks",
+      "date": "2026-04-06T18:12:05.000Z",
+      "link": "https://warontherocks.com/2026/04/reopening-the-strait-of-hormuz-saving-downed-pilots/"
     },
     {
       "level": "CRITICAL",
