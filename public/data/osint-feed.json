@@ -1,98 +1,143 @@
 {
-  "lastUpdated": "2026-04-07T12:52:03.814Z",
+  "lastUpdated": "2026-04-07T18:44:06.280Z",
   "feedCount": 5,
   "totalItems": 40,
   "alertCount": 3,
   "headlines": [
     {
-      "title": "What’s Iran’s 10-point peace plan that Trump says is ‘not good enough’?",
-      "link": "https://www.aljazeera.com/news/2026/4/7/whats-irans-10-point-peace-plan-that-trump-says-is-not-good-enough?traffic_source=rss",
-      "date": "2026-04-07T12:17:37.000Z",
+      "title": "Afghanistan brands China peace talks with Pakistan ‘useful’",
+      "link": "https://www.aljazeera.com/news/2026/4/7/afghanistan-brands-china-peace-talks-with-pakistan-useful?traffic_source=rss",
+      "date": "2026-04-07T18:21:24.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "As US president&#039;s deadline looms, a ceasefire appears unlikely."
+      "snippet": "Kabul&#039;s foreign minister expresses hope that minor interpretations will not hinder progress."
     },
     {
-      "title": "Taiwanese opposition leader to meet China’s Xi in a test of diplomatic skill",
-      "link": "https://www.aljazeera.com/news/2026/4/7/taiwanese-opposition-leader-to-meet-chinas-xi-in-a-test-of-diplomatic-skill?traffic_source=rss",
-      "date": "2026-04-07T12:06:57.000Z",
+      "title": "UK blocks rapper Kanye West from entry over anti-Semitism and Nazi support",
+      "link": "https://www.aljazeera.com/news/2026/4/7/uk-blocks-rapper-kanye-west-from-entry-over-anti-semitism-and-nazi-support?traffic_source=rss",
+      "date": "2026-04-07T18:13:05.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Kuomintang leader Cheng Li-wun&#039;s trip to China could make or break the party&#039;s prospects in upcoming elections."
+      "snippet": "British PM Keir Starmer said it was concerning that London&#039;s Wireless Festival had booked West in the first place."
     },
     {
-      "title": "Barcelona vs Atletico Madrid: Champions League – team news, start, lineups",
-      "link": "https://www.aljazeera.com/sports/2026/4/7/barcelona-vs-atletico-madrid-champions-league-team-news-start?traffic_source=rss",
-      "date": "2026-04-07T12:01:33.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Barcelona host Atletico Madrid at Camp Nou for the first leg of their Champions League quarterfinal."
+      "title": "In Brief: The Iran War’s Widening Impacts in the Middle East and North Africa",
+      "link": "https://warontherocks.com/2026/04/in-brief-the-iran-wars-widening-impacts-in-the-middle-east-and-north-africa/",
+      "date": "2026-04-07T18:09:43.000Z",
+      "source": "War on the Rocks",
+      "sourceId": "war_on_rocks",
+      "category": "strategic",
+      "snippet": ""
     },
     {
-      "title": "Videos capture shooting near Israeli consulate in Istanbul",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/videos-capture-shooting-near-israeli-consulate-in-istanbul?traffic_source=rss",
-      "date": "2026-04-07T11:34:27.000Z",
+      "title": "Why JD Vance joined Pakistan’s last-ditch US-Iran mediation efforts",
+      "link": "https://www.aljazeera.com/news/2026/4/7/why-jd-vance-joined-pakistans-last-ditch-us-iran-mediation-efforts?traffic_source=rss",
+      "date": "2026-04-07T17:32:05.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Gunfire could be heard on videos filmed during a shooting near the Israeli consulate in the Turkish city of Istanbul."
+      "snippet": "Backchannel talks gain pace as Pakistan mediates and Iran seeks indirect engagement through US vice president."
     },
     {
-      "title": "US-Israeli attacks on Iran are ‘clear and obvious war crimes’",
-      "link": "https://www.aljazeera.com/video/quotable/2026/4/7/us-israeli-attacks-on-iran-are-clear-and-obvious-war?traffic_source=rss",
-      "date": "2026-04-07T11:26:27.000Z",
+      "title": "WHO halts Gaza medical evacuations after worker killed",
+      "link": "https://www.aljazeera.com/news/2026/4/7/who-halts-gaza-medical-evacuations-after-worker-killed?traffic_source=rss",
+      "date": "2026-04-07T17:19:53.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "‘We’re in the time of monsters right now where we are headed towards the law of the jungle’."
+      "snippet": "Evacuations will remain suspended until further notice, WHO says, adding that the incident is under investigation."
+    },
+    {
+      "title": "Bell, M1 advance to final phase of Army’s Flight School Next competition",
+      "link": "https://breakingdefense.com/2026/04/bell-m1-advance-to-final-phase-of-armys-flight-school-next-competition/",
+      "date": "2026-04-07T17:18:58.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "Top university says US-Israel attack targeted Iran’s progress, AI learning",
+      "link": "https://www.aljazeera.com/news/2026/4/7/top-university-says-us-israel-attack-targeted-irans-progress-ai-learning?traffic_source=rss",
+      "date": "2026-04-07T17:03:21.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Iran condemns systematic attacks on civilian sites, including academic hubs, as war devastates critical infrastructure."
+    },
+    {
+      "title": "US denies nuclear plan as deadline on threat to Iran ‘civilisation’ looms",
+      "link": "https://www.aljazeera.com/news/2026/4/7/us-denies-nuclear-plan-as-deadline-on-threat-to-iran-civilisation-looms?traffic_source=rss",
+      "date": "2026-04-07T17:02:23.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Trump&#039;s threat to kill &#039;whole civilization&#039; and comments from VP have raised fears."
+    },
+    {
+      "title": "Netanyahu: Israel shifting ‘balance of power’ with Iran strikes",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/netanyahu-israel-shifting-balance-of-power-with-iran-strikes?traffic_source=rss",
+      "date": "2026-04-07T16:56:56.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Israeli Prime Minister Benjamin Netanyahu says Israel is intensifying strikes on Iran."
+    },
+    {
+      "title": "Russia confirms 16 Cameroonian soldiers killed in Ukraine war",
+      "link": "https://www.aljazeera.com/news/2026/4/7/russia-confirms-16-cameroonian-soldiers-killed-in-ukraine-war?traffic_source=rss",
+      "date": "2026-04-07T16:40:17.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "No information has been provided specifying how the soldiers ended up fighting for Russia."
+    },
+    {
+      "title": "Fire erupts near industrial site in Saudi Arabia after Iranian strikes",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/fire-erupts-near-industrial-site-in-saudi-arabia-after-iranian-strikes?traffic_source=rss",
+      "date": "2026-04-07T16:36:57.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "A suspected Iranian missile attack sparked a huge fire near an industrial complex in Saudi Arabia."
     },
     {
       "title": "Can Africa tackle the oil shock from the Iran war?",
       "link": "https://www.aljazeera.com/video/counting-the-cost/2026/4/7/can-africa-tackle-the-oil-shock-from-the-iran-war?traffic_source=rss",
-      "date": "2026-04-07T11:13:09.000Z",
+      "date": "2026-04-07T16:30:00.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
       "snippet": "African nations are scrambling to secure oil and gas as the Iran war disrupts supplies from the Middle East."
     },
     {
-      "title": "In Ghana Town, a ‘stateless’ future for hundreds born and raised in Gambia",
-      "link": "https://www.aljazeera.com/features/2026/4/7/in-ghana-town-a-stateless-future-for-hundreds-born-and-raised-in-gambia?traffic_source=rss",
-      "date": "2026-04-07T11:08:00.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "In a small Gambian village founded decades ago by Ghanaian fishermen, their descendants languish without ID documents."
+      "title": "Details of the $1.5 trillion defense budget request, and a key lawmaker&#8217;s take on the F-35",
+      "link": "https://breakingdefense.com/2026/04/details-of-the-1-5-trillion-defense-budget-request-and-a-key-lawmakers-take-on-the-f-35/",
+      "date": "2026-04-07T16:15:43.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
     },
     {
-      "title": "Vinicius hails Lamine Yamal for condemning anti-Muslim fan chants",
-      "link": "https://www.aljazeera.com/sports/2026/4/7/vinicius-hails-lamine-yamal-for-condemning-anti-muslim-fan-chants?traffic_source=rss",
-      "date": "2026-04-07T10:55:54.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "&#039;If we keep fighting together, future players won&#039;t have to go through this again,&#039; the Real Madrid player said."
+      "title": "Italy set to sign off on Turkish TB3 drone order within months, says Baykar CEO",
+      "link": "https://breakingdefense.com/2026/04/italy-set-to-sign-off-on-turkish-tb3-drone-order-within-months-says-baykar-ceo/",
+      "date": "2026-04-07T14:54:34.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
     },
     {
-      "title": "Palestine weekly wrap: Protests sweep West Bank after death penalty law",
-      "link": "https://www.aljazeera.com/news/2026/4/7/palestine-weekly-wrap-protests-sweep-west-bank-after-death-penalty-law?traffic_source=rss",
-      "date": "2026-04-07T10:54:39.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Israeli strikes on Gaza escalate with children among the injured and civilians killed in densely populated areas."
-    },
-    {
-      "title": "‘Dying of thirst’: Inside Gaza’s al-Mawasi water crisis",
-      "link": "https://www.aljazeera.com/news/2026/4/7/dying-of-thirst-inside-gazas-al-mawasi-water-crisis?traffic_source=rss",
-      "date": "2026-04-07T10:53:36.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Residents in Gaza describe daily torment as water shortages worsen, leaving families desperate for clean drinking water."
+      "title": "Suspect in space? Analysis finds 75 &#8216;unusual&#8217; moves by Chinese satellites in nearly 10 years",
+      "link": "https://breakingdefense.com/2026/04/suspect-in-space-analysis-finds-75-unusual-moves-by-chinese-satellites-in-nearly-10-years/",
+      "date": "2026-04-07T14:30:00.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
     },
     {
       "title": "The Hidden System Turning Chinese Tech Companies into Military Suppliers",
@@ -221,54 +266,9 @@
       "snippet": ""
     },
     {
-      "title": "EXCLUSIVE: SDA&#8217;s Sandhoo likely to lead Space Force Missile Warning &#038; Tracking portfolio",
-      "link": "https://breakingdefense.com/2026/04/exclusive-sdas-sandhoo-likely-to-lead-space-force-missile-warning-tracking-portfolio/",
-      "date": "2026-04-03T18:15:42.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "Villagers in South Lebanon hang on to hope and their homes as war continues",
-      "link": "https://breakingdefense.com/2026/04/villagers-in-south-lebanon-hang-on-to-hope-and-their-homes-as-war-continues/",
-      "date": "2026-04-03T16:24:37.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "US F-15E fighter jet downed by Iran",
-      "link": "https://breakingdefense.com/2026/04/us-f-15e-fighter-jet-downed-by-iran-rescue-operations-underway/",
-      "date": "2026-04-03T15:36:43.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "For acquisition reform to succeed, the Pentagon needs civilian agency budget flexibilities",
-      "link": "https://breakingdefense.com/2026/04/for-acquisition-reform-to-succeed-the-pentagon-needs-civilian-agency-budget-flexibilities/",
-      "date": "2026-04-03T14:06:04.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
       "title": "The Limits of Trump’s Regime Capture Strategy from Venezuela to Cuba",
       "link": "https://warontherocks.com/2026/04/the-limits-of-trumps-regime-capture-strategy-from-venezuela-to-cuba/",
       "date": "2026-04-03T07:30:42.000Z",
-      "source": "War on the Rocks",
-      "sourceId": "war_on_rocks",
-      "category": "strategic",
-      "snippet": ""
-    },
-    {
-      "title": "How the War with Iran Ends",
-      "link": "https://warontherocks.com/2026/04/how-the-war-with-iran-ends/",
-      "date": "2026-04-03T07:15:40.000Z",
       "source": "War on the Rocks",
       "sourceId": "war_on_rocks",
       "category": "strategic",
@@ -278,11 +278,11 @@
   "alerts": [
     {
       "level": "CRITICAL",
-      "keyword": "ceasefire",
-      "title": "What’s Iran’s 10-point peace plan that Trump says is ‘not good enough’?",
+      "keyword": "nuclear",
+      "title": "US denies nuclear plan as deadline on threat to Iran ‘civilisation’ looms",
       "source": "Al Jazeera — Middle East",
-      "date": "2026-04-07T12:17:37.000Z",
-      "link": "https://www.aljazeera.com/news/2026/4/7/whats-irans-10-point-peace-plan-that-trump-says-is-not-good-enough?traffic_source=rss"
+      "date": "2026-04-07T17:02:23.000Z",
+      "link": "https://www.aljazeera.com/news/2026/4/7/us-denies-nuclear-plan-as-deadline-on-threat-to-iran-civilisation-looms?traffic_source=rss"
     },
     {
       "level": "CRITICAL",
