@@ -1,53 +1,125 @@
 {
-  "lastUpdated": "2026-04-07T18:44:06.280Z",
+  "lastUpdated": "2026-04-08T01:13:29.462Z",
   "feedCount": 5,
   "totalItems": 40,
-  "alertCount": 3,
+  "alertCount": 4,
   "headlines": [
     {
-      "title": "Afghanistan brands China peace talks with Pakistan ‘useful’",
-      "link": "https://www.aljazeera.com/news/2026/4/7/afghanistan-brands-china-peace-talks-with-pakistan-useful?traffic_source=rss",
-      "date": "2026-04-07T18:21:24.000Z",
+      "title": "Iran agrees to open Strait of Hormuz for two-week US ceasefire",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/iran-agrees-to-open-strait-of-hormuz-for-two-week-us-ceasefire?traffic_source=rss",
+      "date": "2026-04-08T01:00:30.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Kabul&#039;s foreign minister expresses hope that minor interpretations will not hinder progress."
+      "snippet": "Iran’s Foreign Minister Abbas Araghchi says ‘if attacks against Iran are halted,’ then Iran agrees to a US ceasefire."
     },
     {
-      "title": "UK blocks rapper Kanye West from entry over anti-Semitism and Nazi support",
-      "link": "https://www.aljazeera.com/news/2026/4/7/uk-blocks-rapper-kanye-west-from-entry-over-anti-semitism-and-nazi-support?traffic_source=rss",
-      "date": "2026-04-07T18:13:05.000Z",
+      "title": "White House confirms two-week suspension of strikes on Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/white-house-confirms-two-week-suspension-of-strikes-on-iran?traffic_source=rss",
+      "date": "2026-04-08T00:06:56.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "British PM Keir Starmer said it was concerning that London&#039;s Wireless Festival had booked West in the first place."
+      "snippet": "The White House has confirmed the US has agreed to suspend all bombing and military attacks on Iran for two weeks."
     },
     {
-      "title": "In Brief: The Iran War’s Widening Impacts in the Middle East and North Africa",
+      "title": "Trump agrees to pause attacks on Iran if Strait of Hormuz opens",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/trump-agrees-to-pause-attacks-on-iran-if-strait-of-hormuz-opens?traffic_source=rss",
+      "date": "2026-04-07T23:25:46.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "US President Donald Trump says he has agreed to extend his threatened deadline to attack Iran by two weeks."
+    },
+    {
+      "title": "Billionaire investor Ackman makes $64bn bid for Universal Music Group",
+      "link": "https://www.aljazeera.com/economy/2026/4/7/billionaire-investor-ackman-makes-64bn-bid-for-universal-music-group?traffic_source=rss",
+      "date": "2026-04-07T22:49:12.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Universal Music, the label behind superstars Taylor Swift and Bad Bunny, is expected to list in NY from Amsterdam."
+    },
+    {
+      "title": "Trump announces two-week ceasefire as Iran agrees to reopen Hormuz Strait",
+      "link": "https://www.aljazeera.com/news/2026/4/7/trump-suspends-iran-bombing-for-two-weeks-following-dire-threats?traffic_source=rss",
+      "date": "2026-04-07T22:48:53.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Iran has said that safe passage through Hormuz will be possible through coordination with its armed forces."
+    },
+    {
+      "title": "What we know about Pakistan’s proposed Iran war pause",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/what-we-know-about-pakistans-proposed-iran-war-pause?traffic_source=rss",
+      "date": "2026-04-07T22:24:13.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Pakistan’s Prime Minister Shehbaz Sharif says diplomatic efforts to resolve the US-Israeli war on Iran are progressing."
+    },
+    {
+      "title": "Iranian musician stages protest at power station over Trump threats",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/iranian-musician-stages-protest-at-power-station-over-trump-threats?traffic_source=rss",
+      "date": "2026-04-07T22:13:09.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Iranian musician Ali Ghamsari has been performing outside the Damavand power station in a symbolic protest."
+    },
+    {
+      "title": "Arsenal beat Sporting with late Havertz goal in Champions League quarters",
+      "link": "https://www.aljazeera.com/sports/2026/4/7/arsenal-beat-sporting-with-late-havertz-goal-in-champions-league-quarters?traffic_source=rss",
+      "date": "2026-04-07T22:03:12.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Arsenal score late winner at Sporting Lisbon to take 1-0 first-leg advantage back to London next week."
+    },
+    {
+      "title": "Djibouti and the Horn of Africa: new front in the war on Iran",
+      "link": "https://www.aljazeera.com/video/2026/4/7/djibouti-and-the-horn-of-africa-new-front-in-the-war-on-iran?traffic_source=rss",
+      "date": "2026-04-07T21:57:50.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Djibouti built its economy on the strategy of charging rent to different military world powers."
+    },
+    {
+      "title": "Iran warns region and beyond as tension builds ahead of US ultimatum",
+      "link": "https://www.aljazeera.com/news/2026/4/7/iran-warns-region-and-beyond-as-tension-builds-ahead-of-us-ultimatum?traffic_source=rss",
+      "date": "2026-04-07T21:48:54.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Trump has threatened to step up the US-Israeli war on Iran by destroying every bridge and power plant in the country."
+    },
+    {
+      "title": "The HH-60W helped rescue a pilot in Iran. Here’s why the Air Force might not buy more.",
+      "link": "https://breakingdefense.com/2026/04/iran-pilot-rescue-hh60-jolly-green-helicopter-trump/",
+      "date": "2026-04-07T20:33:31.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "A Madman Without a Strategy: Trump’s Latest Threats Are Unacceptable",
+      "link": "https://www.armscontrol.org/pressroom/2026-04/madman-without-strategy-trumps-latest-threats-are-unacceptable",
+      "date": "2026-04-07T18:21:11.000Z",
+      "source": "Arms Control Association",
+      "sourceId": "arms_control",
+      "category": "policy",
+      "snippet": ""
+    },
+    {
+      "title": "The Iran War’s Widening Impacts in the Middle East and North Africa",
       "link": "https://warontherocks.com/2026/04/in-brief-the-iran-wars-widening-impacts-in-the-middle-east-and-north-africa/",
       "date": "2026-04-07T18:09:43.000Z",
       "source": "War on the Rocks",
       "sourceId": "war_on_rocks",
       "category": "strategic",
       "snippet": ""
-    },
-    {
-      "title": "Why JD Vance joined Pakistan’s last-ditch US-Iran mediation efforts",
-      "link": "https://www.aljazeera.com/news/2026/4/7/why-jd-vance-joined-pakistans-last-ditch-us-iran-mediation-efforts?traffic_source=rss",
-      "date": "2026-04-07T17:32:05.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Backchannel talks gain pace as Pakistan mediates and Iran seeks indirect engagement through US vice president."
-    },
-    {
-      "title": "WHO halts Gaza medical evacuations after worker killed",
-      "link": "https://www.aljazeera.com/news/2026/4/7/who-halts-gaza-medical-evacuations-after-worker-killed?traffic_source=rss",
-      "date": "2026-04-07T17:19:53.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Evacuations will remain suspended until further notice, WHO says, adding that the incident is under investigation."
     },
     {
       "title": "Bell, M1 advance to final phase of Army’s Flight School Next competition",
@@ -57,60 +129,6 @@
       "sourceId": "breaking_defense",
       "category": "defense",
       "snippet": ""
-    },
-    {
-      "title": "Top university says US-Israel attack targeted Iran’s progress, AI learning",
-      "link": "https://www.aljazeera.com/news/2026/4/7/top-university-says-us-israel-attack-targeted-irans-progress-ai-learning?traffic_source=rss",
-      "date": "2026-04-07T17:03:21.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Iran condemns systematic attacks on civilian sites, including academic hubs, as war devastates critical infrastructure."
-    },
-    {
-      "title": "US denies nuclear plan as deadline on threat to Iran ‘civilisation’ looms",
-      "link": "https://www.aljazeera.com/news/2026/4/7/us-denies-nuclear-plan-as-deadline-on-threat-to-iran-civilisation-looms?traffic_source=rss",
-      "date": "2026-04-07T17:02:23.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Trump&#039;s threat to kill &#039;whole civilization&#039; and comments from VP have raised fears."
-    },
-    {
-      "title": "Netanyahu: Israel shifting ‘balance of power’ with Iran strikes",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/netanyahu-israel-shifting-balance-of-power-with-iran-strikes?traffic_source=rss",
-      "date": "2026-04-07T16:56:56.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Israeli Prime Minister Benjamin Netanyahu says Israel is intensifying strikes on Iran."
-    },
-    {
-      "title": "Russia confirms 16 Cameroonian soldiers killed in Ukraine war",
-      "link": "https://www.aljazeera.com/news/2026/4/7/russia-confirms-16-cameroonian-soldiers-killed-in-ukraine-war?traffic_source=rss",
-      "date": "2026-04-07T16:40:17.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "No information has been provided specifying how the soldiers ended up fighting for Russia."
-    },
-    {
-      "title": "Fire erupts near industrial site in Saudi Arabia after Iranian strikes",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/fire-erupts-near-industrial-site-in-saudi-arabia-after-iranian-strikes?traffic_source=rss",
-      "date": "2026-04-07T16:36:57.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "A suspected Iranian missile attack sparked a huge fire near an industrial complex in Saudi Arabia."
-    },
-    {
-      "title": "Can Africa tackle the oil shock from the Iran war?",
-      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/4/7/can-africa-tackle-the-oil-shock-from-the-iran-war?traffic_source=rss",
-      "date": "2026-04-07T16:30:00.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "African nations are scrambling to secure oil and gas as the Iran war disrupts supplies from the Middle East."
     },
     {
       "title": "Details of the $1.5 trillion defense budget request, and a key lawmaker&#8217;s take on the F-35",
@@ -255,34 +273,32 @@
       "sourceId": "war_on_rocks",
       "category": "strategic",
       "snippet": ""
-    },
-    {
-      "title": "Golden Dome, out-years and lots of missiles: Details of Trump&#8217;s $1.5T defense budget request",
-      "link": "https://breakingdefense.com/2026/04/golden-dome-out-years-and-lots-of-missiles-details-of-trumps-1-5t-defense-budget-request/",
-      "date": "2026-04-03T21:58:39.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "The Limits of Trump’s Regime Capture Strategy from Venezuela to Cuba",
-      "link": "https://warontherocks.com/2026/04/the-limits-of-trumps-regime-capture-strategy-from-venezuela-to-cuba/",
-      "date": "2026-04-03T07:30:42.000Z",
-      "source": "War on the Rocks",
-      "sourceId": "war_on_rocks",
-      "category": "strategic",
-      "snippet": ""
     }
   ],
   "alerts": [
     {
       "level": "CRITICAL",
-      "keyword": "nuclear",
-      "title": "US denies nuclear plan as deadline on threat to Iran ‘civilisation’ looms",
+      "keyword": "strait of hormuz",
+      "title": "Iran agrees to open Strait of Hormuz for two-week US ceasefire",
       "source": "Al Jazeera — Middle East",
-      "date": "2026-04-07T17:02:23.000Z",
-      "link": "https://www.aljazeera.com/news/2026/4/7/us-denies-nuclear-plan-as-deadline-on-threat-to-iran-civilisation-looms?traffic_source=rss"
+      "date": "2026-04-08T01:00:30.000Z",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/iran-agrees-to-open-strait-of-hormuz-for-two-week-us-ceasefire?traffic_source=rss"
+    },
+    {
+      "level": "CRITICAL",
+      "keyword": "strait of hormuz",
+      "title": "Trump agrees to pause attacks on Iran if Strait of Hormuz opens",
+      "source": "Al Jazeera — Middle East",
+      "date": "2026-04-07T23:25:46.000Z",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/trump-agrees-to-pause-attacks-on-iran-if-strait-of-hormuz-opens?traffic_source=rss"
+    },
+    {
+      "level": "CRITICAL",
+      "keyword": "ceasefire",
+      "title": "Trump announces two-week ceasefire as Iran agrees to reopen Hormuz Strait",
+      "source": "Al Jazeera — Middle East",
+      "date": "2026-04-07T22:48:53.000Z",
+      "link": "https://www.aljazeera.com/news/2026/4/7/trump-suspends-iran-bombing-for-two-weeks-following-dire-threats?traffic_source=rss"
     },
     {
       "level": "CRITICAL",
@@ -291,14 +307,6 @@
       "source": "War on the Rocks",
       "date": "2026-04-06T18:12:05.000Z",
       "link": "https://warontherocks.com/2026/04/reopening-the-strait-of-hormuz-saving-downed-pilots/"
-    },
-    {
-      "level": "CRITICAL",
-      "keyword": "nuclear",
-      "title": "Analysis: U.S. Negotiators Were Ill-Prepared for Serious Nuclear Talks With Iran",
-      "source": "Arms Control Association",
-      "date": "2026-04-01T19:03:00.000Z",
-      "link": "https://www.armscontrol.org/act/2026-04/features/analysis-us-negotiators-were-ill-prepared-serious-nuclear-talks-iran"
     }
   ],
   "sources": [
