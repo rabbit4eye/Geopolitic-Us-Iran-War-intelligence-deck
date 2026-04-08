@@ -1,9 +1,153 @@
 {
-  "lastUpdated": "2026-04-08T12:52:03.521Z",
+  "lastUpdated": "2026-04-08T18:59:14.239Z",
   "feedCount": 5,
   "totalItems": 40,
-  "alertCount": 8,
+  "alertCount": 7,
   "headlines": [
+    {
+      "title": "JD Vance slams Zelenskyy’s comments about Hungary’s Orban",
+      "link": "https://www.aljazeera.com/news/2026/4/8/jd-vance-slams-zelenskyys-comments-about-hungarys-orban?traffic_source=rss",
+      "date": "2026-04-08T18:34:41.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "US vice president in Hungary calls Ukrainian leader&#039;s &#039;threatening&#039; remarks &#039;completely scandalous&#039;."
+    },
+    {
+      "title": "Trump backs Israel, says Lebanon a ‘separate skirmish’ after ceasefire",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/trump-backs-israel-says-lebanon-a-separate-skirmish-after-ceasefire?traffic_source=rss",
+      "date": "2026-04-08T18:30:33.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "After Israeli strikes on Beirut, Donald Trump said Lebanon isn’t included in the Iran ceasefire."
+    },
+    {
+      "title": "How Trump’s promise to ‘wipe out’ Iran could backfire on US power",
+      "link": "https://www.aljazeera.com/video/the-take-2/2026/4/8/aje-onl-tt_irn_latestescalation_av_v2-080426?traffic_source=rss",
+      "date": "2026-04-08T18:24:57.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "The world counts down to Trump’s threats of destruction."
+    },
+    {
+      "title": "‘A lot of work to do’ to reopen Strait of Hormuz after US-Iran ceasefire",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/starmer-a-lot-of-work-to-do-to-reopen-strait-of-hormuz-after-us-iran-cea?traffic_source=rss",
+      "date": "2026-04-08T18:08:00.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "British Prime Minister Keir Starmer said more work is needed to reopen the Strait of Hormuz."
+    },
+    {
+      "title": "Army Data Operations Center is open for requests",
+      "link": "https://breakingdefense.com/2026/04/army-data-operations-center-is-open-for-requests/",
+      "date": "2026-04-08T17:58:38.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "Ecuador recalls its ambassador from Colombia over Jorge Glas comments",
+      "link": "https://www.aljazeera.com/news/2026/4/8/ecuador-recalls-its-ambassador-from-colombia-over-jorge-glas-comments?traffic_source=rss",
+      "date": "2026-04-08T17:50:31.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "The diplomatic manouevre is the latest sign of tension between right-wing Daniel Noboa and left-wing Gustavo Petro."
+    },
+    {
+      "title": "‘Why my child?’: Yemen’s Taiz mourns sniper’s killing of teen",
+      "link": "https://www.aljazeera.com/news/2026/4/8/why-my-child-yemens-taiz-mourns-snipers-killing-of-teen?traffic_source=rss",
+      "date": "2026-04-08T17:34:45.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Yemeni child killed by suspected Houthi sniper while heading to school in Taiz sparks grief and outrage among locals."
+    },
+    {
+      "title": "How NATO&#8217;s Air Defense Future is Unfolding",
+      "link": "https://warontherocks.com/2026/04/how-natos-air-defense-future-is-unfolding/",
+      "date": "2026-04-08T17:30:01.000Z",
+      "source": "War on the Rocks",
+      "sourceId": "war_on_rocks",
+      "category": "strategic",
+      "snippet": ""
+    },
+    {
+      "title": "Civilians under fire by gangs in Gaza: What happened in Maghazi?",
+      "link": "https://www.aljazeera.com/features/2026/4/8/civilians-under-fire-by-gangs-in-gaza-what-happened-in-maghazi?traffic_source=rss",
+      "date": "2026-04-08T17:10:19.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Armed men have raided Maghazi refugee camp in central Gaza, apparently with support from the Israeli army."
+    },
+    {
+      "title": "Trump claims victory in Iran — but is this really a win?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/trump-claims-victory-in-iran-but-is-this-really-a?traffic_source=rss",
+      "date": "2026-04-08T17:07:04.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Before a single term has been negotiated, Trump is claiming total victory over Iran, but is this really a win?"
+    },
+    {
+      "title": "Israeli attack kills Al Jazeera journalist Mohammed Wishah in Gaza",
+      "link": "https://www.aljazeera.com/news/2026/4/8/israeli-attack-kills-al-jazeera-journalist-mohammed-wishah-in-gaza?traffic_source=rss",
+      "date": "2026-04-08T17:05:13.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Israeli drone strike kills Mohammed Wishah, a correspondent for Al Jazeera Mubasher, west of Gaza City."
+    },
+    {
+      "title": "Lebanon PM welcomes US-Iran ceasefire as Israeli strikes hit Beirut",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/lebanon-pm-welcomes-us-iran-ceasefire-as-israeli-strikes-hit-beirut?traffic_source=rss",
+      "date": "2026-04-08T17:03:56.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Lebanon&#039;s PM Nawaf Salam expressed optimism in de-escalation hours after Tehran and Washington struck a ceasefire deal."
+    },
+    {
+      "title": "BAE Systems trials low-cost counter drone solution for Eurofighter Typhoon",
+      "link": "https://breakingdefense.com/2026/04/bae-systems-trials-low-cost-counter-drone-solution-for-eurofighter-typhoon/",
+      "date": "2026-04-08T15:33:00.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "France to increase defense spending by $42 billion, mulls new tank effort",
+      "link": "https://breakingdefense.com/2026/04/france-to-increase-defense-spending-by-42-billion-mulls-new-tank-effort/",
+      "date": "2026-04-08T15:26:02.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "As 2-week ceasefire takes hold, Pentagon touts &#8216;decisive military victory&#8217;",
+      "link": "https://breakingdefense.com/2026/04/as-2-week-ceasefire-takes-hold-pentagon-touts-decisive-military-victory/",
+      "date": "2026-04-08T14:27:28.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "AFCENT awards Kraus Hamdani $270M for solar-powered, long-endurance drones",
+      "link": "https://breakingdefense.com/2026/04/afcent-awards-kraus-hamdani-270m-for-solar-powered-long-endurance-drones/",
+      "date": "2026-04-08T14:09:27.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
     {
       "title": "Breaking Defense expands editorial staff, with Ben Watson joining as production editor",
       "link": "https://breakingdefense.com/2026/04/breaking-defense-expands-editorial-staff-with-ben-watson-joining-as-production-editor/",
@@ -14,51 +158,6 @@
       "snippet": ""
     },
     {
-      "title": "US ‘third-country’ deportees deal sparks backlash in DRC",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/us-third-country-deportees-deal-sparks-backlash-in-drc?traffic_source=rss",
-      "date": "2026-04-08T10:51:23.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "US ‘third-country’ deportees deal sparks backlash in DRC"
-    },
-    {
-      "title": "UAE, Kuwait, Bahrain report attacks despite Iran-US ceasefire",
-      "link": "https://www.aljazeera.com/news/2026/4/8/uae-kuwait-bahrain-report-attacks-despite-iran-us-ceasefire?traffic_source=rss",
-      "date": "2026-04-08T10:43:30.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Several strikes reported across the Gulf region hours after the US and Iran announce a ceasefire for two weeks."
-    },
-    {
-      "title": "‘We’re new miyas’: Will BJP naming some Assamese Muslims ‘Indigenous’ work?",
-      "link": "https://www.aljazeera.com/news/2026/4/8/were-new-miyas-will-bjp-naming-some-assamese-muslims-indigenous-work?traffic_source=rss",
-      "date": "2026-04-08T10:22:55.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "As BJP reaches out to 4 million Muslims in the poll-bound northeastern state, many remain sceptical of party&#039;s agenda."
-    },
-    {
-      "title": "China probes ‘malicious’ cyberbullying of teen diving champion Quan",
-      "link": "https://www.aljazeera.com/sports/2026/4/8/china-probes-malicious-cyberbullying-of-teen-diving-champion-quan?traffic_source=rss",
-      "date": "2026-04-08T10:14:44.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Three-time Olympic gold medallist has faced toxic online abuse and considered quitting over comments on her appearance."
-    },
-    {
-      "title": "Meloni’s Trump trouble: Why Italian PM is distancing herself from US leader",
-      "link": "https://www.aljazeera.com/news/2026/4/8/melonis-trump-trouble-why-italian-pm-is-distancing-herself-from-us-leader?traffic_source=rss",
-      "date": "2026-04-08T10:14:36.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "The Italian leader&#039;s cosy alliance with Trump may have become more of a liability than an asset as key elections near."
-    },
-    {
       "title": "As more nations seek counterspace chops, GPS jamming also rises: Report",
       "link": "https://breakingdefense.com/2026/04/as-more-nations-seek-counterspace-chops-gps-jamming-also-rises-report/",
       "date": "2026-04-08T10:00:00.000Z",
@@ -66,51 +165,6 @@
       "sourceId": "breaking_defense",
       "category": "defense",
       "snippet": ""
-    },
-    {
-      "title": "Lebanon excluded from ceasefire as Israeli strikes continue",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/lebanon-excluded-from-ceasefire-as-israeli-strikes-continue?traffic_source=rss",
-      "date": "2026-04-08T09:29:33.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Israel has backed a ceasefire between the US and Iran but made clear it does not extend to Lebanon."
-    },
-    {
-      "title": "US-Iran ceasefire deal: What are the terms, and what’s next?",
-      "link": "https://www.aljazeera.com/news/2026/4/8/us-iran-ceasefire-deal-what-are-the-terms-and-whats-next?traffic_source=rss",
-      "date": "2026-04-08T09:20:22.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Trump cites Iran&#039;s 10-point plan as a basis for negotiation, signalling potential progress towards long-term peace."
-    },
-    {
-      "title": "GCC, other Middle East nations react to Iran-US ceasefire announcement",
-      "link": "https://www.aljazeera.com/news/2026/4/8/gulf-arab-nations-react-to-iran-us-ceasefire-announcement?traffic_source=rss",
-      "date": "2026-04-08T08:24:31.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Countries in the region welcome the temporary truce and urge negotiations for the war&#039;s permanent end."
-    },
-    {
-      "title": "Romanian football great Mircea Lucescu dies aged 80",
-      "link": "https://www.aljazeera.com/sports/2026/4/8/romanian-football-great-mircea-lucescu-dies-aged-80?traffic_source=rss",
-      "date": "2026-04-08T08:21:20.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Lucescu, one of the most successful Romanian football coaches and players, won several European club titles."
-    },
-    {
-      "title": "Tehran celebrates as Iran, US agree to two-week ceasefire",
-      "link": "https://www.aljazeera.com/gallery/2026/4/8/tehran-celebrates-as-iran-us-agree-to-two-week-ceasefire?traffic_source=rss",
-      "date": "2026-04-08T08:21:05.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Iran hails the pause in hostilities as a &#039;victory&#039;, crediting national unity and patience for the agreement."
     },
     {
       "title": "How This Precision Weapon Reengineered Modern War",
@@ -176,26 +230,8 @@
       "snippet": ""
     },
     {
-      "title": "Italy set to sign off on Turkish TB3 drone order within months, says Baykar CEO",
-      "link": "https://breakingdefense.com/2026/04/italy-set-to-sign-off-on-turkish-tb3-drone-order-within-months-says-baykar-ceo/",
-      "date": "2026-04-07T14:54:34.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "Suspect in space? Analysis finds 75 &#8216;unusual&#8217; moves by Chinese satellites in nearly 10 years",
-      "link": "https://breakingdefense.com/2026/04/suspect-in-space-analysis-finds-75-unusual-moves-by-chinese-satellites-in-nearly-10-years/",
-      "date": "2026-04-07T14:30:00.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
       "title": "The Hidden System Turning Chinese Tech Companies into Military Suppliers",
-      "link": "https://warontherocks.com/2026/04/the-hidden-system-turning-chinese-tech-companies-into-military-suppliers-2/",
+      "link": "https://warontherocks.com/2026/04/the-hidden-system-turning-chinese-tech-companies-into-military-suppliers/",
       "date": "2026-04-07T08:00:02.000Z",
       "source": "War on the Rocks",
       "sourceId": "war_on_rocks",
@@ -221,33 +257,6 @@
       "snippet": ""
     },
     {
-      "title": "General Atomics CCA drone wingman prototype crashes in California",
-      "link": "https://breakingdefense.com/2026/04/general-atomics-cca-drone-wingman-prototype-crashes-in-california/",
-      "date": "2026-04-07T00:19:03.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "Greece inks $750M deal with Israel for Elbit’s PULS Rocket Artillery Systems",
-      "link": "https://breakingdefense.com/2026/04/greece-inks-750m-deal-with-israel-for-elbits-puls-rocket-artillery-systems/",
-      "date": "2026-04-06T19:44:41.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "Army&#8217;s Scarlet Dragon exercise adds commercial data to battlefield data flows",
-      "link": "https://breakingdefense.com/2026/04/armys-scarlet-dragon-exercise-adds-commercial-data-to-battlefield-data-flows/",
-      "date": "2026-04-06T19:12:19.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
       "title": "Reopening the Strait of Hormuz &#038; Saving Downed Pilots",
       "link": "https://warontherocks.com/2026/04/reopening-the-strait-of-hormuz-saving-downed-pilots/",
       "date": "2026-04-06T18:12:05.000Z",
@@ -264,73 +273,56 @@
       "sourceId": "war_on_rocks",
       "category": "strategic",
       "snippet": ""
-    },
-    {
-      "title": "2026 Annual Meeting",
-      "link": "https://www.armscontrol.org/node/15262",
-      "date": "2026-04-06T13:48:42.000Z",
-      "source": "Arms Control Association",
-      "sourceId": "arms_control",
-      "category": "policy",
-      "snippet": ""
     }
   ],
   "alerts": [
     {
       "level": "CRITICAL",
       "keyword": "ceasefire",
-      "title": "UAE, Kuwait, Bahrain report attacks despite Iran-US ceasefire",
+      "title": "Trump backs Israel, says Lebanon a ‘separate skirmish’ after ceasefire",
       "source": "Al Jazeera — Middle East",
-      "date": "2026-04-08T10:43:30.000Z",
-      "link": "https://www.aljazeera.com/news/2026/4/8/uae-kuwait-bahrain-report-attacks-despite-iran-us-ceasefire?traffic_source=rss"
+      "date": "2026-04-08T18:30:33.000Z",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/trump-backs-israel-says-lebanon-a-separate-skirmish-after-ceasefire?traffic_source=rss"
     },
     {
       "level": "CRITICAL",
-      "keyword": "ceasefire",
-      "title": "Lebanon excluded from ceasefire as Israeli strikes continue",
+      "keyword": "strait of hormuz",
+      "title": "‘A lot of work to do’ to reopen Strait of Hormuz after US-Iran ceasefire",
       "source": "Al Jazeera — Middle East",
-      "date": "2026-04-08T09:29:33.000Z",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/lebanon-excluded-from-ceasefire-as-israeli-strikes-continue?traffic_source=rss"
-    },
-    {
-      "level": "CRITICAL",
-      "keyword": "ceasefire",
-      "title": "US-Iran ceasefire deal: What are the terms, and what’s next?",
-      "source": "Al Jazeera — Middle East",
-      "date": "2026-04-08T09:20:22.000Z",
-      "link": "https://www.aljazeera.com/news/2026/4/8/us-iran-ceasefire-deal-what-are-the-terms-and-whats-next?traffic_source=rss"
+      "date": "2026-04-08T18:08:00.000Z",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/starmer-a-lot-of-work-to-do-to-reopen-strait-of-hormuz-after-us-iran-cea?traffic_source=rss"
     },
     {
       "level": "ELEVATED",
-      "keyword": "negotiation",
-      "title": "US-Iran ceasefire deal: What are the terms, and what’s next?",
+      "keyword": "houthi",
+      "title": "‘Why my child?’: Yemen’s Taiz mourns sniper’s killing of teen",
       "source": "Al Jazeera — Middle East",
-      "date": "2026-04-08T09:20:22.000Z",
-      "link": "https://www.aljazeera.com/news/2026/4/8/us-iran-ceasefire-deal-what-are-the-terms-and-whats-next?traffic_source=rss"
+      "date": "2026-04-08T17:34:45.000Z",
+      "link": "https://www.aljazeera.com/news/2026/4/8/why-my-child-yemens-taiz-mourns-snipers-killing-of-teen?traffic_source=rss"
+    },
+    {
+      "level": "HIGH",
+      "keyword": "drone strike",
+      "title": "Israeli attack kills Al Jazeera journalist Mohammed Wishah in Gaza",
+      "source": "Al Jazeera — Middle East",
+      "date": "2026-04-08T17:05:13.000Z",
+      "link": "https://www.aljazeera.com/news/2026/4/8/israeli-attack-kills-al-jazeera-journalist-mohammed-wishah-in-gaza?traffic_source=rss"
     },
     {
       "level": "CRITICAL",
       "keyword": "ceasefire",
-      "title": "GCC, other Middle East nations react to Iran-US ceasefire announcement",
+      "title": "Lebanon PM welcomes US-Iran ceasefire as Israeli strikes hit Beirut",
       "source": "Al Jazeera — Middle East",
-      "date": "2026-04-08T08:24:31.000Z",
-      "link": "https://www.aljazeera.com/news/2026/4/8/gulf-arab-nations-react-to-iran-us-ceasefire-announcement?traffic_source=rss"
-    },
-    {
-      "level": "ELEVATED",
-      "keyword": "negotiation",
-      "title": "GCC, other Middle East nations react to Iran-US ceasefire announcement",
-      "source": "Al Jazeera — Middle East",
-      "date": "2026-04-08T08:24:31.000Z",
-      "link": "https://www.aljazeera.com/news/2026/4/8/gulf-arab-nations-react-to-iran-us-ceasefire-announcement?traffic_source=rss"
+      "date": "2026-04-08T17:03:56.000Z",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/lebanon-pm-welcomes-us-iran-ceasefire-as-israeli-strikes-hit-beirut?traffic_source=rss"
     },
     {
       "level": "CRITICAL",
       "keyword": "ceasefire",
-      "title": "Tehran celebrates as Iran, US agree to two-week ceasefire",
-      "source": "Al Jazeera — Middle East",
-      "date": "2026-04-08T08:21:05.000Z",
-      "link": "https://www.aljazeera.com/gallery/2026/4/8/tehran-celebrates-as-iran-us-agree-to-two-week-ceasefire?traffic_source=rss"
+      "title": "As 2-week ceasefire takes hold, Pentagon touts &#8216;decisive military victory&#8217;",
+      "source": "Breaking Defense",
+      "date": "2026-04-08T14:27:28.000Z",
+      "link": "https://breakingdefense.com/2026/04/as-2-week-ceasefire-takes-hold-pentagon-touts-decisive-military-victory/"
     },
     {
       "level": "CRITICAL",
