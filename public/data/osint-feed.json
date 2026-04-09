@@ -1,98 +1,152 @@
 {
-  "lastUpdated": "2026-04-09T12:54:24.586Z",
+  "lastUpdated": "2026-04-09T18:44:26.444Z",
   "feedCount": 5,
   "totalItems": 40,
   "alertCount": 4,
   "headlines": [
     {
-      "title": "Global energy crisis is ‘the mother of all crises’: Turkish energy minister",
-      "link": "https://www.aljazeera.com/news/2026/4/9/energy-crisis-is-the-mother-of-all-crises-turkish-energy-minister?traffic_source=rss",
-      "date": "2026-04-09T12:18:31.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Turkiye is a key regional energy hub due to its investments, location and oil reserves, the minister tells Al Jazeera."
+      "title": "Israel to ramp up production of Arrow interceptors",
+      "link": "https://breakingdefense.com/2026/04/israel-to-ramp-up-production-of-arrow-interceptors/",
+      "date": "2026-04-09T18:40:00.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
     },
     {
-      "title": "Fury vs Makhmudov: All you need to know about the heavyweight boxing bout",
-      "link": "https://www.aljazeera.com/sports/2026/4/9/fury-vs-makhmudov-all-you-need-to-know-about-the-heavyweight-boxing-bout?traffic_source=rss",
-      "date": "2026-04-09T12:09:29.000Z",
+      "title": "Iranians rally nationwide to honour late leader Ali Khamenei",
+      "link": "https://www.aljazeera.com/gallery/2026/4/9/iranians-rally-nationwide-to-honor-late-leader-ali-khamenei?traffic_source=rss",
+      "date": "2026-04-09T18:23:47.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Tyson Fury comes out of retirement to fight devastating puncher Arslanbek Makhmudov at the Tottenham Hotspur Stadium."
+      "snippet": "Thousands gathered across Iran to honor Ali Khamenei, whose assassination marked the start of the US-Israeli attack."
     },
     {
-      "title": "Bosnian ball boy who hid Donnarumma’s penalty shootout notes hailed as hero",
-      "link": "https://www.aljazeera.com/sports/2026/4/9/bosnian-ball-boy-who-hid-donnarummas-penalty-shootout-notes-hailed-as-hero?traffic_source=rss",
-      "date": "2026-04-09T11:57:31.000Z",
+      "title": "‘Not some piece of ice’: Greenland hits back at Trump insult",
+      "link": "https://www.aljazeera.com/news/2026/4/9/not-some-piece-of-ice-greenland-hits-back-at-trump-insult?traffic_source=rss",
+      "date": "2026-04-09T18:22:55.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Afan Cizmic, a 14-year-old ball boy in the Bosnia vs Italy World Cup qualifying final, took away the goalkeeper&#039;s notes."
+      "snippet": "PM Nielsen calls Greenland a proud nation seeking to maintain global order, after US president calls it &#039;piece of ice&#039;."
     },
     {
-      "title": "Funeral held for Al Jazeera’s Wishah killed in Israeli strike in Gaza",
-      "link": "https://www.aljazeera.com/news/2026/4/9/funeral-held-for-al-jazeeras-wishah-killed-in-israeli-strike-in-gaza?traffic_source=rss",
-      "date": "2026-04-09T11:54:24.000Z",
+      "title": "UK says three Russian submarines tracked during ‘covert’ operation",
+      "link": "https://www.aljazeera.com/news/2026/4/9/uk-says-three-russian-submarines-tracked-during-covert-operation?traffic_source=rss",
+      "date": "2026-04-09T18:20:57.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "More than 260 journalists have been killed by Israel in Gaza since the start of the genocide in October 2023."
+      "snippet": "British defence minister says the operation did not find evidence that Russia had damaged undersea infrastructure."
     },
     {
-      "title": "Why Israel’s attacks on Lebanon could cripple US-Iran ceasefire",
-      "link": "https://www.aljazeera.com/news/2026/4/9/why-israels-attacks-on-lebanon-could-cripple-us-iran-ceasefire?traffic_source=rss",
-      "date": "2026-04-09T10:57:56.000Z",
+      "title": "Zohran Mamdani on 100 days as New York mayor",
+      "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/4/9/zohran-mamdani-on-100-days-as-new-york-mayor?traffic_source=rss",
+      "date": "2026-04-09T18:12:29.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Ceasefire dispute escalates as US and Israel exclude Lebanon, raising fears of a broader regional conflict."
+      "snippet": "NYC’s mayor reflects on childcare, housing, bigotry, Iran and the future of the Democratic Party."
     },
     {
-      "title": "Argentina MPs approve bill allowing mining in glaciers",
-      "link": "https://www.aljazeera.com/news/2026/4/9/argentinas-lawmakers-approve-bill-allowing-mining-in-glaciers?traffic_source=rss",
-      "date": "2026-04-09T10:25:09.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Thousands of people have demonstrated against the bill, which scientists and activists say threatens water resources."
+      "title": "UK accuses Russia of covert submarine operation threatening undersea cables",
+      "link": "https://breakingdefense.com/2026/04/uk-accuses-russia-of-covert-submarine-operation-threatening-undersea-cables/",
+      "date": "2026-04-09T18:07:57.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
     },
     {
-      "title": "Trump’s administration trying to sell war ‘wins’ to a sceptical US public",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/trumps-administration-trying-to-sell-war-wins-to-a-sceptical-us-public?traffic_source=rss",
-      "date": "2026-04-09T10:13:59.000Z",
+      "title": "Zohran Mamdani on his first 100 days",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/zohran-mamdani-on-his-first-100-days?traffic_source=rss",
+      "date": "2026-04-09T18:04:58.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Trump’s administration trying to sell war ‘wins’ to a sceptical US public"
+      "snippet": "100 days in, NYC Mayor Zohran Mamdani faces a performance review. We asked New Yorkers about his record."
     },
     {
-      "title": "Djibouti elections: Who’s running against Guelleh and what’s at stake?",
-      "link": "https://www.aljazeera.com/news/2026/4/9/djibouti-elections-whos-running-against-guelleh-and-whats-at-stake?traffic_source=rss",
-      "date": "2026-04-09T09:57:37.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Long-ruling leader faces no real competition as he seeks a sixth term in the strategic Horn of Africa country."
+      "title": "Navy selects Leidos, Defense Unicorns to test software prototypes for ships",
+      "link": "https://breakingdefense.com/2026/04/navy-selects-leidos-defense-unicorns-to-test-software-prototypes-for-ships/",
+      "date": "2026-04-09T18:01:00.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
     },
     {
-      "title": "Several people reported killed in fresh Israeli attacks on Lebanon",
-      "link": "https://www.aljazeera.com/news/2026/4/9/fresh-israeli-attacks-on-lebanon-threaten-us-iran-ceasefire?traffic_source=rss",
-      "date": "2026-04-09T09:29:04.000Z",
+      "title": "US Democrats warn Trump that Iran ceasefire must apply to Lebanon",
+      "link": "https://www.aljazeera.com/news/2026/4/9/us-democrats-warn-trump-that-iran-ceasefire-must-apply-to-lebanon?traffic_source=rss",
+      "date": "2026-04-09T17:38:26.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Lebanon bears the brunt and US-Iran truce at risk as Israel claims killing of a close aide to Hezbollah&#039;s leader."
+      "snippet": "Democratic lawmakers tell White House that allowing Israel to continue to bomb Lebanon could reignite the regional war."
     },
     {
-      "title": "The war on Iran: Nobody won, everyone paid",
-      "link": "https://www.aljazeera.com/opinions/2026/4/9/the-war-on-iran-nobody-won-everyone-paid?traffic_source=rss",
-      "date": "2026-04-09T09:27:05.000Z",
+      "title": "Sidon residents recall horror of Israeli strikes after Iran ceasefire",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/sidon-residents-recall-horror-of-israeli-strikes-after-iran-ceasefire?traffic_source=rss",
+      "date": "2026-04-09T17:37:15.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "The US-Israeli campaign has failed to achieve its goals. Iran has been badly hit, and the Gulf is paying the bill too."
+      "snippet": "Residents in Sidon are surveying the destruction after Israeli strikes flattened a religious complex."
+    },
+    {
+      "title": "Does a US-Iran ceasefire mean the end of the war?",
+      "link": "https://www.aljazeera.com/video/the-take-2/2026/4/9/aje-onl-tt_irn_ceasefire_av_v2-090426?traffic_source=rss",
+      "date": "2026-04-09T17:31:15.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "After a US-Iran ceasefire deal, strikes slow but tensions remain. Will this hold or collapse?"
+    },
+    {
+      "title": "LA28 Olympics opens ticket sales globally after record local demand",
+      "link": "https://www.aljazeera.com/sports/2026/4/9/la28-olympics-opens-ticket-sales-globally-after-record-local-demand?traffic_source=rss",
+      "date": "2026-04-09T17:23:41.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "LA28 sold more tickets to the domestic audience than any previous Olympic Games as sales open to rest of the world."
+    },
+    {
+      "title": "IMF warns of looming inflation crisis on back of US-Israel war on Iran",
+      "link": "https://www.aljazeera.com/economy/2026/4/9/imf-warns-of-looming-inflation-crisis-on-back-of-us-israel-war-on-iran?traffic_source=rss",
+      "date": "2026-04-09T17:23:22.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "The conflict has driven up prices of oil, natural gas, damaged refineries and other energy infrastructure."
+    },
+    {
+      "title": "China’s dual-use ambitions could severely threaten America’s force posture",
+      "link": "https://breakingdefense.com/2026/04/chinas-dual-use-ambitions-could-severely-threaten-americas-force-posture/",
+      "date": "2026-04-09T17:14:00.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "How the Iran conflict might change defense investments in the Gulf",
+      "link": "https://breakingdefense.com/2026/04/iran-war-defense-investments-middle-east-defense/",
+      "date": "2026-04-09T16:08:32.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "How the Army could spend nearly $19 billion in RDT&#038;E funding",
+      "link": "https://breakingdefense.com/2026/04/how-the-army-could-spend-nearly-19-billion-in-rdte-funding/",
+      "date": "2026-04-09T13:50:35.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
     },
     {
       "title": "Turkish, Italian defense firms team up to produce unmanned surface vessels for Italy",
@@ -158,51 +212,6 @@
       "snippet": ""
     },
     {
-      "title": "France to increase defense spending by $42 billion, mulls new tank effort",
-      "link": "https://breakingdefense.com/2026/04/france-to-increase-defense-spending-by-42-billion-mulls-new-tank-effort/",
-      "date": "2026-04-08T15:26:02.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "As 2-week ceasefire takes hold, Pentagon touts &#8216;decisive military victory&#8217;",
-      "link": "https://breakingdefense.com/2026/04/as-2-week-ceasefire-takes-hold-pentagon-touts-decisive-military-victory/",
-      "date": "2026-04-08T14:27:28.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "AFCENT awards Kraus Hamdani $270M for solar-powered, long-endurance drones",
-      "link": "https://breakingdefense.com/2026/04/afcent-awards-kraus-hamdani-270m-for-solar-powered-long-endurance-drones/",
-      "date": "2026-04-08T14:09:27.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "Breaking Defense expands editorial staff, with Ben Watson joining as production editor",
-      "link": "https://breakingdefense.com/2026/04/breaking-defense-expands-editorial-staff-with-ben-watson-joining-as-production-editor/",
-      "date": "2026-04-08T12:45:00.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "As more nations seek counterspace chops, GPS jamming also rises: Report",
-      "link": "https://breakingdefense.com/2026/04/as-more-nations-seek-counterspace-chops-gps-jamming-also-rises-report/",
-      "date": "2026-04-08T10:00:00.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
       "title": "How This Precision Weapon Reengineered Modern War",
       "link": "https://warontherocks.com/2026/04/how-this-precision-weapon-reengineered-modern-war/",
       "date": "2026-04-08T08:00:44.000Z",
@@ -218,15 +227,6 @@
       "source": "War on the Rocks",
       "sourceId": "war_on_rocks",
       "category": "strategic",
-      "snippet": ""
-    },
-    {
-      "title": "The HH-60W helped rescue a pilot in Iran. Here’s why the Air Force might not buy more.",
-      "link": "https://breakingdefense.com/2026/04/iran-pilot-rescue-hh60-jolly-green-helicopter-trump/",
-      "date": "2026-04-07T20:33:31.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
       "snippet": ""
     },
     {
@@ -279,26 +279,26 @@
     {
       "level": "CRITICAL",
       "keyword": "ceasefire",
-      "title": "Why Israel’s attacks on Lebanon could cripple US-Iran ceasefire",
+      "title": "US Democrats warn Trump that Iran ceasefire must apply to Lebanon",
       "source": "Al Jazeera — Middle East",
-      "date": "2026-04-09T10:57:56.000Z",
-      "link": "https://www.aljazeera.com/news/2026/4/9/why-israels-attacks-on-lebanon-could-cripple-us-iran-ceasefire?traffic_source=rss"
-    },
-    {
-      "level": "ELEVATED",
-      "keyword": "hezbollah",
-      "title": "Several people reported killed in fresh Israeli attacks on Lebanon",
-      "source": "Al Jazeera — Middle East",
-      "date": "2026-04-09T09:29:04.000Z",
-      "link": "https://www.aljazeera.com/news/2026/4/9/fresh-israeli-attacks-on-lebanon-threaten-us-iran-ceasefire?traffic_source=rss"
+      "date": "2026-04-09T17:38:26.000Z",
+      "link": "https://www.aljazeera.com/news/2026/4/9/us-democrats-warn-trump-that-iran-ceasefire-must-apply-to-lebanon?traffic_source=rss"
     },
     {
       "level": "CRITICAL",
       "keyword": "ceasefire",
-      "title": "As 2-week ceasefire takes hold, Pentagon touts &#8216;decisive military victory&#8217;",
-      "source": "Breaking Defense",
-      "date": "2026-04-08T14:27:28.000Z",
-      "link": "https://breakingdefense.com/2026/04/as-2-week-ceasefire-takes-hold-pentagon-touts-decisive-military-victory/"
+      "title": "Sidon residents recall horror of Israeli strikes after Iran ceasefire",
+      "source": "Al Jazeera — Middle East",
+      "date": "2026-04-09T17:37:15.000Z",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/sidon-residents-recall-horror-of-israeli-strikes-after-iran-ceasefire?traffic_source=rss"
+    },
+    {
+      "level": "CRITICAL",
+      "keyword": "ceasefire",
+      "title": "Does a US-Iran ceasefire mean the end of the war?",
+      "source": "Al Jazeera — Middle East",
+      "date": "2026-04-09T17:31:15.000Z",
+      "link": "https://www.aljazeera.com/video/the-take-2/2026/4/9/aje-onl-tt_irn_ceasefire_av_v2-090426?traffic_source=rss"
     },
     {
       "level": "CRITICAL",
