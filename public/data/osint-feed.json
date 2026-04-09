@@ -1,9 +1,81 @@
 {
-  "lastUpdated": "2026-04-09T01:03:23.186Z",
+  "lastUpdated": "2026-04-09T07:07:49.150Z",
   "feedCount": 5,
   "totalItems": 40,
-  "alertCount": 7,
+  "alertCount": 5,
   "headlines": [
+    {
+      "title": "UK’s Mandelson tried to get Epstein’s ‘goddaughter’ access to 10 Downing St",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/uks-mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-st?traffic_source=rss",
+      "date": "2026-04-09T06:33:18.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "UK&#039;s Mandelson tried to get Epstein’s ‘goddaughter’ access to 10 Downing Street"
+    },
+    {
+      "title": "Iran war day 41: What’s happening in Lebanon, Middle East and beyond?",
+      "link": "https://www.aljazeera.com/news/2026/4/9/iran-war-day-41-whats-happening-in-lebanon-middle-east-and-beyond?traffic_source=rss",
+      "date": "2026-04-09T06:32:44.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Lebanon has declared a national day of mourning after Israeli attacks killed at least 254 people in a single day."
+    },
+    {
+      "title": "Hormuz uncertainty mars fragile US-Iran ceasefire",
+      "link": "https://www.aljazeera.com/news/2026/4/9/for-gulf-states-hormuz-uncertainty-casts-shadow-over-fragile-us-iran-truce?traffic_source=rss",
+      "date": "2026-04-09T05:58:36.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Experts say Gulf states are wary of the US agreeing to a deal that gives Iran leverage over vital energy route."
+    },
+    {
+      "title": "Man rescued after two weeks trapped in collapsed Mexico mine",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/man-rescued-after-two-weeks-trapped-in-collapsed-mexico-mine?traffic_source=rss",
+      "date": "2026-04-09T04:55:06.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "A man trapped for nearly two weeks in a flooded gold mine in Sinaloa, Mexico, has been rescued by military divers."
+    },
+    {
+      "title": "Trump slams NATO over Iran after meeting Rutte, renews Greenland threat",
+      "link": "https://www.aljazeera.com/news/2026/4/9/trump-slams-nato-over-iran-after-meeting-rutte-renews-greenland-threat?traffic_source=rss",
+      "date": "2026-04-09T04:46:54.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "US president meets NATO chief, expresses disappointment over member states failing to back war on Iran."
+    },
+    {
+      "title": "13-year-old girl captures terrifying moment Israel bombed Beirut",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/13-year-old-girl-captures-terrifying-moment-israel-bombed-beirut?traffic_source=rss",
+      "date": "2026-04-09T03:27:00.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "A 13-year-old girl on Snapchat captured the moment Israel began its assault on Beirut."
+    },
+    {
+      "title": "Turkish convoy condemns ‘lawless aggression’ of the US and Israel",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/turkish-convoy-condemns-lawless-aggression-of-the-us-and-israel?traffic_source=rss",
+      "date": "2026-04-09T02:26:35.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Hundreds of vehicles have driven through Istanbul to condemn the ‘lawless aggression’ of the US and Israel."
+    },
+    {
+      "title": "Protesters outside Israeli embassy in London condemn assault on Lebanon",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/protesters-outside-israeli-embassy-in-london-condemn-assault-on-lebanon?traffic_source=rss",
+      "date": "2026-04-09T01:23:41.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Protesters have blocked roads outside the Israeli embassy in London, condemning Israel’s violent strikes on Lebanon."
+    },
     {
       "title": "US VP JD Vance says Lebanon is not part of the US-Iran ceasefire",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/us-vp-jd-vance-says-lebanon-is-not-part-of-the-us-iran-ceasefire?traffic_source=rss",
@@ -14,85 +86,13 @@
       "snippet": "US Vice President JD Vance says Lebanon is not part of the US-Iran ceasefire."
     },
     {
-      "title": "Iran war live: Lebanon mourns as Israel raids shake Trump, Tehran ceasefire",
+      "title": "Iran war live: Trump threatens action if Tehran fails to comply with deal",
       "link": "https://www.aljazeera.com/news/liveblog/2026/4/9/iran-war-live-israel-kills-254-in-lebanon-shaking-trump-tehran-ceasefire?traffic_source=rss",
       "date": "2026-04-09T00:00:00.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "UN human rights chief Volker Turk describes Israel&#039;s attacks on Lebanon as &#039;horrific&#039; coming so soon after ceasefire."
-    },
-    {
-      "title": "‘Israel must be restrained for US-Iran ceasefire to hold’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/israel-must-be-restrained-for-us-iran-ceasefire-to?traffic_source=rss",
-      "date": "2026-04-08T23:39:52.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Former US counterterrorism chief Joe Kent had warned Israel could ‘sabotage’ the US-Iran ceasefire."
-    },
-    {
-      "title": "Woman given 15 years for role supplying drugs linked to Matthew Perry death",
-      "link": "https://www.aljazeera.com/news/2026/4/8/woman-given-15-years-for-role-supplying-drugs-linked-to-matthew-perry-death?traffic_source=rss",
-      "date": "2026-04-08T22:49:22.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Drug dealer who supplied dose that eventually led to Perry&#039;s death in 2023 pleaded guilty to five felony drug counts."
-    },
-    {
-      "title": "Americans question Trump’s instinct on Iran war",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/americans-question-trumps-instinct-on-iran-war?traffic_source=rss",
-      "date": "2026-04-08T21:59:51.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Americans are split on whether to trust Donald Trump&#039;s instinct-driven approach to the Iran conflict."
-    },
-    {
-      "title": "JD Vance says Iran would be ‘dumb’ to let talks collapse over Lebanon",
-      "link": "https://www.aljazeera.com/news/2026/4/8/jd-vance-says-iran-would-be-dumb-to-let-talks-collapse-over-lebanon?traffic_source=rss",
-      "date": "2026-04-08T21:50:36.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "The US vice president says Iran had a &#039;legitimate misunderstanding&#039; about Lebanon&#039;s inclusion in this week&#039;s ceasefire."
-    },
-    {
-      "title": "Prosecutors move to subpoena Tiger Woods’ prescription drug records",
-      "link": "https://www.aljazeera.com/sports/2026/4/8/prosecutors-move-to-subpoena-tiger-woods-prescription-drug-records?traffic_source=rss",
-      "date": "2026-04-08T21:50:24.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Woods pleaded not guilty in his driving under the influence case in Florida last week after rolling his SUV."
-    },
-    {
-      "title": "Trump administration signals it is mulling NATO withdrawal after Iran war",
-      "link": "https://www.aljazeera.com/news/2026/4/8/trump-administration-says-it-is-mulling-nato-withdrawal-after-iran-war?traffic_source=rss",
-      "date": "2026-04-08T21:47:23.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "The US president has lashed out at European partners for declining to contribute military forces to the war on Iran."
-    },
-    {
-      "title": "Macron welcomes US-Iran ceasefire and urges Lebanon’s inclusion",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/macron-welcomes-us-iran-ceasefire-and-urges-lebanons-inclusion?traffic_source=rss",
-      "date": "2026-04-08T21:39:14.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "French President Emmanuel Macron welcomed the US-Iran ceasefire as “very good news&quot;."
-    },
-    {
-      "title": "Trump threatens 50% tariffs on countries that supply Iran with weapons",
-      "link": "https://www.aljazeera.com/economy/2026/4/8/trump-threatens-50-tariffs-on-countries-that-supply-iran-with-weapons?traffic_source=rss",
-      "date": "2026-04-08T21:28:08.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "It&#039;s not clear under what legal authority Trump can tack on this tariff, and analysts called it an &#039;empty threat&#039;."
+      "snippet": "UN human rights chief Volker Turk describes Israel&#039;s attacks on Lebanon as &#039;horrific&#039;, coming so soon after ceasefire."
     },
     {
       "title": "Turkey&#8217;s Roketsan opens new production facilities, delivers missiles to armed forces",
@@ -279,6 +279,14 @@
     {
       "level": "CRITICAL",
       "keyword": "ceasefire",
+      "title": "Hormuz uncertainty mars fragile US-Iran ceasefire",
+      "source": "Al Jazeera — Middle East",
+      "date": "2026-04-09T05:58:36.000Z",
+      "link": "https://www.aljazeera.com/news/2026/4/9/for-gulf-states-hormuz-uncertainty-casts-shadow-over-fragile-us-iran-truce?traffic_source=rss"
+    },
+    {
+      "level": "CRITICAL",
+      "keyword": "ceasefire",
       "title": "US VP JD Vance says Lebanon is not part of the US-Iran ceasefire",
       "source": "Al Jazeera — Middle East",
       "date": "2026-04-09T00:36:44.000Z",
@@ -287,34 +295,10 @@
     {
       "level": "CRITICAL",
       "keyword": "ceasefire",
-      "title": "Iran war live: Lebanon mourns as Israel raids shake Trump, Tehran ceasefire",
+      "title": "Iran war live: Trump threatens action if Tehran fails to comply with deal",
       "source": "Al Jazeera — Middle East",
       "date": "2026-04-09T00:00:00.000Z",
       "link": "https://www.aljazeera.com/news/liveblog/2026/4/9/iran-war-live-israel-kills-254-in-lebanon-shaking-trump-tehran-ceasefire?traffic_source=rss"
-    },
-    {
-      "level": "CRITICAL",
-      "keyword": "ceasefire",
-      "title": "‘Israel must be restrained for US-Iran ceasefire to hold’",
-      "source": "Al Jazeera — Middle East",
-      "date": "2026-04-08T23:39:52.000Z",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/israel-must-be-restrained-for-us-iran-ceasefire-to?traffic_source=rss"
-    },
-    {
-      "level": "CRITICAL",
-      "keyword": "ceasefire",
-      "title": "JD Vance says Iran would be ‘dumb’ to let talks collapse over Lebanon",
-      "source": "Al Jazeera — Middle East",
-      "date": "2026-04-08T21:50:36.000Z",
-      "link": "https://www.aljazeera.com/news/2026/4/8/jd-vance-says-iran-would-be-dumb-to-let-talks-collapse-over-lebanon?traffic_source=rss"
-    },
-    {
-      "level": "CRITICAL",
-      "keyword": "ceasefire",
-      "title": "Macron welcomes US-Iran ceasefire and urges Lebanon’s inclusion",
-      "source": "Al Jazeera — Middle East",
-      "date": "2026-04-08T21:39:14.000Z",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/macron-welcomes-us-iran-ceasefire-and-urges-lebanons-inclusion?traffic_source=rss"
     },
     {
       "level": "CRITICAL",
