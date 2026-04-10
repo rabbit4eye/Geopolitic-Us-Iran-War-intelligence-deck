@@ -1,9 +1,144 @@
 {
-  "lastUpdated": "2026-04-10T12:40:54.282Z",
+  "lastUpdated": "2026-04-10T18:36:43.245Z",
   "feedCount": 5,
   "totalItems": 40,
-  "alertCount": 4,
+  "alertCount": 2,
   "headlines": [
+    {
+      "title": "Is the US-Iran ceasefire already doomed?",
+      "link": "https://www.aljazeera.com/opinions/2026/4/10/is-trumps-iran-ceasefire-already-doomed?traffic_source=rss",
+      "date": "2026-04-10T18:01:47.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Even if the talks fail to produce a deal, a return to an all-out war may still be averted."
+    },
+    {
+      "title": "OIC condemns Israeli approval of 34 new West Bank settlements",
+      "link": "https://www.aljazeera.com/news/2026/4/10/oic-condemns-israeli-approval-of-34-new-west-bank-settlements?traffic_source=rss",
+      "date": "2026-04-10T18:01:35.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "The Palestinian Presidency&#039;s office condemned the plan as a &quot;flagrant violation of international ⁠law&quot;."
+    },
+    {
+      "title": "US federal court hears new case against Trump tariffs",
+      "link": "https://www.aljazeera.com/economy/2026/4/10/us-federal-court-hears-new-case-against-trump-tariffs?traffic_source=rss",
+      "date": "2026-04-10T17:35:45.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "The case is to overturn the temporary tariffs that Trump imposed after the Supreme Court struck down his earlier ones."
+    },
+    {
+      "title": "Hawaii’s Kilauea erupts, blasting lava sky-high",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/hawaiis-kilauea-erupts-blasting-lava-sky-high?traffic_source=rss",
+      "date": "2026-04-10T17:11:16.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Lava shot into the air, illuminating the night sky, as Hawaii’s Kīlauea volcano erupted."
+    },
+    {
+      "title": "Starmer and Trump talked military options to reopen Strait of Hormuz",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/starmer-and-trump-talked-military-options-to-reopen-strait-of-hormuz?traffic_source=rss",
+      "date": "2026-04-10T17:03:30.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "British PM Starmer said he and US President Donald Trump discussed “military capabilities” to reopen Hormuz."
+    },
+    {
+      "title": "Israeli settlers turn Passover into celebration of ethnic cleansing",
+      "link": "https://www.aljazeera.com/features/2026/4/10/israeli-settlers-turn-passover-celebration-ethnic-cleansing?traffic_source=rss",
+      "date": "2026-04-10T16:56:41.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Palestinians displaced by settler violence confront loss of community as settlers celebrate their forced expulsions."
+    },
+    {
+      "title": "Navy to mothball USS Boise, capping off years of maintenance challenges",
+      "link": "https://breakingdefense.com/2026/04/navy-to-mothball-uss-boise-capping-off-years-of-maintenance-challenges/",
+      "date": "2026-04-10T16:45:34.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "Netanyahu removes Spain from Gaza coordination centre over ‘hostility’",
+      "link": "https://www.aljazeera.com/news/2026/4/10/netanyahu-removes-spain-from-gaza-coordination-centre-over-hostility?traffic_source=rss",
+      "date": "2026-04-10T16:39:40.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Israel&#039;s Netanyahu accused Spain of waging a &#039;diplomatic war&#039; against Israel."
+    },
+    {
+      "title": "Finland clinches $642 million deal for 112 South Korean K9 howitzers",
+      "link": "https://breakingdefense.com/2026/04/finland-clinches-642-million-deal-for-112-south-korean-k9-howitzers/",
+      "date": "2026-04-10T16:28:43.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "JD Vance expects ‘positive’ US-Iran war talks as he departs for Pakistan",
+      "link": "https://www.aljazeera.com/news/2026/4/10/jd-vance-expects-positive-us-iran-war-talks-as-he-departs-for-pakistan?traffic_source=rss",
+      "date": "2026-04-10T16:05:36.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Vice president says Trump gave &#039;pretty clear guidelines&#039; on talks, which will be productive if Iran does not &#039;play&#039; US."
+    },
+    {
+      "title": "LIVE: Real Madrid vs Girona – La Liga",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/4/10/live-real-madrid-vs-girona-la-liga?traffic_source=rss",
+      "date": "2026-04-10T16:03:23.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Follow our live build-up, with full team news coverage, before our text commentary as Real look to close on Barcelona."
+    },
+    {
+      "title": "US-Iran peace talks in Islamabad face massive hurdles",
+      "link": "https://www.aljazeera.com/video/quotable/2026/4/10/us-iran-peace-talks-in-islamabad-face-massive-hurdles?traffic_source=rss",
+      "date": "2026-04-10T15:59:47.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Ali Vaez, says upcoming talks between the US and Iran may be marred by a deficit of trust."
+    },
+    {
+      "title": "DIA centralizes AI efforts with Digital Modernization Accelerator",
+      "link": "https://breakingdefense.com/2026/04/dia-centralizes-ai-efforts-with-digital-modernization-accelerator/",
+      "date": "2026-04-10T15:51:58.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "Space Force programs supporting Golden Dome see big FY27 budget boost",
+      "link": "https://breakingdefense.com/2026/04/golden-dome-spending-plan-fy27-budget-space-force/",
+      "date": "2026-04-10T14:15:00.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
+    {
+      "title": "Trump’s $1.5T defense budget to weather harsh scrutiny on Capitol Hill",
+      "link": "https://breakingdefense.com/2026/04/trumps-1-5t-defense-budget-to-weather-harsh-scrutiny-on-capitol-hill/",
+      "date": "2026-04-10T12:42:00.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
     {
       "title": "The Golden Dome’s missing layer: On-orbit logistics for a resilient missile defense",
       "link": "https://breakingdefense.com/2026/04/the-golden-domes-missing-layer-on-orbit-logistics-for-a-resilient-missile-defense/",
@@ -23,15 +158,6 @@
       "snippet": ""
     },
     {
-      "title": "‘Closer to a break than ever’: Can NATO survive if Trump pulls the US out?",
-      "link": "https://www.aljazeera.com/news/2026/4/10/closer-to-a-break-than-ever-can-nato-survive-if-trump-pulls-the-us-out?traffic_source=rss",
-      "date": "2026-04-10T11:44:10.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "The war in Iran has deepened a rift in the transatlantic alliance, raising questions about whether it can endure."
-    },
-    {
       "title": "Italy set to remove Leonardo CEO, despite major growth",
       "link": "https://breakingdefense.com/2026/04/italy-set-to-remove-leonardo-ceo-despite-major-growth/",
       "date": "2026-04-10T11:36:16.000Z",
@@ -39,87 +165,6 @@
       "sourceId": "breaking_defense",
       "category": "defense",
       "snippet": ""
-    },
-    {
-      "title": "Cuban president defiant despite Trump pressure to resign",
-      "link": "https://www.aljazeera.com/news/2026/4/10/cuban-president-defiant-despite-trump-pressure-to-resign?traffic_source=rss",
-      "date": "2026-04-10T11:34:14.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Miguel Diaz-Canel vows to resist US pressure as Trump escalates threats, tightens oil blockade on the island."
-    },
-    {
-      "title": "Gaza families still unable to bury dead six months into ‘ceasefire’",
-      "link": "https://www.aljazeera.com/news/2026/4/10/gaza-families-still-unable-to-bury-dead-six-months-into-ceasefire?traffic_source=rss",
-      "date": "2026-04-10T11:06:19.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "About 10,000 Palestinians remain missing, believed to be buried under rubble of collapsed buildings during Israel&#039;s war."
-    },
-    {
-      "title": "Taiwan opposition leader calls for ‘reconciliation’ after meeting Xi",
-      "link": "https://www.aljazeera.com/news/2026/4/10/taiwan-opposition-leader-calls-for-reconciliation-after-meeting-xi?traffic_source=rss",
-      "date": "2026-04-10T10:39:17.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "KMT leader Cheng Li-wun stressed shared cultural heritage and suggested she would slow Taiwan&#039;s military build-up."
-    },
-    {
-      "title": "Will Israel and Lebanon start ceasefire talks?",
-      "link": "https://www.aljazeera.com/news/2026/4/10/will-israel-and-lebanon-start-ceasefire-talks?traffic_source=rss",
-      "date": "2026-04-10T10:34:34.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Israel and Hezbollah continued to trade attacks on Friday - although at a reduced pace."
-    },
-    {
-      "title": "Israel strikes residential areas, destroys homes in southern Lebanon",
-      "link": "https://www.aljazeera.com/news/2026/4/10/israel-strikes-residential-areas-destroys-homes-in-southern-lebanon?traffic_source=rss",
-      "date": "2026-04-10T10:17:16.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Lebanon is seeing not just a displacement crisis but a rapidly developing food security crisis too, says UN."
-    },
-    {
-      "title": "Senegal PM labels Trump ‘agent of global destabilisation’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/senegal-pm-labels-trump-agent-of-global?traffic_source=rss",
-      "date": "2026-04-10T09:45:28.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Senegalese prime minister Ousmane Sonko accused Donald Trump of plunging the world into “chaos”."
-    },
-    {
-      "title": "Six months into ‘ceasefire’, Gaza suffers under persistent Israeli attacks",
-      "link": "https://www.aljazeera.com/gallery/2026/4/10/six-months-into-a-us-brokered-ceasefire-gaza-remains-under-israeli-attacks?traffic_source=rss",
-      "date": "2026-04-10T09:36:31.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Gaza&#039;s devastation grows as over 72,000 people killed and 172,000 injured amid Israeli violations of US-brokered truce."
-    },
-    {
-      "title": "Torpedo-like object discovered by Indonesian fisherman",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/torpedo-like-object-discovered-by-indonesian-fisherman?traffic_source=rss",
-      "date": "2026-04-10T09:15:55.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "A fisherman in Indonesia discovered a torpedo-like object near the Lombok Strait, a waterway between Bali and Lombok."
-    },
-    {
-      "title": "Djibouti votes as long-time leader seeks sixth presidential term",
-      "link": "https://www.aljazeera.com/news/2026/4/10/djibouti-votes-as-long-time-leader-seeks-sixth-presidential-term?traffic_source=rss",
-      "date": "2026-04-10T08:30:59.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Politicians scrapped the presidential age limit last year, allowing Ismail Omar Guelleh to run yet again."
     },
     {
       "title": "The Future Soldier Loadout: Smarter Gear or Dead Weight?",
@@ -170,51 +215,6 @@
       "title": "Israel to ramp up production of Arrow interceptors",
       "link": "https://breakingdefense.com/2026/04/israel-to-ramp-up-production-of-arrow-interceptors/",
       "date": "2026-04-09T18:40:00.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "UK accuses Russia of covert submarine operation threatening undersea cables",
-      "link": "https://breakingdefense.com/2026/04/uk-accuses-russia-of-covert-submarine-operation-threatening-undersea-cables/",
-      "date": "2026-04-09T18:07:57.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "Navy selects Leidos, Defense Unicorns to test software prototypes for ships",
-      "link": "https://breakingdefense.com/2026/04/navy-selects-leidos-defense-unicorns-to-test-software-prototypes-for-ships/",
-      "date": "2026-04-09T18:01:00.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "China’s dual-use ambitions could severely threaten America’s force posture",
-      "link": "https://breakingdefense.com/2026/04/chinas-dual-use-ambitions-could-severely-threaten-americas-force-posture/",
-      "date": "2026-04-09T17:14:00.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "How the Iran conflict might change defense investments in the Gulf",
-      "link": "https://breakingdefense.com/2026/04/iran-war-defense-investments-middle-east-defense/",
-      "date": "2026-04-09T16:08:32.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
-      "title": "How the Army could spend nearly $19 billion in RDT&#038;E funding",
-      "link": "https://breakingdefense.com/2026/04/how-the-army-could-spend-nearly-19-billion-in-rdte-funding/",
-      "date": "2026-04-09T13:50:35.000Z",
       "source": "Breaking Defense",
       "sourceId": "breaking_defense",
       "category": "defense",
@@ -279,34 +279,18 @@
     {
       "level": "CRITICAL",
       "keyword": "ceasefire",
-      "title": "Gaza families still unable to bury dead six months into ‘ceasefire’",
+      "title": "Is the US-Iran ceasefire already doomed?",
       "source": "Al Jazeera — Middle East",
-      "date": "2026-04-10T11:06:19.000Z",
-      "link": "https://www.aljazeera.com/news/2026/4/10/gaza-families-still-unable-to-bury-dead-six-months-into-ceasefire?traffic_source=rss"
+      "date": "2026-04-10T18:01:47.000Z",
+      "link": "https://www.aljazeera.com/opinions/2026/4/10/is-trumps-iran-ceasefire-already-doomed?traffic_source=rss"
     },
     {
       "level": "CRITICAL",
-      "keyword": "ceasefire",
-      "title": "Will Israel and Lebanon start ceasefire talks?",
+      "keyword": "strait of hormuz",
+      "title": "Starmer and Trump talked military options to reopen Strait of Hormuz",
       "source": "Al Jazeera — Middle East",
-      "date": "2026-04-10T10:34:34.000Z",
-      "link": "https://www.aljazeera.com/news/2026/4/10/will-israel-and-lebanon-start-ceasefire-talks?traffic_source=rss"
-    },
-    {
-      "level": "ELEVATED",
-      "keyword": "hezbollah",
-      "title": "Will Israel and Lebanon start ceasefire talks?",
-      "source": "Al Jazeera — Middle East",
-      "date": "2026-04-10T10:34:34.000Z",
-      "link": "https://www.aljazeera.com/news/2026/4/10/will-israel-and-lebanon-start-ceasefire-talks?traffic_source=rss"
-    },
-    {
-      "level": "CRITICAL",
-      "keyword": "ceasefire",
-      "title": "Six months into ‘ceasefire’, Gaza suffers under persistent Israeli attacks",
-      "source": "Al Jazeera — Middle East",
-      "date": "2026-04-10T09:36:31.000Z",
-      "link": "https://www.aljazeera.com/gallery/2026/4/10/six-months-into-a-us-brokered-ceasefire-gaza-remains-under-israeli-attacks?traffic_source=rss"
+      "date": "2026-04-10T17:03:30.000Z",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/starmer-and-trump-talked-military-options-to-reopen-strait-of-hormuz?traffic_source=rss"
     }
   ],
   "sources": [
