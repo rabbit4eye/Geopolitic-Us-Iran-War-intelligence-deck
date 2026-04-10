@@ -1,9 +1,117 @@
 {
-  "lastUpdated": "2026-04-09T18:44:26.444Z",
+  "lastUpdated": "2026-04-10T01:14:18.141Z",
   "feedCount": 5,
   "totalItems": 40,
-  "alertCount": 4,
+  "alertCount": 2,
   "headlines": [
+    {
+      "title": "Iran war live: Israeli attacks on Lebanon threaten US-Iran ceasefire talks",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/4/10/iran-war-live-israeli-attacks-on-lebanon-threaten-us-iran-ceasefire-talks?traffic_source=rss",
+      "date": "2026-04-10T00:00:00.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Iran’s parliament speaker Mohammad Bagher Ghalibaf warns ‘time is running out’ amid Israel’s attacks on Lebanon."
+    },
+    {
+      "title": "Video shows explosion over Erbil in suspected drone interception",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/video-shows-explosion-over-erbil-in-suspected-drone-interception?traffic_source=rss",
+      "date": "2026-04-09T23:50:16.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Video shows an explosion in the sky above Erbil, in the Kurdish region of northern Iraq."
+    },
+    {
+      "title": "Ecuador hikes tariffs to 100-percent in feud with neighbour Colombia",
+      "link": "https://www.aljazeera.com/news/2026/4/9/ecuador-hikes-tariffs-to-100-percent-in-feud-with-neighbour-colombia?traffic_source=rss",
+      "date": "2026-04-09T23:33:53.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Daniel Noboa has accused Colombia&#039;s Gustavo Petro of failing to take &#039;effective measures&#039; against drug trafficking."
+    },
+    {
+      "title": "Iran’s Supreme Leader Mojtaba Khamenei says ‘we seek compensation, not war’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/irans-supreme-leader-mojtaba-khamenei-says-we-seek-compensation-not?traffic_source=rss",
+      "date": "2026-04-09T23:16:47.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Iranian state TV has read out a message from new Supreme Leader Mojtaba Khamenei which says Iran ‘does not want war’."
+    },
+    {
+      "title": "Police in Venezuela block protesters calling for higher wages, pensions",
+      "link": "https://www.aljazeera.com/news/2026/4/9/police-in-venezuela-block-protesters-calling-for-higher-wages-pensions?traffic_source=rss",
+      "date": "2026-04-09T22:50:43.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Cost of living issues have persisted in Venezuela since the US abducted former President Nicolas Maduro in January."
+    },
+    {
+      "title": "US-Iran ceasefire: Uncertainty over what’s next",
+      "link": "https://www.aljazeera.com/video/this-is-america/2026/4/9/us-iran-ceasefire-uncertainty-over-whats-next?traffic_source=rss",
+      "date": "2026-04-09T22:48:25.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Two‑week US‑Iran ceasefire pauses war; “who won?” unresolved as Hormuz, Lebanon strikes, Iran capabilities persist."
+    },
+    {
+      "title": "Judge bars Trump administration from nixing protected status for Ethiopians",
+      "link": "https://www.aljazeera.com/news/2026/4/9/judge-bars-trump-administration-from-nixing-protected-status-for-ethiopians?traffic_source=rss",
+      "date": "2026-04-09T22:35:26.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Ruling marks legal setback for administration&#039;s efforts to roll back protections for various groups of immigrants."
+    },
+    {
+      "title": "Democrats in US slam Pam Bondi for refusing to appear for Epstein hearing",
+      "link": "https://www.aljazeera.com/news/2026/4/9/democrats-in-us-slam-pam-bondi-for-refusing-to-appear-for-epstein-hearing?traffic_source=rss",
+      "date": "2026-04-09T22:02:12.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Lawmakers warn the former Justice Department chief that a congressional subpoena for her testimony remains in effect."
+    },
+    {
+      "title": "Hospitals in Beirut struggle to deal with casualties after Israeli attacks",
+      "link": "https://www.aljazeera.com/news/2026/4/9/hospitals-in-beirut-struggle-to-deal-with-casualties-after-israeli-attacks?traffic_source=rss",
+      "date": "2026-04-09T21:36:43.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Doctors warn of worsening crises as vital supplies run low and Israeli attacks devastate Beirut and surrounding areas."
+    },
+    {
+      "title": "CAF President Motsepe rejects Senegal’s corruption claim amid AFCON fallout",
+      "link": "https://www.aljazeera.com/sports/2026/4/9/caf-president-motsepe-rejects-senegals-corruption-claim-after-afcon-furore?traffic_source=rss",
+      "date": "2026-04-09T21:33:29.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Senegal&#039;s government alleged corruption at African football&#039;s governing body after AFCON title awarded to Morocco."
+    },
+    {
+      "title": "Update from the Battlefield: Drones, Distance, and Diminishing Returns for Russia",
+      "link": "https://warontherocks.com/2026/04/update-from-the-battlefield-drones-distance-and-diminishing-returns-for-russia/",
+      "date": "2026-04-09T20:43:25.000Z",
+      "source": "War on the Rocks",
+      "sourceId": "war_on_rocks",
+      "category": "strategic",
+      "snippet": ""
+    },
+    {
+      "title": "Space Force slates $1.8B for commercial sats to replace GSSAP neighborhood watch birds",
+      "link": "https://breakingdefense.com/2026/04/space-force-slates-1-8b-for-commercial-sats-to-replace-gssap-neighborhood-watch-birds/",
+      "date": "2026-04-09T19:38:25.000Z",
+      "source": "Breaking Defense",
+      "sourceId": "breaking_defense",
+      "category": "defense",
+      "snippet": ""
+    },
     {
       "title": "Israel to ramp up production of Arrow interceptors",
       "link": "https://breakingdefense.com/2026/04/israel-to-ramp-up-production-of-arrow-interceptors/",
@@ -12,42 +120,6 @@
       "sourceId": "breaking_defense",
       "category": "defense",
       "snippet": ""
-    },
-    {
-      "title": "Iranians rally nationwide to honour late leader Ali Khamenei",
-      "link": "https://www.aljazeera.com/gallery/2026/4/9/iranians-rally-nationwide-to-honor-late-leader-ali-khamenei?traffic_source=rss",
-      "date": "2026-04-09T18:23:47.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Thousands gathered across Iran to honor Ali Khamenei, whose assassination marked the start of the US-Israeli attack."
-    },
-    {
-      "title": "‘Not some piece of ice’: Greenland hits back at Trump insult",
-      "link": "https://www.aljazeera.com/news/2026/4/9/not-some-piece-of-ice-greenland-hits-back-at-trump-insult?traffic_source=rss",
-      "date": "2026-04-09T18:22:55.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "PM Nielsen calls Greenland a proud nation seeking to maintain global order, after US president calls it &#039;piece of ice&#039;."
-    },
-    {
-      "title": "UK says three Russian submarines tracked during ‘covert’ operation",
-      "link": "https://www.aljazeera.com/news/2026/4/9/uk-says-three-russian-submarines-tracked-during-covert-operation?traffic_source=rss",
-      "date": "2026-04-09T18:20:57.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "British defence minister says the operation did not find evidence that Russia had damaged undersea infrastructure."
-    },
-    {
-      "title": "Zohran Mamdani on 100 days as New York mayor",
-      "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/4/9/zohran-mamdani-on-100-days-as-new-york-mayor?traffic_source=rss",
-      "date": "2026-04-09T18:12:29.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "NYC’s mayor reflects on childcare, housing, bigotry, Iran and the future of the Democratic Party."
     },
     {
       "title": "UK accuses Russia of covert submarine operation threatening undersea cables",
@@ -59,15 +131,6 @@
       "snippet": ""
     },
     {
-      "title": "Zohran Mamdani on his first 100 days",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/zohran-mamdani-on-his-first-100-days?traffic_source=rss",
-      "date": "2026-04-09T18:04:58.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "100 days in, NYC Mayor Zohran Mamdani faces a performance review. We asked New Yorkers about his record."
-    },
-    {
       "title": "Navy selects Leidos, Defense Unicorns to test software prototypes for ships",
       "link": "https://breakingdefense.com/2026/04/navy-selects-leidos-defense-unicorns-to-test-software-prototypes-for-ships/",
       "date": "2026-04-09T18:01:00.000Z",
@@ -75,51 +138,6 @@
       "sourceId": "breaking_defense",
       "category": "defense",
       "snippet": ""
-    },
-    {
-      "title": "US Democrats warn Trump that Iran ceasefire must apply to Lebanon",
-      "link": "https://www.aljazeera.com/news/2026/4/9/us-democrats-warn-trump-that-iran-ceasefire-must-apply-to-lebanon?traffic_source=rss",
-      "date": "2026-04-09T17:38:26.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Democratic lawmakers tell White House that allowing Israel to continue to bomb Lebanon could reignite the regional war."
-    },
-    {
-      "title": "Sidon residents recall horror of Israeli strikes after Iran ceasefire",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/sidon-residents-recall-horror-of-israeli-strikes-after-iran-ceasefire?traffic_source=rss",
-      "date": "2026-04-09T17:37:15.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Residents in Sidon are surveying the destruction after Israeli strikes flattened a religious complex."
-    },
-    {
-      "title": "Does a US-Iran ceasefire mean the end of the war?",
-      "link": "https://www.aljazeera.com/video/the-take-2/2026/4/9/aje-onl-tt_irn_ceasefire_av_v2-090426?traffic_source=rss",
-      "date": "2026-04-09T17:31:15.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "After a US-Iran ceasefire deal, strikes slow but tensions remain. Will this hold or collapse?"
-    },
-    {
-      "title": "LA28 Olympics opens ticket sales globally after record local demand",
-      "link": "https://www.aljazeera.com/sports/2026/4/9/la28-olympics-opens-ticket-sales-globally-after-record-local-demand?traffic_source=rss",
-      "date": "2026-04-09T17:23:41.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "LA28 sold more tickets to the domestic audience than any previous Olympic Games as sales open to rest of the world."
-    },
-    {
-      "title": "IMF warns of looming inflation crisis on back of US-Israel war on Iran",
-      "link": "https://www.aljazeera.com/economy/2026/4/9/imf-warns-of-looming-inflation-crisis-on-back-of-us-israel-war-on-iran?traffic_source=rss",
-      "date": "2026-04-09T17:23:22.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "The conflict has driven up prices of oil, natural gas, damaged refineries and other energy infrastructure."
     },
     {
       "title": "China’s dual-use ambitions could severely threaten America’s force posture",
@@ -203,15 +221,6 @@
       "snippet": ""
     },
     {
-      "title": "BAE Systems trials low-cost counter drone solution for Eurofighter Typhoon",
-      "link": "https://breakingdefense.com/2026/04/bae-systems-trials-low-cost-counter-drone-solution-for-eurofighter-typhoon/",
-      "date": "2026-04-08T15:33:00.000Z",
-      "source": "Breaking Defense",
-      "sourceId": "breaking_defense",
-      "category": "defense",
-      "snippet": ""
-    },
-    {
       "title": "How This Precision Weapon Reengineered Modern War",
       "link": "https://warontherocks.com/2026/04/how-this-precision-weapon-reengineered-modern-war/",
       "date": "2026-04-08T08:00:44.000Z",
@@ -264,49 +273,24 @@
       "sourceId": "war_on_rocks",
       "category": "strategic",
       "snippet": ""
-    },
-    {
-      "title": "Iran’s Anti-Access and Area Denial Strategy Is Cruder Than China&#8217;s But Still Dangerous",
-      "link": "https://warontherocks.com/2026/04/irans-anti-access-and-area-denial-strategy-is-cruder-than-chinas-but-still-dangerous/",
-      "date": "2026-04-07T07:15:10.000Z",
-      "source": "War on the Rocks",
-      "sourceId": "war_on_rocks",
-      "category": "strategic",
-      "snippet": ""
     }
   ],
   "alerts": [
     {
       "level": "CRITICAL",
       "keyword": "ceasefire",
-      "title": "US Democrats warn Trump that Iran ceasefire must apply to Lebanon",
+      "title": "Iran war live: Israeli attacks on Lebanon threaten US-Iran ceasefire talks",
       "source": "Al Jazeera — Middle East",
-      "date": "2026-04-09T17:38:26.000Z",
-      "link": "https://www.aljazeera.com/news/2026/4/9/us-democrats-warn-trump-that-iran-ceasefire-must-apply-to-lebanon?traffic_source=rss"
+      "date": "2026-04-10T00:00:00.000Z",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/4/10/iran-war-live-israeli-attacks-on-lebanon-threaten-us-iran-ceasefire-talks?traffic_source=rss"
     },
     {
       "level": "CRITICAL",
       "keyword": "ceasefire",
-      "title": "Sidon residents recall horror of Israeli strikes after Iran ceasefire",
+      "title": "US-Iran ceasefire: Uncertainty over what’s next",
       "source": "Al Jazeera — Middle East",
-      "date": "2026-04-09T17:37:15.000Z",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/sidon-residents-recall-horror-of-israeli-strikes-after-iran-ceasefire?traffic_source=rss"
-    },
-    {
-      "level": "CRITICAL",
-      "keyword": "ceasefire",
-      "title": "Does a US-Iran ceasefire mean the end of the war?",
-      "source": "Al Jazeera — Middle East",
-      "date": "2026-04-09T17:31:15.000Z",
-      "link": "https://www.aljazeera.com/video/the-take-2/2026/4/9/aje-onl-tt_irn_ceasefire_av_v2-090426?traffic_source=rss"
-    },
-    {
-      "level": "CRITICAL",
-      "keyword": "strait of hormuz",
-      "title": "Reopening the Strait of Hormuz &#038; Saving Downed Pilots",
-      "source": "War on the Rocks",
-      "date": "2026-04-06T18:12:05.000Z",
-      "link": "https://warontherocks.com/2026/04/reopening-the-strait-of-hormuz-saving-downed-pilots/"
+      "date": "2026-04-09T22:48:25.000Z",
+      "link": "https://www.aljazeera.com/video/this-is-america/2026/4/9/us-iran-ceasefire-uncertainty-over-whats-next?traffic_source=rss"
     }
   ],
   "sources": [
