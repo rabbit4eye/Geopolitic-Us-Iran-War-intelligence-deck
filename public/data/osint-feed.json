@@ -1,62 +1,107 @@
 {
-  "lastUpdated": "2026-04-10T18:36:43.245Z",
+  "lastUpdated": "2026-04-11T01:09:09.029Z",
   "feedCount": 5,
   "totalItems": 40,
-  "alertCount": 2,
+  "alertCount": 4,
   "headlines": [
     {
-      "title": "Is the US-Iran ceasefire already doomed?",
-      "link": "https://www.aljazeera.com/opinions/2026/4/10/is-trumps-iran-ceasefire-already-doomed?traffic_source=rss",
-      "date": "2026-04-10T18:01:47.000Z",
+      "title": "Artemis II splashdown: Astronauts return to Earth after lunar mission",
+      "link": "https://www.aljazeera.com/news/2026/4/11/artemis-ii-splashdown-astronauts-return-to-earth-after-lunar-mission?traffic_source=rss",
+      "date": "2026-04-11T00:08:15.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Even if the talks fail to produce a deal, a return to an all-out war may still be averted."
+      "snippet": "Artemis II crew landed in the Pacific Ocean under parachutes after a high-speed re-entry that tested its heat shield."
     },
     {
-      "title": "OIC condemns Israeli approval of 34 new West Bank settlements",
-      "link": "https://www.aljazeera.com/news/2026/4/10/oic-condemns-israeli-approval-of-34-new-west-bank-settlements?traffic_source=rss",
-      "date": "2026-04-10T18:01:35.000Z",
+      "title": "Iran war live: US negotiators due to arrive in Pakistan for ceasefire talks",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/4/11/iran-war-live-us-negotiators-due-to-arrive-in-pakistan-for-ceasefire-talks?traffic_source=rss",
+      "date": "2026-04-11T00:00:00.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "The Palestinian Presidency&#039;s office condemned the plan as a &quot;flagrant violation of international ⁠law&quot;."
+      "snippet": "Lebanese Health Ministry says people killed in Israeli attacks since March 2 rises to 1,953 with 6,303 wounded."
     },
     {
-      "title": "US federal court hears new case against Trump tariffs",
-      "link": "https://www.aljazeera.com/economy/2026/4/10/us-federal-court-hears-new-case-against-trump-tariffs?traffic_source=rss",
-      "date": "2026-04-10T17:35:45.000Z",
+      "title": "Israeli strike on government building kills Lebanese officers",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/israeli-strike-on-government-building-kills-lebanese-officers?traffic_source=rss",
+      "date": "2026-04-10T23:55:38.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "The case is to overturn the temporary tariffs that Trump imposed after the Supreme Court struck down his earlier ones."
+      "snippet": "Israeli air strike on a government building in southern Lebanon’s Nabatieh kills at least 13."
     },
     {
-      "title": "Hawaii’s Kilauea erupts, blasting lava sky-high",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/hawaiis-kilauea-erupts-blasting-lava-sky-high?traffic_source=rss",
-      "date": "2026-04-10T17:11:16.000Z",
+      "title": "Brazil announces US partnership to intercept weapons, drug trafficking",
+      "link": "https://www.aljazeera.com/news/2026/4/10/brazil-announces-us-partnership-to-intercept-weapons-drug-trafficking?traffic_source=rss",
+      "date": "2026-04-10T23:39:22.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Lava shot into the air, illuminating the night sky, as Hawaii’s Kīlauea volcano erupted."
+      "snippet": "President Lula&#039;s government said it has seized 1,168 illicit arms imported from the US in the last 12 months alone."
     },
     {
-      "title": "Starmer and Trump talked military options to reopen Strait of Hormuz",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/starmer-and-trump-talked-military-options-to-reopen-strait-of-hormuz?traffic_source=rss",
-      "date": "2026-04-10T17:03:30.000Z",
+      "title": "Colombia responds to Ecuador’s tariff hike with 100-percent import tax",
+      "link": "https://www.aljazeera.com/news/2026/4/10/colombia-responds-to-ecuadors-tariff-hike-with-100-percent-import-tax?traffic_source=rss",
+      "date": "2026-04-10T23:36:40.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "British PM Starmer said he and US President Donald Trump discussed “military capabilities” to reopen Hormuz."
+      "snippet": "The tit-for-tat tariff increase comes amid cross-border tension over illicit drugs and fate of politician Jorge Glas."
     },
     {
-      "title": "Israeli settlers turn Passover into celebration of ethnic cleansing",
-      "link": "https://www.aljazeera.com/features/2026/4/10/israeli-settlers-turn-passover-celebration-ethnic-cleansing?traffic_source=rss",
-      "date": "2026-04-10T16:56:41.000Z",
+      "title": "Hezbollah rocket attack damages 1,500-year-old Israeli church",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/hezbollah-rocket-attack-damages-1500-year-old-israeli-church?traffic_source=rss",
+      "date": "2026-04-10T22:58:09.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Palestinians displaced by settler violence confront loss of community as settlers celebrate their forced expulsions."
+      "snippet": "Hezbollah fired a barrage of rockets at northern Israel, damaging a 1,500-year-old Byzantine church in Nahariya."
+    },
+    {
+      "title": "OpenAI CEO Sam Altman’s home targeted in Molotov cocktail attack",
+      "link": "https://www.aljazeera.com/news/2026/4/10/openai-ceo-sam-altmans-home-targeted-in-molotov-cocktail-attack?traffic_source=rss",
+      "date": "2026-04-10T22:29:07.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Police said the suspect targeted Altman&#039;s San Francisco residence before dawn and fled the scene on foot."
+    },
+    {
+      "title": "Iranian delegation arrives in Islamabad for talks with US",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/iranian-delegation-arrives-in-islamabad-for-talks-with-us?traffic_source=rss",
+      "date": "2026-04-10T21:59:21.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "A senior Iranian delegation has arrived in Islamabad for talks with US officials."
+    },
+    {
+      "title": "Islamabad on lockdown ahead of US-Iran talks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/islamabad-on-lockdown-ahead-of-us-iran-talks?traffic_source=rss",
+      "date": "2026-04-10T21:58:14.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Islamabad has deployed more than 10,000 military and police personnel as US and Iranian delegations arrive."
+    },
+    {
+      "title": "Real Madrid hand Barcelona huge La Liga title chance after draw with Girona",
+      "link": "https://www.aljazeera.com/sports/2026/4/10/real-madrid-hand-barcelona-huge-la-liga-title-chance-after-draw-with-girona?traffic_source=rss",
+      "date": "2026-04-10T21:23:29.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Real Madrid draw means Barcelona can move nine points clear at the top of La Liga if they beat Espanyol on Saturday."
+    },
+    {
+      "title": "Analysis: U.S. Negotiators Were Ill-Prepared for Serious Nuclear Talks With Iran",
+      "link": "https://www.armscontrol.org/node/15264",
+      "date": "2026-04-10T21:01:13.000Z",
+      "source": "Arms Control Association",
+      "sourceId": "arms_control",
+      "category": "policy",
+      "snippet": ""
     },
     {
       "title": "Navy to mothball USS Boise, capping off years of maintenance challenges",
@@ -68,15 +113,6 @@
       "snippet": ""
     },
     {
-      "title": "Netanyahu removes Spain from Gaza coordination centre over ‘hostility’",
-      "link": "https://www.aljazeera.com/news/2026/4/10/netanyahu-removes-spain-from-gaza-coordination-centre-over-hostility?traffic_source=rss",
-      "date": "2026-04-10T16:39:40.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Israel&#039;s Netanyahu accused Spain of waging a &#039;diplomatic war&#039; against Israel."
-    },
-    {
       "title": "Finland clinches $642 million deal for 112 South Korean K9 howitzers",
       "link": "https://breakingdefense.com/2026/04/finland-clinches-642-million-deal-for-112-south-korean-k9-howitzers/",
       "date": "2026-04-10T16:28:43.000Z",
@@ -84,33 +120,6 @@
       "sourceId": "breaking_defense",
       "category": "defense",
       "snippet": ""
-    },
-    {
-      "title": "JD Vance expects ‘positive’ US-Iran war talks as he departs for Pakistan",
-      "link": "https://www.aljazeera.com/news/2026/4/10/jd-vance-expects-positive-us-iran-war-talks-as-he-departs-for-pakistan?traffic_source=rss",
-      "date": "2026-04-10T16:05:36.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Vice president says Trump gave &#039;pretty clear guidelines&#039; on talks, which will be productive if Iran does not &#039;play&#039; US."
-    },
-    {
-      "title": "LIVE: Real Madrid vs Girona – La Liga",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/4/10/live-real-madrid-vs-girona-la-liga?traffic_source=rss",
-      "date": "2026-04-10T16:03:23.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Follow our live build-up, with full team news coverage, before our text commentary as Real look to close on Barcelona."
-    },
-    {
-      "title": "US-Iran peace talks in Islamabad face massive hurdles",
-      "link": "https://www.aljazeera.com/video/quotable/2026/4/10/us-iran-peace-talks-in-islamabad-face-massive-hurdles?traffic_source=rss",
-      "date": "2026-04-10T15:59:47.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Ali Vaez, says upcoming talks between the US and Iran may be marred by a deficit of trust."
     },
     {
       "title": "DIA centralizes AI efforts with Digital Modernization Accelerator",
@@ -264,33 +273,40 @@
       "sourceId": "war_on_rocks",
       "category": "strategic",
       "snippet": ""
-    },
-    {
-      "title": "A Madman Without a Strategy: Trump’s Latest Threats Are Unacceptable",
-      "link": "https://www.armscontrol.org/pressroom/2026-04/madman-without-strategy-trumps-latest-threats-are-unacceptable",
-      "date": "2026-04-07T18:21:11.000Z",
-      "source": "Arms Control Association",
-      "sourceId": "arms_control",
-      "category": "policy",
-      "snippet": ""
     }
   ],
   "alerts": [
     {
       "level": "CRITICAL",
       "keyword": "ceasefire",
-      "title": "Is the US-Iran ceasefire already doomed?",
+      "title": "Iran war live: US negotiators due to arrive in Pakistan for ceasefire talks",
       "source": "Al Jazeera — Middle East",
-      "date": "2026-04-10T18:01:47.000Z",
-      "link": "https://www.aljazeera.com/opinions/2026/4/10/is-trumps-iran-ceasefire-already-doomed?traffic_source=rss"
+      "date": "2026-04-11T00:00:00.000Z",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/4/11/iran-war-live-us-negotiators-due-to-arrive-in-pakistan-for-ceasefire-talks?traffic_source=rss"
+    },
+    {
+      "level": "ELEVATED",
+      "keyword": "hezbollah",
+      "title": "Hezbollah rocket attack damages 1,500-year-old Israeli church",
+      "source": "Al Jazeera — Middle East",
+      "date": "2026-04-10T22:58:09.000Z",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/hezbollah-rocket-attack-damages-1500-year-old-israeli-church?traffic_source=rss"
     },
     {
       "level": "CRITICAL",
-      "keyword": "strait of hormuz",
-      "title": "Starmer and Trump talked military options to reopen Strait of Hormuz",
-      "source": "Al Jazeera — Middle East",
-      "date": "2026-04-10T17:03:30.000Z",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/starmer-and-trump-talked-military-options-to-reopen-strait-of-hormuz?traffic_source=rss"
+      "keyword": "nuclear",
+      "title": "Analysis: U.S. Negotiators Were Ill-Prepared for Serious Nuclear Talks With Iran",
+      "source": "Arms Control Association",
+      "date": "2026-04-10T21:01:13.000Z",
+      "link": "https://www.armscontrol.org/node/15264"
+    },
+    {
+      "level": "CRITICAL",
+      "keyword": "nuclear",
+      "title": "Analysis: U.S. Negotiators Were Ill-Prepared for Serious Nuclear Talks With Iran",
+      "source": "Arms Control Association",
+      "date": "2026-04-01T19:03:00.000Z",
+      "link": "https://www.armscontrol.org/act/2026-04/features/analysis-us-negotiators-were-ill-prepared-serious-nuclear-talks-iran"
     }
   ],
   "sources": [
