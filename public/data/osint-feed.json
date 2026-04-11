@@ -1,20 +1,74 @@
 {
-  "lastUpdated": "2026-04-11T01:09:09.029Z",
+  "lastUpdated": "2026-04-11T06:45:40.439Z",
   "feedCount": 5,
   "totalItems": 40,
-  "alertCount": 4,
+  "alertCount": 5,
   "headlines": [
     {
-      "title": "Artemis II splashdown: Astronauts return to Earth after lunar mission",
+      "title": "Iran war: What is happening on day 43 of the US-Iran conflict?",
+      "link": "https://www.aljazeera.com/news/2026/4/11/iran-war-what-is-happening-on-day-43-of-the-us-iran-conflict?traffic_source=rss",
+      "date": "2026-04-11T04:49:17.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Senior Iranian officials arrive in Islamabad for ceasefire talks with the United States."
+    },
+    {
+      "title": "Pakistan ambassador speaks to Al Jazeera on eve of US-Iran talks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pakistan-ambassador-speaks-to-al-jazeera-on-eve-of-us-iran-talks?traffic_source=rss",
+      "date": "2026-04-11T04:15:59.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Pakistan’s ambassador to the US said weeks of intense diplomatic efforts have led to a shared commitment from all sides."
+    },
+    {
+      "title": "Pakistan’s prime minister calls US-Iran talks ‘make or break’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pakistans-prime-minister-calls-us-iran-talks-make-or?traffic_source=rss",
+      "date": "2026-04-11T04:02:42.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Pakistan’s Prime Minister Shehbaz Sharif has described the upcoming US-Iran talks in Islamabad as “make or break”."
+    },
+    {
+      "title": "Title: Artemis II astronauts journey back to Earth after Moon mission",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/artemis-ii-astronauts-journey-back-to-earth-after-moon-mission?traffic_source=rss",
+      "date": "2026-04-11T03:16:23.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "NASA’s Artemis II astronauts have returned to Earth after completing the first crewed lunar mission in 53 years."
+    },
+    {
+      "title": "Trump says Strait of Hormuz to reopen ‘soon’ as US, Iran head to talks",
+      "link": "https://www.aljazeera.com/economy/2026/4/11/trump-says-strait-of-hormuz-to-reopen-soon-as-us-iran-head-to-talks?traffic_source=rss",
+      "date": "2026-04-11T03:06:18.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Trump says Washington will not accept Iran&#039;s imposition of a de facto toll booth system in the critical waterway."
+    },
+    {
+      "title": "Moment Artemis II splashes down after moon mission",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/moment-artemis-ii-splashes-down-after-moon-mission?traffic_source=rss",
+      "date": "2026-04-11T01:04:21.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "NASA’s Artemis II astronauts have safely splashed down on Earth, completing a landmark mission."
+    },
+    {
+      "title": "NASA’s Artemis II astronauts splash down on Earth after lunar mission",
       "link": "https://www.aljazeera.com/news/2026/4/11/artemis-ii-splashdown-astronauts-return-to-earth-after-lunar-mission?traffic_source=rss",
       "date": "2026-04-11T00:08:15.000Z",
       "source": "Al Jazeera — Middle East",
       "sourceId": "aljazeera_mideast",
       "category": "news",
-      "snippet": "Artemis II crew landed in the Pacific Ocean under parachutes after a high-speed re-entry that tested its heat shield."
+      "snippet": "Crew safely complete first mission to travel around the Moon in more than 50 years."
     },
     {
-      "title": "Iran war live: US negotiators due to arrive in Pakistan for ceasefire talks",
+      "title": "Iran war live: US negotiators arrive in Pakistan for ceasefire talks",
       "link": "https://www.aljazeera.com/news/liveblog/2026/4/11/iran-war-live-us-negotiators-due-to-arrive-in-pakistan-for-ceasefire-talks?traffic_source=rss",
       "date": "2026-04-11T00:00:00.000Z",
       "source": "Al Jazeera — Middle East",
@@ -39,60 +93,6 @@
       "sourceId": "aljazeera_mideast",
       "category": "news",
       "snippet": "President Lula&#039;s government said it has seized 1,168 illicit arms imported from the US in the last 12 months alone."
-    },
-    {
-      "title": "Colombia responds to Ecuador’s tariff hike with 100-percent import tax",
-      "link": "https://www.aljazeera.com/news/2026/4/10/colombia-responds-to-ecuadors-tariff-hike-with-100-percent-import-tax?traffic_source=rss",
-      "date": "2026-04-10T23:36:40.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "The tit-for-tat tariff increase comes amid cross-border tension over illicit drugs and fate of politician Jorge Glas."
-    },
-    {
-      "title": "Hezbollah rocket attack damages 1,500-year-old Israeli church",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/hezbollah-rocket-attack-damages-1500-year-old-israeli-church?traffic_source=rss",
-      "date": "2026-04-10T22:58:09.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Hezbollah fired a barrage of rockets at northern Israel, damaging a 1,500-year-old Byzantine church in Nahariya."
-    },
-    {
-      "title": "OpenAI CEO Sam Altman’s home targeted in Molotov cocktail attack",
-      "link": "https://www.aljazeera.com/news/2026/4/10/openai-ceo-sam-altmans-home-targeted-in-molotov-cocktail-attack?traffic_source=rss",
-      "date": "2026-04-10T22:29:07.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Police said the suspect targeted Altman&#039;s San Francisco residence before dawn and fled the scene on foot."
-    },
-    {
-      "title": "Iranian delegation arrives in Islamabad for talks with US",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/iranian-delegation-arrives-in-islamabad-for-talks-with-us?traffic_source=rss",
-      "date": "2026-04-10T21:59:21.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "A senior Iranian delegation has arrived in Islamabad for talks with US officials."
-    },
-    {
-      "title": "Islamabad on lockdown ahead of US-Iran talks",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/islamabad-on-lockdown-ahead-of-us-iran-talks?traffic_source=rss",
-      "date": "2026-04-10T21:58:14.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Islamabad has deployed more than 10,000 military and police personnel as US and Iranian delegations arrive."
-    },
-    {
-      "title": "Real Madrid hand Barcelona huge La Liga title chance after draw with Girona",
-      "link": "https://www.aljazeera.com/sports/2026/4/10/real-madrid-hand-barcelona-huge-la-liga-title-chance-after-draw-with-girona?traffic_source=rss",
-      "date": "2026-04-10T21:23:29.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Real Madrid draw means Barcelona can move nine points clear at the top of La Liga if they beat Espanyol on Saturday."
     },
     {
       "title": "Analysis: U.S. Negotiators Were Ill-Prepared for Serious Nuclear Talks With Iran",
@@ -279,18 +279,26 @@
     {
       "level": "CRITICAL",
       "keyword": "ceasefire",
-      "title": "Iran war live: US negotiators due to arrive in Pakistan for ceasefire talks",
+      "title": "Iran war: What is happening on day 43 of the US-Iran conflict?",
+      "source": "Al Jazeera — Middle East",
+      "date": "2026-04-11T04:49:17.000Z",
+      "link": "https://www.aljazeera.com/news/2026/4/11/iran-war-what-is-happening-on-day-43-of-the-us-iran-conflict?traffic_source=rss"
+    },
+    {
+      "level": "CRITICAL",
+      "keyword": "strait of hormuz",
+      "title": "Trump says Strait of Hormuz to reopen ‘soon’ as US, Iran head to talks",
+      "source": "Al Jazeera — Middle East",
+      "date": "2026-04-11T03:06:18.000Z",
+      "link": "https://www.aljazeera.com/economy/2026/4/11/trump-says-strait-of-hormuz-to-reopen-soon-as-us-iran-head-to-talks?traffic_source=rss"
+    },
+    {
+      "level": "CRITICAL",
+      "keyword": "ceasefire",
+      "title": "Iran war live: US negotiators arrive in Pakistan for ceasefire talks",
       "source": "Al Jazeera — Middle East",
       "date": "2026-04-11T00:00:00.000Z",
       "link": "https://www.aljazeera.com/news/liveblog/2026/4/11/iran-war-live-us-negotiators-due-to-arrive-in-pakistan-for-ceasefire-talks?traffic_source=rss"
-    },
-    {
-      "level": "ELEVATED",
-      "keyword": "hezbollah",
-      "title": "Hezbollah rocket attack damages 1,500-year-old Israeli church",
-      "source": "Al Jazeera — Middle East",
-      "date": "2026-04-10T22:58:09.000Z",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/hezbollah-rocket-attack-damages-1500-year-old-israeli-church?traffic_source=rss"
     },
     {
       "level": "CRITICAL",
