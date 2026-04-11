@@ -1,9 +1,99 @@
 {
-  "lastUpdated": "2026-04-11T12:30:12.626Z",
+  "lastUpdated": "2026-04-11T18:25:53.909Z",
   "feedCount": 5,
   "totalItems": 40,
   "alertCount": 5,
   "headlines": [
+    {
+      "title": "Gaza families mourn loved ones killed in overnight Israeli air strikes",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/gaza-families-mourn-loved-ones-killed-in-overnight-israeli-air-strikes?traffic_source=rss",
+      "date": "2026-04-11T18:02:34.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Families gather over bodies outside a Gaza hospital after overnight Israeli air strikes killed seven people."
+    },
+    {
+      "title": "Vigil held in Madrid for victims of Israeli strikes on Lebanon",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/vigil-held-in-madrid-for-victims-of-israeli-strikes-on-lebanon?traffic_source=rss",
+      "date": "2026-04-11T17:32:24.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Dozens gathered in Madrid for a vigil honouring the victims of Israeli airstrikes on Lebanon."
+    },
+    {
+      "title": "Ceasefire brings some relief for Iranians but economic outlook remains grim",
+      "link": "https://www.aljazeera.com/news/2026/4/11/ceasefire-brings-some-relief-for-iranians-but-economic-outlook-remains-grim?traffic_source=rss",
+      "date": "2026-04-11T17:29:23.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Activity picks up in Tehran&#039;s Grand Bazaar compared with before the ceasefire, but vendors say sales remain slow."
+    },
+    {
+      "title": "Iraq parliament elects Kurdish politician Nizar Amedi as president",
+      "link": "https://www.aljazeera.com/news/2026/4/11/iraq-parliament-elects-kurdish-politician-nizar-amedi-as-president?traffic_source=rss",
+      "date": "2026-04-11T17:24:02.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "New president pledges &#039;Iraq First&#039; after securing 227 votes, ending five months of political deadlock."
+    },
+    {
+      "title": "Strait of Hormuz leverage looms over US-Iran talks in Islamabad",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/strait-of-hormuz-leverage-looms-over-us-iran-talks-in-islamabad?traffic_source=rss",
+      "date": "2026-04-11T17:15:05.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "US and Iran hold first direct talks since 1979 in Islamabad, with progress hinging on the Strait of Hormuz."
+    },
+    {
+      "title": "Russia-Ukraine Orthodox Easter ceasefire begins",
+      "link": "https://www.aljazeera.com/news/2026/4/11/russia-ukraine-orthodox-easter-ceasefire-begins?traffic_source=rss",
+      "date": "2026-04-11T16:09:51.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Both sides have agreed to observe the temporary truce, as US-led diplomatic efforts to end the war continue to stall."
+    },
+    {
+      "title": "Machete-wielding man killed by police in New York’s Grand Central station",
+      "link": "https://www.aljazeera.com/news/2026/4/11/machete-wielding-man-shot-by-police-in-new-york-city-grand-central-station?traffic_source=rss",
+      "date": "2026-04-11T15:51:07.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Three elderly victims were wounded at the transit hub attack as authorities continue to investigate, police said."
+    },
+    {
+      "title": "Peru holds presidential election amid a decade of political tumult",
+      "link": "https://www.aljazeera.com/news/longform/2026/4/11/peru-holds-presidential-election-amid-a-decade-of-political-tumult?traffic_source=rss",
+      "date": "2026-04-11T15:22:21.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "In the span of a decade, Peru has seen nine presidents come and go. How has that affected this year&#039;s presidential race?"
+    },
+    {
+      "title": "Hungry Fury ‘light and lean’ for heavyweight comeback fight with Makhmudov",
+      "link": "https://www.aljazeera.com/sports/2026/4/11/hungry-fury-light-and-lean-for-heavyweight-comeback-fight-with-makhmudov?traffic_source=rss",
+      "date": "2026-04-11T15:04:46.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Tyson Fury returns lighter than his last ‌fight but still weighs in three pounds heavier than Arslanbek Makhmudov."
+    },
+    {
+      "title": "Christians return to Jerusalem’s Holy Sepulchre as Israel eases restriction",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/christians-return-to-jerusalems-holy-sepulchre-as-israel-eases-restriction?traffic_source=rss",
+      "date": "2026-04-11T15:04:39.000Z",
+      "source": "Al Jazeera — Middle East",
+      "sourceId": "aljazeera_mideast",
+      "category": "news",
+      "snippet": "Orthodox Christians celebrated Easter’s Holy Fire ceremony at Jerusalem’s Holy Sepulchre."
+    },
     {
       "title": "Does the Trump administration understand how ‘enriched’ uranium is made into weapons?",
       "link": "https://www.armscontrol.org/media-citations/cnn/2026-04-11",
@@ -30,96 +120,6 @@
       "sourceId": "arms_control",
       "category": "policy",
       "snippet": ""
-    },
-    {
-      "title": "Artemis II crew seen on recovery ship after moon mission return",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/artemis-ii-crew-seen-on-recovery-ship-after-moon-mission-return?traffic_source=rss",
-      "date": "2026-04-11T11:19:57.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "NASA&#039;s Artemis II astronauts were seen being helped across the deck of a US navy recovery ship."
-    },
-    {
-      "title": "We need a regional agreement for the Strait of Hormuz",
-      "link": "https://www.aljazeera.com/opinions/2026/4/11/we-need-a-regional-agreement-for-the-strait-of-hormuz?traffic_source=rss",
-      "date": "2026-04-11T10:56:33.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "A governing arrangement for the strait can and must be developed based on law and fact."
-    },
-    {
-      "title": "Israel in row with South Korean leader over Palestinian abuse concerns",
-      "link": "https://www.aljazeera.com/news/2026/4/11/israel-in-row-with-south-korea-leader-over-palestinian-abuse-concerns?traffic_source=rss",
-      "date": "2026-04-11T10:47:55.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "South Korea&#039;s president says it’s disappointing Israel does not &#039;even once reflect on criticisms from around the world&#039;."
-    },
-    {
-      "title": "Video: ‘Crucial talks’ says Al Jazeera reporter at US-Iran meeting venue",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/video-crucial-talks-says-al-jazeera-reporter-at-us-iran-meeting-venue?traffic_source=rss",
-      "date": "2026-04-11T10:24:16.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Talks involving officials from Iran and Pakistani mediators have begun in Islamabad."
-    },
-    {
-      "title": "NASA hails success of Artemis moon mission but says more work to do",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/nasa-hails-success-of-artemis-moon-mission-but-says-more-work-to-do?traffic_source=rss",
-      "date": "2026-04-11T10:07:11.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Scientists from NASA have hailed the Artemis II mission to send astronauts around the moon as a ‘fantastic feat’."
-    },
-    {
-      "title": "UK to hold off on deal ceding Chagos Islands amid US opposition",
-      "link": "https://www.aljazeera.com/news/2026/4/11/uk-to-hold-off-on-deal-ceding-chagos-islands-amid-us-opposition?traffic_source=rss",
-      "date": "2026-04-11T10:06:53.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "A bill laying out plans to return the Indian Ocean archipelago, home to the US-UK Diego Garcia base, has been paused."
-    },
-    {
-      "title": "What’s at stake in Benin’s presidential election?",
-      "link": "https://www.aljazeera.com/news/2026/4/11/whats-at-stake-in-benins-presidential-election?traffic_source=rss",
-      "date": "2026-04-11T09:00:39.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "Finance minister is favourite to win on Sunday as incumbent Talon will step down after leading the country for 10 years."
-    },
-    {
-      "title": "At least seven Palestinians killed in Israeli attacks on Gaza",
-      "link": "https://www.aljazeera.com/news/2026/4/11/at-least-seven-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
-      "date": "2026-04-11T08:35:13.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "An early-morning strike hits a group of civilians in ​​Bureij camp as drones attack a tent in Khan Younis."
-    },
-    {
-      "title": "Israel rejects ceasefire with Hezbollah before Lebanon talks next week",
-      "link": "https://www.aljazeera.com/news/2026/4/11/israel-rejects-ceasefire-with-hezbollah-ahead-of-lebanon-talks-next-week?traffic_source=rss",
-      "date": "2026-04-11T07:51:14.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "At least 10 people, including three emergency workers, killed in latest Israeli attacks on southern Lebanon."
-    },
-    {
-      "title": "Israeli drone attack kills Palestinians near Gaza mosque",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/israeli-drone-attack-kills-palestinians-near-gaza-mosque?traffic_source=rss",
-      "date": "2026-04-11T07:51:08.000Z",
-      "source": "Al Jazeera — Middle East",
-      "sourceId": "aljazeera_mideast",
-      "category": "news",
-      "snippet": "An Israeli drone attack near a mosque in central Gaza has killed at least 6 people."
     },
     {
       "title": "Analysis: U.S. Negotiators Were Ill-Prepared for Serious Nuclear Talks With Iran",
@@ -204,7 +204,7 @@
     },
     {
       "title": "The Future Soldier Loadout: Smarter Gear or Dead Weight?",
-      "link": "https://warontherocks.com/2026/04/the-future-soldier-loadout-smarter-gear-or-dead-weight/",
+      "link": "https://warontherocks.com/the-future-soldier-loadout-smarter-gear-or-dead-weight/",
       "date": "2026-04-10T08:00:45.000Z",
       "source": "War on the Rocks",
       "sourceId": "war_on_rocks",
@@ -213,7 +213,7 @@
     },
     {
       "title": "Disperse to Survive: The Logic of French Forward Deterrence",
-      "link": "https://warontherocks.com/2026/04/disperse-to-survive-the-logic-of-french-forward-deterrence/",
+      "link": "https://warontherocks.com/disperse-to-survive-the-logic-of-french-forward-deterrence/",
       "date": "2026-04-10T07:30:43.000Z",
       "source": "War on the Rocks",
       "sourceId": "war_on_rocks",
@@ -222,7 +222,7 @@
     },
     {
       "title": "Iran’s Other Front: The War Over the Internet",
-      "link": "https://warontherocks.com/2026/04/irans-other-front-the-war-over-the-internet/",
+      "link": "https://warontherocks.com/irans-other-front-the-war-over-the-internet/",
       "date": "2026-04-10T07:15:40.000Z",
       "source": "War on the Rocks",
       "sourceId": "war_on_rocks",
@@ -231,7 +231,7 @@
     },
     {
       "title": "Update from the Battlefield: Drones, Distance, and Diminishing Returns for Russia",
-      "link": "https://warontherocks.com/2026/04/update-from-the-battlefield-drones-distance-and-diminishing-returns-for-russia/",
+      "link": "https://warontherocks.com/update-from-the-battlefield-drones-distance-and-diminishing-returns-for-russia/",
       "date": "2026-04-09T20:43:25.000Z",
       "source": "War on the Rocks",
       "sourceId": "war_on_rocks",
@@ -258,7 +258,7 @@
     },
     {
       "title": "What is Strategic Rivalry? Why Should We Care?",
-      "link": "https://warontherocks.com/2026/04/what-is-strategic-rivalry-why-should-we-care/",
+      "link": "https://warontherocks.com/what-is-strategic-rivalry-why-should-we-care/",
       "date": "2026-04-09T07:30:49.000Z",
       "source": "War on the Rocks",
       "sourceId": "war_on_rocks",
@@ -267,7 +267,7 @@
     },
     {
       "title": "Iran’s Asymmetric Counterair Campaign: Attacking the U.S. Air Force’s Nests and Eggs",
-      "link": "https://warontherocks.com/2026/04/irans-asymmetric-counterair-campaign-attacking-the-u-s-air-forces-nests-and-eggs/",
+      "link": "https://warontherocks.com/irans-asymmetric-counterair-campaign-attacking-the-u-s-air-forces-nests-and-eggs/",
       "date": "2026-04-09T07:15:20.000Z",
       "source": "War on the Rocks",
       "sourceId": "war_on_rocks",
@@ -279,34 +279,34 @@
     {
       "level": "CRITICAL",
       "keyword": "ceasefire",
-      "title": "A ceasefire in the form of a strategic debacle for the US",
-      "source": "Arms Control Association",
-      "date": "2026-04-11T11:42:42.000Z",
-      "link": "https://www.armscontrol.org/media-citations/le-monde/2026-04-11"
+      "title": "Ceasefire brings some relief for Iranians but economic outlook remains grim",
+      "source": "Al Jazeera — Middle East",
+      "date": "2026-04-11T17:29:23.000Z",
+      "link": "https://www.aljazeera.com/news/2026/4/11/ceasefire-brings-some-relief-for-iranians-but-economic-outlook-remains-grim?traffic_source=rss"
     },
     {
       "level": "CRITICAL",
       "keyword": "strait of hormuz",
-      "title": "We need a regional agreement for the Strait of Hormuz",
+      "title": "Strait of Hormuz leverage looms over US-Iran talks in Islamabad",
       "source": "Al Jazeera — Middle East",
-      "date": "2026-04-11T10:56:33.000Z",
-      "link": "https://www.aljazeera.com/opinions/2026/4/11/we-need-a-regional-agreement-for-the-strait-of-hormuz?traffic_source=rss"
+      "date": "2026-04-11T17:15:05.000Z",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/strait-of-hormuz-leverage-looms-over-us-iran-talks-in-islamabad?traffic_source=rss"
     },
     {
       "level": "CRITICAL",
       "keyword": "ceasefire",
-      "title": "Israel rejects ceasefire with Hezbollah before Lebanon talks next week",
+      "title": "Russia-Ukraine Orthodox Easter ceasefire begins",
       "source": "Al Jazeera — Middle East",
-      "date": "2026-04-11T07:51:14.000Z",
-      "link": "https://www.aljazeera.com/news/2026/4/11/israel-rejects-ceasefire-with-hezbollah-ahead-of-lebanon-talks-next-week?traffic_source=rss"
+      "date": "2026-04-11T16:09:51.000Z",
+      "link": "https://www.aljazeera.com/news/2026/4/11/russia-ukraine-orthodox-easter-ceasefire-begins?traffic_source=rss"
     },
     {
-      "level": "ELEVATED",
-      "keyword": "hezbollah",
-      "title": "Israel rejects ceasefire with Hezbollah before Lebanon talks next week",
-      "source": "Al Jazeera — Middle East",
-      "date": "2026-04-11T07:51:14.000Z",
-      "link": "https://www.aljazeera.com/news/2026/4/11/israel-rejects-ceasefire-with-hezbollah-ahead-of-lebanon-talks-next-week?traffic_source=rss"
+      "level": "CRITICAL",
+      "keyword": "ceasefire",
+      "title": "A ceasefire in the form of a strategic debacle for the US",
+      "source": "Arms Control Association",
+      "date": "2026-04-11T11:42:42.000Z",
+      "link": "https://www.armscontrol.org/media-citations/le-monde/2026-04-11"
     },
     {
       "level": "CRITICAL",
